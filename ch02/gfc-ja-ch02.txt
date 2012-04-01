@@ -4,11 +4,11 @@ The Pursuit of the Universal Encyclopedia
 
 ¶1 “sum of all human knowledge” (adj.): descriptive of the ultimate aim of Wikipedia. Regretfully, the vast majority of human knowledge is not, in actual fact, of interest to anyone, and the benefit of recording this collective total is dubious at best. — WikiSpeak
 
-人類の全知識の総和（形容詞）：ウィキペディアが究極的に目指すもの。残念ながら人類の知識は実のところその大半が誰にも興味を持たれないものであり、その集積を記録することから何が得られるかというと、控えめに言って疑問が残るところである。 --WikiSpeak
+人類の全知識の総和（形容詞）：ウィキペディアの究極的な目標を述べたもの。残念ながら人類の知識の大半は実のところ誰にも興味を持たれないものであり、その集積を記録することから何が得られるかというと、控えめに言って疑問が残るところである。 --WikiSpeak
 
 ¶2 In March 2000 Jimmy Wales, cofounder of Wikipedia and its Nupedia progenitor, sent his first message to the Nupedia email list: “My dream is that someday this encyclopedia will be available for just the cost of printing to schoolhouses across the world, including ‘3rd world’ countries that won’t be able to afford widespread internet access for years. How many African villages can afford a set of Britannicas? I suppose not many…”1 In this statement one can find a particular type of Enlightenment aspiration: a universal encyclopedic vision of increased information access and goodwill. Richard Schwab, a scholar of the Enlightenment and Encyclopédie, wrote that at that time thinkers were coming to recognize that “cumulatively they were a force in the world” and possessed “a new solidarity and power to advance human affairs.”2 For example, Denis Diderot (1713–1784), editor of the Encyclopédie, wrote that it was developed by a society of men working separately on their respective tasks “but all bound together solely by their zeal for the best interests of the human race and the feeling of mutual good will.” The aim of this effort was “to collect all the knowledge that now lies scattered over the face of the earth, to make known its general structure to men among whom we live, and to transmit it to those who will come after us.”3 Historian Richard Yeo describes the universalistic principles underlying so much of the Enlightenment culture as “the ideal of transportable knowledge, the communication of ideas across national and confessional boundaries; the ability of individuals, where ever they lived, whatever their social status, to participate in a universal conversation…. These [reference] works offered the possibility of a reliable codification of knowledge by seeking to record any consensus, and by fixing the meaning of terms.” As an example of unbridled optimism, Yeo cites the French social thinker and encyclopedist Henri Saint-Simon’s (1760–1825) forecast that lasting peace could be achieved between France and England within a year of jointly undertaking work on a “New Encyclopedia.”4
 
-2000年3月、ウィキペディア共同創設者でニューペディアの創始者ジミー・ウェールズは、ニューペディアのメーリングリストに最初のメッセージを投稿した。「私の夢はこの百科事典がいつの日にか世界中の学校で印刷代だけで手に入るようになるということです。それには、何年もの間インターネットアクセスを手に入れることができていない『第三世界』の国々も含まれます。アフリカの村のうちいくつにブリタニカを購入する予算があるでしょうか？ 多いとは思えません……」 この宣言には、ある種の啓蒙主義的希望を見ることができる。情報アクセスと善意の増進という〈普遍的な〉百科事典のビジョンである。啓蒙主義と『百科全書』の学者であるリチャード・シュワブは、当時の思想家らは「自分たちは累加すれば世界の勢力である」ことを認識し、「人類の情勢を前進させる連帯と力」を有するに至ったと書いた。たとえば、『百科全書』の編纂者デニス・ディデロ(1713--1784)は、『百科全書』は、個々の仕事に分かれて取り組みながらも「人類にとっての最良の利益への熱意と相互の善意によってともにつながれた」人々の結社によって発展したと書いている。この取り組みの目的は「現在地上に散らばる全ての知識を集め、その一般的な構造を我々とともに生きる人々に知らしめ、我々の後に来る人々に向けて送出する」ことだった。歴史家リチャード・イェオは啓蒙主義の文化の大半の底流にある普遍主義的な原理を「運搬可能な知識、国家と信教の境を越えた考えのやりとり、住む場所や社会的身分に関わらず普遍的な対話に個人が参加できるということ……。これらの文献は、すべての合意を記録し用語の意味を固定することによって知識の信頼できる記号化の可能性を提供している」と表現している。放逸な楽観主義の一例として、イェオはフランス社会思想家・百科事典派のアンリ・サン・シモン (1760--1825) による、「新百科事典」について一年間共同事業の仕事をすることにより、フランスとイングランドのあいだで持続する平和が達成されるとの予想を引用する。
+2000年3月、ウィキペディア共同創設者でニューペディアの創始者ジミー・ウェールズは、ニューペディアのメーリングリストに最初のメッセージを投稿した。「私の夢はこの百科事典がいつの日にか世界中の学校で印刷代だけで手に入るようになるということです。それには、何年もの間インターネットアクセスを手に入れることができていない『第三世界』の国々も含まれます。アフリカの村のうちいくつにブリタニカを購入する予算があるでしょうか？ 多いとは思えません……」 この宣言には、ある種の啓蒙主義的希望を見ることができる。情報アクセスと善意の増進という〈普遍的な〉百科事典のビジョンである。啓蒙主義と『百科全書』の学者であるリチャード・シュワブは、当時の思想家らは「自分たちは累加すれば世界の勢力である」ことを認識し、「人類の情勢を前進させる連帯と力」を有するに至ったと書いた。たとえば、『百科全書』の編纂者デニス・ディデロ(1713--1784)は、『百科全書』は、個々の仕事に分かれて取り組みながらも「人類にとっての最良の利益への熱意と相互の善意によってともにつながれた」人々の結社によって発展したと書いている。この取り組みの目的は「現在地上に散らばる全ての知識を集め、その一般的な構造を我々とともに生きる人々に知らしめ、我々の後に来る人々に向けて送出する」ことだった。歴史家リチャード・イェオは啓蒙主義の文化の大半の底流にある普遍主義的な原理を「運搬可能な知識、国家と信教の境を越えた考えのやりとり、住む場所や社会的身分に関わらず普遍的な対話に個人が参加できるということ……。これらの文献は、すべての合意を記録し用語の意味を固定することによって知識の信頼できる記号化の可能性を提供している」と表現している。放逸な楽観主義の一例として、イェオはフランス社会思想家で百科事典派のアンリ・サン・シモン (1760--1825) による、「新百科事典」について一年間共同事業の仕事をすることにより、フランスとイングランドのあいだで持続する平和が達成されるとの予想を引用する。
 
 ¶3 Granted, one can poke fun at the pretense of summarizing “all human knowledge,” as is done in the WikiSpeak definition at the start of this chapter. Creating a world encyclopedia, much less world peace, is a difficult task and the trivia found on Wikipedia is a source of delight to some and derision to others. Nonetheless, the coupling of increased information access with human accord is a long-held dream. While its advocates are sometimes overly exuberant they can also be pragmatic, as seen in Wales’s 2004 “Letter from the Founder”:
 
@@ -29,7 +29,7 @@ The Pursuit of the Universal Encyclopedia
 
 ¶7 This technological inspiration and aspiration for global accord is quite in keeping with the heritage of Wikipedia described in this chapter — and globes are a recurrent motif in this work. And while one can draw parallels between Wikipedia, the Enlightenment, and even aeronautics or ancient encyclopedic efforts, I focus on the twentieth century. (Contemporary visionaries frequently reference the ancient world’s lost Library of Alexandria as a historic predecessor; the desire to link the vision across the ages is also seen in the announcement of the new Bibliotheca Alexandria hosting the Wikimania 2008 conference.10) In the following pages I touch upon important moments in the pursuit of the universal encyclopedia, a technologically inspired reference work with progressive intentions, from early documentalists to Wikipedia; along the way I also ask why it took so long for this vision to become a reality.
 
-地球規模の調和のこの技術的刺激と希求は本章で述べるウィキペディアが受け継ぐものと歩みをともにしている。また、地球は本書に繰り替えし現れるモチーフである。ウィキペディアは啓蒙主義、また航空技術や古代の百科事典の試みとさえ並べて論じることもできるかもしれないが、私は二十世紀に焦点を当てる。（現代の visionary はよく古代世界の失われたアレクサンドリア図書館を歴史的先駆者として参照する。時を越えてそのビジョンを結びつけようとする欲望は新アレクサンドリア図書館がウィキマニア2008の開催場所として公表されたことにも見ることができる）。以降のページでは普遍的な百科事典の探求における重要な瞬間に触れていく。普遍的な百科事典とは、初期のドキュメンタリストからウィキペディアに至るまでの、技術に刺激を受けた、進歩的意図のある参考資料（訳注：以前以後も reference work を参考資料と仮訳するが、最善の訳語ではないと思う）のことである。その中で、このビジョンが実現するまでなぜこれほど長い時間がかかったかを尋ねる。
+地球規模の調和のこの技術的触発と希求は本章で述べるウィキペディアが受け継ぐものと歩みをともにしている。また、地球は本書に繰り替えし現れるモチーフである。ウィキペディアは啓蒙主義、また航空技術や古代の百科事典の試みとさえ並べて論じることもできるかもしれないが、私は二十世紀に焦点を当てる。（現代の visionary はよく古代世界の失われたアレクサンドリア図書館を歴史的先駆者として参照する。時を越えてそのビジョンを結びつけようとする欲望は新アレクサンドリア図書館がウィキマニア2008の開催場所として公表されたことにも見ることができる）。以降のページでは普遍的な百科事典の探求における重要な瞬間に触れていく。普遍的な百科事典とは、初期のドキュメンタリストからウィキペディアに至るまでの、技術に触発された、進歩的意図のある参考資料（訳注：以前以後も reference work を参考資料と仮訳するが、最善の訳語ではないと思う）のことである。その中で、このビジョンが実現するまでなぜこれほど長い時間がかかったかを尋ねる。
 
 
 §2 The Index Card and Microfilm
@@ -59,7 +59,7 @@ The Pursuit of the Universal Encyclopedia
 ラ・フォンテーヌは研究会のディレクターであり、のちのオトレの共同研究者だった。
 オトレの経歴は普遍的書誌データベース・百科事典、国際的図書館と博物館、多数の国際組織を設立する助けをすることなどに及んでいた。
 それ以外にも、彼のもっともよく知られる1934年の著作、Traité de Documentation において、彼は、複数のデスクトップとタブのある現代的なコンピュータインターフェイスを思わせるような、異なるプロジェクト（ワークスペース）の切り替えと回転ができる車輪の形をした机について書いた。
-ラジオ、蓄音機、映画、テレビジョンに着想を得て、オトレは遠隔地の文書の読み取りと注記、コンピュータによる発話などといった「発見されるのを待っている多数の発明」があると想定した。
+ラジオ、蓄音機、映画、テレビジョンに触発されて、オトレは遠隔地の文書の読み取りと注記、コンピュータによる発話などといった「発見されるのを待っている多数の発明」があると想定した。
 
 ¶12 Yet, there are three less speculative ideas that I think are particularly relevant to today’s Web and Wikipedia: the Repertory, the Universal Decimal Classification (UDC), and the “monographic principle.” The first two projects, of information collection and classification, arose following the first International Conference of Bibliography, in 1895, and were carried out at the newly created International Institute of Bibliography (IIB).20 What began as a bibliographic “Repertory” of author files and classified subject files came to include repertories of image files (“iconographic”) in 1905 and full text files (“dossiers”) in 1907. The collections grew quickly; by 1912 the bibliographic repertory contained over nine million entries, and by 1914 the textual dossier “contained a million items in 10,000 subject files.”21 Much like the millions of Wikipedia articles, and its thousands of categories and lists, we see a shared concern with collecting and ordering the world’s knowledge.
 
@@ -121,7 +121,7 @@ H. G. ウェルズはサイエンスフィクションで有名なイギリス�
 
 ¶24I argue that in the first half of the twentieth century (via the examples of Otlet and Wells) we can discern a technologically inspired vision of a universal encyclopedia. This vision included collaborative capabilities — or, as Vannevar Bush spoke of, “amplifying” the contributions of others. For Otlet and Wells this collaboration was also part of their internationalist commitment. “Madame Documentation” Suzanne Briet captured this sentiment when she wrote of her library’s reading room of three hundred patrons: “peaceful with their books. Peace through books.”48 Even Bush, an architect of the atomic weapons program, hoped a better (machine-aided) memory would not let us forget the horrors of war. Yet, in the first half of the twentieth century, these visions were never satisfactorily fulfilled. For one, microfilm wasn’t up to the task. As Anthony West wrote in a biography of his father H. G. Wells, “he saw before too long the technology for the storage and retrieval systems that such a thing would require was still lacking, and that its time had not yet come”.49 However, in the latter half of the twentieth century a new technology, the computer network, engendered new possibilities and thus inspired new directions in the creation of encyclopedias. And while the expectation that a networked encyclopedia would herald in a new era of world peace lessened, the likelihood of a widely accessible and collaborative encyclopedia increased.50 Even so, why did it take so long for the vision of “wholly new forms of encyclopedias” to be realized in the form of Wikipedia? In this section I use moments from the history of hypertext and digital networks to argue that it required an alignment of a coherent goal, technical practicality, and serendipity: vision, pragmatics, and happenstance.
 
-20世紀の前半には（オトレとウェルズの事例を通して）技術に刺激された普遍的百科事典へのヴィジョンが見られると私は論じる。そのヴィジョンには共同作業ができること、あるいはヴァネヴァー・ブッシュの言葉では他者の貢献物を「増幅」させることができることが含まれる。オトレとウェルズにとって共同作業はその国際主義への傾倒の一部でもあった。この感情は、「マダム・ドキュメンテーション」、スザンヌ・ブリエが300人の顧客を抱える彼女の図書館の閲覧室について書いた、「本とともに平和を。本を通して平和を」という言葉にも見ることができる。原子爆弾計画の立案者であったブッシュも、（機械に補助された）記憶があれば私たちは戦争の恐怖を忘れることがないだろうとした。しかし、20世紀の前半には、こうしたヴィジョンは十分に成就されることはなかった。一例を挙げるならば、マイクロフィルムはその任を果たすことができなかった。アンソニー・ウェストは父H. G. ウェルズの伝記で「彼は、その保管と検索のシステムのために必要でありながら欠けており、時代が追いついていなかった技術のことをあまりにも早くから考えていた」。しかし、20世紀の後半では、コンピュータネットワークという新しい技術が新しい可能性を生み、そして百科事典をつくる新しい道筋を刺激した。新しい世界平和の時代を予感させる、ネットワークにつながった百科事典への期待は弱まったものの、広くアクセスできる共同作業による百科事典ができる見込みは高まった。では、「まったく新しい形態の百科事典」のヴィジョンに至るまでにそれほど長くかかったのはなぜだろうか？ この節では、ハイパーテキストとディジタルネットワークの歴史のいくつかの局面を使い、一貫性ある目標と技術的な実用性とセレンディピティ、あるいはヴィジョンと実用主義と偶然が整わなければならなかったのだと論じる。
+20世紀の前半には（オトレとウェルズの事例を通して）技術に触発された普遍的百科事典へのヴィジョンが見られると私は論じる。そのヴィジョンには共同作業ができること、あるいはヴァネヴァー・ブッシュの言葉では他者の貢献物を「増幅」させることができることが含まれる。オトレとウェルズにとって共同作業はその国際主義への傾倒の一部でもあった。この感情は、「マダム・ドキュメンテーション」、スザンヌ・ブリエが300人の顧客を抱える彼女の図書館の閲覧室について書いた、「本とともに平和を。本を通して平和を」という言葉にも見ることができる。原子爆弾計画の立案者であったブッシュも、（機械に補助された）記憶があれば私たちは戦争の恐怖を忘れることがないだろうとした。しかし、20世紀の前半には、こうしたヴィジョンは十分に成就されることはなかった。一例を挙げるならば、マイクロフィルムはその任を果たすことができなかった。アンソニー・ウェストは父H. G. ウェルズの伝記で「彼は、その保管と検索のシステムのために必要でありながら欠けており、時代が追いついていなかった技術のことをあまりにも早くから考えていた」。しかし、20世紀の後半では、コンピュータネットワークという新しい技術が新しい可能性を生み、そして百科事典をつくる新しい道筋を触発した。新しい世界平和の時代を予感させる、ネットワークにつながった百科事典への期待は弱まったものの、広くアクセスできる共同作業による百科事典ができる見込みは高まった。では、「まったく新しい形態の百科事典」のヴィジョンに至るまでにそれほど長くかかったのはなぜだろうか？ この節では、ハイパーテキストとディジタルネットワークの歴史のいくつかの局面を使い、一貫性ある目標と技術的な実用性とセレンディピティ、あるいはヴィジョンと実用主義と偶然が整わなければならなかったのだと論じる。
 
 §6Project Xanadu
 
@@ -141,7 +141,7 @@ H. G. ウェルズはサイエンスフィクションで有名なイギリス�
 
 ¶28 However, as the Web gained popular attention, Nelson and his supporters came to feel the potential and priority of the vision he had been advocating for two decades were not satisfactorily respected. Indeed, an irony of the universal vision is that its proponents are often unfamiliar with their predecessors and disappointed with their successors.59 So, when the Web began its precipitous growth, largely incognizant of Xanadu, Nelson and his colleagues developed a defensive attitude toward this upstart and their own portrayal in the press. A 1995 Wired article entitled “The Curse of Xanadu” prompted a particularly irked and detailed response from Nelson.60 This contention between proponents of Xanadu and those of the Web has quieted to some extent in recent years because of the acknowledged dominance of the Web and the honors now accorded to Nelson. Even so, Project Xanadu’s mission statement still reads: “The World Wide Web (another imitation of paper) trivializes our original hypertext model with one-way ever-breaking links and no management of version or contents. WE FIGHT ON.”61 In any case, while Project Xanadu inspired a generation of sophisticated desktop hypertext systems,62 and the Web became the ubiquitous — if limited — networked system we use today, it was the wiki that made a dynamic and versioned Internet hypertext system widely available.
 
-しかし、ウェブが高く注目を集めるにしたがって、ネルソンとその支持者は、自らが20年間にわたって提唱してきたヴィジョンの可能性と先駆性が十分に評価されていないと感じるようになった。普遍性のヴィジョンの皮肉さというのは、多くの場合その支援者らは先駆者についてはよく知らず、後継者については失望するというところにある。そのため、ザナドゥに気づかないままウェブが急激な成長を遂げたあと、ネルソンと同僚らはこの新興勢力に対する防衛的気運を高め、報道にむけて自らの立場を表明した。「ザナドゥの呪い」と題された1995年の Wired の記事は即座にネルソンを立腹させ、詳細な反応を引き出した。ウェブの優越性が広く認知され、ネルソンの名誉守られたため、ザナドゥ計画の支援者らとウェブの支援者らのあいだの論争は最近はなりをひそめている。それでも、ザナドゥ計画のミッション・ステートメントには今も「ワールド・ワイド・ウェブ（紙の模したもう一つのもの）は、私たちの本来のハイパーテキストモデルを矮小化したものであり、リンクは一方通行で断線だらけで、バージョンやコンテンツの管理もできません。私たちは戦います」としている。いずれにしても、ザナドゥ計画はデスクトップのハイパーテキストシステムの時代の到来を刺激し、ウェブは（限定的なやり方であれ）遍在する、日常的に使われるネットワークシステムになったものの、動的でバージョン管理されたインターネットのハイパーテキストシステムを広く使えるようにしたのは、ウィキだった。
+しかし、ウェブが高く注目を集めるにしたがって、ネルソンとその支持者は、自らが20年間にわたって提唱してきたヴィジョンの可能性と先駆性が十分に評価されていないと感じるようになった。普遍性のヴィジョンの皮肉さというのは、多くの場合その支援者らは先駆者についてはよく知らず、後継者については失望するというところにある。そのため、ザナドゥに気づかないままウェブが急激な成長を遂げたあと、ネルソンと同僚らはこの新興勢力に対する防衛的気運を高め、報道にむけて自らの立場を表明した。「ザナドゥの呪い」と題された1995年の Wired の記事は即座にネルソンを立腹させ、詳細な反応を引き出した。ウェブの優越性が広く認知され、ネルソンの名誉守られたため、ザナドゥ計画の支援者らとウェブの支援者らのあいだの論争は最近はなりをひそめている。それでも、ザナドゥ計画のミッション・ステートメントには今も「ワールド・ワイド・ウェブ（紙の模したもう一つのもの）は、私たちの本来のハイパーテキストモデルを矮小化したものであり、リンクは一方通行で断線だらけで、バージョンやコンテンツの管理もできません。私たちは戦います」としている。いずれにしても、ザナドゥ計画はデスクトップのハイパーテキストシステムの時代の到来を触発し、ウェブは（限定的なやり方であれ）遍在する、日常的に使われるネットワークシステムになったものの、動的でバージョン管理されたインターネットのハイパーテキストシステムを広く使えるようにしたのは、ウィキだった。
 
 §7Project Gutenberg
 
@@ -173,11 +173,11 @@ H. G. ウェルズはサイエンスフィクションで有名なイギリス�
 
 ¶35 Aside from the two obvious connections between Project Gutenberg and Wikipedia, there is a lesson here central to a theme of this chapter. A strength of Project Gutenberg was that the simple vision of sharing accessible ebooks was directly satisfied by technology available at the time: one could type existing public domain books into a networked computer using “plain vanilla ASCII.” ASCII is the legacy standard for representing the Roman alphabet and Arabic numerals; it was the character set used by most early computer and network developers; it is still in use today. However it has no representation for accented characters, much less non-Roman scripts. Also, a file of ASCII characters is rather sedentary. No underlines, italics, or bolds — Project Gutenberg represents all of these as uppercase. Nor does ASCII accommodate links or other hypertextual innovations.
 
-プロジェクト・グーテンベルクとウィキペディアのあいだでの、以上二つの明白な結びつきのほか、本章の主題にとって中心的な教訓がひとつある。プロジェクト・グーテンベルクの強みは、アクセス可能な電子書籍を共有するという単純なヴィジョンが、当時利用できた技術によって直接的に実現されたということである。プロジェクト・グーテンベルクでは、既存のパブリックドメインの書籍を「プレーンな通常のASCII」として、ネットワークにつながったコンピュータで入力することができた。 ASCIIは、ローマ字とアラビア数字を表現する古くからの規格である。初期のコンピュータとネットワーク開発者の多くが使った文字集合であり、今日でもなお使われている。しかしそこにはアクセントつき文字やローマ字以外の表現がなかった。また、ASCII文字のファイルはどちらかというと寝たきりだ（訳注： sedentary）。下線、イタリック、太字はなかったため、プロジェクト・グーテンベルクではすべて大文字として表現していた。ASCIIにはリンクなどハイパーテキスト的革新も備わっていなかった。
+プロジェクト・グーテンベルクとウィキペディアのあいだでの、以上二つの明白な結びつきのほか、本章の主題にとって中心的な教訓がひとつある。プロジェクト・グーテンベルクの強みは、アクセス可能な電子書籍を共有するという単純なヴィジョンが、当時利用できた技術によって直接的に実現されたということである。プロジェクト・グーテンベルクでは、既存のパブリックドメインの書籍を「たんなるプレーンなASCII」として、ネットワークにつながったコンピュータで入力することができた。 ASCIIは、ローマ字とアラビア数字を表現する古くからの規格である。初期のコンピュータとネットワーク開発者の多くが使った文字集合であり、今日でもなお使われている。しかしそこにはアクセントつき文字やローマ字以外の表現がなかった。また、ASCII文字のファイルはどちらかというと寝たきりだ（訳注： sedentary）。下線、イタリック、太字はなかったため、プロジェクト・グーテンベルクではすべて大文字として表現していた。ASCIIにはリンクなどハイパーテキスト的革新も備わっていなかった。
 
 ¶36 The term *plain vanilla ASCII * is repeated in full, like a mantra, in Project Gutenberg materials. Michael Hart was well known for his opposition to any exclusive reliance upon more sophisticated textual representations such as PDF or HTML: documents, with few exceptions, must at least be available in “plain vanilla ASCII” which could then be complemented by other formats.75 While frustrating to some, this insistence may have prevented the project from becoming ensnared in endless debates about formats and permitted it to achieve the success it has. As one Gutenberg participant put it:
 
-*プレーンな通常のASCII (plain vanilla ASCII) *という用語は、プロジェクト・グーテンベルクの素材のなかで、マントラのごとく繰り返し強調される。マイケル・ハートはPDFやHTMLといった洗練されたテキスト表現形式に排他的に依存することに反対していることで知られていた。どの文書もほぼ例外なく、「プレーンな通常のASCII」で提供されることが最低限必要であり、それから他の形式で補完してもよいというのが彼の主張だった。苛立たせられる人もいたが、こう強要することによって、プロジェクトが形式に関する終わりない議論に陥ることを防ぎ、成功を達成することができたのかもしれない。グーテンベルクの参加者の一人の言い方では、
+*たんなるプレーンなASCII (plain vanilla ASCII) *という用語は、プロジェクト・グーテンベルクの素材のなかで、マントラのごとく繰り返し強調される。マイケル・ハートはPDFやHTMLといった洗練されたテキスト表現形式に排他的に依存することに反対していることで知られていた。どの文書もほぼ例外なく、「たんなるプレーンなASCII」で提供されることが最低限必要であり、それから他の形式で補完してもよいというのが彼の主張だった。苛立たせられる人もいたが、こう強要することによって、プロジェクトが形式に関する終わりない議論に陥ることを防ぎ、成功を達成することができたのかもしれない。グーテンベルクの参加者の一人の言い方では、
 
 ¶37 The heart and soul of project gutenberg is the plain-text file. over the years, it has been scorned and even attacked outright. some people say it’s ugly. and it’s far too low-tech for others. but somehow, it has survived and even thrived in a way that no other e-book technology ever has. in the process, i have grown to appreciate its tenacity, and grasp its inner beauty. this thread is for those having a love-affair with plain-text.76
 
@@ -244,7 +244,7 @@ Interpedia プロジェクトの実体は立ち消えとなったが、そのニ
 
 ¶51 The article also notes that Nupedia was inspired by other open source projects like Linux and the Open Directory project; the goal was to be open to all expert contribution and free of charge to all users, and Sanger’s quoted aspiration was for Nupedia to become “the world’s largest Encyclopedia.” Similarly, the signature appended to the very first email sent to the Nupedia list states “Nupedia.com building the finest encyclopedia in the history of humankind.”92
 
-この記事ではニューペディアが、Linux や Open Directory プロジェクトなどほかのオープンソースプロジェクトから着想を得ていることに降れている。目標はあらゆる専門家からの寄稿に対して開かれ、利用者に対して料金を課さないことだ。サンガーの希望を述べた言葉としてニューペディアが「世界最大の百科事典」になってほしいと書かれている。同様にして、ニューペディアメーリングリストの第一番目のメールの署名には、「Nupedia.com 人類史上最良の百科事典を築く」と宣言されている。
+この記事ではニューペディアが、Linux や Open Directory プロジェクトなどほかのオープンソースプロジェクトに触発されたことに触れている。目標はあらゆる専門家からの寄稿に対して開かれ、利用者に対して料金を課さないことだ。サンガーの希望を述べた言葉としてニューペディアが「世界最大の百科事典」になってほしいと書かれている。同様にして、ニューペディアメーリングリストの第一番目のメールの署名には、「Nupedia.com 人類史上最良の百科事典を築く」と宣言されている。
 
 ¶52 Unlike the Interpedia — and certainly the Distributed Encyclopedia — Nupedia shows the benefit of the resources of Wales (Bomis) and efforts of Sanger. Wales wrote to the Nupedia list: “The company behind Nupedia, Bomis, Inc., has a great deal of experience designing and promoting high-traffic websites. We intend to put that experience (and the profit from that!) behind the Nupedia project to insure that it is a success.”93 In the course of its first year in 2000, Sanger was the picture of frenzied cheerleading activity. In March, Sanger reported the project had 602 members and of the 140 who had filled out membership forms “about 25–40% of these (or 35–56) are Ph.D.’s or otherwise clearly bona fide experts.”94 By the summer the first article (on atonality) was formally published and the Advisory Board was in place. By November version 3.31 of the Nupedia.com “Editorial Policy Guidelines” was published.95 Software was frequently updated throughout the year. And, throughout, Sanger was always trying to recruit new members, including the offering of T-shirts and coffee cups, and an end-of-year membership drive with cash prizes. By January 2001 there were approximately two thousand people on the Nupedia email list.96
 
@@ -274,7 +274,7 @@ Interpedia 、また Distributed Encyclopedia とは似ておらず、ニュー�
 
 ¶57 In any case, despite the Web’s early limitations, or perhaps because of them, in January 1993 there were nearly fifty different web browsers.106 These were inspired by Berners-Lee’s original Web client and roughly implemented the specifications for HTTP (network transport), HTML (content markup), and URL (resource locators/identifiers). However, one client was to stand out among others: Mosaic, which led to Netscape. Unfortunately, some Mosaic developers were seemingly intent on overshadowing the World Wide Web and failed to implement the critical feature of editing a web page:
 
-いずれにしても、初期のウェブには制限があったにもかかわらず、あるいはその制限のために、1993年1月には50近くの数のウェブブラウザがあった。これらはバーナーズ・リーによる当初のウェブクライアントに着想を得て、HTTP（ネットワーク転送）とHTML（コンテンツのマークアップ）とURL (resource locators/identifiers)（訳注：未訳）を粗く実装したものだった。しかし、ひとつのクライアントが他から抜きん出ていた。Netscape へとつながる Mosaic である。残念ながら、Mosaic 開発者の一部にはワールドワイドウェブを支配しようとする意図ああったらしく、ウェブページを編集するという不可欠な機能を実装しのがした：
+いずれにしても、初期のウェブには制限があったにもかかわらず、あるいはその制限のために、1993年1月には50近くの数のウェブブラウザがあった。これらはバーナーズ・リーによる当初のウェブクライアントに触発されて、HTTP（ネットワーク転送）とHTML（コンテンツのマークアップ）とURL (resource locators/identifiers)（訳注：未訳）を粗く実装したものだった。しかし、ひとつのクライアントが他から抜きん出ていた。Netscape へとつながる Mosaic である。残念ながら、Mosaic 開発者の一部にはワールドワイドウェブを支配しようとする意図ああったらしく、ウェブページを編集するという不可欠な機能を実装しのがした：
 
 ¶58 Marc and Eric [Mosaic developers] explained that they had looked at that option and concluded that it was just impossible. It can’t be done. This was news to me, since I had already done it with the World Wide Web [client] on the NeXT — though admittedly for a simpler version of HTML.107
 
@@ -308,74 +308,119 @@ Interpedia 、また Distributed Encyclopedia とは似ておらず、ニュー�
 
 ¶65 And while Wikipedia is a remarkable realization of a century-old vision, the end of this story is not as happy as it might otherwise be — nor is it really the end, just where I finish this part of the tale. In the first year of Wikipedia’s life, its radical openness and explosive growth were never reconciled with Nupedia’s goal of an authoritative expert-driven reference work. Once it was clear that a wiki could be useful, Sanger tried to introduce the idea again for Nupedia:
 
-ウィキペディアが百年のヴィジョンを注目すべきかたちで実現した反面、物語の結末はなりえたかもしれないように幸せとは行かず、また、結末を迎えてもいない、というところでこの話を終えたい。ウィキペディアの人生の一年目には、その急進的なオープンさと爆発的成長に、専門家主導の権威あるレファレンス資料を作るというニューペディアの目標が組み合わされることはなかった。ウィキが有用であることが明かになったあと、サンガーはその考えをもう一度ニューペディアに導入しようとした：
+ウィキペディアが百年のヴィジョンを注目すべきかたちで実現した反面、物語の結末はなりえたかもしれないように幸せとは行かず、また、実際のところ結末を迎えたわけではない。単に私がこの話を終える地点がそこだというだけのことである。ウィキペディアの人生の一年目には、その急進的なオープンさと爆発的成長に、専門家主導の権威あるレファレンス資料を作るというニューペディアの目標が組み合わされることはなかった。ウィキが有用であることが明かになったあと、サンガーはその考えをもう一度ニューペディアに導入しようとした：
 
 ¶66 But by the summer of 2001, I was able to propose, get accepted (with very lukewarm support), and install something we called the Nupedia Chalkboard, a wiki which was to be closely managed by Nupedia’s staff. It was to be both a simpler way to develop encyclopedia articles for Nupedia, and a way to import articles from Wikipedia. No doubt due to lingering disdain for the wiki idea—which at the time was still very much unproven—the Chalkboard went largely unused. The general public simply used Wikipedia if they wanted to write articles in a wiki format, while perhaps most Nupedia editors and peer reviewers were not persuaded that the Chalkboard was necessary or useful.115
 
-2001年の夏の時点で、ニューペディアチョークボード（訳注：黒板）と私たちが呼んでいるものを提案し（消極的な支持で）受け入れてもらい、インストールすることができた。これはウィキで、ニューペディアの従業員が管理に深く関わっていた。ニューペディアの百科事典項目を育てる単純な方法であり、ウィキペディアから項目を移入する方法でもあった。間違いなくウィキという考えへの嫌悪と蔑みによって（それは当時はまだ証明されていなかったのだが）、チョークボードはだいたいのところ使われなかった。一般人はウィキ形式で項目を書きたいときには単にウィキペディアを使い、ニューペディアの編集者と査読者のほとんどはチョークボードが必要で有用だという意見に同意していなかった。
+2001年の夏の時点で、ニューペディアチョークボード（訳注：黒板）と私たちが呼んでいるものを提案し（消極的な支持で）受け入れてもらい、インストールすることができた。これはウィキで、ニューペディアの従業員が管理に深く関わっていた。ニューペディアの百科事典項目を育てる単純な方法であり、ウィキペディアから項目を移入する方法でもあった。間違いなく、（当時はまだほとんど実証されていなかった）ウィキという考えへの嫌悪と蔑みによって、チョークボードはだいたいのところ使われずに終わった。一般人はウィキ形式で項目を書きたいときには単にウィキペディアを使い、ニューペディアの編集者と査読者のほとんどはチョークボードが必要で有用だという意見に同意していなかった。
 
 ¶67 Stretched between continuing frustration with Nupedia’s progress, problems with unruly Wikipedians, and a widening gap between the two, Sanger failed to save Nupedia and alienated some Wikipedians who saw his actions as increasingly autocratic.116 Additionally, with the burst of the Internet bubble, Sanger, among many others in the industry, was laid off from Bomis and resigned from his Wikipedia role shortly thereafter. Sanger’s subsequent commentary from the sidelines, particularly his continued criticism of Wikipedia not respecting the authority of experts, prompted additional negativity toward him. In April 2005, Sanger published his memoirs of Nupedia and Wikipedia, which sparked a controversy over whether Sanger even deserved credit as a cofounder of Wikipedia.117 In March 2007 Sanger launched a new encyclopedic project, Citizendium, with the intention of improving “on the Wikipedia model by providing ‘reliable’ and high-quality content; … by requiring all contributors to use their real names, by strictly moderating the project for unprofessional behaviors, and by providing what it calls ‘gentle expert oversight’ of everyday contributors.”118 In early 2009, in a sad irony for a project based on good faith, the question of credit and cofounding erupted again, with Sanger and Wales becoming even more embittered and accusing each other of dishonesty.119 Sanger’s exit from Wikipedia will be further touched on when I consider leadership in such communities, as will the larger social debate about “experts versus amateurs.”
 
+ニューペディアのかんばしくない進捗と、無法なウィキペディアンたちと、両者のあいだの深まる溝とに引っ張られながら、サンガーはニューペディアを救うことができず、彼の行動が独裁者的になっていると考える一部のウィキペディアンを敵視した。加えて、インターネットバブルがはじけるとともに、業界の他の人々とともにサンガーは Bomis を解雇され、まもなくウィキペディアでの役目から降りた。一線を退いてからのサンガーによるコメント、とりわけ執拗につづけられたウィキペディアは専門家の権威を尊重していないという批判は、彼についてのさらなる否定論を盛り上がらせた。2005年4月、サンガーはニューペディアとウィキペディアについての追想録を発表し、それによってサンガーがウィキペディアの共同創設者として帰属表示されるべきかどうかさえもが論争になった。2007年3月、サンガーは Citizendium という新しい百科事典プロジェクトを立ち上げた。Citizendium は「ウィキペディアのモデルをとりながら、『信頼できる』高品質なコンテンツを提供する。そのために、すべての寄稿者は実名を使うこととし、プロフェッショナルでない振る舞いが続かないようプロジェクトを厳格にモデレートし、通常の寄稿者の『優しい専門家による監督』と呼ばれることを行う」として、そのモデルを改善するよう意図されていた。2009年初頭、善意にもとづくプロジェクトにとっては残念ながら皮肉なことに、帰属表示と共同創設への疑問が再び浮上し、サンガーとウェールズの関係はさらにギクシャクし、互いに相手を不誠実だと主張しあった。サンガーがウィキペディアを去ったことについては、こうしたコミュニティでの指導力について考える際に再び触れることになる。「専門家かアマチュアか」についてのより広い社会的議論についても同様である。
+
 §14Conclusion: Predicting the Future, Reading the Past
+
+結論：過去を読み、未来を予測する
 
 ¶68A history professor of mine once wisely noted “historians stink at predicting the future.” Predictions about technology, regardless of who makes them, seem especially problematic.120 Even those who help “make” the future are no better at prediction. In this chapter I considered those looking back, those looking forward, and those struggling in their present to implement a universal encyclopedic vision. For a long time, no one got it quite right. But people, being people, try, and try again. And that story is revealing in at least two ways.
 
+私の歴史の先生の一人は、「歴史家の未来予測は最低」だと評した。特に技術についての予測は、誰がやるにしてもうまく行かないようだ。未来を「つくる」ことに貢献する人々も、予測にたけるわけではない。本章では普遍的百科事典のヴィジョンについて過去を振り返る人々、未来を見る人々、現在実現をめざして奮闘する人々について考えた。長いあいだ、誰もそれに成功しているとはいいがたい。しかし人間は、人間であるがゆえに何度も何度も挑戦する。その物語は少なくとも二通りのやり方で見ることができる。
+
 ¶69 First, even unfulfilled visions, failed projects, and erroneous predictions tell us something about those people and their time. The history recounted in this chapter speaks to the alluring and enduring notion of an ambitious project of human knowledge production and dissemination: a universal encyclopedia. This vision persisted throughout the twentieth century even though each instance was prompted by different technologies and entailed differing levels of accessibility in production: Otlet’s documentalists, Wells’s technocrats, Nupedia’s scholars, and Wikipedia’s “anyone.”
+
+達成されなかったヴィジョン、失敗したプロジェクト、間違った予測であっても、それぞれの人々と時代について何かを教えてくれることがある。本章で振り返った歴史では、人類の知識生産と普及についての野心的プロジェクトの魅力的で長年の考えが言及されている。普遍的百科事典というこのヴィジョンは、生産（訳注：in production は製作中と訳すべきかも）において個々の試みが異なる技術に触発され、異なる水準のアクセシビリティをもたらすものでありながらも、二十世紀のあいだ生きつづけた。ウェルズにおいてはテクノクラートのための、ニューペディアにおいては学者のための、ウィキペディアにとっては「すべての人」のためのものだった。
 
 ¶70 Second, a question throughout this chapter is why did it take so long for the vision to be realized? A possible answer can be detected in the overlapping spheres of vision, pragmatics, and happenstance; interesting things happen when those stars align. Perhaps the best example of this can be seen in the expectation (i.e., of the Distributed Encyclopedia and GNUPedia) that once it was clear the Web would be a platform for such an encyclopedia, it would also be decentralized. But, Wikipedia is centralized, in part, because wikis made editing the Web possible again for many people — and the loss of editing capabilities from Berners-Lee’s original vision was seemingly another chance event. Wikis have other features that make them useful for an encyclopedia (e.g., versioning and simple inter-wiki linking) — though, seemingly, Wales himself thought such a notion would not be received well and Ward Cunningham predicted that the result would be more a wiki than an encyclopedia.121
 
+第二に、本章全体を通じる疑問として、このヴィジョンが実現されるのになぜこれほど長くかかったのかという点がある。ひとつ回答がありそうなのは、ヴィジョン、実用主義、起こったことの重複部分の中だろう。おもしろいものごとはこれらの星々が並んだときに起こる。おそらくもっともいい実例は、ウェブがそのような百科事典のプラットフォームになることがあきらかになったときそれは同時に脱中心化されるだろうという（Distributed Encyclopedia と GNUPedia の）期待にみられるだろう。しかし、ウィキがウェブをふたたび多数の人々にとって編集可能なものにしたため、またバーナーズ・リーの当初のヴィジョンから編集機能が失われたことがもうひとつの機会の到来であったために、ウィキペディアはある部分で中心化されている。ウィキにはほかにも百科事典にとって便利な特徴がある（たとえばバージョン管理や簡単にウィキ間リンクができることなど）が、おそらくウェールズ自身もそのような考えはあまり広まると思ってはいなかったし、ウォード・カニンガムはその結果は百科事典的というよりウィキ的になるだろうと予測していた。
+
 ¶71 In any case, the projects discussed in this chapter are attempts at realizing a universal vision, encompassing the goodwill of collaborators and reaching toward global accord. While it is a mistake to argue all reference works are necessarily progressive, as I warn in chapter 7, even Britannica — often thought to be the conservative opponent of the Encyclopédie in the 1800s and Wikipedia today — shared this sentiment of global accord in a preface to a 1956 edition of its world atlas: “To the men, women, and children of the world who, by increasing their knowledge of the earth and its people, seek to understand each other’s problems and through this understanding strive for a community of nations living in peace, the Encyclopædia Britannica dedicates this volume.”122 And while few would argue that Wikipedia will necessarily further world peace, in the next chapter I argue “good faith” culture is necessary to its production and an occasional consequence of participation.
+
+いずれにしても、本章で論じたプロジェクトはどれも普遍性のヴィジョンを実現し、共同作業者の善意をまとめ、地球規模の調和に到達しようとするものだった。7章で警告するように、あらゆるレファレンス資料が進歩的でなければならないと論じるのは誤りだが、1800年代の『百科全書』と今日のウィキペディアにとっての保守的な対抗馬として考えられることの多い『ブリタニカ』でさえ、1956年版にある世界地図の序のなかで「地球とその住人についての知識を増やすことで互いの問題を理解し、その理解をもって国家同士が平和に生きる共同体を実現しようとする世界中の男女と子どもに、ブリタニカ百科事典は本巻を捧げる」として地球規模の調和への意志を明らかにしている。そして世界平和の進展にとってウィキペディアが必要だと論じる人はほとんどいないが、次章では「善意」の文化がその生産に必要であり、参加からの偶然の帰結であることを論じる。
 
 §15A Timeline of Events
 
 1895
 ¶72Otlet’s Permanent Encyclopedia: liberating ideas from the binding of books.
 
+オトレの永続的な百科事典：本にとじられた様々な着想を解き放つ。
+
 1936
 ¶73Wells’s World Brain: a vision of a worldwide encyclopedia using microfilm.
+
+ウェルズの世界頭脳：マイクロフィルムを使った世界規模の百科事典についてのヴィジョン。
 
 1945
 ¶74Bush’s memex: a vision of a hypertextual knowledge space and new forms of encyclopedias.
 
+ブッシュのmemex：ハイパーテキスト化された知識空間と百科事典の新しい形態についてのヴィジョン。
+
 1965
 ¶75Nelson’s Xanadu: a vision of hypertext.
+
+ネルソンのザナドゥ：ハイパーテキストのヴィジョン。
 
 1971
 ¶76Hart’s Project Gutenberg: a vision of providing ebooks through achievable means (“plain vanilla ASCII”).
 
+ハートのプロジェクト・グーテンベルク：達成可能な手段（「たんなるプレーンなASCII」）を使って電子書籍を提供するというヴィジョン。
+
 1980s
 ¶77Academic American Encyclopedia is made available in an online experiment; multimedia CD-ROMs soon follow.
+
+Academic American Encyclopedia がオンライン実験で公開された。マルチメディアコンテンツのCD-ROMの間もなく同様に公開された。
 
 1991
 ¶78Berners-Lee’s World Wide Web: a vision of highly accessible read/write.
 
+バーナーズ・リーのワールドワイドウェブ：広く一般に読み取り・書き込みができるようにするヴィジョン。
+
 1993
 ¶79Interpedia: an ambiguous vision lost among too many infrastructural options.
+
+Interpedia：基盤の選択肢が多すぎて迷走した多義的なヴィジョン。
 
 1995
 ¶80Cunningham’s WikiWikiWeb: making the Web easy to collaboratively edit.
 
+カニンガムのウィキウィキウェブ：ウェブの編集を簡単に共同作業でできるようにする。
+
 1999
 ¶81Distributed Encyclopedia: many people should contribute independent essays that could be centrally indexed.
+
+Distributed Encyclopedia：多数の人が独立して著作を寄稿し、中央で索引づけができるようにする。
 
 1999
 ¶82Stallman’s “The Free Universal Encyclopedia and Learning Resource.”
 
+ストールマンの「自由で普遍的な百科事典と学習資料」。
+
 2000
 ¶83Distributed Proofreaders: distributing the task of proofreading among many.
+
+Distributed Proofreaders：校正作業を多人数に分散する。
 
 2000 (March 9)
 ¶84Nupedia launched: a FOSS-inspired expert-driven free encyclopedia.
 
+ニューペディア始動：FOSSに触発された、専門家主導の自由百科事典。
+
 2001 (January 10)
 ¶85“Let’s make a Wiki.”
+
+「ウィキを作ろう」。
 
 2001 (January 15)
 ¶86www.wikipedia.com launched.
 
+www.wikipedia.com 始動。
+
 2001 (January 16)
 ¶87GNE Project Announced.
+
+GNE プロジェクトが告知。
 
 2001 (September)
 ¶88“Interpedia is dead — long-lived Wikipedia.”
 
+「Interpedia は死んだ。ウィキペディアに長寿を」
