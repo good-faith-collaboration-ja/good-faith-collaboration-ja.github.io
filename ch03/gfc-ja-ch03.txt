@@ -9,7 +9,7 @@ Chapter 3
 
 ¶2There are two complementary postures at the heart of Wikipedia collaboration: the stances of “Neutral Point of View” (NPOV) and good faith. Whereas other communities may have a culture of good faith (i.e., assume good faith on the part of others, and acting with patience, civility, and humor), few are concerned with producing an encyclopedia. The dovetailing of an open perspective on knowledge claims (epistemic) and other contributors (intersubjective) makes for extraordinary collaborative potential, and harkens back to the universal vision of increased access to information and social accord. Furthermore, perhaps an understanding of neutrality and good faith can serve as a rejoinder to a favorite quip about Wikipedia, also known as its Zeroeth Law: that while it may very well work in practice, it can never work in theory.1
 
-ウィキペディアにおける共同作業には、補完的な態度が2つある。「中立的な観点」(NPOV) と善意である。善意の文化（つまり、他者について善意を仮定し、根気と礼儀とユーモアとをもって行動しするということ）があるコミュニティは他にもあるかもしれないが、百科事典を製作することに関わるものはほとんどない。知識の主張に(epistemic)と他の寄稿者に(intersubjective)と対するオープンな観点をつなぎあわせるこから、途方もない規模の共同作業の可能性が生まれ、情報アクセスの増進と社会の調和という普遍性のヴィジョンへと立ち返ることができる（訳注： harken back の訳語は自信なし）。さらには、中立性と善意を理解することは、第0の法則として広く知られる、ウィキペディアについての次の quip への切り返しとなるだろう。「ウィキペディアは実践ではうまく動くが、理論的には動くはずがない」
+ウィキペディアにおける共同作業には、補完的な態度が2つある。「中立的な観点」(NPOV) と善意である。善意の文化（つまり、他者について善意を仮定し、根気と礼儀とユーモアとをもって行動するということ）があるコミュニティは他にもあるかもしれないが、百科事典を製作することに関わるものはほとんどない。知識の主張に(epistemic)と他の寄稿者に(intersubjective)と対するオープンな観点をつなぎあわせるこから、途方もない規模の共同作業の可能性が生まれ、情報アクセスの増進と社会の調和という普遍性のヴィジョンへと立ち返ることができる（訳注： harken back の訳語は自信なし）。さらには、中立性と善意を理解することは、第0の法則として広く知られる、ウィキペディアについての次の quip への切り返しとなるだろう。「ウィキペディアは実践ではうまく動くが、理論的には動くはずがない」
 
 §2Introduction
 
