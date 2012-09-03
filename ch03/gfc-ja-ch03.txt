@@ -129,69 +129,131 @@ Chapter 3
 
 ¶27One of the many contentious articles I follow on Wikipedia is that on evolution. Frequently those with criticisms of evolution, predominately religious literalists, attempt to include these criticisms in the “Evolution” article. Yet, Wikipedia articles are not forums for debate, nor are their discussion pages: “Please remember that this page is only for discussing Wikipedia’s encyclopedia article about evolution. If you are interested in discussing or debating evolution itself, you may want to visit talk.origins or Wikireason.”44
 
-
+私がウィキペディアで追っている論争ある項目多数のうちのひとつは進化についての項目だ。その大多数が教条的宗教者である、進化に批判的な人が頻繁に「進化」の項目にそういった批判を記入しようとする。とはいえウィキペディアの項目は論争の場ではなく、議論ページもそうではない。「このページはウィキペディアにおける進化についての百科事典項目についての議論のためだけにあることをご承知ください。進化そのものについて議論したり論争したい人は、talk.origin か Wikireason をご覧ください。」。
 
 ¶28 The stance of neutrality implies that contributors should abandon efforts to convince others of what is right or true, and instead focus on a neutral presentation of what is commonly understood about that topic. Consequently, much like a creationist might view the “Evolution” article, I appreciate the “Creationism” article’s thorough and dispassionate treatment of the relevant history and arguments, even though I might disagree with them. Once understood and practiced, the neutrality stance permits collaboration between those who might otherwise fall into rancorous discord. Therefore, as Jimmy Wales has noted, NPOV should be understood “as a social concept of co-operation.” In response to a question about objectivity and truth in Wikipedia — and the influence of Ayn Rand’s Objectivist philosophy on his views — he said “The whole concept of Neutral Point of View, as I originally envisioned it, was this idea of a social concept, for helping people get along: to avoid or sidestep a lot of philosophical debates. Someone who believes that truth is socially constructed, and somebody who believes that truth is a correspondence to the facts in reality, they can still work together.”45
 
+中立性の態度は、正しさや真実性について他者を説得する努力を投稿者が放棄し、その代わりに主題について広く理解されていることがなにかを中立的に表現するべきだということを意味する。その結果、「進化」の項目を創造論者が見るのとおそらくほとんど同じように、「創造論」の項目における関係する歴史と議論を徹底的に情熱なしに扱うやり方について、私はそれらの議論に同意しないかもしれないが、そうしたやり方を賞賛する。ひとたび理解され実践されれば中立性の態度は、そうしない場合に確執のこもった不調和に陥りかねない人々同士のあいだでの共同作業を可能にする。したがって、ジミー・ウェールズが指摘したように、NPOVは「協調の社会的構想」として理解されるべきだ。ウィキペディアの客観性と真実性についての質問にこたえて、 — そしてAyn Rand の客観主義哲学に影響された観点で — 彼は「私がもともと描いていた中立的な観点の構想全体は、ある社会的構想であって、たくさんの哲学論争を避け、または脇において、人々が一緒にやっていくことを助けるためのものでした。真実は社会的に構築されると信じる人もいて、真実は現実にある事実との対応だと信じる人もいて、ふたりはそれでも一緒に作業できるのです」。
+
 ¶29 Even so, there is still a margin for disagreement about the proportionality of even “neutrally” presented views. How much of the “Evolution” article should be dedicated to creationist objections? “Verifiability” has an important role to play here, as recognized by Gizza’s First Law: “Those who believe that WP:NPOV refers to equal respect towards all verifiable perspectives are Wikipedians. Those who think that NPOV means equal coverage of all verifiable perspectives are trolls.”46 Obviously, those who cannot appreciate the relative weight of well-supported claims (i.e., the consensus of peer-reviewed research supporting evolution) will have a difficult time at Wikipedia. However, I would not actually consider such contributors as “trolls.” (While the term has taken on a general pejorative function, trolls properly signify those who post controversial or irrelevant messages with the intention of disrupting an online community.47)
+
+それでも、「中立的に」提示される複数の観点についてさえその比率について意見がわかれる。「進化」の項目のうちどれだけを創造論者による反論に割くべきだろうか？ 「検証可能性」はここでも重要な役割を果たす。Gizza の第1法則に「検証可能な論点すべてがそれぞれ等しく考慮されるべきだということを WP:NPOV は言っていると信じている人はウィキペディアンである。検証可能な論点すべてを等しい量だけ掲載すべきだと WP:NPOV は言っていると考える人はトロルである。」 よく支持されている（すなわち、ピアレビューを受けた進化研究で合意されている）主張に相対的に重きを置くことを歓迎できない人が、ウィキペディアで困難なときを過ごすのは明らかだ。しかし、私はそうした投稿者を「トロル」とは考えない（この用語は一般的にものごとを否定する機能を果たしているが、トロルは正式には、オンラインコミュニティの活動をさまたげる意図をもって、異論があったり関連性のない発言を投稿する人を指す）。
 
 ¶30 Here, the technical feature of hypertext links can provide a calming effect. A complete of treatment of evolutionary mechanisms and its history as a concept need only mention there are related “social and related controversies,” which may merit their own articles. However, one should be careful in articles about controversy to avoid “content” or “POV” forking in which two articles with opposing points of view arise in place of a single NPOV article.48 Again, in taking a neutral stance one’s task is to describe the controversy rather than to partake in it.
 
+ここでは、ハイパーテキストのリンクの技術的機能が沈静化の作用をもたらすことがある。進化のメカニズムとその概念としての歴史との完全な扱いについては、進化の項目では、関連した「社会的その他の論争」があるということだけに言及すればよく、その内容自体は独立した項目を立ててもよいかもしれない。しかし、論争についての項目においては、対立する観点をひとつのNPOV項目に書かずにふたつの項目に書くという、「内容」のフォークまたは「POV」のフォークを避けるよう気をつけるべきだ。繰り返すが、中立的な態度をとるときにやるべきことは論争を記述することであってそれに参加することではない。
+
 ¶31 Just as one can find contentious articles, one can also find apologies. If the stance of neutrality implies a willingness to put aside one’s own “point of view,” an apology is a potentially rich example of good faith. Consider the following exchange from the “Evolution” talk page. Salva31, an admirer of the conservative American columnist Patrick Buchanan,49 became increasingly frustrated with the “Evolution” article. After Salva31’s efforts to change the article were rejected, he tried to remind the scientifically minded contributors opposing him that “Wikipedia is not a battleground” and the removal of his text was not in “a spirit of cooperation.” In the conversation that followed, fellow Wikipedian Banaby dawson replied:
+
+論争ある項目がみられるのとちょうど同じように、謝罪もみられる。中立性の態度が自分自身の「観点」をわきに置くつもりがあることを含意するなら、謝罪は善意を示す可能性がある良い例だ。「進化」のトークペーjいでの次のやりとりを考えてみよう。アメリカの保守的コラムニスト、パトリック・ブキャナンの信奉者である Salva31  は「進化」の項目にいらだちを募らせていた。Salva31 による変更のこころみが却下されたのをうけて、彼は自分に反対する科学志向の投稿者に「ウィキペディアは闘技場ではありません」と忠告し、自分のテキストを除去していくのは「協調的な精神」にそぐわないと忠告した。この会話の続きは、同僚ウィキペディアン Banaby dawson による次の返答だった。
 
     ¶32 I’m sorry Salva but I do not think that your comments to this talk page really qualify either as in “a spirit of cooperation.” I think that you have been guilty of many of those things you are accusing others of. You have broken the above rules in several ways: You’ve insulted people by the tone you’ve used in discussion. You’ve tried to intimidate those who don’t agree with you by the shear volume of your text (on the talk page). You’ve not been civil or calm with your edits.
 
+Salva さん、すみませんがこのトークページでのあなたのコメントも「協調的な精神」にそぐわないと思います。あなたが他者に向けた批判の多くにはあなた自身が当てはまっていると思います。あなたは上記の規則をいくつかの点でやぶっています。あなたは議論での言葉遣いによって他者を中傷しました。（トークページで）大量のテキストを投下することによって、自分と意見が合わない人を萎縮させようとしました。あなたの編集は礼儀を守っておらず、冷静には見えません。
+
     ¶33 As such although I have criticised others for deleting much of your text in which you do these things I would support them in moving all such material to a subpage in [the] future. Barnaby dawson 09:00, 13 Apr 2005 (UTC)50
+
+ということで、上記のことに関わるあなたの投稿を削除した他の人を私が批判したのはたしかですが、そういった箇所は将来的にはサブページに移すことを支持します。 Barnaby dawson 09:00 Apr 2005 (UTC)
 
 ¶34 While dawson’s “I’m sorry Salva but I do not think…” isn’t a genuine apology, but rather is a form of the infamous “sorry… but,” it is nonetheless indicative of a type of discursive openness: “sorry” softens the statement, using a name promotes a sense of connection, and “I do not think” connotes a sense of fallibility. This was followed by an attempted de-escalation:
 
+dawson の「Salva さん、すみませんが」の言い方も純粋な謝罪ではなく、悪名高い「すみませんが‥‥」の形をとっているが、それでも議論についてのある種の開放性を示している。「すみませんが」は主張をやわらげ、名前を使うことをはある種の近しい感覚を与え、「……でないと思います」は誤謬の可能性を含ませている。次には、対立をひきもどそうとする試みがあった。
+
     ¶35 Let’s not do that. As long as Salva 31 keeps it short and simple and on topic, there shouldn’t be a problem in future, right? Kim Bruning 10:30, 13 Apr 2005 (UTC)
+
+それはやめておきましょう。Salva 31 さんがその部分を短く簡潔におさえ、本題を外れさせないかぎりは、将来問題となることはないでしょう？ Kim Bruning 10:30, 13 Apr 2005 (UTC)
 
 ¶36Another participant, a graduate student in biology,51 soon conceded to some incivility:
 
+生物学の大学院生である別の参加者は、一部礼儀を失したことについて譲歩した。
+
     ¶37 Also, to be fair to Salva, I was pretty uncivil to him, I think. Graft 12:02, 13 Apr 2005 (UTC)
+
+Salva さんについて公正を期しておくと、私は Salva さんに対してかなり失礼だったと思います。 Graft 12:02, 13 Apr 2005 (UTC)
 
 ¶38And within this conversation a genuine apology did manifest:
 
+そしてこの対話のなかで純粋な謝罪が宣言された。
+
     ¶39 Thank you, Graft. This is obviously a debate that is sensitive on both sides. Likewise, I owe you an apology for the contributions I made in escalating the argument.Salva31 09:37, 13 Apr 2005 (UTC)
+
+Graft さんありがとうございます。これが双方にとって敏感な論争であることは明らかです。こちらも、議論の対立を深めさせた投稿について謝罪させていただきたいと思います。Salva31 09:37, 13 Apr 2005 (UTC)
 
 ¶40 Like many articles and discussion pages on Wikipedia, the “Evolution” article has plenty of disagreements, arguments, and even downright hostile behavior. However, NPOV policy asks editors to change their (epistemic) perspective with respect to the claims they make about the world. Similarly, the broad notion of good faith, including civility and a willingness to apologize, asks editors to extend their (intersubjective) perspective toward other contributors as well-meaning but possibly mistaken human beings.
 
+ウィキペディア上の多くの項目や議論ページと似て、「進化」の項目にはさまざまな不一致、議論、露骨な敵対的ふるまいがある。しかし、NPOV の方針は編集者に、（認識論的）観点を自分が世界について主張することに合わせて変えることを求めている。同様に、礼儀を保つことと謝罪をいとわないこととを含む広い意味での善意は、編集者に他の編集者への（間主観的）観点を広げ、善意だがもしかすると誤解のある人間として受け取るよう求めている。
+
 §7The Epistemic Stance of Neutral Point Of View
+
+中立的な観点の認識論的立場
 
 ¶41Both in the first and present chapter I introduce the NPOV policy by way of example because it can be a confusing term. Misunderstandings about it arise in part because, as the Wikipedia article itself admits, “the terms ‘unbiased’ and ‘neutral point of view’ are used in a precise way that is different from the common understanding.” People are acknowledged to be subjective beings (i.e., “inherently biased”), but when used in the Wikipedia context articles are considered to be without bias when they “describe the debate fairly rather than advocating any side of the debate.” A more recent version of the page suggests one way to think about it is to “assert facts, including facts about opinions — but do not assert the opinions themselves.”52
 
+第1章と本章の両方で私は例を挙げることによってNPOVの方針を紹介している。これが混乱を招きうる用語だからだ。その誤解の一部はウィキペディアの当該項目が認めるように、「『偏りのない』と「中立的な観点」の用語は一般的な理解とは異なる厳密なやり方で使われます」。人間は主観的な存在だ（すなわち「内在的に偏見をもっている」）ということが了解されるが、ウィキペディアの文脈で使われた時、「論争におけるいずれかの立場を支持するのではなく公正にその論争を記述」する項目は偏りがないと考えられる。このページのより新しい版では「意見についての事実を含む事実を主張する - ただし意見そのものは主張しない」ものとして考えることができると示唆している。
+
 ¶42 This notion of neutrality is also difficult because it seems impossible to explain without recourse to an equally problematic constellation of concepts. If neutral means unbiased, and unbiased means fair, might fair mean impartial, or something else? Another source of confusion is the subject of the alleged neutrality: the platform, processes and policies, people, practices, or the resulting articles? Can bias in one contaminate the neutrality of another? Additionally, the use of the prefixes un and non- with words such as bias, fair, and neutral is indicative of one more problem. Although we might find a clear definition of what bias is, for example, that definition might not be as useful when we wish to understand what it means to be unbiased. Take, for example, the acronym POV which has acquired a derogatory connotation as the seeming opposite of NPOV. Yet, when the acronym is expanded, to accuse someone of having a point of view seems rather ridiculous, even to those who advocate the NPOV policy.53
+
+中立性という考えが難しいのは、等しく難しい複数の概念の配列をふりかえらずしてそれを説明することが不可能であるからでもある。中立が不偏を意味し、不偏が公正を意味するなら、公正は公平を意味するのか、それとも別の何かを意味するのだろうか？ もうひとつの混乱の源は、中立であるとされる対象がなにかについてだ。プラットフォームか、手続きや方針か、人々か、実践か、結果としての項目か？ 一箇所にある偏りが他の箇所の中立性を汚すのか？ くわえて、不や非などといった接頭辞を偏向、公正、中立などといった言葉につけることはまた別の問題があることの指標となる。たとえば偏向とはなにかの定義を明確にすることはできるかもしれないが、その定義は不偏向とはなにかを理解したいときに有用であるとは限らない。NPOVの対局にみえるものとして侮蔑的な含意を獲得したPOVという略語をみてみてほしい。この略語を展開してみれば、誰かに観点があることをとがめるのは、NPOVの方針を支持する人にとってすら、馬鹿げているにもかかわらずだ。
 
 ¶43 In order to bring some clarity to this, one might look to other uses of the notion of neutrality, including in gameplay, technical systems and standards, content regulation, and international conflict. From this, one can discern an understanding of neutrality as a sensitivity to the ways in which technical and social systems might be unfairly discriminatory; an impartiality and plurality between possible participants or positions; an ethos of sportsmanship and an adherence to known rules; and a submission to some authority for arbitration, as well as an expectation of accountability.54 This understanding does seem to fit the personal intentions and larger aspirations of Wikipedia contribution. In the Wikipedia context the notion of neutrality is not understood so much as an end result, but rather as a stance of dispassionate open-mindedness about knowledge claims, and as a “means of dealing with conflicting views.”55
 
+もうすこし分かりやすくするために、中立性という考えが、ゲーム、技術システムや技術標準、コンテンツ規制、国際紛争などでどのように使われているかをみてみることもできる。そこから、中立性とは、技術的・社会的システムが不公正に行いうる差別のやり方への敏感さ、可能な複数の参加者と立場のあいだの公平性と多元性、スポーツマンシップのエトスと既知の規則の履行、裁定に際して権威にしたがうこと、そして説明責任を期待することであるという理解を認めることができる。この理解のしかたは個人個人の意図とより大きなウィキペディア投稿での望みとをうまくあわせられるようにみえる。ウィキペディアの文脈では中立性という考えは成果物として理解されることはあまりなく、むしろ知識の主張について熱狂的にならないひらかれた精神の立場、そして「対立する複数の観点を扱う方法」として理解される。
+
 ¶44 Yet, one might ask, shouldn’t such a stance be the case for contributors to any encyclopedia, or even any wiki even? Historically, reference works have made few claims about neutrality as a stance of collaboration, or as an end result. While other reference works have had contributions from thousands of people, they were still controlled by a few persons of a relatively homogeneous worldview. Indeed, a preoccupation of traditional references is their authoritativeness, quite different from Wikipedia’s abandonment of “truth.” As Nupedia’s early editorial guidelines noted, “There are many respectable reference works that permit authors to take recognizable stands on controversial issues, but this is not one of them.”56 This is not to say that reference works are always regarded as being without bias: reference works have been central to many ideological battles. And pointing out the quaint biases of reference works is an amusing hobby of bibliophiles. For example, A. J. Jacobs’s lighthearted diary on reading the whole of the Britannica notes many remnants of Victorian cultural bias (e.g., a preoccupation with explorers, botanists, and the victims and mistresses of monarchs).57 Or, consider a Wikipedian’s description of his 1898 copy of Pear’s Cyclopedia:
+
+とはいえ、そのような立場はどんな百科事典、さらにはどんなウィキにも当てはまるのではないか、と疑問におもわれるかもしれない。歴史的にレファレンス資料は共同作業における立場、あるいは成果物としての中立性についてほとんど主張していない。他のレファレンス資料も数千人を超える人々からの貢献をうけていたが、それでも比較的同質の世界観をもつ少数の人々によって管理されていた。伝統的なレファレンス資料を支配していたのはまさに、その権威づけであり、ウィキペディアの「真実」の放棄とは非常に異なる。ニューペディアの初期の編集ガイドラインで指摘されたように、「敬意を払うべきレファレンス資料のなかにも、論争のある問題について著者が明確な立場をとることを許すものは多数あります。しかし、この百科事典はそうではありません」。といっても、レファレンス資料がいつも偏向のないものとして受け取られていたというわけではない。レファレンス資料はイデオロギー的論争の中心的な場だった。レファレンス資料にある巧妙な偏向をみつけだすことは書痴のたのしみのひとつだった。たとえば、ブリタニカ全体の読書をつづったA. J. ジェイコブの軽妙な日記では、ヴィクトリア朝文化にもとづく偏向のかおりが様々にあることが指摘されている（探検、植物学、王制 への傾倒など）。あるいは、あるウィキペディアンによる 1898年版 Pear's Cyclopedia の次の説明をみてみてほしい。
 
     ¶45 It had a general encylopedic section. I think the most wonderfully opinionated article I found in this was on Russia, which after a few breathless passages on how wonderful and civilised the place was ended with “… which is why Russia simply must get a port on the Mediterranean!” Extreme case, but not rare…58
 
+そこには一般的な百科事典的な箇所がある。私が見たなかでもっともみごとに意見づけされた項目はロシアについてのもので、ロシアがいかにすばらしく文明化された地であるかを息つくまもなく語ったあとに「ロシアが地中海に港をかまえなければならない理由はまさにこのことによる」と締めくくっている！ 極端な例だが、めずらしいともいえない。
+
 ¶46 The concept of neutrality was also absent at the birth of the wiki, which, as described, was a platform for advocating a particular type of software development. Instead, neutrality arose in the context of Wikipedia’s predecessor, Nupedia, and the philosophical interests of its cofounders. Sanger’s doctoral dissertation in philosophy focused on the thorny aspects of justifying knowledge and was opaquely entitled, as they are apt to be: “Epistemic Circularity: an Essay on the Justification of Standards of Justification.”59 Wales, for his part, was not a professional philosopher, but as was not uncommon among early amateur Net philosophers, he was an Objectivist, in the Ayn Rand tradition, and moderated an email list dedicated to the topic.60 Sanger recounts that both he and Wales were in agreement on the importance of the principle of neutrality, which was called “nonbiased” at the time:
+
+中立性の概念はウィキの誕生にもともなっていなかった。ウィキはすでに説明したように、特定の種類のソフトウェア開発をひろめるためのプラットフォームだった。中立性はウィキではなく、ウィキペディアの祖先ヌーペディアとその共同創設者たちの哲学的興味から起こった。サンガーの哲学の博士論文は知識の正当化における複雑な側面の数々に焦点をあてており、ふさわしく不透明な表題「Epistemic Circularity: an Essay on the Justification of Standards of Justification」（訳注：要翻訳）がつけられている。ウェールズのほうは、職業的な哲学者ではなかったが、初期のアマチュアのネット哲学者の例にもれず、Ayn Rand の伝統にしたがう客観主義者（訳注：要検討）で、その主題を専門に扱うメーリングリストをモデレートしていた。サンガーの語るところによると、彼とウェールズはどちらも中立性、当時は「不偏」と呼ばれたものの原理が重要だということについて一致していた。
 
     ¶47 Also, I am fairly sure that one of the first policies that Jimmy and I agreed upon was a “nonbias” or neutrality policy. I know I was extremely insistent upon it from the beginning, because neutrality has been a hobby-horse of mine for a very long time, and one of my guiding principles in writing “Sanger’s Review.” Neutrality, we agreed, required that articles should not represent any one point of view on controversial subjects, but instead fairly represent all sides.61
 
+それに、ジミーと私が一致した最初の原理のひとつが「不偏」、あるいは中立性の方針だったということはほぼ間違いないと思います。私は最初からこのことについては非情に頑固でしたね。中立性はずっとながいあいだ私のこころから離れたことがありません。「サンガー批評」を書いたときの guiding principles の一つでもあります。私たちが一致したのは、論争のある主題について、中立性にとって必要なのは、項目がひとつの観点だけを提示すべきではなく、すべての立場を公正に提示すべきだということでした。
+
 ¶48 While Sanger and Wales agreed in principle at the outset, they have since expressed differences about the shift from the term unbiased to neutral point of view. At the start of Wikipedia, Sanger had ported Nupedia’s “Avoid Bias” under Wikipedia’s “Policies to Consider,” but this policy was soon preempted/subsumed by Wales’s “Neutral Point of View” article.62 Sanger has since noted that he didn’t approve of this shift as it causes confusion (e.g., using the expression “POV” as the opposite of “NPOV,” when “biased” is preferable).63 Not surprisingly, now that Sanger has started the encyclopedic project Citizendium, its “Neutrality Policy” favors the term unbiased over neutral point of view.64 Yet, before this recent difference about naming, at the outset of the Nupedia project Sanger and Wales were in agreement when challenged on the naíveté and/or impossibility of the policy. Sanger responded to the question of bias by invoking a principal that neutral contributions should lack ideological flavor:
+
+サンガーとウェールズは原則として当初は一致していたが、不偏という用語から中立的な観点という用語に切り替える際に差異をあらわした。ウィキペディアの開始時、サンガーはウィキペディアの「考慮すべき方針」にヌーペディアの「偏向を避ける」を移植した。しかしこの方針はすぐにウェールズの「中立的な観点」に吸収合併された。サンガーは以来、混乱を招く（たとえば、「偏向している」とすべきところで、「POV」という表現をNPOVの反対の意味で遣うこと）としてこの切り替えを認めないと述べている。サンガーが百科事典計画 Citezendium をはじめたいまとなっては、そこにある「中立性の方針」が中立的な観点よりも不偏という用語を好んで使っていることは驚きではないだろう。とはいえ、この新しい名称の違いがうまれるまでは、ヌーペディア計画の開始当初、この方針のナイーヴさと不可能性とを問題視されたとき、サンガーとウェールズは一致していた。サンガーは偏向についての問いに対して、中立的な投稿はイデオロギー的成分を欠いていなければならないという原則をたてて回答した。
 
     ¶49 Nupedia aims to be as unbiased as possible; of course, some people will regard *this* as a political statement. We can’t make everyone happy in this regard. In any event, we intend to represent all points of view, including those held by any significant minority of experts in a field, as fairly as possible. This would include creationists, Marxists, capitalists, and all manner of incendiary points of view. This should make for interesting reading at the very least. It should be added that Nupedia’s contributors are expected to keep their own views in the background as much as possible. In other words, the point isn’t merely to mention other views not favored by an article’s author; it is to write in such a way that one cannot tell what view is favored by the article’s author.65
 
+ヌーペディアはできるかぎり偏向のないものになることを目指しています。もちろん、*これ* を政治的主張とみなす人もいるでしょう。その意味では誰もをしあわせにできるわけではありません。私たちは何があろうとも、どれほど小さくともある分野の有効な少数派である専門家の観点であれば、できるかぎり公正に、すべての観点を提示しようとします。創造論者、マルクス主義者、資本主義者、あらゆる反逆的（訳注：要検討）な観点がそこには含まれます。これは少なくとも面白い読み物をうみだすでしょう。ヌーペディアの投稿者は自分自身の観点をできるだけ背景にとどめておくことが期待されるということも付け加えておきましょう。いいかえるなら、重要なのは、項目の著者は好まない観点に触れるべきというだけではなく、どの観点が項目の著者の好みであるかが分からないようなやり方で書くべきということです。
+
 ¶50 The notion of not being able to tell the predilection of a contributor, a sort of ideological anonymity, is more fully developed in a corollary of NPOV, “Writing for the Enemy”:
+
+投稿者の傾向が分からないようにするという考え、すなわちイデオロギー的匿名性は、「敵のために書け」というNPOVの系のひとつで、より豊かに発展させられている。
 
     ¶51 Writing for the enemy is the process of explaining another person’s point of view as clearly and fairly as you can. The intent is to satisfy the adherents and advocates of that POV that you understand their claims and arguments…. Writing for the enemy contributes to the NPOV of Wikipedia. Wikipedians often must learn to sacrifice their own viewpoints to the greater good.66
 
+敵のために書くことは、別の人の観点をできるかぎり分かりやすく公正に説明する手続きです。その趣旨は、あなたがそのPOVの信奉者と支持者の主張と議論を理解したと彼らに納得してもらうということです。敵のために書くことはウィキペディアのNPOVに寄与します。for the greater good （訳注：未訳）ウィキペディアンは自分自身の観点を犠牲にすることを学ばなければならなくなることが少なくありません。
+
 ¶52 For his part, Wales responded to someone troubled with the notion of “unbiased” by acknowledging the challenges and the importance of avoiding bias:
+
+ウェールズのほうでは、「不偏」の考えに混乱したある人に、偏向を避けることの難しさと重要さを認めて次のように回答した。
 
     ¶53 Surely you will agree that there are more or less accurate, objective, fair, [un]biased ways of putting things. We should simply strive to eliminate all the problems that we can, and remain constantly open to sensible revisions. Will this be perfect? Of course not. But it is all we can do *and* it is the least we can do…. if you are trying to say that someone, somewhere will always accuse us of bias, I’m sure you’re right. But we should nonetheless try our best to be objective. It doesn’t strike me as particularly difficult. We will want to present a broad consensus of mainstream thought…. This does mean that sometimes we will be wrong! All the top scholars in some field will say X, but 50 years from now, we will know more, and X will seem a quaint and old-fashioned opinion. O.k., fine. But still, X is a respectable and valid opinion today, as it is formed in careful consideration of all the available evidence with the greatest care possible. That’s the best we can do. And, as I say, that’s also the least we can do.67
 
+だいたいのところ正確で、客観的で、公正で、偏り[のない]まとめかたがあるということにはきっと同意してもらえるでしょう。私たちがすべきなのは、なくせる問題をできるだけなくすよう努力し、まともな変更に対しては開放的になままでいつづけることです。これが完全かというと、もちろん、完全ではありません。しかし、できるのはそれだけであり、*そして* 最低限がそれなのです。誰かが、どこかに偏りがあると糾弾する可能性はいつもあると言おうとしているのなら、私もそのとおりだと思います。しかし、それでも客観的になろうとする努力は続けるべきです。これは特に難しいことだとは思いません。主流派の考えで広く合意されていることを私たちは掲載しようとします。それがいつか間違いになることもあるでしょう。ある分野の第一線の学者たちがみな X と言っていても、いまから50年後にはもっと色々わかって、X がおかしな、古臭い意見だと思われたりする。たしかにそうでしょう。それでも、X は現在は敬意をもって扱うべき正当な意見であり、入手できる証拠すべてを可能な限り注意深く考慮して作られているなら、それが私たちにできる最大限のことです。私の言い方では、私たちにできる最小限のことでもあります。
+
 ¶54 Consequently, this interest in unbiased, or at least less biased, claims about an understandable, or at least partially so, objective universe is central to Wikipedia collaborative culture. The notion of NPOV not only provides the epistemic foundation for the project, but also the intentional stance contributors should take while interacting. It makes it possible to “solve the problem of that jig-saw puzzle” for which H. G. Wells had hoped because, from this perspective, differing claims about the world can be fit together.
+
+結果として、偏りのなさ、あるいは少なくとも偏りの少なさの重視は、理解可能な、あるいは少なくとも部分的に理解可能な、客観的世界がウィキペディアの共同作業文化にとって中心的であると主張する。NPOVという考えが提供するのはこのプロジェクトの認識論的基礎を提供だけでなく、投稿者が互いにやりとりをするときに意識的にとるべき態度でもある。さらには、このみかたでは世界についての異なる主張も共存できるため、H. G. ウェルズが解こうとした「ジグソーパズルの問題を解く」ことをも可能にする。
 
 §8The Intersubjective Stance of Good Faith
 
+善意の間主観的態度
+
 ¶55In Wikipedia’s collaborative culture, the scope of an open perspective includes not only the subject of collaboration, claims about the world, but also one’s collaborators as well. In Wikipedia’s “Writing for the Enemy” essay, one is encouraged to see things as others might:
 
+ウィキペディアの共同作業の文化で開放的な見方をされるのは、共同作業の主題、世界についての主張だけではなく、共同作業者もだ。ウィキペディアの「敵のために書け」という私論では、他者が考えるかもしれないやり方で考えることが奨励されている。
+
     ¶56 Note that writing for the enemy does not necessarily mean one believes the opposite of the “enemy” POV. The writer may be unsure what position he wants to take, or simply have no opinion on the matter. What matters is that you try to “walk a mile in their” shoes instead of judging them.68
+
+敵のために書くことは、「敵」のPOVの対極を信じていなければならないということではありません。著者はどの立場をとるべきか決めかねていてもかまいません。特に意見がなくてもかまいません。相手を批評するのではなく、「相手の立場にたって歩いて」みることが重要なのです。
 
 ¶57 The “Assume Good Faith” article on Meatball, where different communities discuss pan-wiki culture, characterizes this as “seeing others’ humanity.”69 Indeed, one of the reasons Wikipedia’s culture and practice are compelling to me is that it has influenced the way I approach controversy and conflict beyond Wikipedia; I have found these norms to be “a great way to end an argument in real life,”70 which corresponds with scholars Yochai Benkler and Helen Nissenbaum’s argument that while virtue may lead people to participate in such projects “participation may [also] give rise to virtue.”71 This sentiment and the challenges of collaborative culture are further reflected in Leuf and Cunningham’s The Wiki Way: “People using Wiki bring their own preconceptions, agendas, and visions — like any community. The remarkable thing is how Wiki as community affects user interactions in an overall positive way.”72
 
