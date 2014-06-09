@@ -4,4 +4,5 @@
 * [Chapter 2](ch02/README.md)
 * [Chapter 3](ch03/README.md)
 * [Chapter 4](ch04/README.md)
-
+* [日本語版について](about-ja.md)
+* [License](LICENSE.md)
