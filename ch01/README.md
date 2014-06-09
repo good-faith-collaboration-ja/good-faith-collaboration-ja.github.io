@@ -1,12 +1,6 @@
+Chapter 1 §1Nazis and Norms ナチスと規範
+
 http://reagle.org/joseph/2010/gfc/chapter-1.html
-
-
-Chapter 1
-§1Nazis and Norms
-
-
-ナチスと規範
-
 
 > ¶1Show me an admin who has never been called a nazi and I’ll show you an admin who is not doing their job.—J.S.’s Second Law
 
