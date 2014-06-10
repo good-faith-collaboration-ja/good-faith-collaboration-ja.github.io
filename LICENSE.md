@@ -1,5 +1,4 @@
-Creative Commons Legal Code Attribution-NonCommercial-ShareAlike 3.0
-Unported
+#[Creative Commons Legal Code Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
   
       CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT
       PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT
@@ -8,7 +7,7 @@ Unported
       WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS
       LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
   
-  License
+ ## License
   
   THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
   CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS
@@ -22,7 +21,7 @@ Unported
   THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH
   TERMS AND CONDITIONS.
   
-  1. Definitions
+## 1. Definitions
   
       "Adaptation" means a work based upon the Work, or upon the Work
       and other pre-existing works, such as a translation, adaptation,
@@ -115,12 +114,12 @@ Unported
       storage of a protected performance or phonogram in digital form or
       other electronic medium.
   
-  2. Fair Dealing Rights. Nothing in this License is intended to reduce,
+## 2. Fair Dealing Rights. Nothing in this License is intended to reduce,
   limit, or restrict any uses free from copyright or rights arising from
   limitations or exceptions that are provided for in connection with the
   copyright protection under copyright law or other applicable laws.
   
-  3. License Grant. Subject to the terms and conditions of this License,
+## 3. License Grant. Subject to the terms and conditions of this License,
   Licensor hereby grants You a worldwide, royalty-free, non-exclusive,
   perpetual (for the duration of the applicable copyright) license to
   exercise the rights in the Work as stated below:
@@ -148,8 +147,8 @@ Unported
   in other media and formats. Subject to Section 8(f), all rights not
   expressly granted by Licensor are hereby reserved, including but not
   limited to the rights described in Section 4(e).
-  
-  4. Restrictions. The license granted in Section 3 above is expressly
+ 
+## 4. Restrictions. The license granted in Section 3 above is expressly
   made subject to and limited by the following restrictions:
   
       You may Distribute or Publicly Perform the Work only under the
@@ -289,7 +288,7 @@ Unported
       under Section 3(b) of this License (right to make Adaptations) but
       not otherwise.
   
-  5. Representations, Warranties and Disclaimer
+## 5. Representations, Warranties and Disclaimer
   
   UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING AND TO
   THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR OFFERS THE
@@ -302,13 +301,13 @@ Unported
   THE EXCLUSION OF IMPLIED WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY
   TO YOU.
   
-  6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY
+## 6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY
   APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY
   LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR
   EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK,
   EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
   
-  7. Termination
+## 7. Termination
   
       This License and the rights granted hereunder will terminate
       automatically upon any breach by You of the terms of this
@@ -328,7 +327,7 @@ Unported
       terms of this License), and this License will continue in full
       force and effect unless terminated as stated above.
   
-  8. Miscellaneous
+## 8. Miscellaneous
   
       Each time You Distribute or Publicly Perform the Work or a
       Collection, the Licensor offers to the recipient a license to the
