@@ -23,7 +23,7 @@
 ## 作業場所
 * [レポジトリ](https://github.com/good-faith-collaboration-ja)
 * [ウィキ](https://github.com/good-faith-collaboration-ja/gfc-ja/wiki)
-** [用語集](https://github.com/good-faith-collaboration-ja/gfc-ja/wiki/%E7%94%A8%E8%AA%9E%E9%9B%86)
+  * [用語集](https://github.com/good-faith-collaboration-ja/gfc-ja/wiki/%E7%94%A8%E8%AA%9E%E9%9B%86)
 
 ## 連絡先
  * 窓口：[whym](https://github.com/whym)
