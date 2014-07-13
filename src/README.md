@@ -19,12 +19,3 @@
 帰属表示は [Joseph Reagle](http://reagle.org)、Yusuke Matsubara でお願いします（寄稿者が増えた場合は更新します。最新の情報はレポジトリの Contributors の欄をご覧ください）。
 
 寄稿者の方は「[日本語版について](about-ja.md)」をお読みください。ライセンスについてより詳しい説明があります。
-
-## 作業場所
-* [レポジトリ](https://github.com/good-faith-collaboration-ja)
-* [ウィキ](https://github.com/good-faith-collaboration-ja/gfc-ja/wiki)
-  * [用語集](https://github.com/good-faith-collaboration-ja/gfc-ja/wiki/%E7%94%A8%E8%AA%9E%E9%9B%86)
-
-## 連絡先
- * 窓口：[whym](https://github.com/whym)
-   * 電子メール whym@whym.org <Yusuke Matsubara>
