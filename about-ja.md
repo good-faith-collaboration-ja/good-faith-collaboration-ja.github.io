@@ -1,6 +1,8 @@
 # 日本語版について
 
-2011年春頃から、数名の有志が Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) の日本語訳を行っています。進捗状況と最新の翻訳結果が http://goof-faith-collaboration-ja.github.io で公開されています。
+2011年春頃から、数名の有志が Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) の日本語訳を行っています。進捗状況と最新の翻訳結果が http://good-faith-collaboration-ja.github.io で公開されています。
+
+文意のとりちがえ、用語の誤りなどがありましたら、 https://github.com/good-faith-collaboration-ja/good-faith-collaboration-ja.github.com/issues にお知らせください。
 
 ## 寄稿者へのお願い
 
@@ -11,9 +13,13 @@
 
 ### CC-BY-NC-SA 3.0
 
+CC-BY-NC-SA は非商用利用にかぎって再配布を許可するライセンスです。
+
 Joseph Reagle 氏は著書 [*Good Faith Collaboration: The Culture of Wikipedia* (Joseph Reagle, 2010)](http://reagle.org/joseph/2010/gfc/) を CC-BY-NC-SA 3.0 で公開しています。本翻訳はそのライセンスにのっとり、同書の二次著作物として同じ CC-BY-NC-SA ライセンスで配布しています。このため、翻訳文は CC-BY-NC-SA 3.0 でリリースされる必要があります。
 
 ### CC-BY-SA 3.0
+
+CC-BY-SA は非商用・商用のどちらの目的であっても再配布を許可するライセンスです。
 
 NC 系ライセンスは「非営利」か否かの判断に幅があり自由な利用がむずかしいのではないか、という[議論](http://wiki.creativecommons.org/NonCommercial)があります。このため、本翻訳プロジェクトでは原文と翻訳をともに CC-BY-SA に切り替えることを検討しています。このため、原著者が同意するまで実際的な効果はありませんが、翻訳者にはあらかじめ CC-BY-SA にご同意いただくことにしています。** 原著者が CC-BY-SA で原文をリリースするまでは、このプロジェクトによる翻訳結果を CC-BY-SA で利用することはできません。 **
 
