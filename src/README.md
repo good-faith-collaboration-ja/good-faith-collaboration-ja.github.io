@@ -16,6 +16,6 @@
 ## ライセンス
 [Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC-BY-SA-3.0) で配布しています。
 
-帰属表示は [Joseph Reagle](http://reagle.org)、Yusuke Matsubara でお願いします（寄稿者が増えた場合は更新します。最新の情報はレポジトリの Contributors の欄をご覧ください）。
+帰属表示は [Joseph Reagle](http://reagle.org)、Yusuke Matsubara でお願いします（寄稿者が増えた場合は更新します。最新の情報はレポジトリの [Contributors](https://github.com/good-faith-collaboration-ja/good-faith-collaboration-ja.github.io/graphs/contributors) の欄をご覧ください）。
 
 寄稿者の方は「[日本語版について](about-ja.md)」をお読みください。ライセンスについてより詳しい説明があります。
