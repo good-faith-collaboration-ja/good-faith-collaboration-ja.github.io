@@ -15,7 +15,7 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 * 第8章：0% - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)* ／ 仮訳 結論：「調和する地球」
 
 ## ライセンス
-[Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC-BY-SA-3.0) で配布しています。
+[Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC-BY-NC-SA 3.0) で配布しています。
 
 帰属表示は [Joseph Reagle](http://reagle.org)、Yusuke Matsubara でお願いします（寄稿者が増えた場合は更新します。最新の情報はレポジトリの [Contributors](https://github.com/good-faith-collaboration-ja/good-faith-collaboration-ja.github.io/graphs/contributors) の欄をご覧ください）。
 
