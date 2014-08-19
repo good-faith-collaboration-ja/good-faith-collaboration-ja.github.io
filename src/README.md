@@ -7,7 +7,7 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 ## 進捗状況
 * [第1章 ナチスと規範](ch01/gfc-ja-ch01.md)：100%、校正中 (2011-02) - 原題 *[Nazis and Norms](http://reagle.org/joseph/2010/gfc/chapter-1.html)*
 * [第2章 普遍的な百科事典の追求](ch02/gfc-ja-ch02.md)：100%、校正中 (2012-03) - 原題 *[The Pursuit of the Universal Encyclopedia](http://reagle.org/joseph/2010/gfc/chapter-2.html)*
-* [第3章 善意にもとづく共同作業](ch03/gfc-ja-ch04.md)：100%、校正中 (2014-06) - 原題 *[Good Faith Collaboration](http://reagle.org/joseph/2010/gfc/chapter-3.html)*
+* [第3章 善意にもとづく共同作業](ch03/gfc-ja-ch03.md)：100%、校正中 (2014-06) - 原題 *[Good Faith Collaboration](http://reagle.org/joseph/2010/gfc/chapter-3.html)*
 * [第4章 開放性の謎](ch04/gfc-ja-ch04.md)：100%、校正中 (2012-08) - 原題 *[The Puzzle of Openness](http://reagle.org/joseph/2010/gfc/chapter-4.html)*
 * [第5章 合意という難題](ch05/gfc-ja-ch05.md)：5% (2014-07) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
 * 第6章：0% - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)* ／ 仮訳 優しい独裁者
