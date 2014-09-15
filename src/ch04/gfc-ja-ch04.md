@@ -1,7 +1,7 @@
-Chapter 4
-§1The Puzzle of Openness
+# Chapter 4
+# §1The Puzzle of Openness
 
-開放性の謎
+# 開放性の謎
 
 > ¶1Problematic users will drive good users away from Wikipedia far more often than good users will drive away problematic ones. — Extreme Unction’s Third Law
 
@@ -38,9 +38,9 @@ Chapter 4
 
 以降の節では、私がオープンコンテントコミュニティと呼ぶものの特徴5つにウィキペディアを照らす。この概念によって、ある種類のコンテンツ、たとえばFOSSと、それを生み出すコミュニティとを区別することができる（「閉鎖性の」起業が「開放性の」ライセンスでソフトウェアを生み出すこともありうる）。さらに、開放性についての議論において暗示される、より具体的な価値観を同定することができる。その後、開放性とそれに関連する価値観が、ウィキペディアコミュニティがみずからをいかに理解するかについて奮闘する4つの案件に照らして、検討される。最初の案件では、ウィキペディアが実際に「誰でも編集できる」のかという質問に立ち返る。つまり、ウィキペディアがサイト上の荒らしを制限するために新しい技術的権限を導入したとき、それはウィキペディアの開放性を高めるのか低めるのか？ 第二の案件では、成熟するオープンコンテントコミュニティがウィキペディアをこえた世界と相互作用するときに必要とされる事項がその開放性に影響を与える様式についてを述べる。ここでは、自由と透明性を重んじるコミュニティの価値観と対照的なものとして、ウィキペディアが潜在的な法的問題を回避するために秘密裏に行動する、ウィキペディアの「事務局行動」を振り返る。最後に、閉鎖性の（女性だけの）グループが、より広いウィキペディアコミュニティの外で、またその「開放性」を理由として、立ち上げられた案件を見る。
 
-§2Open Content Communities
+## §2Open Content Communities
 
-オープンコンテントコミュニティ
+## オープンコンテントコミュニティ
 
 ¶9I use the word community to speak of a group of interdependent people who “participate together in discussion and decision making and who share certain practices that both define the community and are restored by it.”8 Wikipedia community members do share common practices and norms; as we’ve seen, they share a collaborative culture. Furthermore, the Wikipedia community can be further understood as “prosocial” in that it exhibits behavior that is intentional, voluntary, and of benefit to others.9 But even if we can defensibly claim it is a prosocial community, can anyone claim that it is truly open? Such a question requires a better sense of what open means. After reviewing its many uses as inspired by FOSS, I characterize openness in this context as an accessible and flexible type of collaboration whose result may be widely shared.10 More specifically, an open content community is characterized by:
 
@@ -98,9 +98,9 @@ Chapter 4
 
 GFDL はソフトウェアのテキスト文書にに付随させるよう意図されていたため、また一部の人には柔軟性に欠けると思われたため、新しい非ソフトウェアコンテンツのライセンスが出現した。さらに広くには、2001年に立ち上がったクリエイティブ・コモンズのプロジェクトが。テキスト、写真、音楽の共有のためのライセンスを提供した。クリエイティブ・コモンズ創始者のひとり法律学教授ローレンス・レッシグは、著書 Free Culture で、ソフトウェアを超えた領域の自由と開放性という考えが広まるのを助けた。ウィキペディアは、より広いフリーカルチャー運動のおそらくもっともよく知られた事例である。
 
-§3Transparency and Integrity
+## §3Transparency and Integrity
 
-透明性と一体性
+## 透明性と一体性
 
 ¶23On the Meatball wiki, “a common space for wiki developers and proprietors from all over the Internet to collaborate,” the values of transparency and integrity are partially captured by what it calls “Fair Process,” which itself includes the three principles of engagement, explanation, and clarity; fair process is particularly important in voluntary communities, where “because fair process builds trust and commitment, people will go above and beyond the call of duty.”22
 
@@ -118,9 +118,9 @@ GFDL はソフトウェアのテキスト文書にに付随させるよう意図
 
 しかし、「なんでもあり」という開放性のナイーブな表現とまったく同じように、ウェブに投稿されたからといって完全な透明性と一体性が達成できると考えるのは、単純化されすぎている。これから見るように、プライベートな通信手段がほかにあるかもしれず、多すぎる情報はときに何もないのと同じくらい有効性が低いからである。
 
-§4Non-Discrimination
+## §4Non-Discrimination
 
-無差別
+## 無差別
 
 ¶27A common tendency in groups is to adopt a parochial in-group/out-group mentality; Wikipedia cultural norms attempt to counter this. In the 2001 “Statement of Principles” Wales wrote, “Newcomers are always to be welcomed. There must be no cabal, there must be no elites, there must be no hierarchy or structure which gets in the way of this openness to newcomers.” This is further reflected in the famous Wikipedia maxim “Please Do Not Bite the Newcomers.”27
 
@@ -167,9 +167,9 @@ wikipedia-l への手紙のなかで、「秘密結社」という言葉を賢�
 
 そしてその次の日、ウェールズは「原理の宣言」をウィキ上に投稿することで、ウィキペディアの成功にとって開放性が重要であることを強調した。それでもなお、秘密結社への恐れは頻繁に持ち上がり続けた。これは、ときに実践が十分な原理を欠き、人々が権力のある人々を疑うという人間の本性であり社会にとって不可避なことである。ウィキペディアンはいっぽうで頻繁に透明性、一体性、差別についての懸念を持ち出す。そのいっぽうで、Extreme Unction の第一法則が指摘するように「十分な数の人々が独立に同じ目標に向かって行動すれば、その最終結果は陰謀と見分けがつかない」。
 
-§5Non-Interference
+## §5Non-Interference
 
-不干渉
+## 不干渉
 
 ¶38Simply, if the content is available under an open/free license, those dissatisfied with it or the community can take the content and work on it elsewhere.34 Steven Weber notes the importance of forking by claiming: “The core freedom in free software is precisely and explicitly the right to fork.” While I don’t consider it to be the “core freedom” but rather a critical social implication of open/free content, it is a “fundamental characteristic” of FOSS. And I do agree that “to explain the open source process is, in large part, to explain why [forking] does not happen very often and why it does when it does, as well as what that means for cooperation.”35 To this end, David Wheeler likens forking to “the ability to call for a vote of no confidence or a labor strike …. Fundamentally, the ability to create a fork forces project leaders to pay attention to their constituencies.”36
 
@@ -179,17 +179,17 @@ wikipedia-l への手紙のなかで、「秘密結社」という言葉を賢�
 
 ウィキペディアのコンテンツのフォークは過去に起こったことがあり、振りかざされ議論されつづけている。たとえば、ウィキペディアが広告を掲載する可能性についての誤解によって、スペイン語のウィキペディアが Enciclopedia Libre Universal にフォークされた（この誤解はのちに解消され、スペイン語版ウィキペディアがフォークを置き換えた）。ほかにいは、指摘されているように、専門家であるウィキペディア投稿者への敬意の欠如についてのラリー・サンガーの不満が、彼を Citizendium 計画に導いた。Citizendium はウィキペディアと同じソフトウェア（「MediaWiki」）を使い、ウィキペディアのコンテンツを受容し改善するものと考えられている。しかし、 Citizendium のライセンスを決める手続きは間違いなく素早い簡単なものとは言えなかった。 Citizendium 投稿者のあいだの懸念のひとつは GFDL ライセンスを使い、したがってウィキペディアのコンテンツを使える（そしてそれを改善できる）としたら、ウィキペディアは改善された Citizendium のコンテンツを移入しもどすことがありうるということだった。これは、自分たちは異なるものでありそのアプローチが優越すると望んた人たちにとっては受け入れがたいことだった。したがって、ウィキペディアのコンテンツが一部すでに受容されていたことから、 Citizendium は借りた婚t年つの「フォーク解消」の可能性を実験しはじめた。いちから書きなおしたのである。しかし2007年12月、 Citizendium はクリエイティブ・コモンズライセンスを選択した。GFDL 互換にしようという独立した動きが起こったあとであり、これによって「ウィキペディアと Citizendium はたがいにコンテンツを容易にやりとりできるようになる」ことを意味した。いずれにしても、ウィキペディアのフォークは周知の可能性であり、その開放性の帰結である。ウェールズがはやくにニューペディアについて「ある観点の推進者が私たちは偏っていると主張し、私たちがある種の合意にたどりつくことができなかったとしたら、彼らは私たちのコンテンツを基礎として使い、様々な項目を加えたり取り除いたりして自分たちの百科事典を作ることができるということは、指摘しておくべき重要なことです。オープンソースが、無料のビールではなく言論の自由に関わる意味はまさにこれです。」
 
-§6Discussing Openness
+## §6Discussing Openness
 
-開放性を議論する
+## 開放性を議論する
 
 ¶40Openness entails a handful of constituent values that are not always easily reconcilable in problematic situations. In the following sections I review four cases that challenged the community on questions of openness: whether anyone can really edit, the legitimacy of office actions, the effects of bureaucratization, and the WikiChix enclave.
 
 開放性は、困難な状況では適用できるとは限らない、いくつかの価値で構成される。以降の節では、コミュニティに開放性への疑問が投げかけられた4つの事案の振り返る。それぞれの事案は、本当にだれでも編集できるのか、事務局行動の正統性、官僚化の影響、WikiChix 居留地についてである。
 
-§7Can Anyone Really Edit?
+## §7Can Anyone Really Edit?
 
-本当にだれでも編集できるのか？
+## 本当にだれでも編集できるのか？
 
 ¶41As noted, the English Wikipedia declares itself as “the free encyclopedia that anyone can edit.”41 Presently, this includes the unregistered/anonymous (i.e., those who don’t have an account or don’t log into it before editing). Despite the common retort that Wikipedia is “not an anarchy,” among other things,42 the feature of openness and anonymous editing continues to be a valued part of Wikipedia’s identity: even those who always log in might still support allowing others to edit without logging in.
 
@@ -275,9 +275,9 @@ wikipedia-l への手紙のなかで、「秘密結社」という言葉を賢�
 
 問題のある利用者をブロックする試みすらもすべて開放性から離れる一歩だと論じる人もいるかもしれないが、素行の悪い荒らしによる混沌の文化は、百科事典のプロジェクトを動かすのに肯定的な貢献をしたいと願う人々から等しく参画の機会を奪ってしまう。コミュニティは平衡をもたらす行動をとらなければならない。これは難しく、ときに落ち着いてもまた乱されることがある。たとえば、伝記項目への不適切な編集への懸念がつづいたために、ウェールズは「FlaggedRevisions」機能を英語版ウィキペディアで有効化することを2009年に提案した。Flagged revisions  は長く議論されている仕組みであり、各ページで最後に編集された版ではなく承認された版を「一般の人」（つまりログインしていない人）に見せるものである。これは、このウィキの高品質な見え方、すなわち、論争のある項目に安定して攻撃的でない外観（すなわち「Flagged Protection」）を与えるために使うことができる。この提案は、「保存」ボタンを押すと各自の編集がすぐに見えるようになるというウィキのエートスに反するように思われるかもしれない。実際、ウェールズは「原理の宣言」で「『このページはいますぐ編集できます』ということが私たちがやることすべてを導く基準のひとつです。私たちはこの原理を神聖なものとして尊重しなければなりません」と書いている。もちろん、バランスはずらさなければならないこともあり、一般の人にすぐには見えなくとも「今すぐ」編集することはできる。ｓらに、この解決策はウィキを閉鎖するような制約のように見えるかもしれないが、そのページが単純に保護されている場合と比べれば、十分に広いアクセスが提供できる。
 
-§8Interfacing with the Outside World
+## §8Interfacing with the Outside World
 
-外界とつなぐ
+## 外界とつなぐ
 
 ¶62On Wikipedia one is expected to discuss the editing of an article with fellow contributors, at a minimum by including a summary when saving an edit. Arguments are made in the open with reference to verifiable sources and community policy. However, for those with a proprietary interest, this process of reasoned discussion can be circumvented via a call or letter to the “Wikipedia office,” that is, by formally contacting the Wikimedia Foundation. And, sometimes, rightfully so. What obligation did Seigenthaler, someone completely unfamiliar with wikis, have to remove the libelous claim from Wikipedia that he was implicated in the assassination of the Kennedys?67 None. As Wales wrote, “The problem we are seeing, again and again, is this attitude that some poor victim of a biased rant in Wikipedia ought to not get pissed and take us up on our offer of ‘anyone can edit’ but should rather immerse themselves in our arcane internal culture until they understand the right way to get things done.”68
 
@@ -295,9 +295,9 @@ WP:Office のようなウィキ外で議論が行われる仕組みは、残念�
 
 ウィキペディアによる情報の隠蔽は2009年6月にマスメディアから注目された。ニューヨーク・タイムズの記者デヴィッド・ロードは、タリバンに拉致され、逃亡するまでの7ヶ月をアフガニスタンで捕らわれていた。逃亡したとき、タイムズはその題材をそのあいだ隠蔽し、他社にもそう依頼していたと報じた。注意を引きロードにさらなる危険が及ばないようにするためである。そのなかに、ロードの伝記項目への匿名投稿者からの投稿の試みがあったウィキペディアにこの情報が載らないようにしてほしいとの、ウィキメディア財団への依頼もあった。自分の行動が注目を引くことを知りながら、ジミー・ウェールズは他の人と協力してこれが再び表示されないようにつとめた。その主張を除去することは —メディアがその題材を隠蔽していたのだから— 十分な名声のある情報源が欠けていることによって正当化された。さらにそのページは保護（以後の編集ができないようにロック）された。ウェールズは、その投稿者がだれなのかはまったく分からなかったから、「こっそり連絡して『ちょっとやめてくれ、こういう事情がある』と話すこともできなかった」と言った。6月20日、報道が解禁され、ウェールズは保護を解いた。30分もたたないうちに、あの投稿者がその情報が隠蔽されていた理由をまだ認識せずに、参考文献を付け、「これだけ証拠をだせば十分だろ馬鹿。正しかったのは俺。 :P」と要約を付けて、ロードの逃亡を追記した。コミュニティ内では、というよりコミュニティの外から、開放性と嘘をつかないことというウィキペディアが執着する原理と、他者の安全を守る責任とについて様々な議論がなされた。ウィキペディアは外界からの影響を受けるだけではなく、ウィキペディアが文書化する対象である世界もウィキペディアから影響を受けるのである。
 
-§9Bureaucratization
+## §9Bureaucratization
 
-官僚化
+## 官僚化
 
 ¶66The community’s own internal development also has implications concerning its openness. Sociologist Max Weber observed that leadership often shifts from a charismatic leader to a more bureaucratic form of governance as a community matures.75 Clay Shirky, a contemporary scholar of “social software,” makes a more irreverent observation: “Process is an embedded reaction to prior stupidity,” meaning “an organization slowly forms around avoiding the dumbest behaviors of its mediocre employees, resulting in layers of gunk that keep its best employees from doing interesting work.”76 The Wikipedia essay “Practical Process” clearly defines the role of process (i.e., to implement policy, to provide consistency, to reduce redundancy in similar situations, and to further learning and decision making); but it also identifies how it emerges, and hardens, how to recognize bad process, and warns that “You can’t legislate against misunderstanding or malice.”77 (An earlier version of the essay was more concise: “You can’t legislate clue.”78)
 
@@ -315,9 +315,9 @@ WP:Office のようなウィキ外で議論が行われる仕組みは、残念�
 
 一定の方針はどのコミュニティにも必要で、官僚化は組織の発達において広く見られる — 不可避であるともよく言われる —特徴だ。ウィキペディアの方針についてのある研究が結論づけたように、「ウィキが体現する[とされる]『無方針』の理想は夢物語に終わる」。とはいえ、手続きの結集のさなかでも、オープンコンテントコミュニティの透明性と一体性の価値観はおおむね守られる。しかし、方針の集積が重くなりすぎれば、一体性は不満と「ウィキ法律屋ごっこ」（方針の精神よりも文面に注目する、過剰に技術的、法律的な議論）とに脅かされる。たとえば、方針の急伸を見てあるウィキペディアンは「手続き病をやめる」ことを宣言した。「本日をもって、私はとにかく編集します。規則ばかりでは、神経質で憂鬱になってしまいます。私は覚えられる範囲のことには従います。そうでないことは無理して学ぼうとしません」
 
-§10Enclaves and Gender
+## §10Enclaves and Gender
 
-居留地とジェンダー
+## 居留地とジェンダー
 
 ¶70One should not be surprised that a source of contention in open content communities is when a subset of community members creates a closed space. The conditions that prompt such proposals and the rhetoric marshaled to support or attack them give insight into a community’s attempts to understand and implement openness.
 
@@ -387,9 +387,9 @@ WikiChix の提案への最後の、parliamentary な反論は、この排他的
 
 とはいえ、 WikiChix がひらかれたままで女性を支持するかわりに男性を排除したことは、透明性と無差別に関して明らかに問題だ。さらに、サンステインは居留地は集団の分極化と周縁化をそだてることがあると認識し、居留地の構成員がより大きなコミュニティとの連絡をとりもどすよう推奨する。そうしなければ、孤立により過激主義をまねくことがある。この問題を追うなかで、女性に友好的な空間がつくられたあとで女性の参加が減ったと私は認識していない。女性が共通空間を捨てるという説への反論は、引き戻ることができるより支援的な空間があることで、共通空間での発言がしやすくなるという説だ。とはいえ、これらほかの女性特有の空間はひらかれているのに対して、WikiChix はジェンダー排他的だ。最終的には時間が答えを出すことであり、構成要素はすべて共通の目的（Wikipedia）を持っているのだから、周縁化と過激主義は最小にとどまるだろうと私は予期する。
 
-§11Conclusion
+## §11Conclusion
 
-結論
+## 結論
 
 ¶87Wikipedia is an example of an open content community. Such a conceptualization entails the core value of providing open content, and the implication of forking. However, it can be difficult to balance the associated values of transparency, integrity, and nondiscrimination, as well as other concerns such as free speech and the safety of people and the project itself. Furthermore, boundaries are a fundamental feature of any community, even for those that aspire to openness because it is rarely a simple binary of open or closed. Even a theoretically perfect openness can lead to behavior and informal structures that are less than inclusive. As Clay Shirky writes, “successful open systems create the very conditions that require and threaten openness. Systems that handle this pressure effectively continue (Slashdot comments). Systems that can’t or don’t find ways to balance openness and closedness — to become semi-protected — fail (Usenet.)”113
 
