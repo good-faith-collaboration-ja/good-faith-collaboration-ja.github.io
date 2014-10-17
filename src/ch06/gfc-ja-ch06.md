@@ -1,5 +1,118 @@
-The Benevolent Dictator
+# Chapter 6
+# §1The Benevolent Dictator
+# 優しい独裁者
 
 http://reagle.org/joseph/2010/gfc/chapter-6.html
 
-（この章はまだ翻訳されていません）
+訳注 この章の翻訳途中です。
+
+
+>   ¶1When a building is on fire, a leader will not survey everyone to see what the consensus is about a response. It is time for action. — Bhadani’s Second Law
+
+> 建物が火事になったとき、どういう対応で合意できるかを全員にたずねるようなことを指導者はしない。行動すべきときだからだ。 --Bhadani の第2法則
+
+¶2Open, civil, egalitarian, deliberative: these are some of the concepts encountered in the pursuit of a universal encyclopedia. While they might seem simple enough in the abstract, they become much less so when used in the practice and discourse of a community. For instance, a perfectly “open” community will likely be chaotic, rendering it inhospitable to many. Or, if consensus doesn’t require unanimity, agreement — unanimous or otherwise — on what it does require can be elusive. Some of the sources and ironies of the English Wikipedia’s collaborative culture are further highlighted when one considers the role and status of leadership. Wikipedia, like other open content communities, is predominately a voluntary effort — aside from a few Wikimedia Foundation staff — and there’s little room for coercion or utilitarian rewards.1 Yet, there is often a seemingly paradoxical use of informal tyrant-like titles (i.e., “benevolent dictator”) for the community leader. What, then, can we make of this latest puzzle?
+
+オープン、市民（FUZZY polite の意味か？）、平等主義、調整：これらは普遍的百科事典を追求するなかで遭遇する概念の一部だ。抽象においては十分単純にみえるかもしれないが、コミュニティの実践とディスコース（FUZZY）ではそれほど単純ではなくなる。たとえば、完璧に「オープン」なコミュニティは混沌におちいる可能性がたかく、多くの人にとって過ごしにくくなる。合意が全会一致でなくてもよいなら、どうなれば合意なのかについての同意--それが全会一致であれ他のものであれ--はつかみにくくなる。英語版ウィキペディアの共同作業の文化の源と皮肉の一部は、指導者の役割と地位について考えるとさらに鮮明になる。ウィキペディアは、他のオープンコンテントコミュニティと同様、少数のウィキメディア財団職員をのぞけば、自発的な活動が主体であり、強制力や功利主義報酬の余地はほとんどない。それでも、コミュニティの指導者に対して、一見矛盾するような、非公式の専制的な称号（「優しい独裁者」など）が使われることがある。では、この難題はどう読み解くことができるだろうか。
+
+¶3 In this chapter I show how this juxtaposition can be understood as an “authorial” form of leadership whereby exceptional autocratic power is exercised by a respected “author” within an open content community. I then return to the story of Wales and Sanger, for their conceptions of leadership and expectations for the community profoundly shaped its direction and culture. Finally, I consider how the community discusses this type of leadership and the values with which it seems at odds.
+
+本章では、この対比（FUZZY juxtaposition）が指導力の「著者的」形式として理解できることを示す。指導力の著者的形式とは、ここでは例外的独裁的権力がオープンコンテントコミュニティ内で尊重される「著者」によって行使される様子を言う。その後、ウェールズとサンガーの物語に戻り、指導力についての彼らの考え方、コミュニティの方向と構造を深く形成した彼らのコミュニティについての期待をとりあげる。
+
+## §2Authorial leadership
+
+## 著者的指導力
+
+¶4During one of the discussions about a feared “neo-Nazi” attack with which I began this book, Jimmy “Jimbo” Wales responded, “If 300 NeoNazis show up and start doing serious damage to a bunch of articles, we don’t need to have 300 separate ArbCom cases and a nightmare that drags on for weeks. I’ll just do something to lock those articles down somehow, ban a bunch of people, and protect our reputation and integrity.”2 How can such an autocratic statement be made within a supposedly open and consensus-based community? (I continue to use the term autocratic to describe, nondisparagingly, leadership actions that do not derive their authority from group decision-making processes.) Actually, such an exercise of power by a community founder is not unique to Wikipedia. Such “authorial” leadership is common to many open content communities and prompts three questions that merit attention: What is the environment from which such leadership emerges? How is it enacted? And, most interesting, how is it discussed and understood by the community?3
+
+本書の冒頭でとりあげた「ネオナチ」による恐ろしい攻撃についての一連の議論のひとつのなかで、ジミー・ウェールズ（または「ジンボ」）はこのように答えた。「ネオナチが300人現れて、たくさんの項目に深刻な被害を与えはじめたら、ArbCom への訴えを300件出して何週間も悪夢になやまされる必要はありません。私がそうした項目をなんらかの方法で凍結し、何人もを追放して、私たちの名誉と倫理を守ります」。このような独裁者的宣言がオープンであり合意にもとづくとされるコミュニティでなされることができるのだろうか（私は「独裁」という用語を、貶める意図を込めず、集団の意思決定から権威を導かずに指導者が行う行為として使いつづける）。実際、コミュニティ創設者によるこうした権力の行使はウィキペディアに固有ではない。こうした「独裁」的指導者はオープンコンテントコミュニティの多くでみられ、注目に値する3つの疑問を生じさせる。こうした指導者が出現するのはどんな環境か？ どのようにしてそれが成立するか？ そしてもっとも興味深いのは、それがコミュニティでどのように議論され理解されるのか？ だ。
+
+¶5 With respect to the environment, such leaders often found a project (often by authoring the initial content) around which a community develops, or otherwise emerge from a leaderless context by way of merit; subsequently they influence the direction of a community’s culture.4 Furthermore, this type of leadership often operates within a mix of governance models: ,meritocratic (setting the direction by leading the way), autocratic (acting as an arbiter or defender of last resort), anarchic (consensus); and occasionally democratic (voting).5 Wales himself has noted that:
+
+環境に関しては、こうした指導者は、プロジェクトを（しばしば初期のコンテンツを著して）創設しそのまわりにコミュニティが発展していくか、もしくは指導者がいない文脈で功績（FUZZY merit）をもとに出現することが多く、その後コミュニティの文化の方向性に影響を与える。さらに、この種の指導力は、功績主義（進む道を先導することで方向を決める）、独裁（最後の手段としての裁定者または守護者）、無政府主義（合意）、場合によって民主主義（投票）など、複数の統治モデルの混合で運用されることが多い。ウェールズ自身はこのように述べた。
+
+> ¶6 Wikipedia is not an anarchy, though it has anarchistic features. Wikipedia is not a democracy, though it has democratic features. Wikipedia is not an aristocracy, though it has aristocratic features. Wikipedia is not a monarchy, though it has monarchical features.6
+
+> ウィキペディアは無政府的な特徴を持っていますが、無政府主義ではありません。民主的な特徴を持っていますが、民主主義ではありません。貴族主義的な特徴を持っていますが、貴族主義ではありません。君主政治的な特徴を持っていますが、君主政治ではありません。
+
+¶7 With respect to conduct, leaders often convince by persuasion and example though they also retain charismatic authority accumulated from their merit.7 This authority is frequently employed to act, as a last resort, as an arbiter between those of good faith or as an (autocratic) defender against those of bad faith. As Free and Open Source Software (FOSS) luminary Eric Raymond notes, leaders must be capable of operating with a “soft touch,” to “speak softly,” consult with peers, and “not lightly interfere with or reverse decisions” made by other prominent members.8 Additionally, humor and civility facilitate camaraderie between all participants and ease the exercise of authority and related anxiety.
+
+振る舞いに関しては、指導者は説得することと模範を示すこととで同意を得るが、実績の積み重ねによってできたカリスマ的権威も保持している。この権威は、最後の手段として、善意の人のあいだの裁定者として、悪意の人からの（独裁的）守護者として、行動するために使われることが多い。自由オープンソースソフトウェア（FOSS）について著名なエリック・レイモンドは、指導者は「やわらかな物腰」で行動し、「やわらかな話し方」をし、同僚と相談し、他の卓越した構成員による「決定に軽々しく干渉したり取り消したりしない」ことができなければならないと指摘する。くわえて、ユーモアと礼儀は全参加者のあいだでの仲間意識をそだて、権威の発動とそれにともなう不安な状態をやわらげる。
+
+¶8 Finally, such leadership is rarely enacted or understood as a formal office, though prominent leaders might be endowed with the informal moniker of “benevolent dictator” and occasionally act autocratically,9 as Wales threatened in the neo-Nazi case. However, leaders whose autocratic actions exceed their accumulated merit or charisma, sometimes referred to “idiosyncrasy credits” or “reputation shares,” risk their status and a forking of the community.10 For example, while a “benevolent dictator” might be tolerated as a necessity, a “God King” is a “site owner or administrator who uses their special authority more than absolutely necessary.” This is a leader so “arrogant that they suppose they are ‘god’ ”; this type of leadership is an “abuse,” “a bad thing,” and an “anti-pattern” of good wiki community.11 Also, the possibility of forking — even if unlikely — is central to voluntary community dynamics and discourse, as David Wheeler notes with respect to FOSS communities:
+
+最後に、卓越した指導者は非公式に「優しい独裁者」という呼称が与えられることがあり、ウェールズがネオナチの件で警告したように独裁的に振る舞う場合もあるものの、こうした指導者の力が公式の機関として制定されたり理解されたりすることは稀だ。しかし、独裁的行動が（しばしば「逸脱の貯金」や「名声の株式」と呼ばれる）積み重ねられたカリスマや実績を越えてしまった指導者は、その地位を失ったりコミュニティがフォークしたりする危険にさらされる。「優しい独裁者」は必要なものとして許容されるかもしれないが、たとえば、「ゴッドキング」は「みずからの特殊な権威をどうしても必要な程度以上に使うサイト所有者または管理者」だ。この種の指導者は「傲慢にもみずからを『神』とする」。こうした指導者のありかたは「濫用」「悪いこと」であり、ウィキのコミュニテの「アンチパターン」だ。（それほど高くなくとも）フォークの可能性は自発性にもとづくコミュニティの力学と言論において中心的だということを、David Wheeler は FOSS コミュニティに関してこう指摘する。
+
+>    ¶9 Fundamentally, the ability to create a fork forces project leaders to pay attention to their constituencies. Even if an OSS/FS project completely dominates its market niche, there is always a potential competitor to that project: a fork of the project. Often, the threat of a fork is enough to cause project leaders to pay attention to some issues they had ignored before, should those issues actually be important. In the end, forking is an escape valve that allows those who are dissatisfied with the project’s current leadership to show whether or not their alternative is better.12
+
+> 基本的なこととして、フォークを作ることができるということで、プロジェクトの指導者は支持者らへの注意を向けるようにさせられる。ある OSS または FS のプロジェクトが市場のニッチを完全に支配していたとしても、そのプロジェクトには常に潜在的な競合者がいる。そのプロジェクトのフォークだ。フォークの危険ができることは、多くの場合、それまで無視していた問題に、それが実際は重要なものだったとして、注意を向けるようにプロジェクトの指導者をしむけるのに十分だ。結局、プロジェクトの現在の指導者のありかたに不満のある人に、自分たちの代案のほうがよいかどうかを示すことを許す安全弁のひとつが、フォークなのである。
+
+¶10 In short, only those leaders that tread carefully and continue to make important contributions (including, now, the judicious exercise of autocratic authority) are granted the “dictator” title. Whereas this term might not be the most appropriate in capturing the genuine character of this role, it serves as a warning: a good-natured joke balanced on the edge of becoming a feared reality.13 It serves as a caution to such leaders, as well as a metaphoric yardstick for discussing any participant’s action.
+
+短く言えば、踏み込むときに慎重になり、重要な貢献（ここでは独裁的権威を賢明に行使することも含む）をつづける指導者だけが、「独裁者」の称号をあたえられる。これは、この役割の本質をとらえるもっとも的確な用語ではないかもしれないが、現実になることが恐れられている、行儀のよいジョークであり、ひとつの警告として働いている。こうした指導者に向けた警告でもあり、どの参加者の行為を論じるときにも使える比喩的なものさしでもある。
+
+¶11 Because of the voluntary and meritocratic character of open content communities it is not surprising that leaders are expected to lead by example as their very leadership is founded upon exemplary behavior; leadership emerges through action rather than appointment. And while a founding leadership role has some semblance of authoritarianism to it, at least in title, it is eternally contingent: a dissatisfied community, or some constituency thereof, can always leave and start again under new leadership.
+
+オープンコンテントコミュニティには自発的で功績主義的な性格がある。指導者が模範を示して指導することは、模範的な行動がその指導力の基礎になっていることからすれば、驚くにあたらない。指導力は任命ではなく行為から生まれる。創設者の指導者的役割には独裁主義の一面があるものの、すくなくとも建前では永遠に偶発的なものだ。コミュニティか支持層の一部は不満を持ったとき、いつでも離脱して新しい指導者のもとで立ち上げをすることができる。
+
+## §3Wales and Sanger
+
+## ウェールズとサンガー
+
+¶12Two of the most influential people in the history of Wikipedia are cofounders Larry Sanger and Jimmy Wales. In Organizational Culture and Leadership, Edgar Schein identifies ways in which such leaders embed and transmit culture including “how leaders react to critical incidents and organizational crises.”14 The following brief account of the crisis of Nupedia’s demise, Wikipedia’s rise, and Sanger’s departure provides a revealing introduction to leadership in the Wikipedia context.
+
+ウィキペディアの歴史上もっとも影響力のあったのは、共同創設者ラリー・サンガーとジミー・ウェールズの2名だ。著書 Organizational Culture and Leadership で Edgar Schein は「指導者が重大事件や組織の危機にいかに対応するか」等、こうした指導者が文化を埋め込み伝えていく方法を特定している。下記に示す、ニューペディアの死の危機、ウィキペディアの勃興、サンガーの離脱についての簡単なまとめは、ウィキペディアの文脈での指導力についての赤裸々な紹介となる。
+
+¶13 Wales, a co-owner of the Internet content and search company Bomis, hired Sanger in February 2000 to launch and act as the editor in chief of the Nupedia project. Until he resigned, Sanger was the most prominent leader of Nupedia (the original peer-review project) and Wikipedia (its wiki complement and eventual successor). As Sanger writes in his April 2005 memoir:
+
+インターネットのコンテンツと検索の会社 Bomis の共同経営者だったウェールズは、2000年2月、ニューペディア事業の編集責任者としてサンガーを雇った。辞職まで、サンガーはニューペディア（大本のピアレビューのプロジェクト）とウィキペディア（それを補完するウィキ版であり最終的な後継者）の最大の指導者だった。サンガーは2005年4月にこう述懐している。
+
+    ¶14 The idea of adapting wiki technology to the task of building an encyclopedia was mine, and my main job in 2001 was managing and developing the community and the rules according to which Wikipedia was run. Jimmy’s role, at first, was one of broad vision and oversight; this was the management style he preferred, at least as long as I was involved. But, again, credit goes to Jimmy alone for getting Bomis to invest in the project, and for providing broad oversight of the fantastic and world-changing project of an open content, collaboratively-built encyclopedia. Credit also of course goes to him for overseeing its development after I left, and guiding it to the success that it is today.
+
+¶15 What precipitated Sanger’s resignation? As discussed in chapter 2, Sanger was caught between continuing frustration with Nupedia’s slow progress on one hand and problems with unruly Wikipedians on the other. Furthermore, Sanger alienated some Wikipedians who saw his actions as unjustifiably autocratic and he eventually broke with the project altogether. In late 2006 Sanger launched the more expert-friendly collaborative encyclopedia Citizendium. In any case, Sanger’s account recognizes the uneasy tension between title and authority and cultural momentum at the founding of this community:
+
+    ¶16 My early rejection of any enforcement authority, my attempt to portray myself and behave as just another user who happened to have some special moral authority in the project, and my rejection of rules — these were all clearly mistakes on my part. They did, I think, help the project get off the ground; but I really needed a more subtle and forward-looking understanding of how an extremely open, decentralized project might work.
+
+¶17 Such an understanding might have been like that of Theodore Roosevelt’s recommended leadership style: speak softly and carry a big stick. Whereas Sanger did have special authority at Nupedia as “editor in chief,” such was not the case at Wikipedia, and Sanger’s corresponding “loudness” was a later cause of regret:
+
+    ¶18 As it turns out, it was Jimmy who spoke softly and carried the big stick; he first exercised “enforcement authority.” Since he was relatively silent throughout these controversies, he was the “good cop,” and I was the “bad cop”: that, in fact, is precisely how he (privately) described our relationship. Eventually, I became sick of this arrangement. Because Jimmy had remained relatively toward the background in the early days of the project, and showed that he was willing to exercise enforcement authority upon occasion, he was never so ripe for attack as I was.15
+
+¶19 Perhaps unrealized by Sanger, Wales exhibited this pattern of leadership even on an earlier philosophical email list for which he wrote that he would “frown *very much* on any flaming of any kind whatsoever” and choose “a ‘middle-ground’ method of moderation, a sort of behind-the-scenes prodding.”16 And most interestingly, Sanger attributes a root of the problem to his failure to recognize the importance of community and culture:
+
+    ¶20 For months I denied that Wikipedia was a community, claiming that it was, instead, only an encyclopedia project, and that there should not be any serious governance problems if people would simply stick to the task of making an encyclopedia. This was strictly wishful thinking. In fact, Wikipedia was from the beginning and is both a community and an encyclopedia project.17
+
+¶21 As noted earlier, upon publication of Sanger’s memoirs a controversy arose over whether Sanger even deserved credit as a cofounder of Wikipedia. In a sense, in playing the bad cop one is depleting one’s own reputation or leadership credits in favor of the good cop; Sanger, in shifting from bad-cop to apostate, prompted some to question whether such credit was merited at any time. A more productive discussion at the time characterized the change in leadership style as a necessary one:
+
+    ¶22 Now, I must say… I think a project of such a type can only work *without* a strong authority. It is important to let people built their own organisation. Jimbo has this very powerful strength, in this that he lets most of the organisation be a self-organisation. For those who know a bit about leadership, it is a rather rare occurrence. For the sake of wikipedia, and to let all the international projects grow up (without a strong hand to lead them), it was important that the role of the editor in chief disappear.18
+
+¶23Sanger actually concedes as much in the development of editorial policies but is still concerned about controlling abusive editors and attacks, particularly when they alienate high-quality expert contributors. And so he now leads the Citizendium project.
+
+§4Wales’ influence
+
+¶24Authorial leaders are frequently the initial author of the community’s content. This is the case, for example, with Linus Torvalds and the Linux kernel or Guido van Rossum and the Python programming language. In this respect, Wikipedia is a bit different, as was pointed out to me by Evan Prodromou, Wikipedian and a founder of Wikitravel.19 Prodromou argued that unlike FOSS communities, Wikipedia has many more contributors, many of whom, even at the administrator level, contribute at a low skill and intensity level compared to FOSS contributors. Furthermore, unlike other wiki communities or even other leaders within Wikipedia, Wales has never been a significant “author” in terms of creating content. Indeed, because of Wikipedia’s history the community regards an editor in chief as undesirable, and even Wales’s relatively modest editorial contributions are apt to cause concern. (In fact, in The New Yorker he admitted he abandoned his efforts to write a scholarly Nupedia article on Robert Merton and options-pricing theory because it was too intimidating and reminiscent of graduate school.20 Sometimes his Wikipedia edits are challenged, as we will see, and statistics on his contributions and “edit count” have been a topic of discussion.21) Plus, much of his purview has been understandably limited to English projects. And even though Wales’s public presence in the daily life of Wikipedia has receded,22 I consider his leadership to be central because of his founding vision, early activity, contributions to collaborative norms, relationships with other Wikipedians, and latent power.
+
+¶25 In addition to reacting to crises, Schein argues that community culture is affected by what leaders “pay attention to.”23 In this way, leadership can be exerted by highlighting rather than coercing. For example, in any early discussion about neutral point of view, Wales identifies an important issue and highlights a sentiment he agrees with: “We should all pay close attention to Larry’s wording here, which I think is excellent. Nupedia should ‘include articles *on* all points of view’ (note the emphasis added), not necessarily ‘include articles *from* all points of view.’”24 Or, as seen in the discussion about the blocking of a white supremacist, Wales went out of his way to commend the participants for having “a disagreement with a positive exploration of the deeper issues.”25 Highlighting others’ arguments to make his own has even led Wales to apologize for contravening Netiquette; in a thread about the balance between high-quality content and “cruft,” Wales commented: “I know it is bad form to quote an entire post just to say ‘me too’ but I wanted to say that Daniel is right on the money here, and displays what I think of as true Wikipedia spirit. We have to have a passion to *get it right* or we’ll be full of rampant nonsense.”26 He also can be found highlighting what he thinks to be central Wikipedia values: “Wikipedia is built on (among other things) twin pillars of trust and tolerance…. The harmony of our work depends on human understanding and forgiveness of errors”.27
+
+¶26 Furthermore, after immersing oneself in Wikipedia practice it is not difficult to see that many of its good faith norms are strongly exercised by Wales himself. In a 2007 discussion about his role at Wikipedia he described his approach as diplomatic and reflects elements of both good faith and neutrality:
+
+    ¶27 I have many faults, but refusal to listen is not really among them. I make mistakes, but I am calm and educable. I try to land in the center on most issues, rather than staking out any sort of extreme positions. And I try to represent all parts of the community’s interest in the broad building of consensus as being better than gang warfare.28
+
+¶28 Wales once described his approach to me as “I like to think I’m not stupid, but I’m not in my present position because I’m smart but because I’m friendly.”29 This attitude can be seen in the following interactions in which Wales frequently writes with:
+
+    ¶29patience: on a thread regarding Serbo-Croatian dialects: “For those who find Mark irritating, and who may not tend to listen to him on those grounds, I would like to say, listen to him on this point.”30
+
+    ¶30civility: in response to someone who spoke of a threatened fork over a Friulian dialect and challenged “ARE YOU CRAZY!?!!!!?!!?!?!” Wales responded, “Good luck with that. ‘Not yelling at people’ is a critical trait of leadership in an all volunteer project.”31
+
+    ¶31humility: in response to someone concerned about perennial problems, including language policies, Wales wrote, “I’m very sympathetic to all these points. I don’t have an easy answer what to do.”32
+
+    ¶32a willingness to apologize: when Wales recommended some text be added to a page when it was already present he wrote, “Ok, my mistake, I’m very very sorry. I didn’t see that. I apologize for any confusion.”33
+
+¶33 Additionally, humor serves to further camaraderie and diffuse anxiety about leadership. In response to a message about an April Fool’s Day joke about Wales as dictator, someone responded that many prominent Wikipedians make jokes:
+
+    ¶34 These jokes don’t have a “point.” If you scour the list for all messages, you will find that I am not the only one who has a sense of humour and knows how to make jokes. In fact, this extends to Ant, Mav, Jimbo, etc. who can occasionally be found to be making a joke on this list.
+
+    ¶35 I don’t know how it is with you, but as far as I know the point of humour is to lighten up a situation, and only occasionally to make a point.34
+
+¶36 However, as Wikipedia has grown, attempts at humor by those in positions of authority seemingly become rarer because a bad or misunderstood joke can have deleterious consequences exceeding the value of a few chuckles. And, of course, just as Wikipedia sometimes fall short of its ideals, Wales — and other leaders — make their fair share of mistakes, some of which are widely publicized because of Wikipedia’s prominence and a counter-culture of message boards that thrive on complaint and conspiracy.35 Even within the community, his attempts to steer Wikipedia are sometimes challenged. For example, during the 2006 Wikimedia board of trustee elections, Wales’ message encouraging people to vote — and for specific candidates — was thought inappropriate by some because he might have access to the intermediate results; subsequent elections were hosted and overseen by an external organization.36 Or, in response to an embarrassing instance of vandalism in 2009, Wales called upon the Foundation to enable the experimental “Flagged Revisions” feature at the English Wikipedia based on his “personal recommendation” and community consensus (roughly 60 percent of those polled supported the idea). This prompted a maelstrom of discussion, and mainstream press attention, about openness, the meaning of consensus, and his role. However, despite initially overreaching, he and the community continued substantive discussion and Wales challenged those who objected for a specific counter-proposal within a limited time frame.37 (I expect using this feature as a way to protect specific pages eventually will be implemented.)
+
+¶37 In any case, Wikipedia’s good faith culture undeniably has been shaped by Wales’s own values and actions; while he did not write many articles, he did help establish many of Wikipedia’s essential values and norms. Additionally, after Sanger’s departure he once again attempted to move to the “background” in encouraging other forms of governance to emerge and by supporting like-minded persons with a similar temperament. 
