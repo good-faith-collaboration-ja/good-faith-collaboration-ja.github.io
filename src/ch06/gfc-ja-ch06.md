@@ -4,7 +4,7 @@
 
 http://reagle.org/joseph/2010/gfc/chapter-6.html
 
-訳注 この章の翻訳途中です。
+訳注 この章の翻訳は途中です。
 
 
 >   ¶1When a building is on fire, a leader will not survey everyone to see what the consensus is about a response. It is time for action. — Bhadani’s Second Law
@@ -67,23 +67,41 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 インターネットのコンテンツと検索の会社 Bomis の共同経営者だったウェールズは、2000年2月、ニューペディア事業の編集責任者としてサンガーを雇った。辞職まで、サンガーはニューペディア（大本のピアレビューのプロジェクト）とウィキペディア（それを補完するウィキ版であり最終的な後継者）の最大の指導者だった。サンガーは2005年4月にこう述懐している。
 
-    ¶14 The idea of adapting wiki technology to the task of building an encyclopedia was mine, and my main job in 2001 was managing and developing the community and the rules according to which Wikipedia was run. Jimmy’s role, at first, was one of broad vision and oversight; this was the management style he preferred, at least as long as I was involved. But, again, credit goes to Jimmy alone for getting Bomis to invest in the project, and for providing broad oversight of the fantastic and world-changing project of an open content, collaboratively-built encyclopedia. Credit also of course goes to him for overseeing its development after I left, and guiding it to the success that it is today.
+>    ¶14 The idea of adapting wiki technology to the task of building an encyclopedia was mine, and my main job in 2001 was managing and developing the community and the rules according to which Wikipedia was run. Jimmy’s role, at first, was one of broad vision and oversight; this was the management style he preferred, at least as long as I was involved. But, again, credit goes to Jimmy alone for getting Bomis to invest in the project, and for providing broad oversight of the fantastic and world-changing project of an open content, collaboratively-built encyclopedia. Credit also of course goes to him for overseeing its development after I left, and guiding it to the success that it is today.
+
+> ウィキの技術を百科事典の構築という課題に適用しようという考えは私のものだった。ウィキペディア運用のもとになっているコミュニティと規則を運営し発展させることが2001年の私の仕事だった。ジミーの役割は、最初は、全体のヴィジョンと監督だった。彼はこの運営スタイルを、少なくとも私が関係しているあいだは、好んでいた。といってもやはり、この事業への投資を Bomis から引き出し、オープンコンテントであり共同作業で作る百科事典という夢のような、世界を変革する事業全体のヴィジョンを提供したことはジミーだけの功績だ。もちろん私が去ってからの監督と発展も、今日の成功にまで導いたことも、そうだ。
 
 ¶15 What precipitated Sanger’s resignation? As discussed in chapter 2, Sanger was caught between continuing frustration with Nupedia’s slow progress on one hand and problems with unruly Wikipedians on the other. Furthermore, Sanger alienated some Wikipedians who saw his actions as unjustifiably autocratic and he eventually broke with the project altogether. In late 2006 Sanger launched the more expert-friendly collaborative encyclopedia Citizendium. In any case, Sanger’s account recognizes the uneasy tension between title and authority and cultural momentum at the founding of this community:
 
-    ¶16 My early rejection of any enforcement authority, my attempt to portray myself and behave as just another user who happened to have some special moral authority in the project, and my rejection of rules — these were all clearly mistakes on my part. They did, I think, help the project get off the ground; but I really needed a more subtle and forward-looking understanding of how an extremely open, decentralized project might work.
+何がサンガーの退職を急がせたのか？ 第2章で論じたように、サンガーはニューペディアの遅々とした進捗へのいらだちの継続を一方に、無法なウィキペディアンらを他方に、両者の板挟みになっていた。さらには、自分の行動を不当にも独裁的だと考えた一部のウィキペディアンらをサンガーは疎外し、最終的にはこの事業と袂をわかつことになった。2006年終盤、サンガーは専門家にとってより取り組みやすい共同作業の百科事典 Citizendium を公開した。いずれにしても、このコミュニティの創設期における称号と権威と文化的勢いとのあいだで不安定な緊張を、サンガーは省察で認めている。
+
+>  ¶16 My early rejection of any enforcement authority, my attempt to portray myself and behave as just another user who happened to have some special moral authority in the project, and my rejection of rules — these were all clearly mistakes on my part. They did, I think, help the project get off the ground; but I really needed a more subtle and forward-looking understanding of how an extremely open, decentralized project might work.
+
+> 初期の私があらゆる強制措置の権威を拒否したこと、たまたま特殊な精神的権威をプロジェクト内で持っているだけの単なるユーザーとして自分を表現しそのように振る舞ったこと、規則を拒否したこと—これらは明らかに私側の間違いだった。これらはプロジェクトの離陸を助けはした。しかし、極端に開放的で分散的なプロジェクトがどう動くかについて、もっと細やかで、前を向いた理解が、私には必要だった。
 
 ¶17 Such an understanding might have been like that of Theodore Roosevelt’s recommended leadership style: speak softly and carry a big stick. Whereas Sanger did have special authority at Nupedia as “editor in chief,” such was not the case at Wikipedia, and Sanger’s corresponding “loudness” was a later cause of regret:
 
-    ¶18 As it turns out, it was Jimmy who spoke softly and carried the big stick; he first exercised “enforcement authority.” Since he was relatively silent throughout these controversies, he was the “good cop,” and I was the “bad cop”: that, in fact, is precisely how he (privately) described our relationship. Eventually, I became sick of this arrangement. Because Jimmy had remained relatively toward the background in the early days of the project, and showed that he was willing to exercise enforcement authority upon occasion, he was never so ripe for attack as I was.15
+こうした理解はセオドア・ルーズヴェルトが推奨する指導力のスタイル、「対話は穏やかに、棍棒の行使は確実に」に似ているかもしれない。サンガーは「編集長」という特殊な権威をもってはいたが、ウィキペディアではそうではなく、サンガーに結びついた「大声」はのちに後悔するもとになった。
+
+>   ¶18 As it turns out, it was Jimmy who spoke softly and carried the big stick; he first exercised “enforcement authority.” Since he was relatively silent throughout these controversies, he was the “good cop,” and I was the “bad cop”: that, in fact, is precisely how he (privately) described our relationship. Eventually, I became sick of this arrangement. Because Jimmy had remained relatively toward the background in the early days of the project, and showed that he was willing to exercise enforcement authority upon occasion, he was never so ripe for attack as I was.15
+
+> あとになってみると、対話を穏やかに、棍棒の行使を確実にしていたのはジミーだった。彼が最初に「強制措置の権威」を行使した。一連の論争を通じて彼は比較的発言が少なかったから、「よい警官」になり、私は「わるい警官」になった。実のところ、私たちの関係を彼は（私的に）そう表現した。最終的に、この位置付けにわたしは嫌気がさした。プロジェクトの初期、ジミーは舞台裏に隠れがちだったこと、強制措置の権威を行使する意思を見せたことから、彼は私ほど攻撃の的になりやすくはなかった。
 
 ¶19 Perhaps unrealized by Sanger, Wales exhibited this pattern of leadership even on an earlier philosophical email list for which he wrote that he would “frown *very much* on any flaming of any kind whatsoever” and choose “a ‘middle-ground’ method of moderation, a sort of behind-the-scenes prodding.”16 And most interestingly, Sanger attributes a root of the problem to his failure to recognize the importance of community and culture:
 
-    ¶20 For months I denied that Wikipedia was a community, claiming that it was, instead, only an encyclopedia project, and that there should not be any serious governance problems if people would simply stick to the task of making an encyclopedia. This was strictly wishful thinking. In fact, Wikipedia was from the beginning and is both a community and an encyclopedia project.17
+サンガーは自覚していないかもしれないが、ウェールズはこのパターンの指導力をより以前の哲学のメーリングリストへの投稿で示していた。そこで彼は「あらゆるフレイミングやそれに類することに*とても*眉をひそめ」、「仲裁には『妥協点』の方法である、ある種の舞台裏での促し」を選ぶと書いた。もっとも興味深いのは、自分がコミュニティと文化の重要性を認識できていなかったことが問題のおおもとだとみなしていることだ。
+
+>   ¶20 For months I denied that Wikipedia was a community, claiming that it was, instead, only an encyclopedia project, and that there should not be any serious governance problems if people would simply stick to the task of making an encyclopedia. This was strictly wishful thinking. In fact, Wikipedia was from the beginning and is both a community and an encyclopedia project.17
+
+> ウィキペディアがコミュニティであるということを私は何ヶ月も否定し、それはひとつの百科事典プロジェクトでしかなく、百科事典をつくるという課題から皆がただ離れずにいさえすれば、深刻な統治の問題は起きようがない、と主張していた。これは厳密に楽観的な思考だ。実のところ、ウィキペディアは最初からコミュニティと百科事典プロジェクトの両方だった。
 
 ¶21 As noted earlier, upon publication of Sanger’s memoirs a controversy arose over whether Sanger even deserved credit as a cofounder of Wikipedia. In a sense, in playing the bad cop one is depleting one’s own reputation or leadership credits in favor of the good cop; Sanger, in shifting from bad-cop to apostate, prompted some to question whether such credit was merited at any time. A more productive discussion at the time characterized the change in leadership style as a necessary one:
 
-    ¶22 Now, I must say… I think a project of such a type can only work *without* a strong authority. It is important to let people built their own organisation. Jimbo has this very powerful strength, in this that he lets most of the organisation be a self-organisation. For those who know a bit about leadership, it is a rather rare occurrence. For the sake of wikipedia, and to let all the international projects grow up (without a strong hand to lead them), it was important that the role of the editor in chief disappear.18
+前にふれたように、サンガーの述懐が公表されるに際して、サンガーはウィキペディアの共同創設者という肩書きをもつにさえ値するのかどうかについて論争が起こった。ある意味で、良い警官が好まれるために、悪い警官の役を演じる人は名声や指導力の功績を消耗させる。サンガーが悪い警官から背教者になったことで、そういった肩書きを与える価値があるのかと疑問を呈する人もした。指導力のありかたが変わることは必要だったと説明する、より生産的な議論も当時行われた。
+
+>   ¶22 Now, I must say… I think a project of such a type can only work *without* a strong authority. It is important to let people built their own organisation. Jimbo has this very powerful strength, in this that he lets most of the organisation be a self-organisation. For those who know a bit about leadership, it is a rather rare occurrence. For the sake of wikipedia, and to let all the international projects grow up (without a strong hand to lead them), it was important that the role of the editor in chief disappear.18
+
+> 
 
 ¶23Sanger actually concedes as much in the development of editorial policies but is still concerned about controlling abusive editors and attacks, particularly when they alienate high-quality expert contributors. And so he now leads the Citizendium project.
 
