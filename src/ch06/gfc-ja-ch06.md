@@ -117,31 +117,59 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶25 In addition to reacting to crises, Schein argues that community culture is affected by what leaders “pay attention to.”23 In this way, leadership can be exerted by highlighting rather than coercing. For example, in any early discussion about neutral point of view, Wales identifies an important issue and highlights a sentiment he agrees with: “We should all pay close attention to Larry’s wording here, which I think is excellent. Nupedia should ‘include articles *on* all points of view’ (note the emphasis added), not necessarily ‘include articles *from* all points of view.’”24 Or, as seen in the discussion about the blocking of a white supremacist, Wales went out of his way to commend the participants for having “a disagreement with a positive exploration of the deeper issues.”25 Highlighting others’ arguments to make his own has even led Wales to apologize for contravening Netiquette; in a thread about the balance between high-quality content and “cruft,” Wales commented: “I know it is bad form to quote an entire post just to say ‘me too’ but I wanted to say that Daniel is right on the money here, and displays what I think of as true Wikipedia spirit. We have to have a passion to *get it right* or we’ll be full of rampant nonsense.”26 He also can be found highlighting what he thinks to be central Wikipedia values: “Wikipedia is built on (among other things) twin pillars of trust and tolerance…. The harmony of our work depends on human understanding and forgiveness of errors”.27
 
+危機への対応にくわえて、指導者が何に「注意をはらうか」によってコミュニティの文化は影響をうけると Schein は論じる。このようにして、強制ではなく強調することによって指導力は発揮される。たとえば、中立的な観点についての初期の議論で、ウェールズは重要な問題を指摘し、自分が同意する意見をこう強調した。「私たちはラリーのこの言い方に十分注意をむけなければなりません。すぐれた言い方だと思います。ニューペディアは『あらゆる観点*についての*項目を掲載』すべき（原注：強調は追加）」であって、『あらゆる観点*に立った*項目を掲載』すべきとはかぎりません」。ある白人優越主義者にブロックを課すことについての議論でみられたように、ウェールズは「より深い問題を肯定的に探索する不同意」をもっていることについて、議論参加者を賞賛するやり方をとった。他者の発言の一部を強調することで発言をする彼のやり方は、ネチケット違反を謝ることにさえつながった。高品質なコンテンツと「カス」のあいだのバランスについてのスレッドで、ウェールズは「『同意』と言うためだけに1メッセージ全体を引用するのは行儀のよくないことだとは分かっているのですが、ダニエルが言ったことは全くただしく、ウィキペディアらしい精神をあらわしている、と言いたかったのです。私たちは*ただしくする*ことへの情熱をもたなければなりません。でなければここは無意味なものだらけになるでしょう」と発言した。ウィキペディアの価値観に中心的なものと彼が考えているものをこのように強調した例もみつかる。「ウィキペディアは（他のものにくわえて）信頼と寛容という2つの柱で成り立っています……。私たちの仕事全体の調和は、人間を理解することと誤ちを許すこととにかかっています。」
+
 ¶26 Furthermore, after immersing oneself in Wikipedia practice it is not difficult to see that many of its good faith norms are strongly exercised by Wales himself. In a 2007 discussion about his role at Wikipedia he described his approach as diplomatic and reflects elements of both good faith and neutrality:
 
-    ¶27 I have many faults, but refusal to listen is not really among them. I make mistakes, but I am calm and educable. I try to land in the center on most issues, rather than staking out any sort of extreme positions. And I try to represent all parts of the community’s interest in the broad building of consensus as being better than gang warfare.28
+さらには、ウィキペディアに深くはいりこんだあとになってみると、善意の規範がウェールズ自身によって実践されているのを見るのは難しくない。自分の役割についての2007年の議論で、自分のやり方は外交的であり善意と中立性の両方を反映していると述べた。
+
+>    ¶27 I have many faults, but refusal to listen is not really among them. I make mistakes, but I am calm and educable. I try to land in the center on most issues, rather than staking out any sort of extreme positions. And I try to represent all parts of the community’s interest in the broad building of consensus as being better than gang warfare.28
+
+> 私はたくさん失敗をしましたが、耳をかたむけることへの拒絶はそのなかにはありません。私は間違いますが、穏やかで教育可能です。ほとんどの問題で、私は、極端な立場のどれかを占めるのではなく、真ん中に着地するようにします。合意の大きな構築のなかでコミュニティの各所の利害をすべて代表するようにし、ギャングの抗争よりましになるようにします。
 
 ¶28 Wales once described his approach to me as “I like to think I’m not stupid, but I’m not in my present position because I’m smart but because I’m friendly.”29 This attitude can be seen in the following interactions in which Wales frequently writes with:
 
-    ¶29patience: on a thread regarding Serbo-Croatian dialects: “For those who find Mark irritating, and who may not tend to listen to him on those grounds, I would like to say, listen to him on this point.”30
+「私は自分がバカではないと考えたいですが、今の立場に私がいるのは頭がよかったからではなく友好的だったからです」とウェールズは私に自分のやり方を説明した。この姿勢はウェールズが頻繁に参加した次のやりとりにもみられる。
+
+>    ¶29patience: on a thread regarding Serbo-Croatian dialects: “For those who find Mark irritating, and who may not tend to listen to him on those grounds, I would like to say, listen to him on this point.”30
+
+> 忍耐：セルヴォ・クロアチア語についてのスレッドで：「Mark にいらいらさせられているという人、彼のあの手の論陣を聞き流す傾向のある人に向けていいたいのですが、この点については聞いてください。」
 
     ¶30civility: in response to someone who spoke of a threatened fork over a Friulian dialect and challenged “ARE YOU CRAZY!?!!!!?!!?!?!” Wales responded, “Good luck with that. ‘Not yelling at people’ is a critical trait of leadership in an all volunteer project.”31
 
-    ¶31humility: in response to someone concerned about perennial problems, including language policies, Wales wrote, “I’m very sympathetic to all these points. I don’t have an easy answer what to do.”32
+> 礼儀：フリウリ語版をフォークすると脅迫し「あたまおかしいんじゃないの！！！！？！！？！？！」と挑発した人物に対してウェールズは「頑張ってください。『人に怒鳴らないこと』はどんなボランティアプロジェクトの指導者にも必要な資質です。」と返事した。
 
-    ¶32a willingness to apologize: when Wales recommended some text be added to a page when it was already present he wrote, “Ok, my mistake, I’m very very sorry. I didn’t see that. I apologize for any confusion.”33
+>   ¶31humility: in response to someone concerned about perennial problems, including language policies, Wales wrote, “I’m very sympathetic to all these points. I don’t have an easy answer what to do.”32
+
+> 謙虚：言語の方針など積年の問題に懸念を示した人に対して、「これらどの点についてもとても共感します。どうすべきかについて簡単な答えを持ちあわせてはいませんが」と書いた。
+
+>¶32a willingness to apologize: when Wales recommended some text be added to a page when it was already present he wrote, “Ok, my mistake, I’m very very sorry. I didn’t see that. I apologize for any confusion.”33
+
+> 謝罪する意思：あるページにすでにある文章をそこに追加するようすすめたとき、「ああ、私のミスです。本当にすみません。そこを見ていませんでした。混乱させてしまったらすみません。」と書いた。
 
 ¶33 Additionally, humor serves to further camaraderie and diffuse anxiety about leadership. In response to a message about an April Fool’s Day joke about Wales as dictator, someone responded that many prominent Wikipedians make jokes:
 
-    ¶34 These jokes don’t have a “point.” If you scour the list for all messages, you will find that I am not the only one who has a sense of humour and knows how to make jokes. In fact, this extends to Ant, Mav, Jimbo, etc. who can occasionally be found to be making a joke on this list.
+くわえて、ユーモアは仲間意識を醸成し、指導力への不安を散らしてくれる。ウェールズを独裁者とするエイプリルフールの冗談についてのメッセージに対して、有力なウィキペディアンの多くが冗談を言うと返事した：
 
-    ¶35 I don’t know how it is with you, but as far as I know the point of humour is to lighten up a situation, and only occasionally to make a point.34
+>   ¶34 These jokes don’t have a “point.” If you scour the list for all messages, you will find that I am not the only one who has a sense of humour and knows how to make jokes. In fact, this extends to Ant, Mav, Jimbo, etc. who can occasionally be found to be making a joke on this list.
+
+> こういう冗談には「論点」はありません。このメーリングリストの全メッセージを精査してみれば、ユーモアのセンスがあり冗談を言えるのが私だけではないと分かるでしょう。実際、Ant や Mav やジンボもそうであり、ここで冗談を言うことがあります。
+
+>   ¶35 I don’t know how it is with you, but as far as I know the point of humour is to lighten up a situation, and only occasionally to make a point.34
+
+> あなたにとってどうかは分かりませんが、私の知るかぎり、場を明るくするのがユーモアの意義であり、場合によっては論点があることもあるというだけです。
 
 ¶36 However, as Wikipedia has grown, attempts at humor by those in positions of authority seemingly become rarer because a bad or misunderstood joke can have deleterious consequences exceeding the value of a few chuckles. And, of course, just as Wikipedia sometimes fall short of its ideals, Wales — and other leaders — make their fair share of mistakes, some of which are widely publicized because of Wikipedia’s prominence and a counter-culture of message boards that thrive on complaint and conspiracy.35 Even within the community, his attempts to steer Wikipedia are sometimes challenged. For example, during the 2006 Wikimedia board of trustee elections, Wales’ message encouraging people to vote — and for specific candidates — was thought inappropriate by some because he might have access to the intermediate results; subsequent elections were hosted and overseen by an external organization.36 Or, in response to an embarrassing instance of vandalism in 2009, Wales called upon the Foundation to enable the experimental “Flagged Revisions” feature at the English Wikipedia based on his “personal recommendation” and community consensus (roughly 60 percent of those polled supported the idea). This prompted a maelstrom of discussion, and mainstream press attention, about openness, the meaning of consensus, and his role. However, despite initially overreaching, he and the community continued substantive discussion and Wales challenged those who objected for a specific counter-proposal within a limited time frame.37 (I expect using this feature as a way to protect specific pages eventually will be implemented.)
 
-¶37 In any case, Wikipedia’s good faith culture undeniably has been shaped by Wales’s own values and actions; while he did not write many articles, he did help establish many of Wikipedia’s essential values and norms. Additionally, after Sanger’s departure he once again attempted to move to the “background” in encouraging other forms of governance to emerge and by supporting like-minded persons with a similar temperament. 
+しかし、悪い冗談や誤解される冗談は、ちょっとした笑いの効果を上回る、痛みをともなう結果をひきおこしかねないものであり、権威ある立場にある人による冗談の試みはウィキペディアの成長につれてめずらしくなっていったように見える。そしてもちろん、ウィキペディアも自らの理想を守れないことがあるのと同じように、ウェールズ —と他の指導者たち— はそれなりの間違いを犯すため、また、ウィキペディアが目立つことと、文句と陰謀論で成り立つ掲示板のカウンターカルチャーがあるために、間違いは広く報知される。コミュニティ内でも、ウィキペディアを動かそうとする彼の試みには異論が出ることがあった。たとえば、2006年のウィキメディア理事会選挙で、投票 —特定の候補者への— を呼びかけるウェールズのメッセージを、彼には中間結果をみる権限があるかもしれないから不適切だと考える人がいた。以降の選挙は外部組織によって主催・監督された。2009年の不名誉な荒らしの一件への対応として、「個人的な進言」とコミュニティの合意（投票した人のうち60パーセントが支持）にもとづいて、ウェールズは財団に実験的な「FlaggedRevisions」機能を英語版ウィキペディアで有効にするよう呼びかけた。これは開放性、合意の意味、彼の役割についての議論と主流メディアの注目を巻き起こした。初期は行き過ぎ（FUZZY: overreaching）であったとはいえ、ウェールズとコミュニティは実質的な議論を続け、ウェールズは反対者に具体的な対案を一定の期間内に出すよう呼びかけた。（特定のページを保護するものとしてのこの機能はいずれ実施されると私は見ている。）
+    
+¶37 In any case, Wikipedia’s good faith culture undeniably has been shaped by Wales’s own values and actions; while he did not write many articles, he did help establish many of Wikipedia’s essential values and norms. Additionally, after Sanger’s departure he once again attempted to move to the “background” in encouraging other forms of governance to emerge and by supporting like-minded persons with a similar temperament.
 
-Beyond the Founders: Admins, ArbCom, and the Board
+いずれにしても、ウィキペディアの善意の文化がウェールズの価値観と行為によって形成されたことは否定しようがない。彼は多数の項目を書いたわけではないが、ウィキペディアの価値観と規範の多くが確立されるのを助けはした。くわえて、サンガーの離脱後、ウェールズはふたたび「舞台裏」に移り、他の統治の形態が生まれやすくし、志を同じくし似た性格をした人を支援した。
+
+## Beyond the Founders: Admins, ArbCom, and the Board
+
+## 創設者を越えて：管理者、裁定委員会、理事会
 
 ¶38Whereas cofounder Larry Sanger was editor in chief of Nupedia and he was informally known as the chief organizer of Wikipedia, neither role was ever claimed again after he resigned. Instead, the “Administrators” page stresses that everyone is an equal editor. Those who demonstrate themselves to be good editors may request extra responsibilities but “are not imbued with special authority.”38 Yet, while Wikipedia culture values editorial egalitarianism over administrative responsibilities, this does not mean there are no leaders. Consequently, before turning to how the community speaks about leadership, I first present a brief description of the leadership and governance structure of Wikipedia itself.
 
