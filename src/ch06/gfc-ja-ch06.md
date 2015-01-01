@@ -135,7 +135,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 > 忍耐：セルヴォ・クロアチア語についてのスレッドで：「Mark にいらいらさせられているという人、彼のあの手の論陣を聞き流す傾向のある人に向けていいたいのですが、この点については聞いてください。」
 
-    ¶30civility: in response to someone who spoke of a threatened fork over a Friulian dialect and challenged “ARE YOU CRAZY!?!!!!?!!?!?!” Wales responded, “Good luck with that. ‘Not yelling at people’ is a critical trait of leadership in an all volunteer project.”31
+>    ¶30civility: in response to someone who spoke of a threatened fork over a Friulian dialect and challenged “ARE YOU CRAZY!?!!!!?!!?!?!” Wales responded, “Good luck with that. ‘Not yelling at people’ is a critical trait of leadership in an all volunteer project.”31
 
 > 礼儀：フリウリ語版をフォークすると脅迫し「あたまおかしいんじゃないの！！！！？！！？！？！」と挑発した人物に対してウェールズは「頑張ってください。『人に怒鳴らないこと』はどんなボランティアプロジェクトの指導者にも必要な資質です。」と返事した。
 
@@ -193,11 +193,19 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶43 In the time since its founding, additional levels of authority have appeared as Wikipedia evolved from a small English-only encyclopedia to a massive project among many at a nonprofit foundation. At the English Wikipedia there are now 900-plus active administrators and about a dozen active bureaucrats who appoint administrators and other bureaucrats.43 Elected stewards can, respectively, change any such role across all Wikimedia wikis and act as bureaucrats for smaller projects.44 Orthogonal to administrative and governance roles there are also developers, those who actually write the software and administer the servers.45 Volunteers continue to act in all of these capacities: the Wikimedia Foundation has only a handful of employees who administer the foundation, solicit funding, or perform essential hardware/software maintenance and development.46
 
+創設以降、ウィキペディアが英語版のみの小さな百科事典から非営利組織による多数のプロジェクトのうちの巨大なひとつになるまでに、権威の段階がつけくわえられていった。英語版ウィキペディアには現在900人以上の活動中の管理者、管理者やビューロクラットを任命する、10数名の活動中のビューロクラットがいる。選挙で選ばれるスチュワードは全ウィメディア・ウィキでこういった役割を変更でき、小規模プロジェクトのためのビューロクラットとして振る舞う。管理と統治の役割と直交するものとして、開発者たちがいる。開発者はソフトウェアを書き、サーバーを管理する。これらのうちどれもボランティアが役目を担いつづけている。ウィキメディア財団にはごくわずかな従業員しかおらず、彼らは財団の管理、資金募集、ハードウェアとソフトウェアの必須部分の保守・開発を担当する。
+
 ¶44 In Wikipedia culture, and in keeping with the larger wiki culture, delineations of authority are suspect, as is seen in the previous excerpt regarding the role of administrators. Yet, even if these other levels of authority entail responsibilities rather than rights — which is the orthodox line — they could nonetheless be seen as something to achieve or envy if only for symbolic status. This leads to the occasional call for the label associated with this role to be deprecated, as discussed in the thread “Rename Admins to Janitors”:
 
-    ¶45 I’m sick and tired of people misunderstanding what an “administrator” of Wikipedia is. It was a misnomer to begin with, and we’ve had nothing but trouble with this name ever since. Users misunderstand it (and ask admins to make editorial decisions). Media misunderstand it (and either do not explain it, or connect it to power and influence). And it’s no wonder. “Administrator” could refer to a manager, or someone appointed by a court; it typically describes someone in an important official position.
+より広いウィキ文化を反映するウィキペディアの文化では、管理者の役割についての前掲の引用でも見られるように、権限の定義がはっきりしない。しかし、他のこうした権威の段階は権利というより責任をおびる—これは正統派の見解である— としても、象徴的地位の意味でだけでも達成されるか羨まれるものとして見られうる。このことにより、この役割につけられた名前を廃止しようというよびかけが、時おりなされる。「管理者を掃除人に改名する」のスレッドではこう議論された。
 
-    ¶46 When the role of “bureaucrat” was created, the name was chosen specifically so that people would not treat it as a status symbol. It should be something nobody really wants — something people do because it needs doing, not because it gains them credibility and influence. This seems to have worked reasonably well for the most part.47
+>    ¶45 I’m sick and tired of people misunderstanding what an “administrator” of Wikipedia is. It was a misnomer to begin with, and we’ve had nothing but trouble with this name ever since. Users misunderstand it (and ask admins to make editorial decisions). Media misunderstand it (and either do not explain it, or connect it to power and influence). And it’s no wonder. “Administrator” could refer to a manager, or someone appointed by a court; it typically describes someone in an important official position.
+
+> ウィキペディアの「管理者」とは何かを誤解する人たちの多さにはもううんざりです。この名前は元々不適切でしたし、面倒しか起こしていません。利用者も誤解する（編集上の決定をするよう管理者に頼む）し、メディアも誤解する（説明しないか、権力と影響力に結びつける）。しかし無理もないことです。「管理者」は管理職や裁判所で任命される職のことでもあります。公的な重職にある人のことを言う言葉です。
+
+>    ¶46 When the role of “bureaucrat” was created, the name was chosen specifically so that people would not treat it as a status symbol. It should be something nobody really wants — something people do because it needs doing, not because it gains them credibility and influence. This seems to have worked reasonably well for the most part.47
+
+> 「ビューロクラット」（官僚）の役割が作られたとき、まさに地位の象徴として受けとられないようにするためにこの名前が選ばれました。誰もやりたがらない役目 — 信用や影響力が得られるからではなく必要だからやるという役目です。これはそれなりにうまくいったようです。
 
 ¶47 Also, it is worthwhile to note that as one ascends the hierarchy of roles, and the power of implementation increases, policy discretion often decreases. Just as administrators ought not to have extra authority in making editorial decisions, stewards should not make policy decisions. Stewards can “remove arbitrary user access levels” on any Wikimedia wiki. They can toggle whether one has the ability of an administrator (to block users or protect pages), a bot (run automatic tools), or a bureaucrat (set access levels within a single wiki), and whether one has the ability of oversight (suppressing revisions), or checkuser (to determine the Internet address of users). Because of this power, stewards are governed by their own policies: don’t decide, don’t promote users on projects with existing bureaucrats, don’t change rights on your own project, act with transparency, and check local policies.48 The “don’t decide” policy further states:
 
