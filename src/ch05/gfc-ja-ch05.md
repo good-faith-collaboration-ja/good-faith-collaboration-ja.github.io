@@ -3,8 +3,6 @@
 
 http://reagle.org/joseph/2010/gfc/chapter-5.html
 
-（この章の翻訳はまだ一部分だけです）
-
 > ¶1Consensus: Any group in agreement about something whose opinion is the same as yours; antonym of cabal [i.e., those who disagree with you]. — Wikispeak
 
 > 合意：何かについて話者と意見を同じくするグループ。カバル（話者と意見が違う人たち）の対義語。 --Wikispeak
@@ -39,7 +37,7 @@ http://reagle.org/joseph/2010/gfc/chapter-5.html
 
 ¶8 Presently, an ArbCom decision is documented on a wiki page in which disputants make statements and marshal evidence for their case.11 These are followed by the ArbCom members’ “preliminary decision” (e.g., to take the case and issue temporary injunctions) and conclude with a final decision that enumerates important principles of Wikipedia policy, findings of facts, remedies, and enforcement actions. Wikipedian Yaksha introduced the disambiguation case as follows:
 
-現在、ArbCom の判決はウィキページ上に文書化され、そこで論争当事者が声明を書き、証拠が集められる。その後 ArbCom 委員が「予備判決」（事件を受理し一時的な差し止めを命じる）を示し、最後にウィキペディアの方針、認定された事実、救済、強制措置を列挙する形で判決を示す（FUZZY ERRATA 「conclude」は「concluded」のあやまりか）。Yaksha というウィキペディアンは曖昧性解消についての事件を次のように導入した。
+現在、ArbCom の判決はウィキページ上に文書化され、そこで論争当事者が声明を書き、証拠が集められる。その後 ArbCom 委員が「予備判決」（事件を受理し一時的な差し止めを命じる）を示し、最後にウィキペディアの方針、認定された事実、救済、強制措置を列挙する形で判決を示す。Yaksha というウィキペディアンは曖昧性解消についての事件を次のように導入した。
 
 > ¶9 This dispute is regarding whether articles for TV episodes which do not need to be disambiguated should have disambiguation. For example, Never Kill a Boy on the First Date (Buffy episode) has the disambiguation “(Buffy episode),” even though this disambiguation is not required. I believe we did reach consensus to follow the existing guideline of “disambiguate only when necessary.” The straw poll resulted in a supermajority (80%) support for “disambiguate only when necessary.” The discussion that followed supported this consensus. A detailed summary of the discussion, as well as four Request Move proposals all support the existence of this consensus. Given this, I (and others) begun to move articles which were inappropriately named.12
 
