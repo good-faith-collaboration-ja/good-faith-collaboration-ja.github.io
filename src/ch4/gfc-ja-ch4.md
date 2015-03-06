@@ -1,7 +1,7 @@
 # Chapter 4
 # §1The Puzzle of Openness
 
-# 開放性の謎
+# 開放性という難問
 
 > ¶1Problematic users will drive good users away from Wikipedia far more often than good users will drive away problematic ones. — Extreme Unction’s Third Law
 
@@ -13,7 +13,7 @@
 
 ¶3A central aspiration in the pursuit of a universal encyclopedia is increased access to information: an opening of opportunity and capability to anyone with a desire to learn. Ironically, such an encyclopedia only became possible with universal access to its production. However, Wikipedia’s openness, based on the inspiration of the Free and Open Source Software (FOSS) movement and the capabilities of hypertext, is not a collaborative panacea. The two, at odds, “laws” of Wikipedia that begin this chapter are evidence that openness has advantages and disadvantages — and people don’t even agree about which is which. (Since neither law is funny, Kmarinas86’s Law of Contradiction, in which the most humorous wins, is of little help.) In fact, like the issues of consensus and leadership addressed in the next two chapters, openness, including to those who may alienate good users or drive them to brilliance, is a bit of a puzzle itself.
 
-普遍的百科事典の探求における中心的な欲求は、情報へのアクセスの増進である。学ぶことを欲する人すべてに機会と可能性を開くことである。皮肉なことに、そのような百科事典は、その製作において普遍的なアクセスがともなってはじめて可能になった。しかし、フリー・オープンソースソフトウェア (FOSS) 運動とハイパーテキストの可能性に着想を得たウィキペディアの開放性は、共同作業の特効薬ではない。本章の冒頭のウィキペディアの「法則」2点は、かなりの可能性で、開放性がもたらす長所と短所を明らかにしている。そして、人々はどちらがどちらであるかについてさえ意見をおなじくしない（どちらの法則も楽しくないため、ユーモラスなものが勝つという Kmarinas86 の矛盾の法則はほとんど役に立たない）。実のところ、以降の2章で論じる合意と指導力の問題と同じように、開放性も、よいユーザーを阻害する人々にとってもその能力を発揮させる人々にとっても、ちょっとした謎である。
+普遍的百科事典の探求における中心的な欲求は、情報へのアクセスの増進である。学ぶことを欲する人すべてに機会と可能性を開くことである。皮肉なことに、そのような百科事典は、その製作において普遍的なアクセスがともなってはじめて可能になった。しかし、フリー・オープンソースソフトウェア (FOSS) 運動とハイパーテキストの可能性に着想を得たウィキペディアの開放性は、共同作業の特効薬ではない。本章の冒頭のウィキペディアの「法則」2点は、かなりの可能性で、開放性がもたらす長所と短所を明らかにしている。そして、人々はどちらがどちらであるかについてさえ意見をおなじくしない（どちらの法則も楽しくないため、ユーモラスなものが勝つという Kmarinas86 の矛盾の法則はほとんど役に立たない）。実のところ、以降の2章で論じる合意と指導力の問題と同じように、開放性も、よいユーザーを阻害する人々にとってもその能力を発揮させる人々にとっても、ちょっとした難問である。
 
 ¶4 Wikipedia’s claim of openness is seen in its motto: “Wikipedia, the free encyclopedia that anyone can edit.”1 But what does “openness” — and “anyone” — actually mean? Because of the ascendancy of FOSS, open is now a buzzword, becoming a prefix to even such well-established notions as democracy and religion.2 Additionally, when contemporary sources speak of openness as an attribute of community, it is often in an overly simplistic way; projects like the Linux kernel, Apache Web server, and Wikipedia are often mischaracterized by way of an inappropriate, if not naïve, extreme. A utopian rendering of openness is that “anything goes”: there are no community structures or norms, anyone can do anything they please.
 
@@ -28,7 +28,7 @@
 
 ¶6 To be fair, Wikipedia has not helped this confusion given its early rule of “Ignore All Rules.” Granted, it is clever to have a rule dismissing rules, and its substance is of merit: recognizing the robustness of wikis and painfulness of bureaucracy: “If a rule prevents you from improving or maintaining Wikipedia, ignore it.”4 However, such a bald, even if humorous, assertion is bound to require qualification. The essay “What ‘Ignore All Rules’ Means” explains that novices should feel free to contribute, don’t be overly legalistic but work in the spirit of improving the encyclopedia, and there is no substitute for good judgment. It doesn’t mean “every action is justifiable,” nor is it an excuse or exemption from accountability.5
 
-公正を期すために述べておくと、初期の規則に「Ignore All Rules」（規則はすべて無視しなさい）があったことからして、ウィキペディアはこの混乱に与していたわけではない。その上で、規則を無効化する規則を持つことは賢明であり、その中身には利点がある。「あなたがウィキペディアを改善し維持することを規則が妨げるなら、その規則を無視してください」は、ウィキが堅牢であることと官僚制が息苦しいこととを認識したものである。しかし、このようにあからさまな、ユーモラスでさえある宣言には、かならず精緻化が必要である。「Ignore All Rules の意味」 (What 'Ignore All Rules' Means) という私論では、初心者は自由に投稿してよいとうこと、法律論のように細かくなりすぎず、百科事典を改善するという精神で仕事をすべきであること、よい判断に替えうるものはないことが書かれている。これは「あらゆる行為が正当化される」という意味ではないし、説明責任への言い訳や免除ではない。
+公正を期すために述べておくと、初期の規則に「Ignore All Rules」（規則はすべて無視しなさい）があったことからして、ウィキペディアはこの混乱に与していたわけではない。その上で、規則を無効化する規則を持つことは賢明であり、その中身には利点がある。「あなたがウィキペディアを改善し維持することを規則が妨げるなら、その規則を無視してください」は、ウィキの安定性と官僚制の息苦しさとを認識したものである。しかし、このようにあからさまな、ユーモラスでさえある宣言には、かならず精緻化が必要である。「Ignore All Rules の意味」 (What 'Ignore All Rules' Means) という私論では、初心者は自由に投稿してよいとうこと、法律論のように細かくなりすぎず、百科事典を改善するという精神で仕事をすべきであること、よい判断に替えうるものはないことが書かれている。これは「あらゆる行為が正当化される」という意味ではないし、説明責任への言い訳や免除ではない。
 
 ¶7 Yet, these difficulties do not mean the notion of openness should be jettisoned altogether. The prevalence of the term open in contemporary discourse is indicative of something important, and provides a window into understanding the English Wikipedia community. For example, in 2001 Jimmy Wales posted a “Statement of Principles,” the first of which is that “Wikipedia’s success to date is entirely a function of our open community. This community will continue to live and breathe and grow only so long as those of us who participate in it continue to Do The Right Thing.”6 But what constitutes “the right thing” in the context of openness?
 
