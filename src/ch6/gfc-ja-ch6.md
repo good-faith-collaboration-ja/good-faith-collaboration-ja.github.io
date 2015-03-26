@@ -288,23 +288,37 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶66 Wales did not respond to this particular email message, but continued discussion with respect to how this image would affect educational use of Wikipedia. However, Wales’s role was further discussed during discussion of the possible neo-Nazi attack. This led Wales to clarify that he would prevent such an attack though he also recognizes the dangers inherent to such action:
 
-ウェールズはこのメールそのものに返答しなかったが、ウィキペディアの教育への使用にこの画像がどう影響するかについての議論を続けた。しかし、ウェールズの役割については、ネオナチの攻撃の可能性についての議論のなかでさらに議論された。このことをきっかけにして、そのような攻撃は防ごうとするとウェールズは明確化し、一方でそのような行為に内在する危険についても認識した。
+ウェールズはこのメールそのものに返答しなかったが、ウィキペディアの教育への使用にこの画像がどう影響するかについての議論を続けた。しかし、ウェールズの役割については、ネオナチの攻撃の可能性についての議論のなかでさらに議論された。このことをきっかけにして、ウェールズは、そのような攻撃は防ごうとすると明確化する一方でそのような行為に内在する危険についてもこう認識した。
 
-    ¶67 The danger of course is that the benign dictator may turn out to be biased or wrong himself. So I hesitate to do this except in cases where speed is of essence, or where it’s just very clearcut and easy. What I prefer is that I can act as a temporary bridge and “person to blame” while we work on community solutions.70
+>    ¶67 The danger of course is that the benign dictator may turn out to be biased or wrong himself. So I hesitate to do this except in cases where speed is of essence, or where it’s just very clearcut and easy. What I prefer is that I can act as a temporary bridge and “person to blame” while we work on community solutions.70
+
+> 危険なのはもちろん無害な独裁者が偏向したり間違っていたりしてしまうことです。速度が本質である場合や非常に明白で容易な場合を例外としてこれをするのは躊躇します。「責めを受ける人」との一時的な橋渡しを私が務めながら、私たちがコミュニティとしての解決にとりかかる方が好みです。
 
 ¶68Seven months later, on the same thread, Wales further defined his role as a “constitutional monarch”:
 
-    ¶69 I do not believe in the “benevolent dictator” model for Wikipedia. Our project is of major historical significance, and it is not appropriate for any one person to be the benevolent dictator of all human knowledge. Obviously.
+7ヶ月後おなじスレッドでウェールズはさらに、自分の役割を「立憲君主」と定義した。
 
-    ¶70 But we have retained a “constitutional monarchy” in our system and the main reason for it is to support and make possible a very open system in which policy is set organically by the community and democratic processes and institutions emerge over a long period of experimentation and consensus-building…. It is not possible for 10,000 NeoNazis (if such numbers exist) to storm into Wikipedia and take it over by subverting our organic democratic processes because I will not allow it. Period. So we don’t have to overdesign those processes out of a paranoia of a hostile takeover. But this also means that we don’t need to over-react right now. We can wait and see. They’ll talk a big game but just review those message boards and then look around here. A battle of wits between Wikipedians and Nazis? I know who I’m betting on.71
+>    ¶69 I do not believe in the “benevolent dictator” model for Wikipedia. Our project is of major historical significance, and it is not appropriate for any one person to be the benevolent dictator of all human knowledge. Obviously.
+
+> ウィキペディアに「優しい独裁者」のモデルがふさわしいとは思いません。このプロジェクトは歴史的に大きな重要性があり、一人のひとが人類の全知識の優しい独裁者になることは不適切です。明らかに。
+
+>    ¶70 But we have retained a “constitutional monarchy” in our system and the main reason for it is to support and make possible a very open system in which policy is set organically by the community and democratic processes and institutions emerge over a long period of experimentation and consensus-building…. It is not possible for 10,000 NeoNazis (if such numbers exist) to storm into Wikipedia and take it over by subverting our organic democratic processes because I will not allow it. Period. So we don’t have to overdesign those processes out of a paranoia of a hostile takeover. But this also means that we don’t need to over-react right now. We can wait and see. They’ll talk a big game but just review those message boards and then look around here. A battle of wits between Wikipedians and Nazis? I know who I’m betting on.71
+
+> しかし私たちは「立憲君主制」をシステムのなかに持ちつづけています。その主な理由は、方針がコミュニティのなかで有機的に定められ、民主的手続きや制度が長期間にわたる実験と合意形成のなかで出現するという、非常に開放的なシステムを可能にするためです。1万人のネオナチ（そんな人数がいるとしてですが）がウィキペディアに乱入し、有機的な民主的手続き転覆させてウィキペディアを乗っ取ろうとすることは、私が許さないため、不可能です。以上。ですから、敵対的乗っ取りに対して偏執的になって制度を過剰に設計する必要はありません。ですが、これはいますぐに過剰反応する必要もないことも意味します。しばらく様子を見ることもできます。彼らは大風呂敷をひろげていますが、あちらの掲示板をチェックし、こちらの様子を観察しましょう。ウィキペディアンとナチのどちらが利口か？ 私の賭ける先は決まっています。
 
 ¶71Wales’ conception of his role was further developed and articulated on the “Benevolent Dictator” discussion page:
 
-    ¶72 I am more comfortable with the analogy to the British monarch, i.e. my power should be (and is) limited, and should fade over time….
+自らの役割についてのウェールズの構想は「優しい独裁者」の議論ページでさらに発展・整理された。
 
-    ¶73 The situation in nl.wikipedia.org is probably a good example of how I can play a productive role through the judicious exercise of power. My role there is mostly just as advisor to people in terms of just trying to help people think about the bigger picture and how we can find the best ways to interact and get along to get our incredibly important work done.
+>    ¶72 I am more comfortable with the analogy to the British monarch, i.e. my power should be (and is) limited, and should fade over time….
 
-    ¶74 But it is also a role of “constitutional” importance, in the sense that everyone who is party to the discussion can feel comfortable that whatever agreements are reached will be *binding*, that there is a higher enforcement mechanism. It’s not up to me to *impose* a solution, nor is it up to me directly to *enforce* a solution chosen by the community, but I do play a role in guaranteeing with my personal promise that valid solutions decided by the community in a reasonable fashion will be enforced by someone….
+> イギリスの君主のアナロジーの方がしっくりきます。つまり私の権力は限定的であるべき（また現に限定的であり）、時間とともに消滅していくべきである……
+
+>    ¶73 The situation in nl.wikipedia.org is probably a good example of how I can play a productive role through the judicious exercise of power. My role there is mostly just as advisor to people in terms of just trying to help people think about the bigger picture and how we can find the best ways to interact and get along to get our incredibly important work done.
+
+> nl.wikipedia.org の状況は権力の慎重な行使によって生産的な役割を私がはたせるやりかたのよい例になるでしょう。人々が全体像を考え、どう交流するのが最善かを考え、この非常に重要な事業をなしとげるために協力できるよう、助言するのがそこでの私のおもな役割です。
+
+>    ¶74 But it is also a role of “constitutional” importance, in the sense that everyone who is party to the discussion can feel comfortable that whatever agreements are reached will be *binding*, that there is a higher enforcement mechanism. It’s not up to me to *impose* a solution, nor is it up to me directly to *enforce* a solution chosen by the community, but I do play a role in guaranteeing with my personal promise that valid solutions decided by the community in a reasonable fashion will be enforced by someone….
 
     ¶75 And notice, too, that I believe such authority should be replaced as time goes along by institutions within the community, such as for example the ArbCom in en.wikipedia.org, or by community votes in de.wikipedia.org, etc.
 
