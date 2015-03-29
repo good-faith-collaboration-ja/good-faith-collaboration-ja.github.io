@@ -10,8 +10,8 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 * [第3章 善意にもとづく共同作業](ch3/gfc-ja-ch3.md)：100%、校正中 (2014-06) - 原題 *[Good Faith Collaboration](http://reagle.org/joseph/2010/gfc/chapter-3.html)*
 * [第4章 開放性の謎](ch4/gfc-ja-ch4.md)：100%、校正中 (2012-08) - 原題 *[The Puzzle of Openness](http://reagle.org/joseph/2010/gfc/chapter-4.html)*
 * [第5章 合意という難題](ch5/gfc-ja-ch5.md)：100%、校正中 (2014-10) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
-* [第6章 優しい独裁者](ch6/gfc-ja-ch6.md)：60% (2015-02) - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
-* 第7章：0% - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)* ／ 仮訳 百科事典の不安
+* [第6章 優しい独裁者](ch6/gfc-ja-ch6.md)：100% (2015-03) - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
+* [第7章 百科事典の不安](ch7/gfc-ja-ch7.md)：3% (2015-03) - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
 * 第8章：0% - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)* ／ 仮訳 結論：「調和する地球」
 
 ## ライセンス
