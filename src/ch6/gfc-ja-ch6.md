@@ -4,9 +4,6 @@
 
 http://reagle.org/joseph/2010/gfc/chapter-6.html
 
-訳注 この章の翻訳は途中です。
-
-
 >   ¶1When a building is on fire, a leader will not survey everyone to see what the consensus is about a response. It is time for action. — Bhadani’s Second Law
 
 > 建物が火事になったとき、どういう対応で合意できるかを全員にたずねるようなことを指導者はしない。行動すべきときだからだ。 --Bhadani の第2法則
