@@ -38,7 +38,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶8 Finally, such leadership is rarely enacted or understood as a formal office, though prominent leaders might be endowed with the informal moniker of “benevolent dictator” and occasionally act autocratically,9 as Wales threatened in the neo-Nazi case. However, leaders whose autocratic actions exceed their accumulated merit or charisma, sometimes referred to “idiosyncrasy credits” or “reputation shares,” risk their status and a forking of the community.10 For example, while a “benevolent dictator” might be tolerated as a necessity, a “God King” is a “site owner or administrator who uses their special authority more than absolutely necessary.” This is a leader so “arrogant that they suppose they are ‘god’ ”; this type of leadership is an “abuse,” “a bad thing,” and an “anti-pattern” of good wiki community.11 Also, the possibility of forking — even if unlikely — is central to voluntary community dynamics and discourse, as David Wheeler notes with respect to FOSS communities:
 
-最後に、卓越した指導者は非公式に「優しい独裁者」という呼称が与えられることがあり、ウェールズがネオナチの件で警告したように独裁的に振る舞う場合もあるものの、こうした指導者の力が公式の機関として制定されたり理解されたりすることは稀だ。しかし、独裁的行動が（しばしば「逸脱の貯金」や「名声の株式」と呼ばれる）積み重ねられたカリスマや実績を越えてしまった指導者は、その地位を失ったりコミュニティがフォークしたりする危険にさらされる。「優しい独裁者」は必要なものとして許容されるかもしれないが、たとえば、「ゴッドキング」は「みずからの特殊な権威をどうしても必要な程度以上に使うサイト所有者または管理者」だ。この種の指導者は「傲慢にもみずからを『神』とする」。こうした指導者のありかたは「濫用」「悪いこと」であり、ウィキのコミュニテの「アンチパターン」だ。（それほど高くなくとも）フォークの可能性は自発性にもとづくコミュニティの力学と言論において中心的だということを、David Wheeler は FOSS コミュニティに関してこう指摘する。
+最後に、卓越した指導者は非公式に「優しい独裁者」という呼称が与えられることがあり、ウェールズがネオナチの件で警告したように独裁的に振る舞う場合もあるものの、こうした指導者の力が公式の機関として制定されたり理解されたりすることは稀だ。しかし、独裁的行動が（しばしば「逸脱の貯金」や「名声の株式」と呼ばれる）積み重ねられたカリスマや実績を越えてしまった指導者は、その地位を失ったりコミュニティがフォークしたりする危険にさらされる。「優しい独裁者」は必要なものとして許容されるかもしれないが、たとえば、「ゴッドキング」は「みずからの特殊な権威をどうしても必要な程度以上に使うサイト所有者または管理者」だ。この種の指導者は「傲慢にもみずからを『神』とする」。こうした指導者のありかたは「濫用」「悪いこと」であり、ウィキのコミュニティの「アンチパターン」だ。（それほど高くなくとも）フォークの可能性は自発性にもとづくコミュニティの力学と言論において中心的だということを、David Wheeler は FOSS コミュニティに関してこう指摘する。
 
 >    ¶9 Fundamentally, the ability to create a fork forces project leaders to pay attention to their constituencies. Even if an OSS/FS project completely dominates its market niche, there is always a potential competitor to that project: a fork of the project. Often, the threat of a fork is enough to cause project leaders to pay attention to some issues they had ignored before, should those issues actually be important. In the end, forking is an escape valve that allows those who are dissatisfied with the project’s current leadership to show whether or not their alternative is better.12
 
@@ -46,11 +46,11 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶10 In short, only those leaders that tread carefully and continue to make important contributions (including, now, the judicious exercise of autocratic authority) are granted the “dictator” title. Whereas this term might not be the most appropriate in capturing the genuine character of this role, it serves as a warning: a good-natured joke balanced on the edge of becoming a feared reality.13 It serves as a caution to such leaders, as well as a metaphoric yardstick for discussing any participant’s action.
 
-短く言えば、踏み込むときに慎重になり、重要な貢献（ここでは独裁的権威を賢明に行使することも含む）をつづける指導者だけが、「独裁者」の称号をあたえられる。これは、この役割の本質をとらえるもっとも的確な用語ではないかもしれないが、現実になることが恐れられている、行儀のよいジョークであり、ひとつの警告として働いている。こうした指導者に向けた警告でもあり、どの参加者の行為を論じるときにも使える比喩的なものさしでもある。
+短く言えば、踏み込むときに慎重になり、重要な貢献（ここでは独裁的権威を賢明に行使することも含む）をつづける指導者だけが、「独裁者」の称号をあたえられる。この用語はこの役割の本質をもっとも的確にとらえてはいないかもしれないが、ひとつの警告として働いている。現実化することへの恐れを瀬戸際でとらえたよい意味でのジョークである。こうした指導者に向けた警告でもあり、どの参加者の行為を論じるときにも使える比喩的なものさしでもある。
 
 ¶11 Because of the voluntary and meritocratic character of open content communities it is not surprising that leaders are expected to lead by example as their very leadership is founded upon exemplary behavior; leadership emerges through action rather than appointment. And while a founding leadership role has some semblance of authoritarianism to it, at least in title, it is eternally contingent: a dissatisfied community, or some constituency thereof, can always leave and start again under new leadership.
 
-オープンコンテントコミュニティには自発的で功績主義的な性格がある。指導者が模範を示して指導することは、模範的な行動がそのリーダーシップの基礎になっていることからすれば、驚くにあたらない。リーダーシップは任命ではなく行為から生まれる。創設者の指導者的役割には独裁主義の一面があるものの、すくなくとも建前では永遠に偶発的なものだ。コミュニティか支持層の一部は不満を持ったとき、いつでも離脱して新しい指導者のもとで立ち上げをすることができる。
+オープンコンテントコミュニティには自発的で功績主義的な性格がある。このため、指導者が模範を示して指導することは、模範的な行動がそのリーダーシップの基礎になっていることからして、驚くにあたらない。リーダーシップは任命ではなく行為から生まれる。創設者の指導者的役割には独裁主義の一面があるものの、すくなくとも建前では永遠に偶発的なものだ。コミュニティか支持層の一部は不満を持ったとき、いつでも離脱して新しい指導者のもとで再出発することができる。
 
 ## §3Wales and Sanger
 
@@ -78,15 +78,15 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶17 Such an understanding might have been like that of Theodore Roosevelt’s recommended leadership style: speak softly and carry a big stick. Whereas Sanger did have special authority at Nupedia as “editor in chief,” such was not the case at Wikipedia, and Sanger’s corresponding “loudness” was a later cause of regret:
 
-こうした理解はセオドア・ルーズヴェルトが推奨するリーダーシップのスタイル、「対話は穏やかに、棍棒の行使は確実に」に似ているかもしれない。サンガーは「編集長」という特殊な権威をもってはいたが、ウィキペディアではそうではなく、サンガーに結びついた「大声」はのちに後悔するもとになった。
+こうした理解はセオドア・ルーズヴェルトが推奨するリーダーシップのスタイル、「対話は穏やかに、棍棒の行使は確実に」に似ているかもしれない。サンガーは「編集長」という特殊な権威をもってはいたが、ウィキペディアではそうではなく、これに対応するサンガーの「大声」はのちに後悔するもとになった。
 
 >   ¶18 As it turns out, it was Jimmy who spoke softly and carried the big stick; he first exercised “enforcement authority.” Since he was relatively silent throughout these controversies, he was the “good cop,” and I was the “bad cop”: that, in fact, is precisely how he (privately) described our relationship. Eventually, I became sick of this arrangement. Because Jimmy had remained relatively toward the background in the early days of the project, and showed that he was willing to exercise enforcement authority upon occasion, he was never so ripe for attack as I was.15
 
-> あとになってみると、対話を穏やかに、棍棒の行使を確実にしていたのはジミーだった。彼が最初に「強制措置の権威」を行使した。一連の論争を通じて彼は比較的発言が少なかったから、「よい警官」になり、私は「わるい警官」になった。実のところ、私たちの関係を彼は（私的に）そう表現した。最終的に、この位置付けにわたしは嫌気がさした。プロジェクトの初期、ジミーは舞台裏に隠れがちだったこと、強制措置の権威を行使する意思を見せたことから、彼は私ほど攻撃の的になりやすくはなかった。
+> あとになってみると、対話を穏やかに、棍棒の行使を確実にしていたのはジミーだった。彼が最初に「強制措置の権威」を行使した。一連の論争を通じて彼は比較的発言が少なかったから、「よい警官」になり、私は「わるい警官」になった。実のところ、私たちの関係を彼は（私的なやりとりで）そう表現した。最終的に、この位置付けにわたしは嫌気がさした。プロジェクトの初期、ジミーは舞台裏に隠れがちだったこと、場合によって強制措置の権威を行使する意思を見せたことから、彼は私ほど攻撃の的になりやすくはなかった。
 
 ¶19 Perhaps unrealized by Sanger, Wales exhibited this pattern of leadership even on an earlier philosophical email list for which he wrote that he would “frown *very much* on any flaming of any kind whatsoever” and choose “a ‘middle-ground’ method of moderation, a sort of behind-the-scenes prodding.”16 And most interestingly, Sanger attributes a root of the problem to his failure to recognize the importance of community and culture:
 
-サンガーは自覚していないかもしれないが、ウェールズはこのパターンのリーダーシップをより以前の哲学のメーリングリストへの投稿で示していた。そこで彼は「あらゆるフレイミングやそれに類することに*とても*眉をひそめ」、「仲裁には『妥協点』の方法である、ある種の舞台裏での促し」を選ぶと書いた。もっとも興味深いのは、自分がコミュニティと文化の重要性を認識できていなかったことが問題のおおもとだとみなしていることだ。
+サンガーは自覚していないかもしれないが、ウェールズはこのパターンのリーダーシップをより以前の哲学のメーリングリストへの投稿で示していた。そこで彼は「あらゆるフレイミングやそれに類することに*とても*眉をひそめ」、「仲裁には『妥協点』の方法である、ある種の舞台裏での促し」を選ぶと書いた。もっとも興味深いのは、自分がコミュニティと文化の重要性を認識できていなかったことが問題のおおもとだとサンガーがみなしていることだ。
 
 >   ¶20 For months I denied that Wikipedia was a community, claiming that it was, instead, only an encyclopedia project, and that there should not be any serious governance problems if people would simply stick to the task of making an encyclopedia. This was strictly wishful thinking. In fact, Wikipedia was from the beginning and is both a community and an encyclopedia project.17
 
@@ -94,7 +94,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶21 As noted earlier, upon publication of Sanger’s memoirs a controversy arose over whether Sanger even deserved credit as a cofounder of Wikipedia. In a sense, in playing the bad cop one is depleting one’s own reputation or leadership credits in favor of the good cop; Sanger, in shifting from bad-cop to apostate, prompted some to question whether such credit was merited at any time. A more productive discussion at the time characterized the change in leadership style as a necessary one:
 
-前にふれたように、サンガーの述懐が公表されるに際して、サンガーはウィキペディアの共同創設者という肩書きをもつにさえ値するのかどうかについて論争が起こった。ある意味で、良い警官が好まれるために、悪い警官の役を演じる人は名声やリーダーシップの功績を消耗させる。サンガーが悪い警官から背教者になったことで、そういった肩書きを与える価値があるのかと疑問を呈する人もした。リーダーシップのありかたが変わることは必要だったと説明する、より生産的な議論も当時行われた。
+前にふれたように、サンガーの述懐が公表されるに際して、サンガーはウィキペディアの共同創設者という肩書きをもつにさえ値するのかどうかについて論争が起こった。ある意味で、良い警官への傾倒により、悪い警官の役を演じる人は名声やリーダーシップの功績を消耗させる。サンガーが悪い警官から背教者になったことで、そういった功績にそもそも値していたのかと疑問を呈する人もいた。リーダーシップのありかたが変わることは必要だったと説明する、より生産的な議論も当時行われた。
 
 >   ¶22 Now, I must say… I think a project of such a type can only work *without* a strong authority. It is important to let people built their own organisation. Jimbo has this very powerful strength, in this that he lets most of the organisation be a self-organisation. For those who know a bit about leadership, it is a rather rare occurrence. For the sake of wikipedia, and to let all the international projects grow up (without a strong hand to lead them), it was important that the role of the editor in chief disappear.18
 
@@ -102,7 +102,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶23Sanger actually concedes as much in the development of editorial policies but is still concerned about controlling abusive editors and attacks, particularly when they alienate high-quality expert contributors. And so he now leads the Citizendium project.
 
-サンガーは実際は編集方針の策定にはかなり譲歩しているが、無理を通す編集者と攻撃とを統制することには、特にそれらが優良な専門家の寄稿者を遠ざけているときには、こだわっている。そのために彼は今は Citizendium プロジェクトを進めている。
+サンガーは実際は編集方針の策定にはかなり譲歩しているが、無理を通す編集者と攻撃とを統制することには、特にそれらが優良な専門家の寄稿者を遠ざけているとき、こだわっている。そのために彼は今は Citizendium プロジェクトを進めている。
 
 ## §4Wales’ influence
 
@@ -110,7 +110,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶24Authorial leaders are frequently the initial author of the community’s content. This is the case, for example, with Linus Torvalds and the Linux kernel or Guido van Rossum and the Python programming language. In this respect, Wikipedia is a bit different, as was pointed out to me by Evan Prodromou, Wikipedian and a founder of Wikitravel.19 Prodromou argued that unlike FOSS communities, Wikipedia has many more contributors, many of whom, even at the administrator level, contribute at a low skill and intensity level compared to FOSS contributors. Furthermore, unlike other wiki communities or even other leaders within Wikipedia, Wales has never been a significant “author” in terms of creating content. Indeed, because of Wikipedia’s history the community regards an editor in chief as undesirable, and even Wales’s relatively modest editorial contributions are apt to cause concern. (In fact, in The New Yorker he admitted he abandoned his efforts to write a scholarly Nupedia article on Robert Merton and options-pricing theory because it was too intimidating and reminiscent of graduate school.20 Sometimes his Wikipedia edits are challenged, as we will see, and statistics on his contributions and “edit count” have been a topic of discussion.21) Plus, much of his purview has been understandably limited to English projects. And even though Wales’s public presence in the daily life of Wikipedia has receded,22 I consider his leadership to be central because of his founding vision, early activity, contributions to collaborative norms, relationships with other Wikipedians, and latent power.
 
-著者的指導者はコミュニティのコンテンツの初期の著者であることが多い。たとえばリーナス・トーヴァルズとリナックスカーネル、Guido van Rossum と Python プログラミング言語の場合はそうだ。この観点で、ウィキペディアンでありウィキトラベルの創設者である Evan Prodromou が私に指摘してくれたように、ウィキペディアは少し異なる。FOSS コミュニティと違い、ウィキペディアにはずっと多くの貢献者がいて、その多くは、管理者の水準であっても、FOSSの貢献者よりも低スキルで低集中の貢献をしていると Prodromou は論じた。さらには、他のウィキコミュニティ、あるいはウィキペディア内の他の指導者とも違い、ウェールズはコンテンツを作りだす「著者」として目立ったことがない。まさにウィキペディアのたどった歴史のために、コミュニティは編集長をのぞましくないものとみなし、ウェールズの比較的控えめな投稿でさえ、懸念を生じさせがちだった。（実際、The New Yorker で、ニューペディアにロバート・マートンとオプション価格評価理論についての学術的項目を書く試みは、怖く、大学院を彷彿とさせるので、放棄してしまったと彼は語った。）くわえて、彼が射程は、理解できることだが、英語のプロジェクトに限られていた。ウィキペディアの日常におけるウェールズの公的な存在感は影を消したとはいえ、創設のヴィジョン、共同作業の規範への貢献、他のウィキペディアンとの関係、隠れた権力を理由に、彼のリーダーシップを重要だと私は考える。
+著者的指導者はコミュニティのコンテンツの初期の著者であることが多い。たとえばリーナス・トーヴァルズとリナックスカーネル、Guido van Rossum と Python プログラミング言語の場合はそうだ。この観点で、ウィキペディアンでありウィキトラベル創設者である Evan Prodromou が私に指摘してくれたように、ウィキペディアは少し異なる。FOSS コミュニティと違い、ウィキペディアにはずっと多くの貢献者がいて、その多くは、管理者の水準であっても、FOSSの貢献者よりも低スキルで低集中の貢献をしていると Prodromou は論じた。さらには、他のウィキコミュニティ、あるいはウィキペディア内の他の指導者とも違い、ウェールズはコンテンツを作りだす「著者」として目立ったことがない。まさにウィキペディアのたどった歴史のために、コミュニティは編集長をのぞましくないものとみなし、ウェールズの比較的控えめな投稿でさえ、懸念を生じさせがちだった。（実際、The New Yorker で、ニューペディアにロバート・マートンとオプション価格評価理論についての学術的項目を書く試みは、怖く、大学院を彷彿とさせるので、放棄してしまったと彼は語った。）くわえて、彼が射程は、理解できることだが、英語のプロジェクトに限られていた。ウィキペディアの日常におけるウェールズの公的な存在感は影を消したとはいえ、創設のヴィジョン、共同作業の規範への貢献、他のウィキペディアンとの関係、隠れた権力を理由に、彼のリーダーシップを重要だと私は考える。
 
 ¶25 In addition to reacting to crises, Schein argues that community culture is affected by what leaders “pay attention to.”23 In this way, leadership can be exerted by highlighting rather than coercing. For example, in any early discussion about neutral point of view, Wales identifies an important issue and highlights a sentiment he agrees with: “We should all pay close attention to Larry’s wording here, which I think is excellent. Nupedia should ‘include articles *on* all points of view’ (note the emphasis added), not necessarily ‘include articles *from* all points of view.’”24 Or, as seen in the discussion about the blocking of a white supremacist, Wales went out of his way to commend the participants for having “a disagreement with a positive exploration of the deeper issues.”25 Highlighting others’ arguments to make his own has even led Wales to apologize for contravening Netiquette; in a thread about the balance between high-quality content and “cruft,” Wales commented: “I know it is bad form to quote an entire post just to say ‘me too’ but I wanted to say that Daniel is right on the money here, and displays what I think of as true Wikipedia spirit. We have to have a passion to *get it right* or we’ll be full of rampant nonsense.”26 He also can be found highlighting what he thinks to be central Wikipedia values: “Wikipedia is built on (among other things) twin pillars of trust and tolerance…. The harmony of our work depends on human understanding and forgiveness of errors”.27
 
@@ -182,7 +182,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 >   ¶41 In the early days of Wikipedia all users acted as administrators and in principle they still should. Any user can behave as if they are an administrator, provided that they do not falsely claim to be one, even if they have not been given the extra administrative functions. Users doing so are more likely to be nominated as full administrators by members of the community and more likely to be chosen when they are finally nominated.40
 
-> ウィキペディア初期には、全利用者が管理者として行動しました。また原則としては今もそうあるべきです。どの利用者も、追加の管理機能が与えられていなくても、管理者であると見せかけるのでないかぎり、管理者であるかのようにふるまうことができます。そのようにする利用者は、本当の管理者になるよう、他のコミュニティ構成員から推薦されることが多くなり、推薦されたときに当選することが多くなります。
+> ウィキペディア初期には、全利用者が管理者として行動しました。また原則としては今もそうあるべきです。どの利用者も、追加の管理機能が与えられていなくても、管理者であると偽装するのでないかぎり、管理者であるかのようにふるまうことができます。そのようにする利用者は、本当の管理者になるよう他のコミュニティ構成員から推薦されることが多くなり、推薦されたときに当選することが多くなります。
 
 ¶42 Essentially, administrators are able to quickly prevent and intervene in destructive edits. (Textual vandalism isn’t truly destructive as the previous versions are available; one administrative feature is the rollback that permits the quick reversion of such edits.) However, in an ironic testament that administrators are much like ordinary users, they do sometimes become involved in wheel wars, a term going back to the 1970s to describe conflicts among those who gained “big wheel” privileges on a computer system.41 And, given there are now thousands of contributors, administrators, and administrative actions it is no longer possible to claim that administrators are “applying decisions made by all users” as was claimed in 2005. A clarification in 2008 states: “There is very little extra decision-making ability that goes along with adminship, and it does not add any extra voice in consensus decisions. In that sense, whether a person is an administrator is not, in and of itself, important”.42
 
@@ -198,7 +198,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 >    ¶45 I’m sick and tired of people misunderstanding what an “administrator” of Wikipedia is. It was a misnomer to begin with, and we’ve had nothing but trouble with this name ever since. Users misunderstand it (and ask admins to make editorial decisions). Media misunderstand it (and either do not explain it, or connect it to power and influence). And it’s no wonder. “Administrator” could refer to a manager, or someone appointed by a court; it typically describes someone in an important official position.
 
-> ウィキペディアの「管理者」とは何かを誤解する人たちの多さにはもううんざりです。この名前は元々不適切でしたし、面倒しか起こしていません。利用者も誤解する（編集上の決定をするよう管理者に頼む）し、メディアも誤解する（説明しないか、権力と影響力とに結びつける）。しかし無理もないことです。「管理者」は管理職や裁判所で任命される職のことでもあります。公的な重職にある人のことを言う言葉です。
+> ウィキペディアの「管理者」とは何かを誤解する人たちの多さにはもううんざりです。この名前は元々不適切でしたし、面倒しか起こしていません。利用者も誤解する（編集上の決定をするよう管理者に頼む）し、メディアも誤解する（説明しないか、権力と影響力とに結びつける）。しかし無理もないことです。「管理者」は管理職や裁判所によって任命される職のことでもあります。公的な重職にある人のことを言う言葉です。
 
 >    ¶46 When the role of “bureaucrat” was created, the name was chosen specifically so that people would not treat it as a status symbol. It should be something nobody really wants — something people do because it needs doing, not because it gains them credibility and influence. This seems to have worked reasonably well for the most part.47
 
@@ -317,7 +317,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 >    ¶74 But it is also a role of “constitutional” importance, in the sense that everyone who is party to the discussion can feel comfortable that whatever agreements are reached will be *binding*, that there is a higher enforcement mechanism. It’s not up to me to *impose* a solution, nor is it up to me directly to *enforce* a solution chosen by the community, but I do play a role in guaranteeing with my personal promise that valid solutions decided by the community in a reasonable fashion will be enforced by someone….
 
-> ただしそれは、議論に参加する人がみな合意事項には*拘束力*があり、上位の執行機関があると納得できるという意味で、「憲法的」に重要な役割でもあります。私は解決策を*強制*したり、コミュニティが選んだ解決策を直接*執行*したりする立場にはありませんが、合理的なやりかたでコミュニティが決定した正当な解決策が誰かによって執行されるというわたし の個人的約束を維持するのに私は寄与します。
+> ただしそれは、議論に参加する人がみな合意事項には*拘束力*があり、上位の執行機関があると納得できるという意味で、「立憲的」に重要な役割でもあります。私は解決策を*強制*したり、コミュニティが選んだ解決策を直接*執行*したりする立場にはありませんが、合理的なやりかたでコミュニティが決定した正当な解決策が誰かによって執行されるというわたし の個人的約束を維持するのに私は寄与します。
 
 >    ¶75 And notice, too, that I believe such authority should be replaced as time goes along by institutions within the community, such as for example the ArbCom in en.wikipedia.org, or by community votes in de.wikipedia.org, etc.
 
