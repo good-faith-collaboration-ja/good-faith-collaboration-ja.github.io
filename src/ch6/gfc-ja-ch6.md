@@ -146,15 +146,15 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
 
 ¶33 Additionally, humor serves to further camaraderie and diffuse anxiety about leadership. In response to a message about an April Fool’s Day joke about Wales as dictator, someone responded that many prominent Wikipedians make jokes:
 
-くわえて、ユーモアは仲間意識を醸成し、リーダーシップへの不安を散らしてくれる。ウェールズを独裁者とするエイプリルフールの冗談についてのメッセージに対して、有力なウィキペディアンの多くが冗談を言うと返事した：
+くわえて、ユーモアは仲間意識を醸成し、リーダーシップへの不安を散らしてくれる。ウェールズを独裁者とするエイプリルフールの冗談についてのメッセージを受けたある人は、有力なウィキペディアンの多くが冗談を言うとする：
 
 >   ¶34 These jokes don’t have a “point.” If you scour the list for all messages, you will find that I am not the only one who has a sense of humour and knows how to make jokes. In fact, this extends to Ant, Mav, Jimbo, etc. who can occasionally be found to be making a joke on this list.
 
-> こういう冗談には「論点」はありません。このメーリングリストの全メッセージを精査してみれば、ユーモアのセンスがあり冗談を言えるのが私だけではないと分かるでしょう。実際、Ant や Mav やジンボもそうであり、ここで冗談を言うことがあります。
+> こういう冗談には「主張」はありません。このメーリングリストの全メッセージを精査してみれば、ユーモアのセンスがあり冗談を言えるのが私だけではないと分かるでしょう。実際、Ant や Mav やジンボもそうであり、ここで冗談を言うことがあります。
 
 >   ¶35 I don’t know how it is with you, but as far as I know the point of humour is to lighten up a situation, and only occasionally to make a point.34
 
-> あなたにとってどうかは分かりませんが、私の知るかぎり、場を明るくするのがユーモアの意義であり、場合によっては論点があることもあるというだけです。
+> あなたにとってどうかは分かりませんが、私の知るかぎり、場を明るくすることがユーモアの意義であり、何かを主張しようとしていることはたまにしかありません。
 
 ¶36 However, as Wikipedia has grown, attempts at humor by those in positions of authority seemingly become rarer because a bad or misunderstood joke can have deleterious consequences exceeding the value of a few chuckles. And, of course, just as Wikipedia sometimes fall short of its ideals, Wales — and other leaders — make their fair share of mistakes, some of which are widely publicized because of Wikipedia’s prominence and a counter-culture of message boards that thrive on complaint and conspiracy.35 Even within the community, his attempts to steer Wikipedia are sometimes challenged. For example, during the 2006 Wikimedia board of trustee elections, Wales’ message encouraging people to vote — and for specific candidates — was thought inappropriate by some because he might have access to the intermediate results; subsequent elections were hosted and overseen by an external organization.36 Or, in response to an embarrassing instance of vandalism in 2009, Wales called upon the Foundation to enable the experimental “Flagged Revisions” feature at the English Wikipedia based on his “personal recommendation” and community consensus (roughly 60 percent of those polled supported the idea). This prompted a maelstrom of discussion, and mainstream press attention, about openness, the meaning of consensus, and his role. However, despite initially overreaching, he and the community continued substantive discussion and Wales challenged those who objected for a specific counter-proposal within a limited time frame.37 (I expect using this feature as a way to protect specific pages eventually will be implemented.)
 
@@ -162,7 +162,7 @@ http://reagle.org/joseph/2010/gfc/chapter-6.html
     
 ¶37 In any case, Wikipedia’s good faith culture undeniably has been shaped by Wales’s own values and actions; while he did not write many articles, he did help establish many of Wikipedia’s essential values and norms. Additionally, after Sanger’s departure he once again attempted to move to the “background” in encouraging other forms of governance to emerge and by supporting like-minded persons with a similar temperament.
 
-いずれにしても、ウィキペディアの善意の文化がウェールズの価値観と行為によって形成されたことは否定しようがない。彼は多数の項目を書いたわけではないが、ウィキペディアの価値観と規範の多くが確立されるのを助けはした。くわえて、サンガーの離脱後、ウェールズはふたたび「舞台裏」に移り、他の統治の形態が生まれやすくし、志を同じくし似た性格をした人を支援した。
+いずれにしても、ウィキペディアの善意の文化がウェールズの価値観と行為によって形成されたことは否定しようがない。彼は多数の項目を書いたわけではないが、ウィキペディアの価値観と規範の多くが確立されるのを助けはした。くわえて、サンガーの離脱後、他の統治の形態が生まれるよう奨励したり、気性が似ていて志を同じくする人を支援したりして、ウェールズはふたたび「舞台裏」に移ろうとした。
 
 ## Beyond the Founders: Admins, ArbCom, and the Board
 
