@@ -410,7 +410,7 @@ Godwin の法則の解説のひとつは、議論したように、参加者は�
 ¶92This does not imply civility will be abandoned as a policy, the principle at least will persist, though it and its implementation will continue to be discussed, no doubt.
 
 
-しかしこれは礼儀が方針として放棄されることを意味しない。少なくとも原理としては存続するだろう。ただし、それ自身およびその実施方法は継続して議論されるだろうことには疑いがない。
+しかしこれは礼儀が方針として放棄されることを意味しない。少なくとも原理としては存続するだろう。ただし、それ自身およびその実施方法はおそらく継続して議論されるだろう。
 
 §12Humor
 ユーモア
