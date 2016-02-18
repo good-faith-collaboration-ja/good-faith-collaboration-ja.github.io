@@ -12,10 +12,10 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 * [第5章 合意という難題](ch5/gfc-ja-ch5.md)：100%、校正中 (2014-10) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
 * [第6章 優しい独裁者](ch6/gfc-ja-ch6.md)：100% (2015-03) - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
 * [第7章 百科事典の不安](ch7/gfc-ja-ch7.md)：100% (2016-02) - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
-* [第8章 調和する地球](ch8/gfc-ja-ch8.md)：50% (2016-02) - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
+* [第8章 結論：「調和する地球」](ch8/gfc-ja-ch8.md)：50% (2016-02) - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
 
 ## ライセンス
-[Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC-BY-NC-SA 3.0) で配布しています。
+[Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC BY-NC-SA 3.0) で配布しています。
 
 帰属表示は [Joseph Reagle](http://reagle.org)、Yusuke Matsubara でお願いします（寄稿者が増えた場合は更新します。最新の情報はレポジトリの [Contributors](https://github.com/good-faith-collaboration-ja/good-faith-collaboration-ja.github.io/graphs/contributors) の欄をご覧ください）。
 
