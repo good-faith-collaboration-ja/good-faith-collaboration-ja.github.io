@@ -11,8 +11,8 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 * [第4章 開放性の謎](ch4/gfc-ja-ch4.md)：100%、校正中 (2012-08) - 原題 *[The Puzzle of Openness](http://reagle.org/joseph/2010/gfc/chapter-4.html)*
 * [第5章 合意という難題](ch5/gfc-ja-ch5.md)：100%、校正中 (2014-10) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
 * [第6章 優しい独裁者](ch6/gfc-ja-ch6.md)：100% (2015-03) - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
-* [第7章 百科事典の不安](ch7/gfc-ja-ch7.md)：10% (2016-02) - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
-* [第8章 調和する地球](ch8/gfc-ja-ch8.md)：30% (2016-02) - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
+* [第7章 百科事典の不安](ch7/gfc-ja-ch7.md)：100% (2016-02) - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
+* [第8章 調和する地球](ch8/gfc-ja-ch8.md)：50% (2016-02) - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
 
 ## ライセンス
 [Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC-BY-NC-SA 3.0) で配布しています。
