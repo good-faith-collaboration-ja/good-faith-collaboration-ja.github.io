@@ -7,6 +7,6 @@
 * [Chapter 5](ch5/gfc-ja-ch5.md)
 * [Chapter 6](ch6/gfc-ja-ch6.md)
 * [Chapter 7](ch7/gfc-ja-ch7.md)
-* [Chapter 8（翻訳中）](ch8/gfc-ja-ch8.md)
+* [Chapter 8](ch8/gfc-ja-ch8.md)
 * [日本語版について](about-ja.md)
 * [License](LICENSE.md)

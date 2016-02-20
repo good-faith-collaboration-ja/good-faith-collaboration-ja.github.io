@@ -1,7 +1,7 @@
 # Chapter 4
 # §1The Puzzle of Openness
 
-# 開放性という難問
+# 開放性というパズル
 
 > ¶1Problematic users will drive good users away from Wikipedia far more often than good users will drive away problematic ones. — Extreme Unction’s Third Law
 
@@ -13,13 +13,12 @@
 
 ¶3A central aspiration in the pursuit of a universal encyclopedia is increased access to information: an opening of opportunity and capability to anyone with a desire to learn. Ironically, such an encyclopedia only became possible with universal access to its production. However, Wikipedia’s openness, based on the inspiration of the Free and Open Source Software (FOSS) movement and the capabilities of hypertext, is not a collaborative panacea. The two, at odds, “laws” of Wikipedia that begin this chapter are evidence that openness has advantages and disadvantages — and people don’t even agree about which is which. (Since neither law is funny, Kmarinas86’s Law of Contradiction, in which the most humorous wins, is of little help.) In fact, like the issues of consensus and leadership addressed in the next two chapters, openness, including to those who may alienate good users or drive them to brilliance, is a bit of a puzzle itself.
 
-普遍的百科事典の探求における中心的な欲求は、情報へのアクセスの増進である。学ぶことを欲する人すべてに機会と可能性を開くことである。皮肉なことに、そのような百科事典は、その製作において普遍的なアクセスがともなってはじめて可能になった。しかし、フリー・オープンソースソフトウェア (FOSS) 運動とハイパーテキストの可能性に着想を得たウィキペディアの開放性は、共同作業の特効薬ではない。本章の冒頭のウィキペディアの「法則」2点は、かなりの可能性で、開放性がもたらす長所と短所を明らかにしている。そして、人々はどちらがどちらであるかについてさえ意見をおなじくしない（どちらの法則も楽しくないため、ユーモラスなものが勝つという Kmarinas86 の矛盾の法則はほとんど役に立たない）。実のところ、以降の2章で論じる合意と指導力の問題と同じように、開放性も、よいユーザーを阻害する人々にとってもその能力を発揮させる人々にとっても、ちょっとした難問である。
+普遍的百科事典の探求における中心的な欲求は、情報へのアクセスの増進である。学ぶことを欲する人すべてに機会と可能性を開くことである。皮肉なことに、そのような百科事典は、その製作において普遍的なアクセスがともなってはじめて可能になった。しかし、フリー・オープンソースソフトウェア (FOSS) 運動とハイパーテキストの可能性に着想を得たウィキペディアの開放性は、共同作業の特効薬ではない。本章の冒頭のウィキペディアの「法則」2点は、かなりの可能性で、開放性がもたらす長所と短所を明らかにしている。そして、人々はどちらがどちらであるかについてさえ意見をおなじくしない（どちらの法則も楽しくないため、ユーモラスなものが勝つという Kmarinas86 の矛盾の法則はほとんど役に立たない）。実のところ、以降の2章で論じる合意と指導力の問題と同じように、開放性も、よいユーザーを阻害する人々にとってもその能力を発揮させる人々にとっても、ちょっとしたパズル（訳注：難題）である。
 
 ¶4 Wikipedia’s claim of openness is seen in its motto: “Wikipedia, the free encyclopedia that anyone can edit.”1 But what does “openness” — and “anyone” — actually mean? Because of the ascendancy of FOSS, open is now a buzzword, becoming a prefix to even such well-established notions as democracy and religion.2 Additionally, when contemporary sources speak of openness as an attribute of community, it is often in an overly simplistic way; projects like the Linux kernel, Apache Web server, and Wikipedia are often mischaracterized by way of an inappropriate, if not naïve, extreme. A utopian rendering of openness is that “anything goes”: there are no community structures or norms, anyone can do anything they please.
 
-ウィキペディアが開放性を主張していることはそのモットーにあらわれている。
-「ウィキペディア、誰でも編集できる百科事典」
-しかし「開放性」— そして「誰でも」 — とは実際にはどういう意味だろうか？ FOSS が隆盛したことで、開放性（オープン）はいまやバズワードになっており、民主主義や宗教といったよく確立した概念についてさえ接頭辞としてつけられることがある。加えて、現代の情報源がコミュニティの属性の一つとして開放性に言及するとき、それは過剰に単純化されたものになっている。Linux カーネル、Apache ウェブサーバ、ウィキペディアのようなプロジェクトは、ナイーブではないにしろ不適切な極として誤って特徴付けられることが多い（FUZZY 訳注：要検討）。
+ウィキペディアが開放性を主張していることはそのモットー「ウィキペディア、誰でも編集できる百科事典」にあらわれている。
+しかし「開放性」— そして「誰でも」 — とは実際にはどういう意味だろうか？ FOSS が隆盛したことで、開放性（訳注：原語では open オープン）はいまやバズワードになっており、民主主義や宗教といったよく確立した概念についてさえ接頭辞としてつけられることがある。加えて、現代の情報源がコミュニティの属性の一つとして開放性に言及するとき、それは過剰に単純化されたものになっている。Linux カーネル、Apache ウェブサーバ、ウィキペディアのようなプロジェクトは、ナイーブではないにしろ不適切な極として誤って特徴付けられることが多い（FUZZY 訳注：要検討）。
 開放性を理想郷的に描かいたものとしては「なんでもあり」、すなわちコミュニティに構造や規範はなく、誰でも好きなことを何でもしていい、というものがある。
 
 ¶5 This understanding of “anything goes” is untenable: some level of structure is inevitable in social relations, and often necessary to support other values. In his 1911 book Political Parties, Robert Michels wrote of the development of an oligarchy within democratic parties as an “Iron Law.” In 1970 Jo Freeman wrote about the “tyranny” present in seemingly egalitarian feminist groups of the earlier decade: “ ‘Structurelessness’ is organisationally impossible. We cannot decide whether to have a structured or structureless group; only whether or not to have a formally structured one.” And more recently, Mitch Kapor expressed a similar sentiment with respect to the early management of the Internet when he noted: “Inside every working anarchy, there’s an Old Boy Network.”3

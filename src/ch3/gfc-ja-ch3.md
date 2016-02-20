@@ -1,9 +1,9 @@
-Chapter 3
-§1Good Faith Collaboration
+# Chapter 3
+#§1Good Faith Collaboration
+
+#善意にもとづく共同作業
 
 http://reagle.org/joseph/2010/gfc/chapter-3.html
-
-善意にもとづく共同作業
 
 > ¶1All rules and guidelines add up to this; Respect! — Phoenix 15’s Law
 
@@ -13,17 +13,17 @@ http://reagle.org/joseph/2010/gfc/chapter-3.html
 
 ウィキペディアにおける共同作業の根幹には、相補的な態度が2つある。「中立的な観点」(NPOV) と善意である。善意の文化（つまり、他者について善意を仮定し、根気と礼儀とユーモアとをもって行動するということ）があるコミュニティは他にもあるかもしれないが、百科事典を製作することに関わるものはほとんどない。知識の宣言（認識論的）と他の寄稿者（間主観的）とに対するオープンな観点をつなぎあわせることから、途方もない規模の共同作業の可能性が生まれ、情報アクセスの増進と社会の調和という普遍性のヴィジョンへと立ち返ることができる（FUZZY 訳注： harken back の訳語は自信なし）。さらには、中立性と善意を理解することは、第0の法則として広く知られる、ウィキペディアについての次の quip （FUZZY 訳注：未訳）への切り返しとなるだろう。「ウィキペディアは実践ではうまく動くが、理論的には動くはずがない」
 
-§2Introduction
+#§2Introduction
 
-はじめに
+#はじめに
 
 ¶3Before engaging with Wikipedia’s collaborative culture, it is worthwhile to frame such an undertaking. (Again, my focus is on the English-language Wikipedia; comparative work between Wikipedias in other languages does show differences in conception of power, collectivism, and anonymity.2) I begin this introduction at the most abstract level by briefly explaining what I mean by “collaborative culture.” I also note that there is often a disconnect between written policy and actual practice within organizations; in offering a bit of history about how wikis came to be, I argue wikis help close the gap between policy and practice. I then explore the background, theory, and practice of neutrality and good faith by way of a conflict about the English Wikipedia’s “Evolution” article.
 
 ウィキペディアの共同作業の文化に取り組む前に、そのような試みの枠組みを考えるのは有益だろう（ここでも、私の焦点は英語版ウィキペディアにある。比較研究により、他言語でのウィキペディア同士の間では、権力、collectivism、匿名性の概念に差異があることが明らかになっている。）。この節を始めるにあたって、「共同作業の文化」と私が呼んでいるものについて、もっとも抽象的なレベルから説明していく。様々な組織のなかで、成文化された方針と実際の実践とのあいだに剥離があるのをよく見かける。ウィキがどのようにできてきたかという歴史を少々提示しておくことによって、ウィキは方針と実践とのあいだのギャップを埋める助けになると論じる。その後、「Evolution」という英語版ウィキペディア項目での衝突を通して、中立性と善意の背景、理論、実践を探索する。
 
-§3A Caveat about Collaborative Culture
+#§3A Caveat about Collaborative Culture
 
-共同作業の文化についての断り書き
+#共同作業の文化についての断り書き
 
 ¶4Heretofore I have used the term collaborative culture in a commonsensical manner, but if pressed for further explanations on what collaboration or culture mean one can find many and varied answers. Indeed, authors have commented on the variety of approaches to “culture” across disciplines, including anthropology, communications, and history.3 Within organizational studies itself, Edgar Schein posits eleven different categories of how culture is commonly conceived. In this project, I speak of culture as the “way of life of a people,”4 the value-laden system of “meaning making” through which a community understands and acts, including its own maintenance and reproduction. Schein writes that “culture acts as a set of basic assumptions that defines for us what to pay attention to, what things mean, how to react emotionally to what is going on, and what actions to take in various kinds of situations.”5
 
@@ -45,9 +45,9 @@ http://reagle.org/joseph/2010/gfc/chapter-3.html
 
 したがって、私の用法での共同作業の文化という用語が言及するのは、コミュニティのなかでともにはたらくことに関わる一群の仮定、価値観、意味、行為である。そして、私のこの用法は、商業的ジャンル（例：サイエンスフィクション）の消費者のみからなるファンが「ファンダム」コミュニティにおいて創作者になるという意味において、メディア論者ヘンリー・ジェンキンスの「参加型文化」の概念に多くの点で似ている。ジェンキンスは参加型文化を参加障壁が低く、創作と共有を支え、何らかの形の指導と社会化があり、貢献物に意味があると信じ、「たがいのあいだに一定の社会的つながりを感じる」ものとして定義している。これらの基準にウィキペディアは該当する。
 
-§4Wiki, Practice, and Policy
+#§4Wiki, Practice, and Policy
 
-ウィキ、実践、方針
+#ウィキ、実践、方針
 
 ¶9Douglas Engelbart, a father of the modern computer interface, wrote in his essay “Augmenting Human Intellect” that computers would permit researchers themselves to benefit from the product of their work through a regenerative “feeding back of positive research results to improve the means by which the researchers themselves can pursue their work.”13 More than forty years later anthropologist Christopher Kelty observed this phenomenon among technical communities using the Internet. Likely unaware of Engelbart’s prediction, Kelty chose to call such communities a “recursive public”: a form of “social imaginary” through which geeks collectively conceive their “social existence” and are capable of changing the very means of discourse (i.e., communication protocols).14 I can think of no better example of this notion of “regenerative” or “recursive” feedback than Wikipedia.
 
@@ -89,9 +89,9 @@ http://reagle.org/joseph/2010/gfc/chapter-3.html
 
 学者は、ウィキが共同作業の拡張を助けてきたやり方についていくつもの説を立てている。ネットワーク技術とそれに関連する共同作業の技術とが、開放性とアクセシビリティを実現可能にし（たとえば議論のメーリングリスト、分散ソフトウェア開発、ウィキ）、新人への責任と社交とをそだてた。そして、人々は非同期で増分的に寄与することができるようになる。ウィキにでは、寄与の時期と粒度は、数ヶ月のあいださらわれていなかったページにあるタイポを修正するというくらいに周辺的なものになる。ウィキでは、変更が差し戻しできるため、寄稿者が大胆に行動し他者の行動へ冷たく反応しなくてもよくなる。「集合的な創作」と調整は、永続的な文書化と議論ページ、テンプレートの利用によって助けられる。自動化された道具は利用者を助け、こうした仕組みによって助けられた共同作業は「分散認知」に似たものになる。たとえば、自律的なプログラムである「ボット」は実時間で編集を監視し、（その編集が不適切であった場合などには）即座に差し戻しをしたり、疑問があるものとして列挙することができる。このような情報はさらに、利用者のアプリケーションによって、投稿者が匿名か否か、あるいは以前に警告を受けたかどうかなどといった発見的手法を通して疑問のある編集に優先度をつけ、1クリックによる差し戻し、利用者への警告、管理者への通知を可能にする。一時的にページをロックすることすらも、フレームの抑制と冷却期間の強制を可能にする、生産的な機能として考えられる。項目における難しい問題は小分けにすることができる。異論が起こりやすい部分は分離し他の場所で議論することによって、それ以外の部分の進捗を妨げさせないようにできる。そもそも、モジュール化は一般に、やりとりと内容の発展にとって強力な助力である。加えて、ウィキはコミュニティの実践と議論の豊富な保管庫である。ボー・ルーフとウォード・カニンガムが2001年の著書「ウィキ・ウェイ」で書いた通り、「どのウィキでも、保管された文書を通して、成長するコミュニティが自らを表現するという点を見ることができる」。
 
-§5Wikipedia Policy, Guidelines, and the Five Pillars
+#§5Wikipedia Policy, Guidelines, and the Five Pillars
 
-ウィキペディアの方針、ガイドライン、5つの柱
+#ウィキペディアの方針、ガイドライン、5つの柱
 
 ¶19In principle, there are three levels of authority associated with Wikipedia norms: essays, nonauthoritative pages that may contain useful insights; guidelines, actionable norms approved by general consensus; and policy, much the same but “more official and less likely to have exceptions.”38 The line of distinction between guidelines and policy is rarely bright, as evidenced in discussions about the deprecation of “Assume Good Faith” (AGF) from a policy to a guideline.39 (A simple summary of this discussion is that AGF was rarely actionable since it involved assumptions about others’ motives while “Civility” and other corollaries remain “policy” because they can be tested and enforced against more objective features of behavior.)
 
@@ -125,9 +125,9 @@ http://reagle.org/joseph/2010/gfc/chapter-3.html
 
 百科事典としてと「誰でも編集できる」ものとしてのウィキペディアの第1と第3の柱は、以降の章で見ていく。本章の残りの部分では、第2と第4の柱、中立性の規範とウィキペディアの善意の「行動規範」について見ていく。
 
-§6Neutral Point Of View and Good Faith: An Example
+#§6Neutral Point Of View and Good Faith: An Example
 
-中立的観点と善意：ひとつの例
+#中立的観点と善意：ひとつの例
 
 ¶27One of the many contentious articles I follow on Wikipedia is that on evolution. Frequently those with criticisms of evolution, predominately religious literalists, attempt to include these criticisms in the “Evolution” article. Yet, Wikipedia articles are not forums for debate, nor are their discussion pages: “Please remember that this page is only for discussing Wikipedia’s encyclopedia article about evolution. If you are interested in discussing or debating evolution itself, you may want to visit talk.origins or Wikireason.”44
 
@@ -185,9 +185,9 @@ dawson の「Salva さん、すみませんが」の言い方も純粋な謝罪�
 
 ウィキペディア上の多くの項目や議論ページと似て、「進化」の項目にはさまざまな不一致、議論、露骨な敵対的ふるまいがある。しかし、NPOV の方針は編集者に、（認識論的）観点を自分が世界について主張することに合わせて変えることを求めている。同様に、礼儀を保つことと謝罪をいとわないこととを含む広い意味での善意は、編集者に他の編集者への（間主観的）観点を広げ、善意だがもしかすると誤解のある人間として受け取るよう求めている。
 
-§7The Epistemic Stance of Neutral Point Of View
+#§7The Epistemic Stance of Neutral Point Of View
 
-中立的な観点の認識論的立場
+#中立的な観点の認識論的立場
 
 ¶41Both in the first and present chapter I introduce the NPOV policy by way of example because it can be a confusing term. Misunderstandings about it arise in part because, as the Wikipedia article itself admits, “the terms ‘unbiased’ and ‘neutral point of view’ are used in a precise way that is different from the common understanding.” People are acknowledged to be subjective beings (i.e., “inherently biased”), but when used in the Wikipedia context articles are considered to be without bias when they “describe the debate fairly rather than advocating any side of the debate.” A more recent version of the page suggests one way to think about it is to “assert facts, including facts about opinions — but do not assert the opinions themselves.”52
 
@@ -245,9 +245,9 @@ dawson の「Salva さん、すみませんが」の言い方も純粋な謝罪�
 
 結果として、偏りのなさ、あるいは少なくとも偏りの少なさの重視は、理解可能な、あるいは少なくとも部分的に理解可能な、客観的世界がウィキペディアの共同作業文化にとって中心的であると主張する。NPOVという考えが提供するのはこのプロジェクトの認識論的基礎を提供だけでなく、投稿者が互いにやりとりをするときに意識的にとるべき態度でもある。さらには、このみかたでは世界についての異なる主張も共存できるため、H. G. ウェルズが解こうとした「ジグソーパズルの問題を解く」ことをも可能にする。
 
-§8The Intersubjective Stance of Good Faith
+#§8The Intersubjective Stance of Good Faith
 
-善意の間主観的態度
+#善意の間主観的態度
 
 ¶55In Wikipedia’s collaborative culture, the scope of an open perspective includes not only the subject of collaboration, claims about the world, but also one’s collaborators as well. In Wikipedia’s “Writing for the Enemy” essay, one is encouraged to see things as others might:
 
@@ -269,9 +269,9 @@ NPOV が共同作業に与えた比較的革新的な影響とは異なって、
 
 以降の章では、私も一見矛盾するようなもの（優しい独裁者と平等主義のコミュニティなど）について述べるが、以降の節では、最良にとること、辛抱強く行動すること、礼儀を持って行動すること、ユーモアの精神を維持しようとすること、の4つの「徳性」または振る舞いを通して、善意について議論する。
 
-§9Assuming the Best of Others
+#§9Assuming the Best of Others
 
-他者を最良にとる
+#他者を最良にとる
 
 ¶60Online communities often suffer the effects of Godwin’s Law: as a discussion continues, someone is bound to make an unfavorable comparison to Hitler or Nazis. (Perhaps this is in part a consequence of the effects of computer-mediated communication, such as reduced social cues and anonymity, and the character of virtual community.78) A possible counteracting norm of this tendency is the guideline “Assume Good Faith.” But before examining this norm in detail it is worthwhile to first note that good faith is associated with at least three collaborative wiki norms: good faith, “Assume Good Faith,” and “Assume the Assumption of Good Faith.”
 
@@ -325,8 +325,8 @@ AGF は社会的期待を設定することも助ける。善意の仮定は「�
 
 以上すべてを述べた上で、すべての無私性が必ず「利己的」であるかどうかは複雑な論争だが、ウィキペディアはこの議論に興味ある人にとって重要な事例となるかもしれない（無私的に見える投稿者の動機づけに興味ある人にとって匿名の投稿が刺激的な話題となることは明白だ）。そして、ウィキペディアの場合では、より具体的な疑問が出るかもしれない。善意はどこまでが有効で尊敬されるウィキペディアンたるに過ぎないことであり、どこまでが集団的無私性であり、どこまでがそれ以上のなにかなのだろうか？  善意についての文献とそれに関連する議論はその大多数が集団に向けてのものであると私は特徴付ける。これは利己的自己満足や超越的意図を排除しないが、ウィキペディアの文脈は善意とウィキ愛を知識への相互の愛に拡張することに根ざしている。「私たちがここにいる理由はただひとつ、自分たちにある知識を、かつてない規模の百科事典というかたちで、蓄積し、秩序づけ、構造化し、自由に使えるようにすることを愛するからです」。
 
-§10Patience
-忍耐
+#§10Patience
+#忍耐
 
 ¶73A deficient collaborative culture might be characterized as temperamental and brittle because participants are uneasy and defensive; and existing structures and agreements easily fracture, providing little common ground and means for facilitating agreement. Its opposite, a well-working collaborative culture, might be characterized by patience as participants do not easily panic or escalate conflict. As a Wikipedia essay counsels: “The world will not end tomorrow”.107
 
@@ -380,8 +380,8 @@ Godwin の法則の解説のひとつは、議論したように、参加者は�
 
 忍耐がどこまでつづけられるべきかのバランスが議論の話題でありつづけているのは驚くに当たらない。とはいえ、参加者が善意の仮定をすべて裏切られ、忍耐をほとんど使い果たし、自分の母親くらいしか愛せないようになる事案も存在する。しかしそのときまでは、またそのあとでさえも、参加者は礼儀正しくいるように期待されている。
 
-§11Civility
-礼儀
+#§11Civility
+#礼儀
 
 ¶86A subtle, but important, incoherence is found within the Wikipedia “Policies and Guidelines” page: “Respect other contributors. Wikipedia contributors come from many different countries and cultures, and have widely different views. Treating others with respect is key to collaborating effectively in building an encyclopedia.”122 Are Wikipedians to genuinely respect all others, or (merely) treat them with respect? A comment in the “Civility” policy points to the second interpretation: “We cannot always expect people to love, honor, obey, or even respect another. But we have every right to demand civility.”123 I make this distinction between genuine respect and acting with respect based on Mark Kingwell’s useful definition of civility in public discourse:
 
@@ -412,8 +412,8 @@ Godwin の法則の解説のひとつは、議論したように、参加者は�
 
 しかしこれは礼儀が方針として放棄されることを意味しない。少なくとも原理としては存続するだろう。ただし、それ自身およびその実施方法はおそらく継続して議論されるだろう。
 
-§12Humor
-ユーモア
+#§12Humor
+#ユーモア
 
 ¶93Humor is not a policy or guideline of Wikipedia, but it suffuses the culture and is the true last resort when faced with maddening circumstances.132 Certainly, Wikipedia is the butt of many jokes. The satirical newspaper The Onion has made fun of the often-contentious character of Wikipedia with an article about the U.S. Congress abandoning an attempt at a wiki version of the Constitution; it also lampooned Wikipedia’s reliability with the article “Wikipedia Celebrates 750 Years of American Independence.”133 Wikipedia has also been the source of fun for many Web comics, such as a Penny Arcade strip entitled “I Have The Power,” showing the evil cartoon character Skeletor changing He-man’s description from “the most powerful man on earth” to “actually a tremendous jackass and not really that powerful.”134 Wikipedians are also capable of laughing at themselves. In August 2009 there were over seven hundred articles listed in Wikipedia’s humor category,135 including a dozen or so songs and poems, such as “Hotel Wikipedia” and “If I Were an Admin,”136 An excerpt from my favorite, based on a ditty from Gilbert and Sullivan’s The Pirates of Penzance, best captures the character of Wikipedians:
 
@@ -451,9 +451,9 @@ Godwin の法則の解説のひとつは、議論したように、参加者は�
 
 しかし、やわらかいユーモアと安定性は補完的になっていることのほうがそうでないことより多いと私は見ている。そうでないときは、ちょうど学校の場でとおなじように、問題はだれがそのジョークの犠牲になっているかに帰着する。
 
-§13Conclusion
+#§13Conclusion
 
-結論
+#結論
 
 ¶101Wikis are a relatively novel way of working together: online, asynchronous, possibly anonymous, incremental, and cumulative. Do these features alone explain the success of Wikipedia? Not quite. Each also has possible demerits. Flame-ridden, scattered, unaccountable, half-baked piles of bunk are a possible future for any wiki. As the WikiLove essay notes, “Because people coming from radically different perspectives work on Wikipedia together — religious fundamentalists and secular humanists, conservatives and socialists, etc. — it is easy for discussions to degenerate into flamewars.”147
 
