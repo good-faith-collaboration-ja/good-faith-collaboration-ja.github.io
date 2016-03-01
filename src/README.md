@@ -14,6 +14,7 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 * [第7章 百科事典の不安](ch7/gfc-ja-ch7.md)：100%、校正中 (2016-02) - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
 * [第8章 結論：「調和する地球」](ch8/gfc-ja-ch8.md)：100%、校正中 (2016-02) - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
 * 脚注：0% - *[References](http://reagle.org/joseph/2010/gfc/references.html)*
+* 参考文献：0% - *[Biography](http://reagle.org/joseph/2010/gfc/references.html)*
 
 ## ライセンス
 [Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC BY-NC-SA 3.0) で配布しています。
