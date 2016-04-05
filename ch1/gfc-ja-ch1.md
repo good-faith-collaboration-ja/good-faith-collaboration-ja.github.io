@@ -73,33 +73,33 @@ Wikipedia is the wiki-based successor to Nupedia and its name is a portmanteau o
 
 ウィキペディアは、ニューペディアの、ウィキにもとづく後継者である。その名はオンラインの共同作業による編集ツール「ウィキ」と、「エンサイクロペディア（百科事典）」とのカバン語であり、「エンサイクロペディア」自体はギリシャ語エンキュクリオスとパイデイ（古典的教養についての「学びの輪」を意味する）の縮約から来ている。この名はギークな言葉遊びの証拠であると同時に、比較的誰にでも開かれているといえるウィキが高品質な参考文献になりえるのかという問いを投げかけている。のちのページでこの点に立ち戻るが、ひとまずは、我々がウィキペディアと呼ぶもののウィキ的側面と百科事典的側面について考えよう。
 
-Wikipedia is an online wiki-based encyclopedia. “Wiki wiki” means “super fast” in the Hawaiian language, and Ward Cunningham chose the name for his collaborative WikiWikiWeb software in 1995 to indicate the ease with which one could edit pages. (He learned of the word during his first visit to Hawaii when he was initially confused by the direction to take the “Wiki Wiki Bus,” the Honolulu airport shuttle.11) In a sense, the term wiki captures the original conception of the World Wide Web as both a browsing and editing medium; the latter capability was largely forgotten when the Web began its precipitous growth and the most popular clients did not provide their users with the ability to edit Web pages.
+Wikipedia is an online wiki-based encyclopedia. “Wiki wiki” means “super fast” in the Hawaiian language, and Ward Cunningham chose the name for his collaborative WikiWikiWeb software in 1995 to indicate the ease with which one could edit pages. (He learned of the word during his first visit to Hawaii when he was initially confused by the direction to take the “Wiki Wiki Bus,” the Honolulu airport shuttle.[^11]) In a sense, the term wiki captures the original conception of the World Wide Web as both a browsing and editing medium; the latter capability was largely forgotten when the Web began its precipitous growth and the most popular clients did not provide their users with the ability to edit Web pages.
 
-ウィキペディアはウィキにもとづく、オンラインの百科事典である。ハワイ語で「ウィキウィキ」は「すごくはやい」を意味する。ウォード・カニンガムは共同作業のためのソフトウェア WikiWikiWeb にこの名を選び、ページ編集の簡単さを示そうとした（カニンガムはハワイを初めて訪れたとき、ホノルル空港シャトルの「ウィキウィキバス」を使えという指示に混乱させられて、この単語を知った）。ウィキという用語はある意味で、閲覧と編集の両方の媒体としてのワールドワイドウェブの本来の概念をとらえている。後者の機能はウェブが急激な拡大をするにつれてほとんど忘れられ、よく使われるクライアントではウェブページを編集する機能がなくなっていった。
+ウィキペディアはウィキにもとづく、オンラインの百科事典である。ハワイ語で「ウィキウィキ」は「すごくはやい」を意味する。ウォード・カニンガムは共同作業のためのソフトウェア WikiWikiWeb にこの名を選び、ページ編集の簡単さを示そうとした（カニンガムはハワイを初めて訪れたとき、ホノルル空港シャトルの「ウィキウィキバス」を使えという指示に混乱させられて、この単語を知った[^11]）。ウィキという用語はある意味で、閲覧と編集の両方の媒体としてのワールドワイドウェブの本来の概念をとらえている。後者の機能はウェブが急激な拡大をするにつれてほとんど忘れられ、よく使われるクライアントではウェブページを編集する機能がなくなっていった。
 
 The wiki changed this asymmetry by placing the editing functionality on the server. Consequently, if a page can be read, it can be edited in any browser. With a wiki, the user enters a simplified markup into a form on a Web page. Using the Wikipedia syntax one simply types “# this provides a link to [[Ward Cunningham]]” to add a numbered list item with a link to the “Ward Cunningham” article. The server-side Wikipedia software translates this into the appropriate HTML and hypertext links. To create a new page, one simply creates a link to it, which remains red until someone actually adds content to its target destination. These capabilities are central to and representative of wikis.
 
 ウィキは編集機能をサーバー側に持たせることでこの非対称性を変えた。結果としてページを読めるブラウザならば編集もできるようになった。ウィキでは、利用者は簡略化されたマークアップをウェブページ上のフォームに入力する。ウィキペディア記法では、「# こうやって[[ウォード・カニンガム]]へのリンクを貼る」と書けば、「ウォード・カニンガム」の項目へのリンクを入れた、番号つきリストのアイテムが追加される。サーバー側のウィキペディアのソフトウェアがこうした記法を適切なHTMLとハイパーテキストリンクに変換する。新しいページを作るには、そこへのリンクを作るだけでよい。そのリンクは、誰かがリンク先に実際に内容を書くまでは赤色のままになる。こうした機能はウィキの中心的かつ代表的な機能だ。
 
-Wikipedia now has a number of features that not all wikis share (although Wikipedia’s open source MediaWiki platform is used by many other projects). Each wiki page displays links through which one can log in (if desired), bookmark (and “watch”) the pages one cares about, or discuss how the page is being edited on its “Talk” or “Discussion” page—and this too is wiki. A history of a page is also available, showing all changes to the page (including the author, time, and edit summary); different versions can easily be compared. Two widely used features of Wikipedia are categories and templates. Users have the ability to label pages with categories, which are then used to automatically generate indexes. For example, the “1122 births” category page lists six biographical articles for those born in 1122.12 A wiki template is “a page which can be inserted into another page via a process called transclusion.” These small template “pages” (usually no more than a few lines of text) “are used to add recurring messages to pages in a consistent way, to add boilerplate messages, to create navigational boxes and to provide cross-language portability of texts.”13 Templates are included on a page by including the template name within a pair of curly parentheses. So, with the inclusion of the “{{pp-vandalism}}” markup, a Wikipedia page will include a warning box that “this page is currently protected from editing to deal with vandalism.” Many templates, such as the vandalism one, also add a category, creating an index of all pages presently using that template.14
+Wikipedia now has a number of features that not all wikis share (although Wikipedia’s open source MediaWiki platform is used by many other projects). Each wiki page displays links through which one can log in (if desired), bookmark (and “watch”) the pages one cares about, or discuss how the page is being edited on its “Talk” or “Discussion” page—and this too is wiki. A history of a page is also available, showing all changes to the page (including the author, time, and edit summary); different versions can easily be compared. Two widely used features of Wikipedia are categories and templates. Users have the ability to label pages with categories, which are then used to automatically generate indexes. For example, the “1122 births” category page lists six biographical articles for those born in 1122.[^12] A wiki template is “a page which can be inserted into another page via a process called transclusion.” These small template “pages” (usually no more than a few lines of text) “are used to add recurring messages to pages in a consistent way, to add boilerplate messages, to create navigational boxes and to provide cross-language portability of texts.”[^13] Templates are included on a page by including the template name within a pair of curly parentheses. So, with the inclusion of the “{{pp-vandalism}}” markup, a Wikipedia page will include a warning box that “this page is currently protected from editing to deal with vandalism.” Many templates, such as the vandalism one, also add a category, creating an index of all pages presently using that template.[^14]
 
-ウィキペディアには現在、すべてのウィキにあるわけではない機能がいくつもある（ウィキペディアのプラットフォームである、オープンソースのMediaWikiは多くの他プロジェクトで使われているが）。ウィキ上の各ページのリンクから、（希望するなら）ログインができたり、興味あるページにしおりをつけ（「ウォッチ」）られたり、編集のあり方について「トーク」（訳註：ウィキペディア日本語版では「ノート」）や「会話」ページで議論ができたりする（そしてそのページもウィキである）。ページの履歴も提供されており、著者名や時刻、編集内容の要約が記載されたすべての変更履歴を見ることができる。また、異なる版を比較することも容易だ。広く使われるウィキペディアの機能として、カテゴリとテンプレートの二つがある。利用者はページにカテゴリを貼り付けることができ、つけられたカテゴリは索引を自動的に生成するために使われる。たとえば、「1122 birth（訳註：1122年生）」のカテゴリページには、1122年に生まれた人物の項目6件が列挙されている。ウィキのテンプレートは、「トランスクルージョンと呼ばれる処理を通して別のページに挿入されるページ」である。こうした小さなテンプレート「ページ」（通常数行に満たない）は「複数のページで繰り返すメッセージを一貫した形で追加したり、決まり文句を追加したり、案内用のボックスを作ったり、やテキストを言語横断に移植できるようにするために用いられる」。テンプレートはテンプレートの名前を波括弧でくくって書くことで取り込まれる。そのため「{{pp-vandalism}}」という記法でテンプレートを取り込むと、ウィキペディア上のそのページには「現在、このページは荒らしに対処するために編集保護されています」というメッセージが入った警告ボックスが取り込まれる。この荒らし用のテンプレートのように多くのテンプレートは、カテゴリを追加し、そのテンプレートを使っているページの索引を作るようになっている。
+ウィキペディアには現在、すべてのウィキにあるわけではない機能がいくつもある（ウィキペディアのプラットフォームである、オープンソースのMediaWikiは多くの他プロジェクトで使われているが）。ウィキ上の各ページのリンクから、（希望するなら）ログインができたり、興味あるページにしおりをつけ（「ウォッチ」）られたり、編集のあり方について「トーク」（訳註：ウィキペディア日本語版では「ノート」）や「会話」ページで議論ができたりする（そしてそのページもウィキである）。ページの履歴も提供されており、著者名や時刻、編集内容の要約が記載されたすべての変更履歴を見ることができる。また、異なる版を比較することも容易だ。広く使われるウィキペディアの機能として、カテゴリとテンプレートの二つがある。利用者はページにカテゴリを貼り付けることができ、つけられたカテゴリは索引を自動的に生成するために使われる。たとえば、「1122 birth（訳註：1122年生）」のカテゴリページには、1122年に生まれた人物の項目6件が列挙されている[^12]。ウィキのテンプレートは、「トランスクルージョンと呼ばれる処理を通して別のページに挿入されるページ」である。こうした小さなテンプレート「ページ」（通常数行に満たない）は「複数のページで繰り返すメッセージを一貫した形で追加したり、決まり文句を追加したり、案内用のボックスを作ったり、やテキストを言語横断に移植できるようにするために用いられる」[^13]。テンプレートはテンプレートの名前を波括弧でくくって書くことで取り込まれる。そのため「{{pp-vandalism}}」という記法でテンプレートを取り込むと、ウィキペディア上のそのページには「現在、このページは荒らしに対処するために編集保護されています」というメッセージが入った警告ボックスが取り込まれる。この荒らし用のテンプレートのように多くのテンプレートは、カテゴリを追加し、そのテンプレートを使っているページの索引を作るようになっている[^14]。
 
-The application of the wiki platform with a few encyclopedic features enables surprisingly sophisticated content creation.15 And, as we will see throughout this book, wikis often are thought of as potent collaborative tools because they permit asynchronous, incremental, and transparent contributions from many individuals. Yet, as is often the case, the consequence of this quick and informal approach of editing the Web was not foreseen—or, rather, was pleasantly surprising. Wikipedia is the populist offshoot of Nupedia, started in March 2000 by Jimmy Wales and Larry Sanger. Nupedia’s mission was to create a free encyclopedia via rigorous expert review under a free documentation license. Unfortunately, this process moved rather slowly and, having recently been introduced to wikis, Sanger persuaded Wales to set up a scratchpad for potential Nupedia content where anyone could contribute. However, there was “considerable resistance on the part of Nupedia’s editors and reviewers to the idea of associating Nupedia with a wiki-style website. Sanger suggested giving the new project its own name, Wikipedia, and Wikipedia was soon launched on its own domain, wikipedia.com, on 15 January 2001.”16
+The application of the wiki platform with a few encyclopedic features enables surprisingly sophisticated content creation.[^15] And, as we will see throughout this book, wikis often are thought of as potent collaborative tools because they permit asynchronous, incremental, and transparent contributions from many individuals. Yet, as is often the case, the consequence of this quick and informal approach of editing the Web was not foreseen—or, rather, was pleasantly surprising. Wikipedia is the populist offshoot of Nupedia, started in March 2000 by Jimmy Wales and Larry Sanger. Nupedia’s mission was to create a free encyclopedia via rigorous expert review under a free documentation license. Unfortunately, this process moved rather slowly and, having recently been introduced to wikis, Sanger persuaded Wales to set up a scratchpad for potential Nupedia content where anyone could contribute. However, there was “considerable resistance on the part of Nupedia’s editors and reviewers to the idea of associating Nupedia with a wiki-style website. Sanger suggested giving the new project its own name, Wikipedia, and Wikipedia was soon launched on its own domain, wikipedia.com, on 15 January 2001.”[^16]
 
-百科事典的機能をいくつか追加しつつウィキのプラットフォームを応用したことは、驚くほど洗練されたやり方でコンテンツを製作することを可能にした。そして、この本で見ていくように、ウィキは多数の個人からの非同期の、逐次的な、透明性の高い投稿を許しているため、しばしば強力な共同作業の道具とされる。それだけでなく、しばしば見られるように、ウェブを編集するこうした速く非形式的なアプローチは予測されなかった、あるいはうれしい驚きの結果をもたらした。ウィキペディアは、ニューペディアの大衆向けの派生物である。それは2000年3月、ジミー・ウェールズとラリー・サンガーによって始められた。ニューペディアの使命は、自由ドキュメンテーション許諾のもとで、専門家が厳格に査読した、自由な百科事典をつくることだった。残念ながらこの動きの進み方は遅く、近く導入されたウィキを受けて、ニューペディアのコンテンツとなりうるコンテンツを下書きする場として、誰でも編集できるものを用意するよう、サンガーがウェールズを説得した。しかし「ニューペディアをウィキ形式のウェブサイトと関連づけるという考えに対して、ニューペディアの編集者と査読者の側に一定の抵抗があった。サンガーは、新しいプロジェクトに専用の名前、ウィキペディアをつけることを提案し、2001年1月15日専用のドメイン wikipedia.com でウィキペディアの運用が始まった」
+百科事典的機能をいくつか追加しつつウィキのプラットフォームを応用したことは、驚くほど洗練されたやり方でコンテンツを製作することを可能にした[^15]。そして、この本で見ていくように、ウィキは多数の個人からの非同期の、逐次的な、透明性の高い投稿を許しているため、しばしば強力な共同作業の道具とされる。それだけでなく、しばしば見られるように、ウェブを編集するこうした速く非形式的なアプローチは予測されなかった、あるいはうれしい驚きの結果をもたらした。ウィキペディアは、ニューペディアの大衆向けの派生物である。それは2000年3月、ジミー・ウェールズとラリー・サンガーによって始められた。ニューペディアの使命は、自由ドキュメンテーション許諾のもとで、専門家が厳格に査読した、自由な百科事典をつくることだった。残念ながらこの動きの進み方は遅く、近く導入されたウィキを受けて、ニューペディアのコンテンツとなりうるコンテンツを下書きする場として、誰でも編集できるものを用意するよう、サンガーがウェールズを説得した。しかし「ニューペディアをウィキ形式のウェブサイトと関連づけるという考えに対して、ニューペディアの編集者と査読者の側に一定の抵抗があった。サンガーは、新しいプロジェクトに専用の名前、ウィキペディアをつけることを提案し、2001年1月15日専用のドメイン wikipedia.com でウィキペディアの運用が始まった」[^16]。
 
-Wikipedia proved to be so successful that when the server hosting Nupedia crashed in September of 2003 it was never restored. In August 2009 there were over “75,000 active contributors working on more than 10,000,000 articles in more than 260 languages”; the original English version includes more than three million articles, having long ago subsumed most of the original Nupedia content. Twenty-five other language editions have more than 100,000 articles.17 These editions are evidence of the international character of the universal vision. (Within two weeks of the launch of Nupedia, Sanger wrote that he had already received offers to translate articles and that supporting this work should be a priority despite any delays it might introduce.18) The Wikimedia Foundation, incorporated in 2003, is now the steward of Wikipedia as well as a wiki-based dictionary, a compendium of quotations, a source of collaborative textbooks, a repository of free source texts, and a collection of images that can be used by other Wikimedia projects.
+Wikipedia proved to be so successful that when the server hosting Nupedia crashed in September of 2003 it was never restored. In August 2009 there were over “75,000 active contributors working on more than 10,000,000 articles in more than 260 languages”; the original English version includes more than three million articles, having long ago subsumed most of the original Nupedia content. Twenty-five other language editions have more than 100,000 articles.[^17] These editions are evidence of the international character of the universal vision. (Within two weeks of the launch of Nupedia, Sanger wrote that he had already received offers to translate articles and that supporting this work should be a priority despite any delays it might introduce.[^18]) The Wikimedia Foundation, incorporated in 2003, is now the steward of Wikipedia as well as a wiki-based dictionary, a compendium of quotations, a source of collaborative textbooks, a repository of free source texts, and a collection of images that can be used by other Wikimedia projects.
 
-ウィキペディアがよく成功したことは、ニューペディアが設置されていたサーバが2003年9月にクラッシュしたのち復元されなかったことからも明らかである。2009年8月には、「7万5000人の活動的寄稿者が、1000万件の項目に、260の言語で働いている」。オリジナルの英語版には300万件以上の項目があり、かなり昔にオリジナルのニューペディアのコンテンツを吸収した。25の他の言語版で10万件の項目がある。これらの言語版は普遍性のヴィジョンの国際的性格をよく示している。（ニューペディアの運用開始後2週間で、項目の翻訳の申し出があり、そうした試みは遅延をもたらすとしても優先されるべきだとサンガーは書いている）2003年に組織されたウィキメディア財団は、現在ウィキペディア、ウィキに基づく辞書、引用句集、共同作業による教科書集、自由な原典のレポジトリ、およびウィキメディアプロジェクトで利用される画像の集積を管理している。
+ウィキペディアがよく成功したことは、ニューペディアが設置されていたサーバが2003年9月にクラッシュしたのち復元されなかったことからも明らかである。2009年8月には、「7万5000人の活動的寄稿者が、1000万件の項目に、260の言語で働いている」。オリジナルの英語版には300万件以上の項目があり、かなり昔にオリジナルのニューペディアのコンテンツを吸収した。25の他の言語版で10万件の項目がある[^17]。これらの言語版は普遍性のヴィジョンの国際的性格をよく示している。（ニューペディアの運用開始後2週間で、項目の翻訳の申し出があり、そうした試みは遅延をもたらすとしても優先されるべきだとサンガーは書いている[^18]）2003年に組織されたウィキメディア財団は、現在ウィキペディア、ウィキに基づく辞書、引用句集、共同作業による教科書集、自由な原典のレポジトリ、およびウィキメディアプロジェクトで利用される画像の集積を管理している。
 
-Given its size, it is no trivial task to understand what Wikipedia actually includes. (Claims by some to have read every word of an encyclopedia are impossible with Wikipedia.) However, recent research suggests that Wikipedia’s topical coverage of general knowledge and technical issues is quite good, but it has blind spots in other specialist areas. Users seemingly are most interested in people, as articles about humans (e.g., biographies, culture, entertainment, the self, and sexuality) are the largest categories of content and the most visited by readers.19
+Given its size, it is no trivial task to understand what Wikipedia actually includes. (Claims by some to have read every word of an encyclopedia are impossible with Wikipedia.) However, recent research suggests that Wikipedia’s topical coverage of general knowledge and technical issues is quite good, but it has blind spots in other specialist areas. Users seemingly are most interested in people, as articles about humans (e.g., biographies, culture, entertainment, the self, and sexuality) are the largest categories of content and the most visited by readers.[^19]
 
-その大きさを考慮すると、ウィキペディアに何が含まれるかを理解するのは簡単な仕事ではない。（百科事典を一字一句読破するなどということはウィキペディアでは不可能だ。）ただし、最近の研究で、一般知識と技術問題に関するウィキペディアの話題別網羅率はかなりよい一方で、他の専門領域には盲点があるということは示唆されている。人間（伝記、文化、エンタテイメント、自己、性）についての項目が最大のコンテンツカテゴリでありもっともよく閲覧されていることからして、利用者の興味は人間にあると思われる。
+その大きさを考慮すると、ウィキペディアに何が含まれるかを理解するのは簡単な仕事ではない。（百科事典を一字一句読破するなどということはウィキペディアでは不可能だ。）ただし、最近の研究で、一般知識と技術問題に関するウィキペディアの話題別網羅率はかなりよい一方で、他の専門領域には盲点があるということは示唆されている。人間（伝記、文化、エンタテイメント、自己、性）についての項目が最大のコンテンツカテゴリでありもっともよく閲覧されている[^19]ことからして、利用者は特に人間に興味があるようだ。
 
-Of course those three million articles on English-language Wikipedia—the focus of this book—are not of equal quality. A summary from a proposal to achieve “100,000 Feature-Quality Articles,” Wikipedia’s highest quality level, reports that as of February 2009, roughly half of the English articles have been assessed for quality, and of those roughly 11,000 were considered to be of “Featured” (outstanding and thorough), “A” (very useful and fairly complete), or “Good” (useful to most readers with no obvious problems) quality.20 External assessments of Wikipedia quality indicate it is at parity with general-purpose print reference works. In December 2005 the prestigious science journal Nature reported the findings of a commissioned study in which subject experts reviewed forty-two articles in Wikipedia and Britannica; it concluded “the average science entry in Wikipedia contained around four inaccuracies; Britannica, about three.”21 (This was widely reported, discussed, and eventually contested by Britannica.) In his 2007 study, George Bragues summarized preceding research by noting the balance “leans in favor of Wikipedia, though both the number of studies, and the proportion of positive to negative points, is far from enough to establish any firm conclusions.” His comparison of the biographies of seven prominent philosophers across authoritative reference works led him to conclude that while Wikipedia sometimes failed to be consistent in topical coverage, “The sins of Wikipedia are more of omission than commission.”22 Clearly, there is much work to be done to make Wikipedia a consistently high-quality reference work. On the other hand, the breadth of so many articles means that Wikipedia has extraordinary and up-to-date coverage of even the narrowest interests. While it has yet to be assessed, and would fall short of featured article status, the article on my Brooklyn neighborhood, adjacent to Gowanus Canal, is quite handy.23
+Of course those three million articles on English-language Wikipedia—the focus of this book—are not of equal quality. A summary from a proposal to achieve “100,000 Feature-Quality Articles,” Wikipedia’s highest quality level, reports that as of February 2009, roughly half of the English articles have been assessed for quality, and of those roughly 11,000 were considered to be of “Featured” (outstanding and thorough), “A” (very useful and fairly complete), or “Good” (useful to most readers with no obvious problems) quality.[^20] External assessments of Wikipedia quality indicate it is at parity with general-purpose print reference works. In December 2005 the prestigious science journal Nature reported the findings of a commissioned study in which subject experts reviewed forty-two articles in Wikipedia and Britannica; it concluded “the average science entry in Wikipedia contained around four inaccuracies; Britannica, about three.”[^21] (This was widely reported, discussed, and eventually contested by Britannica.) In his 2007 study, George Bragues summarized preceding research by noting the balance “leans in favor of Wikipedia, though both the number of studies, and the proportion of positive to negative points, is far from enough to establish any firm conclusions.” His comparison of the biographies of seven prominent philosophers across authoritative reference works led him to conclude that while Wikipedia sometimes failed to be consistent in topical coverage, “The sins of Wikipedia are more of omission than commission.”[^22] Clearly, there is much work to be done to make Wikipedia a consistently high-quality reference work. On the other hand, the breadth of so many articles means that Wikipedia has extraordinary and up-to-date coverage of even the narrowest interests. While it has yet to be assessed, and would fall short of featured article status, the article on my Brooklyn neighborhood, adjacent to Gowanus Canal, is quite handy.[^23]
 
-もちろん英語版ウィキペディア（本書の焦点）にある300万件の項目の品質は同じではない。「1万の秀逸相当項目」を達成する提案で要約されたところによると、2009年2月の時点で、大雑把に言って英語版項目の半分が評価の対象となり、そのうち1万1000件が「Featured」（傑出していて網羅的）か「A」（有用でかなり広く言及している）か「Good」（明らかな問題はなく多くの読者にとって有用）のいずれかの品質があるとされた。ウィキペディアの品質についての外部評価では、汎用目的の印刷された参考文献と肩を並べるものであることが示された。2005年12月の権威ある科学雑誌 Nature の報告では、共同調査において各主題の専門家がウィキペディアとブリタニカ百科事典の42件の項目を査読した結果、「ウィキペディアの科学項目は平均4つの誤りが入っているが、ブリタニカは3つ」と結論された（このことは広く報道され、議論され、最後にはブリタニカによって反論された）。ジョージ・ブラーグスは2007年の調査で、先行する研究を公平さに留意しつつ要約して「研究の数からも肯定的意見と否定的意見の比率からも強い結論を出す段階にはないが、ウィキペディアに好意的な傾向がある」とした。彼は著名な哲学者の伝記項目7件を権威ある参考文献いくつかで引いて比較したうえで、ウィキペディアは話題の網羅性が不統一になってしまっていることがあるものの、「ウィキペディアの罪は commission ではなく ommission （漏れ）にある」と結論した。ウィキペディアを統一的に高品質な参考文献とするためには多くの仕事が残っているのは明らだ。だが一方で、これほど多数の項目の幅があることは、ウィキペディアが少数の興味しか引かないことまで網羅しつつ非常に新しく保っていることを意味する。まだ評価の対象になっておらず秀逸な項目の資格には満たないだろうが、私が住むブルックリン近郊ゴワナス運河界隈の項目は十分よくできている。
+もちろん英語版ウィキペディア（本書の焦点）にある300万件の項目の品質は同じではない。「1万の秀逸相当項目」を達成する提案で要約されたところによると、2009年2月の時点で、大雑把に言って英語版項目の半分が評価の対象となり、そのうち1万1000件が「Featured」（傑出していて網羅的）か「A」（有用でかなり広く言及している）か「Good」（明らかな問題はなく多くの読者にとって有用）のいずれかの品質があるとされた[^20]。ウィキペディアの品質についての外部評価では、汎用目的の印刷された参考文献と肩を並べるものであることが示された。2005年12月の権威ある科学雑誌 Nature の報告では、共同調査において各主題の専門家がウィキペディアとブリタニカ百科事典の42件の項目を査読した結果、「ウィキペディアの科学項目は平均4つの誤りが入っているが、ブリタニカは3つ」[^21]と結論された（このことは広く報道され、議論され、最後にはブリタニカによって反論された）。ジョージ・ブラーグスは2007年の調査で、先行する研究を公平さに留意しつつ要約して「研究の数からも肯定的意見と否定的意見の比率からも強い結論を出す段階にはないが、ウィキペディアに好意的な傾向がある」とした。彼は著名な哲学者の伝記項目7件を権威ある参考文献いくつかで引いて比較したうえで、ウィキペディアは話題の網羅性が不統一になってしまっていることがあるものの、「ウィキペディアの罪は commission ではなく ommission （漏れ）にある」[^22]と結論した。ウィキペディアを統一的に高品質な参考文献とするためには多くの仕事が残っているのは明らだ。だが一方で、これほど多数の項目の幅があることは、ウィキペディアが少数の興味しか引かないことまで網羅しつつ非常に新しく保っていることを意味する。まだ評価の対象になっておらず秀逸な項目の資格には満たないだろうが、私が住むブルックリン近郊ゴワナス運河界隈の項目[^23]は十分よくできている。
 
 # The Community
 
@@ -192,141 +192,51 @@ I conclude with a reflection upon H. G. Wells’s complaint of the puzzle of was
 
 結語として、無駄にされた知識と世界の不調和の問題についてのH. G. ウェルズの不満を振り返る。ウィキペディアのロゴは7年を経て、未完成の地球のジグソーパズルのそれになった。この偶然は、何十年もを経て共有された夢を表現している。このパズルの暗喩はウィキペディアの共同作業を理解するのに有用だ。私たちが知っていると思っているバラバラのピースを集めて組み立てることができると保証するのがNPOV、それを実際にうまく組み合わせる実践を助けるのが善意だ。
 
-[^1]: [原注位置](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-1) AndyL, “Neo-Nazis Attempt to Stack Wikivote on Jewish,” wikien-l, February 6, 2005, [http://marc.info/?i=BE2BEA7C.4E78%andyl2004@sympatico.ca](http://marc.info/?i=BE2BEA7C.4E78%andyl2004@sympatico.ca)(accessed February 6, 2005).
+[^1]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-1) AndyL, “Neo-Nazis Attempt to Stack Wikivote on Jewish,” wikien-l, February 6, 2005, [http://marc.info/?i=BE2BEA7C.4E78%andyl2004@sympatico.ca](http://marc.info/?i=BE2BEA7C.4E78%andyl2004@sympatico.ca) (accessed February 6, 2005).
 
-[^2]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-2)AndyL,
-“A Neo-Nazi Wikipedia,” wikien-l, August 19, 2005,
-[http://marc.info/?i=20050819221529.ZQFS2134.tomts48-srv.bellnexxia.net@[209.226.175.82]](http://marc.info/?i=20050819221529.ZQFS2134.tomts48-srv.bellnexxia.net@%5B209.226.175.82%5D)
-(visited on August 23, 2005).
+[^2]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-2) AndyL, “A Neo-Nazi Wikipedia,” wikien-l, August 19, 2005, [http://marc.info/?i=20050819221529.ZQFS2134.tomts48-srv.bellnexxia.net@[209.226.175.82]](http://marc.info/?i=20050819221529.ZQFS2134.tomts48-srv.bellnexxia.net@%5B209.226.175.82%5D) (visited on August 23, 2005).
 
-[^3]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-3)Mike
-Godwin, “Meme, Counter-Meme,” Wired 2, number 10 (October 1994),
-<http://www.wired.com/wired/archive/2.10/godwin.if_pr.html> (visited on
-August 24, 2006).
+[^3]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-3)Mike Godwin, “Meme, Counter-Meme,” Wired 2, number 10 (October 1994), <http://www.wired.com/wired/archive/2.10/godwin.if_pr.html> (visited on August 24, 2006).
 
-[^4]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-4)Wikipedia,
-“User:Raul654/Raul’s Laws,” Wikipedia, July 10, 2009,
-<http://en.wikipedia.org/?oldid=301373968> (visited on July 20, 2009).
+[^4]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-4)Wikipedia, “User:Raul654/Raul’s Laws,” Wikipedia, July 10, 2009, <http://en.wikipedia.org/?oldid=301373968> (visited on July 20, 2009).
 
-[^5]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-5)Jimmy
-Wales, “Re: A Neo-Nazi Wikipedia,” wikien-l, August 23, 2005,
-<http://marc.info/?i=430B6975.9040906@wikia.com> (visited on August 23,
-2005).
+[^5]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-5)Jimmy Wales, “Re: A Neo-Nazi Wikipedia,” wikien-l, August 23, 2005, <http://marc.info/?i=430B6975.9040906@wikia.com> (visited on August 23, 2005).
 
-[^6]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-6)Wikipedia,
-“Wikipedia:Etiquette,” Wikipedia, October 23, 2008,
-<http://en.wikipedia.org/?oldid=247072399> (visited on November 3,
-2008); Wikipedia, “Wikipedia:Assume Good Faith,” Wikipedia, November 1,
-2008, <http://en.wikipedia.org/?oldid=248943513> (visited on November 3,
-2008); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,”
-Wikipedia, October 16, 2008, <http://en.wikipedia.org/?oldid=245559838>
-(visited on November 3, 2008).
+[^6]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-6)Wikipedia, “Wikipedia:Etiquette,” Wikipedia, October 23, 2008, <http://en.wikipedia.org/?oldid=247072399> (visited on November 3, 2008); Wikipedia, “Wikipedia:Assume Good Faith,” Wikipedia, November 1, 2008, <http://en.wikipedia.org/?oldid=248943513> (visited on November 3, 2008); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,” Wikipedia, October 16, 2008, <http://en.wikipedia.org/?oldid=245559838> (visited on November 3, 2008).
 
-[^7]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-7)Wikimedia
-Foundation, “Vision,” Wikimedia, September 1, 2007,
-<http://wikimediafoundation.org/wiki/Vision> (visited on June 5, 2008).
+[^7]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-7)Wikimedia Foundation, “Vision,” Wikimedia, September 1, 2007, <http://wikimediafoundation.org/wiki/Vision> (visited on June 5, 2008).
 
-[^8]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-8)H.G.
-Wells, “The Idea of a World Encyclopedia,” Nature 138 (November 28,
-1936): 920-921.
+[^8]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-8)H.G. Wells, “The Idea of a World Encyclopedia,” Nature 138 (November 28, 1936): 920-921.
 
-[^9]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-9)Liane
-Gouthro, “Building the World’s Biggest Encyclopedia,” PC World
-(March 10, 2000),
-<http://www.pcworld.com/article/15676/building_the_worlds_biggest_encyclopedia.html>
-(visited on October 25, 2005).
+[^9]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-9)Liane Gouthro, “Building the World’s Biggest Encyclopedia,” PC World (March 10, 2000), <http://www.pcworld.com/article/15676/building_the_worlds_biggest_encyclopedia.html> (visited on October 25, 2005).
 
-[^10]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-10)Jimmy
-Wales, “Historical Draft on Digital Encyclopedias,” email message to
-author, June 1, 2006,
-doi:[](http://dx.doi.org/43BEDB86.2070300@wikia.com)[43BEDB86.2070300@wikia.com](http://reagle.org/joseph/2010/gfc/43BEDB86.2070300@wikia.com).
+[^10]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-10)Jimmy Wales, “Historical Draft on Digital Encyclopedias,” email message to author, June 1, 2006, doi:[](http://dx.doi.org/43BEDB86.2070300@wikia.com)[43BEDB86.2070300@wikia.com](http://reagle.org/joseph/2010/gfc/43BEDB86.2070300@wikia.com).
 
-[^11]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-11)Ward
-Cunningham, “Correspondence on the Etymology of Wiki,” November 2003,
-<http://c2.com/doc/etymology.html> (visited on October 4, 2008).
+[^11]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-11)Ward Cunningham, “Correspondence on the Etymology of Wiki,” November 2003, <http://c2.com/doc/etymology.html> (visited on October 4, 2008).
 
-[^12]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-12)Wikipedia,
-“Help:Category,” Wikipedia, December 1, 2008,
-<http://en.wikipedia.org/?oldid=255169078> (visited on December 6,
-2008); Wikipedia, “Category:1122 Births,” Wikipedia, October 22, 2008,
-<http://en.wikipedia.org/?oldid=247041224> (visited on December 6,
-2008).
+[^12]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-12)Wikipedia, “Help:Category,” Wikipedia, December 1, 2008, <http://en.wikipedia.org/?oldid=255169078> (visited on December 6, 2008); Wikipedia, “Category:1122 Births,” Wikipedia, October 22, 2008, <http://en.wikipedia.org/?oldid=247041224> (visited on December 6, 2008).
 
-[^13]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-13)Wikipedia,
-“Help:Template,” Wikipedia, October 25, 2008,
-<http://en.wikipedia.org/?oldid=247625503> (visited on December 5,
-2008); Wikimedia, “Help:A Quick Guide to Templates,” Wikimedia, June 29,
-2008, <http://meta.wikimedia.org/?oldid=1063186> (visited on December 5,
-2008).
+[^13]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-13)Wikipedia, “Help:Template,” Wikipedia, October 25, 2008, <http://en.wikipedia.org/?oldid=247625503> (visited on December 5, 2008); Wikimedia, “Help:A Quick Guide to Templates,” Wikimedia, June 29, 2008, <http://meta.wikimedia.org/?oldid=1063186> (visited on December 5, 2008).
 
-[^14]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-14)Wikipedia,
-“Template:Pp-Vandalism,” Wikipedia, September 5, 2008,
-<http://en.wikipedia.org/?oldid=236387424> (visited on December 6,
-2008); Wikipedia, “Category:Protected against Vandalism,” Wikipedia,
-November 2, 2008, <http://en.wikipedia.org/?oldid=249177947> (visited on
-December 6, 2008).
+[^14]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-14)Wikipedia, “Template:Pp-Vandalism,” Wikipedia, September 5, 2008, <http://en.wikipedia.org/?oldid=236387424> (visited on December 6, 2008); Wikipedia, “Category:Protected against Vandalism,” Wikipedia, November 2, 2008, <http://en.wikipedia.org/?oldid=249177947> (visited on December 6, 2008).
 
-[^15]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-15)Despite
-its original simplicity, the technical and cultural complexity of
-Wikipedia has increased with its popularity; newcomers can now acclimate
-themselves with two popular-press books: John Broughton, Wikipedia: the
-Missing Manual (Sebastopol, CA: Pogue Press, January 25, 2008),
-<http://en.wikipedia.org/wiki/Help:Wikipedia:_The_Missing_Manual>
-(visited on June 5, 2008); Charles Matthews, Ben Yates, and Phoebe
-Ayers, How Wikipedia Works (San Francisco: No Starch Press, September
-2008), <http://howwikipediaworks.com/> (accessed October 5, 2008).
+[^15]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-15)Despite its original simplicity, the technical and cultural complexity of Wikipedia has increased with its popularity; newcomers can now acclimate themselves with two popular-press books: John Broughton, Wikipedia: the Missing Manual（本来単純であるにもかかわらずウィキペディアの技術的・文化的複雑性は人気とともに増大した。新規参加者は次の一般向け書籍2冊で風土になれることができる） (Sebastopol, CA: Pogue Press, January 25, 2008), <http://en.wikipedia.org/wiki/Help:Wikipedia:_The_Missing_Manual> (visited on June 5, 2008); Charles Matthews, Ben Yates, and Phoebe Ayers, How Wikipedia Works (San Francisco: No Starch Press, September 2008), <http://howwikipediaworks.com/> (accessed October 5, 2008).
 
-[^16]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-16)Wikipedia,
-“History of Wikipedia,” Wikipedia, January 8, 2009,
-<http://en.wikipedia.org/?oldid=262685944> (visited on January 8, 2009).
+[^16]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-16)Wikipedia, “History of Wikipedia,” Wikipedia, January 8, 2009, <http://en.wikipedia.org/?oldid=262685944> (visited on January 8, 2009).
 
-[^17]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-17)Wikipedia,
-“Wikipedia:About,” Wikipedia, August 12, 2009,
-<http://en.wikipedia.org/?oldid=307641830> (visited on August 17, 2009).
+[^17]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-17)Wikipedia, “Wikipedia:About,” Wikipedia, August 12, 2009, <http://en.wikipedia.org/?oldid=307641830> (visited on August 17, 2009).
 
-[^18]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-18)Larry
-Sanger, “Translation,” nupedia-l, March 20, 2000,
-<http://web.archive.org/web/20030516085026/www.nupedia.com/pipermail/nupedia-l/2000-March/000064.html>
-(visited on June 7, 2006).
+[^18]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-18)Larry Sanger, “Translation,” nupedia-l, March 20, 2000, <http://web.archive.org/web/20030516085026/www.nupedia.com/pipermail/nupedia-l/2000-March/000064.html> (visited on June 7, 2006).
 
-[^19]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-19)Alexander
-Halavais and Derek Lackaff, “An Analysis of Topical Coverage of
-Wikipedia”, Journal of Computer-Mediated Communication 13 (2008):
-429–440,
-<http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2008.00403.x/full>
-(visited on February 22, 2008); Aniket Kittur, Ed H. Chi, and Bongwon
-Suh, “What’s in Wikipedia? Mapping Topics and Conflict Using Socially
-Annotated Category Structure,” in CHI ’09: Proceedings of the 27th
-International Conference on Human Factors in Computing Systems (New
-York: ACM, April 8, 2009), 1509–1512,
-<http://portal.acm.org/citation.cfm?id=1518701.1518930> (visited on
-April 22, 2009); Anselm Spoerri, “What Is Popular on Wikipedia and
-Why?,” First Monday 12, number 4 (April 2007),
-<http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1765/1645>
-(visited on April 26, 2007).
+[^19]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-19)Alexander Halavais and Derek Lackaff, “An Analysis of Topical Coverage of Wikipedia”, Journal of Computer-Mediated Communication 13 (2008): 429–440, <http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2008.00403.x/full> (visited on February 22, 2008); Aniket Kittur, Ed H. Chi, and Bongwon Suh, “What’s in Wikipedia? Mapping Topics and Conflict Using Socially Annotated Category Structure,” in CHI ’09: Proceedings of the 27th International Conference on Human Factors in Computing Systems (New York: ACM, April 8, 2009), 1509–1512, <http://portal.acm.org/citation.cfm?id=1518701.1518930> (visited on April 22, 2009); Anselm Spoerri, “What Is Popular on Wikipedia and Why?,” First Monday 12, number 4 (April 2007), <http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1765/1645> (visited on April 26, 2007).
 
-[^20]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-20)Wikipedia,
-“Wikipedia:100,000 Feature-Quality Articles,” Wikipedia, March 13, 2009,
-<http://en.wikipedia.org/?oldid=276882634> (visited on May 21, 2009);
-Wikipedia, “Wikipedia:Version 1.0 Editorial Team/Assessment,” Wikipedia,
-May 14, 2009, <http://en.wikipedia.org/?oldid=289898436> (visited on
-May 21, 2009).
+[^20]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-20)Wikipedia, “Wikipedia:100,000 Feature-Quality Articles,” Wikipedia, March 13, 2009, <http://en.wikipedia.org/?oldid=276882634> (visited on May 21, 2009); Wikipedia, “Wikipedia:Version 1.0 Editorial Team/Assessment,” Wikipedia, May 14, 2009, <http://en.wikipedia.org/?oldid=289898436> (visited on May 21, 2009).
 
-[^21]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-21)Jim
-Giles, “Internet Encyclopaedias Go Head to Head,” Nature (December 14,
-2005),
-<http://www.nature.com/nature/journal/v438/n7070/full/438900a.html>
-(accessed December 15, 2005).
+[^21]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-21)Jim Giles, “Internet Encyclopaedias Go Head to Head,” Nature (December 14, 2005), <http://www.nature.com/nature/journal/v438/n7070/full/438900a.html> (accessed December 15, 2005).
 
-[^22]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-22)George
-Bragues, “Wiki-Philosophizing in a Marketplace of Ideas: Evaluating
-Wikipedia’s Entries on Seven Great Minds,” Social Science Research
-Network, April 2007, <http://ssrn.com/abstract=978177> (visited on
-March 3, 2009), 14, 46.
+[^22]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-22)George Bragues, “Wiki-Philosophizing in a Marketplace of Ideas: Evaluating Wikipedia’s Entries on Seven Great Minds,” Social Science Research Network, April 2007, <http://ssrn.com/abstract=978177> (visited onMarch 3, 2009), 14, 46.
 
-[^23]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-23)Wikipedia,
-“Gowanus, Brooklyn,” Wikipedia, May 3, 2008,
-<http://en.wikipedia.org/?oldid=209839170> (visited on June 3, 2008).
+[^23]: [原注へのリンク](http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-23)Wikipedia, “Gowanus, Brooklyn,” Wikipedia, May 3, 2008, <http://en.wikipedia.org/?oldid=209839170> (visited on June 3, 2008).
 
 [^24]: (http://reagle.org/joseph/2010/gfc/chapter-1.html#enmark-24)Wikipedia,
 “Wikipedia:Editing Frequency,” Wikipedia, November 30, 2008,
