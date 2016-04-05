@@ -1,11 +1,10 @@
 ---
 layout: page
+title: 普遍的な百科事典の追求
 
 ---
 
 # Chapter 2: The Pursuit of the Universal Encyclopedia
-
-# 普遍的な百科事典の追求
 
 http://reagle.org/joseph/2010/gfc/chapter-2.html
 
@@ -179,9 +178,9 @@ H. G. ウェルズはサイエンスフィクションで有名なイギリス�
 
 プロジェクト・グーテンベルクとウィキペディアのあいだでの、以上二つの明白な結びつきのほか、本章の主題にとって中心的な教訓がひとつある。プロジェクト・グーテンベルクの強みは、アクセス可能な電子書籍を共有するという単純なヴィジョンが、当時利用できた技術によって直接的に実現されたということである。プロジェクト・グーテンベルクでは、既存のパブリックドメインの書籍を「たんなるプレーンなASCII」として、ネットワークにつながったコンピュータで入力することができた。 ASCIIは、ローマ字とアラビア数字を表現する古くからの規格である。初期のコンピュータとネットワーク開発者の多くが使った文字集合であり、今日でもなお使われている。しかしそこにはアクセントつき文字やローマ字以外の表現がなかった。また、ASCII文字のファイルはどちらかというと寝たきりだ（FUZZY 訳注： sedentary）。下線、イタリック、太字はなかったため、プロジェクト・グーテンベルクではすべて大文字として表現していた。ASCIIにはリンクなどハイパーテキスト的革新も備わっていなかった。
 
-¶36 The term *plain vanilla ASCII * is repeated in full, like a mantra, in Project Gutenberg materials. Michael Hart was well known for his opposition to any exclusive reliance upon more sophisticated textual representations such as PDF or HTML: documents, with few exceptions, must at least be available in “plain vanilla ASCII” which could then be complemented by other formats.75 While frustrating to some, this insistence may have prevented the project from becoming ensnared in endless debates about formats and permitted it to achieve the success it has. As one Gutenberg participant put it:
+¶36 The term *plain vanilla ASCII* is repeated in full, like a mantra, in Project Gutenberg materials. Michael Hart was well known for his opposition to any exclusive reliance upon more sophisticated textual representations such as PDF or HTML: documents, with few exceptions, must at least be available in “plain vanilla ASCII” which could then be complemented by other formats.75 While frustrating to some, this insistence may have prevented the project from becoming ensnared in endless debates about formats and permitted it to achieve the success it has. As one Gutenberg participant put it:
 
-*たんなるプレーンなASCII (plain vanilla ASCII) *という用語は、プロジェクト・グーテンベルクの素材のなかで、マントラのごとく繰り返し強調される。マイケル・ハートはPDFやHTMLといった洗練されたテキスト表現形式に排他的に依存することに反対していることで知られていた。どの文書もほぼ例外なく、「たんなるプレーンなASCII」で提供されることが最低限必要であり、それから他の形式で補完してもよいというのが彼の主張だった。苛立たせられる人もいたが、こう強要することによって、プロジェクトが形式に関する終わりない議論に陥ることを防ぎ、成功を達成することができたのかもしれない。グーテンベルクの参加者の一人の言い方では、
+*たんなるプレーンなASCII (plain vanilla ASCII)*という用語は、プロジェクト・グーテンベルクの素材のなかで、マントラのごとく繰り返し強調される。マイケル・ハートはPDFやHTMLといった洗練されたテキスト表現形式に排他的に依存することに反対していることで知られていた。どの文書もほぼ例外なく、「たんなるプレーンなASCII」で提供されることが最低限必要であり、それから他の形式で補完してもよいというのが彼の主張だった。苛立たせられる人もいたが、こう強要することによって、プロジェクトが形式に関する終わりない議論に陥ることを防ぎ、成功を達成することができたのかもしれない。グーテンベルクの参加者の一人の言い方では、
 
 ¶37 The heart and soul of project gutenberg is the plain-text file. over the years, it has been scorned and even attacked outright. some people say it’s ugly. and it’s far too low-tech for others. but somehow, it has survived and even thrived in a way that no other e-book technology ever has. in the process, i have grown to appreciate its tenacity, and grasp its inner beauty. this thread is for those having a love-affair with plain-text.76
 

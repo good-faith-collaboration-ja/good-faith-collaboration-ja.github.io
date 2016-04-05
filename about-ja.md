@@ -1,9 +1,8 @@
 ---
 layout: page
+title: 日本語版について
 
 ---
-
-# 日本語版について
 
 Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウィキペディアを歴史的位置付けやコミュニティの文化の面から論じた本です。2011年春頃から、数名の有志がこの本の日本語訳を行っています。進捗状況と最新の翻訳結果が http://good-faith-collaboration-ja.github.io で公開されています。
 
@@ -26,7 +25,7 @@ Joseph Reagle 氏は著書 [*Good Faith Collaboration: The Culture of Wikipedia*
 
 CC BY-SA は非商用・商用のどちらの目的であっても再配布を許可するライセンスです。
 
-NC 系ライセンスは「非営利」か否かの判断に幅があり自由な利用がむずかしいのではないか、という[議論](http://wiki.creativecommons.org/NonCommercial)があります。このため、本翻訳プロジェクトでは原文と翻訳をともに CC BY-SA に切り替えることを検討しています。このため、原著者が同意するまで実際的な効果はありませんが、翻訳者にはあらかじめ CC BY-SA にご同意いただくことにしています。** 原著者が CC BY-SA で原文をリリースするまでは、このプロジェクトによる翻訳結果を CC BY-SA で利用することはできません。 **
+NC 系ライセンスは「非営利」か否かの判断に幅があり自由な利用がむずかしいのではないか、という[議論](http://wiki.creativecommons.org/NonCommercial)があります。このため、本翻訳プロジェクトでは原文と翻訳をともに CC BY-SA に切り替えることを検討しています。このため、原著者が同意するまで実際的な効果はありませんが、翻訳者にはあらかじめ CC BY-SA にご同意いただくことにしています。**原著者が CC BY-SA で原文をリリースするまでは、このプロジェクトによる翻訳結果を CC BY-SA で利用することはできません。**
 
 ## 謝辞
 

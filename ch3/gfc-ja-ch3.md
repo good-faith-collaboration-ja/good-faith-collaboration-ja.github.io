@@ -1,11 +1,10 @@
 ---
 layout: page
+title: 善意にもとづく共同作業
 
 ---
 
 # Chapter 3: Good Faith Collaboration
-
-# 善意にもとづく共同作業
 
 http://reagle.org/joseph/2010/gfc/chapter-3.html
 

@@ -1,11 +1,10 @@
 ---
 layout: page
+title: 優しい独裁者
 
 ---
 
 # Chapter 6: The Benevolent Dictator
-
-# 優しい独裁者
 
 http://reagle.org/joseph/2010/gfc/chapter-6.html
 

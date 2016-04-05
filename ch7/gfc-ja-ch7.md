@@ -1,11 +1,10 @@
 ---
 layout: page
+title: 百科事典の不安
 
 ---
 
 # Chapter 7: Encyclopedic Anxiety
-
-# 百科事典の不安
 
 http://reagle.org/joseph/2010/gfc/chapter-7.html
 

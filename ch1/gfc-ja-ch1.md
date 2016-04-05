@@ -1,11 +1,10 @@
 ---
 layout: page
+title: ナチスと規範
 
 ---
 
 # Chapter 1: Nazis and Norms
-
-# ナチスと規範
 
 http://reagle.org/joseph/2010/gfc/chapter-1.html
 

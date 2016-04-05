@@ -10,8 +10,6 @@ title: Good Faith Collaboration 日本語訳
 description: > # this means to ignore newlines until "baseurl:"
   Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) 
   はウィキペディアを歴史的位置付けやコミュニティの文化の面から論じた本です。
-  2011年春頃から、数名の有志がこの本の日本語訳を行っています。
-  進捗状況と最新の翻訳結果が http://good-faith-collaboration-ja.github.io で公開されています。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://good-faith-collaboration-ja.github.io" # the base hostname & protocol for your site
 repository: good-faith-collaboration-ja/good-faith-collaboration-ja.github.io
@@ -19,3 +17,5 @@ github_username: good-faith-collaboration-ja
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap

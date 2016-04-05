@@ -1,11 +1,10 @@
 ---
 layout: page
+title: 合意という難題
 
 ---
 
 # The Challenges of Consensus
-
-# 合意という難題
 
 http://reagle.org/joseph/2010/gfc/chapter-5.html
 
