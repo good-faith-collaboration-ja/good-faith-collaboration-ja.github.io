@@ -6,7 +6,7 @@ title: 普遍的な百科事典の追求
 
 # Chapter 2: The Pursuit of the Universal Encyclopedia
 
-http://reagle.org/joseph/2010/gfc/chapter-2.html
+<http://reagle.org/joseph/2010/gfc/chapter-2.html>
 
 > “sum of all human knowledge” (adj.): descriptive of the ultimate aim of Wikipedia. Regretfully, the vast majority of human knowledge is not, in actual fact, of interest to anyone, and the benefit of recording this collective total is dubious at best. — WikiSpeak
 

@@ -6,7 +6,7 @@ title: 優しい独裁者
 
 # Chapter 6: The Benevolent Dictator
 
-http://reagle.org/joseph/2010/gfc/chapter-6.html
+<http://reagle.org/joseph/2010/gfc/chapter-6.html>
 
 >   ¶1When a building is on fire, a leader will not survey everyone to see what the consensus is about a response. It is time for action. — Bhadani’s Second Law
 

@@ -6,7 +6,7 @@ title: 善意にもとづく共同作業
 
 # Chapter 3: Good Faith Collaboration
 
-http://reagle.org/joseph/2010/gfc/chapter-3.html
+<http://reagle.org/joseph/2010/gfc/chapter-3.html>
 
 > ¶1All rules and guidelines add up to this; Respect! — Phoenix 15’s Law
 

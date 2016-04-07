@@ -3,7 +3,7 @@ layout: page
 
 ---
 
-Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウィキペディアを歴史的位置付けやコミュニティの文化の面から論じた本です。2011年春頃から、数名の有志がこの本の日本語訳を行っています。進捗状況と最新の翻訳結果が http://good-faith-collaboration-ja.github.io で公開されています。
+Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウィキペディアを歴史的位置付けやコミュニティの文化の面から論じた本です。2011年春頃から、数名の有志がこの本の日本語訳を行っています。進捗状況と最新の翻訳結果が <http://good-faith-collaboration-ja.github.io> で公開されています。
 
 本プロジェクトは訳稿の修正や未訳部分の翻訳を歓迎します。寄稿したい方は、「[日本語版について](about-ja.html)」をお読みください。
 

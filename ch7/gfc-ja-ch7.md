@@ -6,7 +6,7 @@ title: 百科事典の不安
 
 # Chapter 7: Encyclopedic Anxiety
 
-http://reagle.org/joseph/2010/gfc/chapter-7.html
+<http://reagle.org/joseph/2010/gfc/chapter-7.html>
 
 >    ¶1Over time, the average quality of Wikipedia articles rises, but Wikipedians’ standards rise more quickly. — OpenToppedBus’s First Law
 

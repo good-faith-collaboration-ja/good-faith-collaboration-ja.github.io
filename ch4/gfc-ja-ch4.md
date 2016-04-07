@@ -6,6 +6,8 @@ title: 開放性というパズル
 
 # Chapter 4: The Puzzle of Openness
 
+<http://reagle.org/joseph/2010/gfc/chapter-4.html>
+
 > ¶1Problematic users will drive good users away from Wikipedia far more often than good users will drive away problematic ones. — Extreme Unction’s Third Law
 
 > よい利用者が問題利用者を追い出すことよりも、問題利用者がよい利用者をウィキペディアから追い出すことのほうがはるかに多い。 -- Extreme Unction の第3法則

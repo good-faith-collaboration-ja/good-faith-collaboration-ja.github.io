@@ -6,7 +6,7 @@ title: 結論：「調和する地球」
 
 # Conclusion: "A Globe in Accord"
 
-http://reagle.org/joseph/2010/gfc/chapter-8.html
+<http://reagle.org/joseph/2010/gfc/chapter-8.html>
 
 >    The problem with Wikipedia is that it only works in practice. In theory, it can never work. — Zeroeth Law
 
