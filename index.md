@@ -20,8 +20,11 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 * 参考文献：0% - *[Biography](http://reagle.org/joseph/2010/gfc/references.html)*
 
 ## ライセンス
-[Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC BY-NC-SA 3.0) で配布しています。
+
+内容は [Creative Commons Attribution Non-Commercial ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) (CC BY-NC-SA 3.0) で配布しています。
 
 帰属表示は [Joseph Reagle](http://reagle.org)、Yusuke Matsubara でお願いします（寄稿者が増えた場合は更新します。最新の情報はレポジトリの [Contributors](https://github.com/good-faith-collaboration-ja/good-faith-collaboration-ja.github.io/graphs/contributors) の欄をご覧ください）。
 
 寄稿者の方は「[日本語版について](about-ja.html)」をお読みください。ライセンスについてより詳しい説明があります。
+
+このサイトの作成には[Jekyll](http://jekyllrb.com/)を利用しました。HTMLとCSSのコードはJekyllに由来しています。Jekyll は[MITライセンス](https://github.com/jekyll/jekyll/blob/master/LICENSE)に従って利用可能です。

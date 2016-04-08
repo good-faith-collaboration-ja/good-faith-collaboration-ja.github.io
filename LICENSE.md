@@ -404,4 +404,3 @@ layout: page
       not form part of this License.
   
       Creative Commons may be contacted at http://creativecommons.org/.
-  
