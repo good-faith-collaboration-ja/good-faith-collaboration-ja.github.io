@@ -32,7 +32,7 @@ title: 百科事典の不安
 
 共同作業の実践、普遍性のヴィジョン、百科事典の衝動、技術的着想などのテーマに関してウィキペディアが直面する批判の一部を本章で批評する。ただし、私は現行の批判を歴史的な論法でまとめる。ウィキペディアは以前のレファレンス資料と同様に技術と社会の変化についてのよりおおきな社会的不安を引き起こした。そのことにより、個人の役割・文化製品の特徴・伝統ある文化機関の権威と生存可能性をかえつつあるコンテンツ生産のあたらしい形態をウィキペディアが代表しているのかどうかという疑問がうまれた。この懸念の個々の部分から、そのような変化が本物であるのが喧伝にすぎないのか、また本物であるならよい変化かわるい変化か、という議論がうまれた。しかし、具体論にはいるまえにレファレンス資料がなぜこういった議論をうむのかを理解しておくといいだろう。
 
-## §2The Normativeness of the Reference Work
+## The Normativeness of the Reference Work
 
 ## レファレンス資料の規範性
 
@@ -64,9 +64,9 @@ title: 百科事典の不安
 
 私のモートンの解釈では、またウィキペディアにとって重要と思われることとしては、周囲でおこっている社会変化に批評家が脅威を感じ、その代表や代理としてウェブスター第3版を攻撃したということだ。たとえば、語の用法についての権威であるウィルソン・フォレットはAtlantic Monthly誌に「Sabotage in Springfield」という題の記事を発表し、第3版を「スキャンダルと大失敗」であり「失敗を誇り丹念につくられた罪業を善としてみせびらかす」ものだとした。学者 Jaques Barzun は、権威ある American Scholar 誌の編集委員会が彼の経験上はじめて満場一致である作品を糾弾することができ、「出席したどの委員もこの新辞書に簡単に目を通すことしかできなかった」ながらも各委員が「この作品が大衆にもたらした問題についての自分の立場」を理解できたことは類例がなく誇るに値すると述べた。「ain't ain't a word」（訳注：ain't は単語じゃない）の少年として私が遭遇したような激励は実際、『第三版』刊行後の全国的論争の有名な対象だった。とはいえ、モートンが詳述するようにメリアムの準備不足な発表資料でこの辞書が「真実」、「疑いようのない事実」、「究極の権威」とされていたことから起こった批判もあったが、多くの反応は「1960年代アメリカ文化の寛容性といわれるもの」への反発と無知からも予測された。ウィキペディアが真実性や偉大さをどの程度主張するかは以降で論じる論争の一部である。
 
-§3Bias: Progressive and Conservative
+## Bias: Progressive and Conservative
 
-# 偏り：進歩派と保守派
+## 偏り：進歩派と保守派
 
 ¶14In 2008 the front page of Conservapedia, an ideological competitor of Wikipedia, recommended its “article of the year” to readers so they might “Discover what Wikipedia, the public school systems, and the liberal media don’t want you to know about atheism”.16 This reference to the “Atheism” article clearly indicates Conservapedia’s intention of opposing a perceived liberal and materialistic bias in Wikipedia. Indeed, its “Examples of Bias in Wikipedia” article lists 160 instances.17 And Conservapedia is but one of the first of many ideological user-generated encyclopedias likely to be started — though many soon fall into disuse. (The facetious headline of an article in the Register recommends that if you find “Conservapedia too pinko? Try Metapedia.”18 Metapedia’s stated purpose is to serve as an encyclopedia “for pro-European activists,”19 recalling the much discussed “neo-Nazi” attack/fork of Wikipedia.) Because reference works are popular, used by children, and understood as representing what is known, we should not be surprised to see these works at the center of larger social controversies.
 
@@ -100,9 +100,9 @@ title: 百科事典の不安
 
 以上2人のあいだの差はレファレンス資料がどの程度進歩派あるいは保守派とうけとられるかは歴史的文脈によるだけでなくその歴史が現在どう解釈されるかにもよるということを示している。Stockwell は『百科全書』を民主化の力とみなしたが Koepp は収奪の力とみなした（そしてそれはどちらでもないかもしれないし両方かもしれない）。したがって、すべきことは特定のレファレンス資料が客観的かつ決定的に保守派なのか進歩派なのかを決めることではなく、そのようにうけとられたかどうか、またよりおおきな社会的文脈についてそのことが何をかたるかだ。Einbinder が評論の冒頭に書いたように、「百科事典は現代の教育の鏡であるから、さまざまな分野でどのような態度や信念が主流なのかを検証する貴重な機会をあたえてくれる」。社会的ソフトウェアの理論家クレイ・シャーキーが現代の論争でこれと似たことを観察している。「新しい形式の共有や共同作業が得失を鑑みてよいものかわるいものかの議論は、主題よりも論者の姿をあきらかにしてくれる。」
 
-# §4Criticisms of Wikipedia and “Web 2.0”
+## Criticisms of Wikipedia and “Web 2.0”
 
-# ウィキペディアと「ウェブ2.0」についての批判
+## ウィキペディアと「ウェブ2.0」についての批判
 
 ¶22Not surprisingly, though worth a chuckle nonetheless, an informative resource for this chapter is Wikipedia’s “Criticism of Wikipedia” article. It contains the following dozen or so subheadings:
 
@@ -196,7 +196,7 @@ title: 百科事典の不安
 
 ならば、本当の問題は「資格と専門性」のないひとに百科事典製作への権限がどの程度提供されるのかをさぐることだ。
 
-## §6Universal Vision
+## Universal Vision
 
 ## 普遍性のヴィジョン
 
@@ -264,7 +264,7 @@ Keen もウィキペディアについて批判的ではあるが近代性のレ
 
 いずれにしても、ウィキペディアが共同作業によってどのように製作されるかについてのこの議論のなかで、権威、制度、個人の自立性、コンテンツ生産によっておこりうる結果についてのより大きな議論がみてとれる。
 
-## §7Encyclopedic Impulse
+## Encyclopedic Impulse
 
 ## 百科事典の衝動
 
@@ -328,7 +328,7 @@ Keen もウィキペディアについて批判的ではあるが近代性のレ
 
 こうして、何世紀にもわたって編纂者によくみられた情熱と奇抜さそのものが支持者と批判者のあいだで議論の主題のひとつになった。
 
-## §8Technological Inspiration
+## Technological Inspiration
 ## 技術的刺激
 
 ¶74Index cards, microfilm, and loose-leaf binders inspired early documentalists to envision greater information access. Furthermore, these technologies had the potential to change how information was thought of and handled. Otlet’s monographic principle, discussed in chapter 2, recognized that with technology one would be able to “detach what the book amalgamates, to reduce all that is complex to its elements and to devote a page [or index card] to each.”114 (The incrementalism frequently alluded to in Wikipedia production is perhaps an instance of this principle in operation.) Similarly, Otlet’s Universal Decimal Classification system would allow one to find these fragments of information easily. These notions of decomposing and rearranging information are again found in current Web 2.0 buzzwords such as “tagging,” “feeds,” and “mash-ups,” or the popular Apple slogan “rip, mix, and burn.”115 And critics object.
@@ -439,9 +439,9 @@ Helprin はクレムリンが修正写真とページの更新により歴史を
 
 結局、この衝突の一部は「空騒ぎ」と表現できるかもしれない。ウェブスター第3版もウィキペディアも学者の論をかなりひきよせた。レファレンス資料はより大きな戦いのなかで代理人や人質として主張されており、みずからを誇示するため以外の理由なしに論じている参加者もいるのではないかと思う。世代に関する論争を読むと、自分がうまれたときからあったものならなんでも普通にみえるし、30歳までにあったものならなんでも「ものすごく刺激的で創造的にみえる」から仕事にしてみればよいという、ダグラス・アダムズのユーモアある観察をおもいだす。もちろん、「それより後のものはなんでもこうした自然の秩序に反していて、我々の知るところの文明の終わりの始まりなのだが、10年もすると実は問題ないことが少しずつわかってくる」。それでも、世代がかわるたびに我々は「huffing and puffing」（訳注：未訳）をくりかえす。クレイ・シャーキーがブログで印刷ジャーナリズムの崩壊について指摘したところによれば、これは「新しいものに置き換わるまえに古いものが壊れる」からである。あるいは、Steve Weber がオープンソースの研究で述べた仮説では、耳障りな批判者が現れるのは「なくなりつつあるもののほうが、うまれようともがいているものよりも」みえやすいからだが、十分辛抱すれば「創造的破壊」には肯定的な側面もある。
 
-# §9Conclusion
+## Conclusion
 
-# 結論
+## 結論
 
 ¶101Reference works can prompt and embody currents of social unease. As seen in Morton’s history of Webster’s Third, much of the controversy associated with its publication was about something other than the merits of that particular dictionary. I generalize the argument by briefly looking to the past for how reference works have been involved in a larger conservative versus progressive tension, and by asking how Wikipedia might be entangled in a similar debate today.
 

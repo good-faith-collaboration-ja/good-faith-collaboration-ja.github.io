@@ -20,7 +20,7 @@ title: 優しい独裁者
 
 本章では、この対比（FUZZY juxtaposition）がリーダーシップの「著者的」形式として理解できることを示す。リーダーシップの著者的形式とは、ここでは例外的独裁的権力がオープンコンテントコミュニティ内で尊重される「著者」によって行使される様子を言う。その後、ウェールズとサンガーの物語に戻り、リーダーシップについての彼らの考え方、コミュニティの方向と構造を深く形成した彼らのコミュニティについての期待をとりあげる。
 
-## §2Authorial leadership
+## Authorial leadership
 
 ## 著者的リーダーシップ
 
@@ -56,7 +56,7 @@ title: 優しい独裁者
 
 オープンコンテントコミュニティには自発的で功績主義的な性格がある。このため、指導者が模範を示して指導することは、模範的な行動がそのリーダーシップの基礎になっていることからして、驚くにあたらない。リーダーシップは任命ではなく行為から生まれる。創設者の指導者的役割には独裁主義の一面があるものの、すくなくとも建前では永遠に偶発的なものだ。コミュニティか支持層の一部は不満を持ったとき、いつでも離脱して新しい指導者のもとで再出発することができる。
 
-## §3Wales and Sanger
+## Wales and Sanger
 
 ## ウェールズとサンガー
 
@@ -108,7 +108,7 @@ title: 優しい独裁者
 
 サンガーは実際は編集方針の策定にはかなり譲歩しているが、無理を通す編集者と攻撃とを統制することには、特にそれらが優良な専門家の寄稿者を遠ざけているとき、こだわっている。そのために彼は今は Citizendium プロジェクトを進めている。
 
-## §4Wales’ influence
+## Wales’ influence
 
 ## ウェールズの影響力
 
@@ -236,7 +236,8 @@ title: 優しい独裁者
 
 さらに、ウィキペディアの共同作業的規範に関して他者を社会化（FUZZY ERRATA "are represented" は "is represented" の誤記か？）する役割は管理者であることの中心的機能として表現されており、管理者は忍耐力を持って対話する意思を持ち、すすめることとすすめないことについて「柔らか」な返答をし、「中核的方針に深い注意」を払い、「人々が善意で行動することを仮定」し、「疑わしきときは当人の利益」とするべきだとされる。また、論争へ干渉するときに、論争に「はまりこむ」べきではない。
 
-## §6Discussing Leadership
+## Discussing Leadership
+
 ## リーダーシップを論じること
 
 ¶54The prominent leader of an open content community is sometimes characterized as a benevolent dictator. This is a variation on a tradition in online communities, particularly Usenet, of referring to a minority with disproportionate influence as a “cabal.”58 While a cabal can still be spoken of in earnest (with a negative connotation), in time it and the acronym TINC (“There Is No Cabal”) became shorthand for referring to the difficulties of community governance and the propensity for some to see conspiracies. The role of the “benevolent dictator” completes this ironic turn while also indicating genuine respect. Jimmy Wales is referred to as a benevolent dictator, though it is not a title he accepts. Indeed, it behooves any such leader to disclaim such a title because, as Eric Raymond notes, hacker culture “consciously distrusts and despises egotism and ego-based motivations; self-promotion tends to be mercilessly criticized, even when the community might appear to have something to gain from it. So much so, in fact, that the culture’s ‘big men’ and tribal elders are required to talk softly and humorously deprecate themselves at every turn in order to maintain their status.”59 (Although Raymond is seminal for theorizing aspects of open source leadership and popularizing the term “benevolent dictator,” its usage appears to precede Raymond’s use in computer communities and even its application to Linus Torvalds.60)
@@ -355,7 +356,7 @@ title: 優しい独裁者
 
 この役割についての懸念から、「優しい独裁者」の代替案が検討されることになった。立憲君主、もっとも信頼される機関（リーナス・トーヴァルズが好む通称ではTMMP）、影の立役者（eminence grise）、機械仕掛けの神（deux ex machina）などだ。立憲君主の概念はコミュニティ内である程度安定と受容を達成したが、「優しい独裁者」はオンンラインコミュニティに長い歴史のある用語なので、議論でもちいられなくなることはなかった。この概念は指導者の行為だけでなくその他の参加者の行為のものさしにもなった。ウィキペディア上の性的コンテンツに関する多数のスレッドのひとつで、ある参加者が別の参加者に向けてこう書いた。「あなたの意見が法律になったとでも？ それはいい。こうやって不愉快な投票や意見調査をする必要もなくなる……。あなたに決定をしてもらえばそれですむのですから。ジンボが優しい独裁者だと私は思っていましたが、結局、あなたはただの独裁者になりたいんですね」
 
-## §7Conclusion
+## Conclusion
 
 ## 結語
 

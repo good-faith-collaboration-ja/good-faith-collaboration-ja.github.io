@@ -40,15 +40,15 @@ This interaction prompted Jimmy “Jimbo” Wales, Wikipedia cofounder and leade
 
 このやりとりは、ウィキペディアの共同創設者で指導者のジミー・ウェールズ（別名「ジンボ」）の目にとまり、次の発言があった：「SlimVirgin, MattCryto: ウィキペディアンの愛すべきところはこういうところです。こういう議論は好きです。性善説をとる、慎重に原因を考える、個人攻撃のたぐいをまったく入れない議論、問題を肯定的に深く考察する反論」[^5]。ゴッドウィンの法則では悪意にとる傾向が言われているが、ウィキペディア文化では、寄稿者は他人を善意にとるようにすすめられている。たとえば、参加者が遵守すべきとされる規範である「ウィキケット」[^6]には、「善意にとる」(AGF) と「新規利用者をいじめないでください」というガイドラインがある。こうしたウィキペディアの規範、またそれと普遍的な百科事典の技術、文脈、ヴィジョンとの関係を思うとき、私はこう尋ねたくなる。このコミュニティの共同作業の─「性善説」の─文化をどう理解すればいいのだろうか？ 以降の章では、この疑問に対する私の理解を提示する。が、まずは導入から。
 
-# Wikipedia
+## Wikipedia
 
 When I speak of Wikipedia I am referring to a wiki project, which includes both the textual artifact and the community producing it. (This is a common usage, as is referring to Web sites without a definite article, that is “I searched Google and Wikipedia” not “I searched the Google and the Wikipedia.”) Furthermore, there is a particular vision of access and openness at Wikipedia, as seen in its slogan describing itself as the free encyclopedia that anyone can edit. This vision, the encyclopedia, and its community and culture are introduced in the sections that follow.
 
 私がウィキペディア (Wikipedia) と言うとき、指しているのはウィキによる一つのプロジェクトのことである。それはテキスト形式のモノと、それを生み出すコミュニティとの両方を含んでいる。（定冠詞をつけずにウェブサイトを指すこの用法は広く使われている。つまり「グーグルとウィキペディアとで検索した／I searched Google and Wikipedia」であり、「I searched the Google and the Wikipedia」ではない。）さらに、ウィキペディアにはアクセスとオープンさについての顕著なヴィジョンがある。それは誰でも編集できる自由な百科事典という自らについてのスローガンにも見られる。このヴィジョンと百科事典、コミュニティと文化について、以降の節で紹介する。
 
-# The Vision
+## The Vision
 
-# ヴィジョン
+## ヴィジョン
 
 The Wikimedia Foundation, the nonprofit organization under which Wikipedia and its related projects operate, asks the reader to “Imagine a world in which every single human being can freely share in the sum of all knowledge. That’s our commitment.”[^7] However, this commitment is not unique to the new millennium. Indeed, Wikipedia’s heritage can be traced back to the beginning of the twentieth century. In particular, it can be traced back to Paul Otlet’s Universal Repertory and H. G. Wells’s proposal for a World Brain (included in a 1937 book of the same title). These projects were conceived as furthering increased access to information; facilitated by the (then relatively novel) technologies of the index card, loose-leaf binder, and microfilm. However, this vision exceeds the production of information. Wells proposed that reference work compilers would be joined by world scholars and international technocrats to produce a resource that every student might easily access, in a personal, inexpensive, and portable format. Furthermore, this collection of the world’s intellect was envisioned to yield a greater sense of unity: Wells hoped that such an encyclopedia could solve the “jig-saw puzzle” of global problems by bringing all the “mental wealth of our world into something like a common understanding”; this would be more than an educational resource, it would be an institution of global mediation.[^8] Wikipedia shares this concern for “the sum of all knowledge” with early visionaries. And while no one argues that Wikipedia will bring about world peace, I do argue goodwill is necessary to its production and an occasional consequence of participation.
 
@@ -66,8 +66,9 @@ Consequently, the inspiration for a free and open source encyclopedia—in terms
 
 結論として、自由でオープンソースな百科事典を刺激したのは、利用可能性、費用、共同作業といった点で、長い追求の歴史の最新の段階だったと言えるのかもしれない。
 
-# The Encyclopedia
-# 百科事典
+## The Encyclopedia
+
+## 百科事典
 
 Wikipedia is the wiki-based successor to Nupedia and its name is a portmanteau of “wiki,” an online collaborative editing tool, and “encyclopedia,” itself a contraction of the Greek enkyklios and paidei, referring to the “circle of learning” of the classical liberal arts. This name is evidence of a geeky sort of linguistic humor and also prompts the question of whether a relatively open-to-all wiki can also be a high-quality reference work. In the following pages I return to these points but for now let’s consider the wiki and encyclopedic aspects of the thing we call Wikipedia.
 
@@ -101,9 +102,9 @@ Of course those three million articles on English-language Wikipedia—the focus
 
 もちろん英語版ウィキペディア（本書の焦点）にある300万件の項目の品質は同じではない。「1万の秀逸相当項目」を達成する提案で要約されたところによると、2009年2月の時点で、大雑把に言って英語版項目の半分が評価の対象となり、そのうち1万1000件が「Featured」（傑出していて網羅的）か「A」（有用でかなり広く言及している）か「Good」（明らかな問題はなく多くの読者にとって有用）のいずれかの品質があるとされた[^20]。ウィキペディアの品質についての外部評価では、汎用目的の印刷されたレファレンス資料と肩を並べるものであることが示された。2005年12月の権威ある科学雑誌 Nature の報告では、共同調査において各主題の専門家がウィキペディアとブリタニカ百科事典の42件の項目を査読した結果、「ウィキペディアの科学項目は平均4つの誤りが入っているが、ブリタニカは3つ」[^21]と結論された（このことは広く報道され、議論され、最後にはブリタニカによって反論された）。ジョージ・ブラーグスは2007年の調査で、先行する研究を公平さに留意しつつ要約して「研究の数からも肯定的意見と否定的意見の比率からも強い結論を出す段階にはないが、ウィキペディアに好意的な傾向がある」とした。彼は著名な哲学者の伝記項目7件を権威あるレファレンス資料いくつかで引いて比較したうえで、ウィキペディアは話題の網羅性が不統一になってしまっていることがあるものの、「ウィキペディアの罪は commission ではなく ommission （漏れ）にある」[^22]と結論した。ウィキペディアを統一的に高品質なレファレンス資料とするためには多くの仕事が残っているのは明らだ。だが一方で、これほど多数の項目の幅があることは、ウィキペディアが少数の興味しか引かないことまで網羅しつつ非常に新しく保っていることを意味する。まだ評価の対象になっておらず秀逸な項目の資格には満たないだろうが、私が住むブルックリン近郊ゴワナス運河界隈の項目[^23]は十分よくできている。
 
-# The Community
+## The Community
 
-# コミュニティ
+## コミュニティ
 
 It can be even more difficult to get a sense of the English Wikipedia community. The “Editing Frequency” page indicates that 41,393 registered (logged in) users made five or more edits in September 2008 (the most recent published figures).[^24] Yet, this doesn’t represent the hundreds of thousands of contributors who may have previously contributed, those who edit “anonymously” or without a consistent identity, and the “Wiki gnomes” who may fall short of this threshold—such as myself—but continue to quietly enact small tasks (e.g., fixing a typo) as opportunity presents itself and time permits.
 
@@ -125,8 +126,9 @@ In sum, there are the tens of thousands of active contributors who are familiar 
 
 まとめると、数万を超える活動的な寄稿者が英語版ウィキペディアでの活動の基本と規範に習熟している。そのなかには、地理的な区別、任務別、話題の違いでしきられた、数百や数千のメンバーからなる、より小さなコミュニティ群がある。そして英語版ウィキペディアは、多言語百科事典群とウィキメディアプロジェクトのより大きなコミュニティの一部である。
 
-# The Culture
-#文化
+## The Culture
+
+## 文化
 
 The focus of this book is Wikipedia’s collaborative culture. While I explain what I mean by this in chapter 3, I want to first briefly introduce my approach and Wikipedia’s core collaborative principles.
 
@@ -160,9 +162,9 @@ Such Wikipedia policies and Wikipedian discourse are central to the cultural acc
 
 私が取り上げる文化的要素の中心となるのは、このようなウィキペディアの方針とウィキペディアンの言論である。こうした方針と言論に対して、私は「博物学的探求」で接近した。それは、ウィキペディアの共同作業に関するテキストを集める中で生じた過程であり、こうしたテキストは私がコミュニティに参加を続けるあいだ分類され、注意深く検討され、洗練されていった[^44]。2009年8月の時点で、私は1300件以上のウィキペディアに関する一次情報源を集めた[^45]。また、会合への出席やいくつかのページの編集を通じてコミュニティに参加した。ジャーナリスト、ロビイスト、目的外利用しようとするウィキペディアンなどにとっては、ウィキペディアを自分の意に沿うものにしようとする誘惑があるが、私は方針や編集の論叢から意図的に離れた。組織エスノグラファーのジョン・ヴァン・マーネンが言うように「エスノグラフィーはある文化を筆記によって表したもの」であり、私は「その文化を読者にとって意味のある形で、大きな歪みなしに描写する」[^46]ように努めた。自らの研究対象であるファン文化についての愛情が自分の言葉に「色」を加えうるとヘンリー・ジェンキンスが認めるのと同じように、それは「議論の対象となるグループへの高い次元の義務と説明責任」[^47]を意味する。
 
-# This Book, in Short
+## This Book, in Short
 
-# 本書を端的に言うと
+## 本書を端的に言うと
 
 A hazard in thinking about new phenomena—such as the Web, wiki, or Wikipedia—is to aggrandize novelty at the expense of the past. To minimize this inclination I remind myself of the proverb “the more things change, the more they stay the same.” Therefore, I begin in chapter 2 with an argument that Wikipedia is an heir to a twentieth-century vision of universal access and goodwill; an idea advocated by H. G. Wells and Paul Otlet almost a century ago. This vision is inspired by technological innovation—microfilm and index cards then, digital networks today—and driven by the encyclopedic impulse to capture and index everything known. In some ways my argument is an extension of that made by historian Boyd Rayward who notes similarities between Paul Otlet’s information “Repertory” and Project Xanadu, an early hypertext system.[^48] My effort entails not only showing similarities in the aspirations and technical features of these older visions and Wikipedia, but also recovering and placing a number of Wikipedia’s predecessors (e.g., Project Gutenberg, Interpedia, Nupedia) within this history.
 

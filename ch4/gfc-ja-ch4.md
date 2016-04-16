@@ -16,17 +16,17 @@ title: 開放性というパズル
 
 > トロルはウィキペディアを動かす力である。最悪のトロルはしばしば最良の編集者を刺激して、トロル的悪行が行われなければ簡単なスタブしかなかったであろうところに、一分の隙もなく参考文献がついた見事な項目を作成させる。— Bachmann の法則
 
-¶3A central aspiration in the pursuit of a universal encyclopedia is increased access to information: an opening of opportunity and capability to anyone with a desire to learn. Ironically, such an encyclopedia only became possible with universal access to its production. However, Wikipedia’s openness, based on the inspiration of the Free and Open Source Software (FOSS) movement and the capabilities of hypertext, is not a collaborative panacea. The two, at odds, “laws” of Wikipedia that begin this chapter are evidence that openness has advantages and disadvantages — and people don’t even agree about which is which. (Since neither law is funny, Kmarinas86’s Law of Contradiction, in which the most humorous wins, is of little help.) In fact, like the issues of consensus and leadership addressed in the next two chapters, openness, including to those who may alienate good users or drive them to brilliance, is a bit of a puzzle itself.
+A central aspiration in the pursuit of a universal encyclopedia is increased access to information: an opening of opportunity and capability to anyone with a desire to learn. Ironically, such an encyclopedia only became possible with universal access to its production. However, Wikipedia’s openness, based on the inspiration of the Free and Open Source Software (FOSS) movement and the capabilities of hypertext, is not a collaborative panacea. The two, at odds, “laws” of Wikipedia that begin this chapter are evidence that openness has advantages and disadvantages — and people don’t even agree about which is which. (Since neither law is funny, Kmarinas86’s Law of Contradiction, in which the most humorous wins, is of little help.) In fact, like the issues of consensus and leadership addressed in the next two chapters, openness, including to those who may alienate good users or drive them to brilliance, is a bit of a puzzle itself.
 
 普遍的百科事典の探求における中心的な欲求は、情報へのアクセスの増進である。学ぶことを欲する人すべてに機会と可能性を開くことである。皮肉なことに、そのような百科事典は、その製作において普遍的なアクセスがともなってはじめて可能になった。しかし、フリー・オープンソースソフトウェア (FOSS) 運動とハイパーテキストの可能性に着想を得たウィキペディアの開放性は、共同作業の特効薬ではない。本章の冒頭のウィキペディアの「法則」2点は、かなりの可能性で、開放性がもたらす長所と短所を明らかにしている。そして、人々はどちらがどちらであるかについてさえ意見をおなじくしない（どちらの法則も楽しくないため、ユーモラスなものが勝つという Kmarinas86 の矛盾の法則はほとんど役に立たない）。実のところ、以降の2章で論じる合意と指導力の問題と同じように、開放性も、よいユーザーを阻害する人々にとってもその能力を発揮させる人々にとっても、ちょっとしたパズル（訳注：難題）である。
 
-¶4 Wikipedia’s claim of openness is seen in its motto: “Wikipedia, the free encyclopedia that anyone can edit.”1 But what does “openness” — and “anyone” — actually mean? Because of the ascendancy of FOSS, open is now a buzzword, becoming a prefix to even such well-established notions as democracy and religion.2 Additionally, when contemporary sources speak of openness as an attribute of community, it is often in an overly simplistic way; projects like the Linux kernel, Apache Web server, and Wikipedia are often mischaracterized by way of an inappropriate, if not naïve, extreme. A utopian rendering of openness is that “anything goes”: there are no community structures or norms, anyone can do anything they please.
+Wikipedia’s claim of openness is seen in its motto: “Wikipedia, the free encyclopedia that anyone can edit.”[^1] But what does “openness” — and “anyone” — actually mean? Because of the ascendancy of FOSS, open is now a buzzword, becoming a prefix to even such well-established notions as democracy and religion.[^2] Additionally, when contemporary sources speak of openness as an attribute of community, it is often in an overly simplistic way; projects like the Linux kernel, Apache Web server, and Wikipedia are often mischaracterized by way of an inappropriate, if not naïve, extreme. A utopian rendering of openness is that “anything goes”: there are no community structures or norms, anyone can do anything they please.
 
 ウィキペディアが開放性を主張していることはそのモットー「ウィキペディア、誰でも編集できる百科事典」にあらわれている。
 しかし「開放性」— そして「誰でも」 — とは実際にはどういう意味だろうか？ FOSS が隆盛したことで、開放性（訳注：原語では open オープン）はいまやバズワードになっており、民主主義や宗教といったよく確立した概念についてさえ接頭辞としてつけられることがある。加えて、現代の情報源がコミュニティの属性の一つとして開放性に言及するとき、それは過剰に単純化されたものになっている。Linux カーネル、Apache ウェブサーバ、ウィキペディアのようなプロジェクトは、ナイーブではないにしろ不適切な極として誤って特徴付けられることが多い（FUZZY 訳注：要検討）。
 開放性を理想郷的に描かいたものとしては「なんでもあり」、すなわちコミュニティに構造や規範はなく、誰でも好きなことを何でもしていい、というものがある。
 
-¶5 This understanding of “anything goes” is untenable: some level of structure is inevitable in social relations, and often necessary to support other values. In his 1911 book Political Parties, Robert Michels wrote of the development of an oligarchy within democratic parties as an “Iron Law.” In 1970 Jo Freeman wrote about the “tyranny” present in seemingly egalitarian feminist groups of the earlier decade: “ ‘Structurelessness’ is organisationally impossible. We cannot decide whether to have a structured or structureless group; only whether or not to have a formally structured one.” And more recently, Mitch Kapor expressed a similar sentiment with respect to the early management of the Internet when he noted: “Inside every working anarchy, there’s an Old Boy Network.”3
+¶5 This understanding of “anything goes” is untenable: some level of structure is inevitable in social relations, and often necessary to support other values. In his 1911 book Political Parties, Robert Michels wrote of the development of an oligarchy within democratic parties as an “Iron Law.” In 1970 Jo Freeman wrote about the “tyranny” present in seemingly egalitarian feminist groups of the earlier decade: “ ‘Structurelessness’ is organisationally impossible. We cannot decide whether to have a structured or structureless group; only whether or not to have a formally structured one.” And more recently, Mitch Kapor expressed a similar sentiment with respect to the early management of the Internet when he noted: “Inside every working anarchy, there’s an Old Boy Network.”[^3]
 
 このような「なんでもあり」という理解には擁護の余地がない。社会的関係において一定の水準の構造は不可避であり、他の価値を支えるためにも必要であることが多い。1911年の著書『政治結社』 (Political Parties) でロバート・ミチェルズは民主制の政党における専制の発達は「鉄の法則」だと書いた。ジョー・フリーマンは1970年に、直前数十年にみられた平等主義にみえるフェミニストのグループにおいて「独裁」が現れていると書いた。組織に「無構造」は不可能なのである。グループに構造をもたせるかもたせないかを選ぶことはできない。選べるのは、構造を正式にもたせるかどうかだけだ。より最近になって、ミッチ・カーパーは、「どの無政府主義の活動の内部でも、Old Boy Network がある」として、インターネットの初期の管理について似た感想を述べている。
 
@@ -42,7 +42,7 @@ title: 開放性というパズル
 
 以降の節では、私がオープンコンテントコミュニティと呼ぶものの特徴5つにウィキペディアを照らす。この概念によって、ある種類のコンテンツ、たとえばFOSSと、それを生み出すコミュニティとを区別することができる（「閉鎖性の」起業が「開放性の」ライセンスでソフトウェアを生み出すこともありうる）。さらに、開放性についての議論において暗示される、より具体的な価値観を同定することができる。その後、開放性とそれに関連する価値観が、ウィキペディアコミュニティがみずからをいかに理解するかについて奮闘する4つの案件に照らして、検討される。最初の案件では、ウィキペディアが実際に「誰でも編集できる」のかという質問に立ち返る。つまり、ウィキペディアがサイト上の荒らしを制限するために新しい技術的権限を導入したとき、それはウィキペディアの開放性を高めるのか低めるのか？ 第二の案件では、成熟するオープンコンテントコミュニティがウィキペディアをこえた世界と相互作用するときに必要とされる事項がその開放性に影響を与える様式についてを述べる。ここでは、自由と透明性を重んじるコミュニティの価値観と対照的なものとして、ウィキペディアが潜在的な法的問題を回避するために秘密裏に行動する、ウィキペディアの「事務局行動」を振り返る。最後に、閉鎖性の（女性だけの）グループが、より広いウィキペディアコミュニティの外で、またその「開放性」を理由として、立ち上げられた案件を見る。
 
-## §2Open Content Communities
+## Open Content Communities
 
 ## オープンコンテントコミュニティ
 
@@ -102,7 +102,7 @@ title: 開放性というパズル
 
 GFDL はソフトウェアのテキスト文書にに付随させるよう意図されていたため、また一部の人には柔軟性に欠けると思われたため、新しい非ソフトウェアコンテンツのライセンスが出現した。さらに広くには、2001年に立ち上がったクリエイティブ・コモンズのプロジェクトが。テキスト、写真、音楽の共有のためのライセンスを提供した。クリエイティブ・コモンズ創始者のひとり法律学教授ローレンス・レッシグは、著書 Free Culture で、ソフトウェアを超えた領域の自由と開放性という考えが広まるのを助けた。ウィキペディアは、より広いフリーカルチャー運動のおそらくもっともよく知られた事例である。
 
-## §3Transparency and Integrity
+## Transparency and Integrity
 
 ## 透明性と一体性
 
@@ -122,7 +122,7 @@ GFDL はソフトウェアのテキスト文書にに付随させるよう意図
 
 しかし、「なんでもあり」という開放性のナイーブな表現とまったく同じように、ウェブに投稿されたからといって完全な透明性と一体性が達成できると考えるのは、単純化されすぎている。これから見るように、プライベートな通信手段がほかにあるかもしれず、多すぎる情報はときに何もないのと同じくらい有効性が低いからである。
 
-## §4Non-Discrimination
+## Non-Discrimination
 
 ## 無差別
 
@@ -171,7 +171,7 @@ GFDL はソフトウェアのテキスト文書にに付随させるよう意図
 
 そしてその次の日、ウェールズは「原理の宣言」をウィキ上に投稿することで、ウィキペディアの成功にとって開放性が重要であることを強調した。それでもなお、秘密結社への恐れは頻繁に持ち上がり続けた。これは、ときに実践が十分な原理を欠き、人々が権力のある人々を疑うという人間の本性であり社会にとって不可避なことである。ウィキペディアンはいっぽうで頻繁に透明性、一体性、差別についての懸念を持ち出す。そのいっぽうで、Extreme Unction の第一法則が指摘するように「十分な数の人々が独立に同じ目標に向かって行動すれば、その最終結果は陰謀と見分けがつかない」。
 
-## §5Non-Interference
+## Non-Interference
 
 ## 不干渉
 
@@ -183,7 +183,7 @@ GFDL はソフトウェアのテキスト文書にに付随させるよう意図
 
 ウィキペディアのコンテンツのフォークは過去に起こったことがあり、振りかざされ議論されつづけている。たとえば、ウィキペディアが広告を掲載する可能性についての誤解によって、スペイン語のウィキペディアが Enciclopedia Libre Universal にフォークされた（この誤解はのちに解消され、スペイン語版ウィキペディアがフォークを置き換えた）。ほかにいは、指摘されているように、専門家であるウィキペディア投稿者への敬意の欠如についてのラリー・サンガーの不満が、彼を Citizendium 計画に導いた。Citizendium はウィキペディアと同じソフトウェア（「MediaWiki」）を使い、ウィキペディアのコンテンツを受容し改善するものと考えられている。しかし、 Citizendium のライセンスを決める手続きは間違いなく素早い簡単なものとは言えなかった。 Citizendium 投稿者のあいだの懸念のひとつは GFDL ライセンスを使い、したがってウィキペディアのコンテンツを使える（そしてそれを改善できる）としたら、ウィキペディアは改善された Citizendium のコンテンツを移入しもどすことがありうるということだった。これは、自分たちは異なるものでありそのアプローチが優越すると望んた人たちにとっては受け入れがたいことだった。したがって、ウィキペディアのコンテンツが一部すでに受容されていたことから、 Citizendium は借りた婚t年つの「フォーク解消」の可能性を実験しはじめた。いちから書きなおしたのである。しかし2007年12月、 Citizendium はクリエイティブ・コモンズライセンスを選択した。GFDL 互換にしようという独立した動きが起こったあとであり、これによって「ウィキペディアと Citizendium はたがいにコンテンツを容易にやりとりできるようになる」ことを意味した。いずれにしても、ウィキペディアのフォークは周知の可能性であり、その開放性の帰結である。ウェールズがはやくにニューペディアについて「ある観点の推進者が私たちは偏っていると主張し、私たちがある種の合意にたどりつくことができなかったとしたら、彼らは私たちのコンテンツを基礎として使い、様々な項目を加えたり取り除いたりして自分たちの百科事典を作ることができるということは、指摘しておくべき重要なことです。オープンソースが、無料のビールではなく言論の自由に関わる意味はまさにこれです。」
 
-## §6Discussing Openness
+## Discussing Openness
 
 ## 開放性を議論する
 
@@ -191,7 +191,7 @@ GFDL はソフトウェアのテキスト文書にに付随させるよう意図
 
 開放性は、困難な状況では適用できるとは限らない、いくつかの価値で構成される。以降の節では、コミュニティに開放性への疑問が投げかけられた4つの事案の振り返る。それぞれの事案は、本当にだれでも編集できるのか、事務局行動の正統性、官僚化の影響、WikiChix 居留地についてである。
 
-## §7Can Anyone Really Edit?
+## Can Anyone Really Edit?
 
 ## 本当にだれでも編集できるのか？
 
@@ -279,7 +279,7 @@ GFDL はソフトウェアのテキスト文書にに付随させるよう意図
 
 問題のある利用者をブロックする試みすらもすべて開放性から離れる一歩だと論じる人もいるかもしれないが、素行の悪い荒らしによる混沌の文化は、百科事典のプロジェクトを動かすのに肯定的な貢献をしたいと願う人々から等しく参画の機会を奪ってしまう。コミュニティは平衡をもたらす行動をとらなければならない。これは難しく、ときに落ち着いてもまた乱されることがある。たとえば、伝記項目への不適切な編集への懸念がつづいたために、ウェールズは「FlaggedRevisions」機能を英語版ウィキペディアで有効化することを2009年に提案した。Flagged revisions  は長く議論されている仕組みであり、各ページで最後に編集された版ではなく承認された版を「一般の人」（つまりログインしていない人）に見せるものである。これは、このウィキの高品質な見え方、すなわち、論争のある項目に安定して攻撃的でない外観（すなわち「Flagged Protection」）を与えるために使うことができる。この提案は、「保存」ボタンを押すと各自の編集がすぐに見えるようになるというウィキのエートスに反するように思われるかもしれない。実際、ウェールズは「原理の宣言」で「『このページはいますぐ編集できます』ということが私たちがやることすべてを導く基準のひとつです。私たちはこの原理を神聖なものとして尊重しなければなりません」と書いている。もちろん、バランスはずらさなければならないこともあり、一般の人にすぐには見えなくとも「今すぐ」編集することはできる。ｓらに、この解決策はウィキを閉鎖するような制約のように見えるかもしれないが、そのページが単純に保護されている場合と比べれば、十分に広いアクセスが提供できる。
 
-## §8Interfacing with the Outside World
+## Interfacing with the Outside World
 
 ## 外界とつなぐ
 
@@ -299,7 +299,7 @@ WP:Office のようなウィキ外で議論が行われる仕組みは、残念�
 
 ウィキペディアによる情報の隠蔽は2009年6月にマスメディアから注目された。ニューヨーク・タイムズの記者デヴィッド・ロードは、タリバンに拉致され、逃亡するまでの7ヶ月をアフガニスタンで捕らわれていた。逃亡したとき、タイムズはその題材をそのあいだ隠蔽し、他社にもそう依頼していたと報じた。注意を引きロードにさらなる危険が及ばないようにするためである。そのなかに、ロードの伝記項目への匿名投稿者からの投稿の試みがあったウィキペディアにこの情報が載らないようにしてほしいとの、ウィキメディア財団への依頼もあった。自分の行動が注目を引くことを知りながら、ジミー・ウェールズは他の人と協力してこれが再び表示されないようにつとめた。その主張を除去することは —メディアがその題材を隠蔽していたのだから— 十分な名声のある情報源が欠けていることによって正当化された。さらにそのページは保護（以後の編集ができないようにロック）された。ウェールズは、その投稿者がだれなのかはまったく分からなかったから、「こっそり連絡して『ちょっとやめてくれ、こういう事情がある』と話すこともできなかった」と言った。6月20日、報道が解禁され、ウェールズは保護を解いた。30分もたたないうちに、あの投稿者がその情報が隠蔽されていた理由をまだ認識せずに、参考文献を付け、「これだけ証拠をだせば十分だろ馬鹿。正しかったのは俺。 :P」と要約を付けて、ロードの逃亡を追記した。コミュニティ内では、というよりコミュニティの外から、開放性と嘘をつかないことというウィキペディアが執着する原理と、他者の安全を守る責任とについて様々な議論がなされた。ウィキペディアは外界からの影響を受けるだけではなく、ウィキペディアが文書化する対象である世界もウィキペディアから影響を受けるのである。
 
-## §9Bureaucratization
+## Bureaucratization
 
 ## 官僚化
 
@@ -319,7 +319,7 @@ WP:Office のようなウィキ外で議論が行われる仕組みは、残念�
 
 一定の方針はどのコミュニティにも必要で、官僚化は組織の発達において広く見られる — 不可避であるともよく言われる —特徴だ。ウィキペディアの方針についてのある研究が結論づけたように、「ウィキが体現する[とされる]『無方針』の理想は夢物語に終わる」。とはいえ、手続きの結集のさなかでも、オープンコンテントコミュニティの透明性と一体性の価値観はおおむね守られる。しかし、方針の集積が重くなりすぎれば、一体性は不満と「ウィキ法律屋ごっこ」（方針の精神よりも文面に注目する、過剰に技術的、法律的な議論）とに脅かされる。たとえば、方針の急伸を見てあるウィキペディアンは「手続き病をやめる」ことを宣言した。「本日をもって、私はとにかく編集します。規則ばかりでは、神経質で憂鬱になってしまいます。私は覚えられる範囲のことには従います。そうでないことは無理して学ぼうとしません」
 
-## §10Enclaves and Gender
+## Enclaves and Gender
 
 ## 居留地とジェンダー
 
@@ -391,9 +391,9 @@ WikiChix の提案への最後の、parliamentary な反論は、この排他的
 
 とはいえ、 WikiChix がひらかれたままで女性を支持するかわりに男性を排除したことは、透明性と無差別に関して明らかに問題だ。さらに、サンステインは居留地は集団の分極化と周縁化をそだてることがあると認識し、居留地の構成員がより大きなコミュニティとの連絡をとりもどすよう推奨する。そうしなければ、孤立により過激主義をまねくことがある。この問題を追うなかで、女性に友好的な空間がつくられたあとで女性の参加が減ったと私は認識していない。女性が共通空間を捨てるという説への反論は、引き戻ることができるより支援的な空間があることで、共通空間での発言がしやすくなるという説だ。とはいえ、これらほかの女性特有の空間はひらかれているのに対して、WikiChix はジェンダー排他的だ。最終的には時間が答えを出すことであり、構成要素はすべて共通の目的（Wikipedia）を持っているのだから、周縁化と過激主義は最小にとどまるだろうと私は予期する。
 
-## §11Conclusion
+## Conclusion
 
-## 結論
+## 結語
 
 ¶87Wikipedia is an example of an open content community. Such a conceptualization entails the core value of providing open content, and the implication of forking. However, it can be difficult to balance the associated values of transparency, integrity, and nondiscrimination, as well as other concerns such as free speech and the safety of people and the project itself. Furthermore, boundaries are a fundamental feature of any community, even for those that aspire to openness because it is rarely a simple binary of open or closed. Even a theoretically perfect openness can lead to behavior and informal structures that are less than inclusive. As Clay Shirky writes, “successful open systems create the very conditions that require and threaten openness. Systems that handle this pressure effectively continue (Slashdot comments). Systems that can’t or don’t find ways to balance openness and closedness — to become semi-protected — fail (Usenet.)”113
 
@@ -402,3 +402,231 @@ WikiChix の提案への最後の、parliamentary な反論は、この排他的
 ¶88 This is the sort of insight not present in H. G. Wells’s predictions of a Modern Utopia, Open Conspiracy, and World Brain, but emerges when one spends time in the Wikipedia community. Ultimately, an important descriptive feature of an open content community is a lot of discussion about its values and how to balance them. By this measure, Wikipedia certainly qualifies.
 
 これは、『A Modern Utopia』、『Open Conspiracy』、『世界の頭脳』でのH. G. ウェルズの予測にはなかったが、ウィキペディアコミュニティで時間を過ごせば気づく種類の洞察だ。究極的には、オープンコンテントコミュニティの記述的な特徴として重要なもののひとつは、コミュニティの様々な価値観と、それらの間のバランスをどうとるかとについて多く議論することだ。この基準に、ウィキペディアは間違いなく合格する。
+
+----
+
+[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-322)Wikipedia, “Wikipedia, the Free Encyclopedia,” Wikipedia, November 14, 2008, <http://en.wikipedia.org/?oldid=251850832> (visited on December 2, 2008).
+
+[^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-323)Douglas Rushkoff, Open Source Democracy: How Online Communication Is Changing Offline Politics (London: Demos, 2003), <http://www.demos.co.uk/publications/opensourcedemocracy2> (visited on April 17, 2006); Eric Krangel, “Two Attempts at Opening up Religion Online,” NewAssignment.Net, January 9, 2007, <http://www.newassignment.net/blog/eric_krangel/jan2007/01/religion_gets_op> (accessed January 11, 2007); I review much of this usage in Joseph Reagle, “Notions of Openness”, in FM10 Openness: Code, Science, and Content: Selected Papers from the First Monday Conference (First Monday, May 15, 2006), <http://reagle.org/joseph/2006/02/fm10-openness> (visited on December 20, 2007).
+
+[^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-324)Robert Michels, Political Parties (1911), trans. Eden Paul and Cedar Paul (Ontario: Batoche Books, 2001), §6.2, <http://socserv.mcmaster.ca/econ/ugcm/3ll3/michels/polipart.pdf> (visited on December 4, 2007); Jo Freeman, “The Tyranny of Structurelessness: Why Organisations Need Some Structure to Ensure They Are Democratic,” Spunk Library, 1996, <http://www.spunk.org/texts/consensu/sp000760.html> (visited on December 16, 2003), 1; Mitch Kapor, quoted in Joseph Reagle, Internet Quotation Appendix (Berkman Center for Internet and Society, Harvard Law School, March 1999), <http://cyber.law.harvard.edu/archived_content/people/reagle/inet-quotations-19990709.html> (visited on December 20, 2007).
+
+[^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-325)Wikipedia, “Wikipedia:Ignore All Rules,” Wikipedia, July 1, 2008, <http://en.wikipedia.org/?oldid=222901357> (visited on July 2, 2008).
+
+[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-326)Wikipedia, “Wikipedia:What ‘Ignore All Rules’ Means,” Wikipedia, September 17, 2007, <http://en.wikipedia.org/?oldid=158433756> (accessed September 17, 2007).
+
+[^6]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-327)Jimbo Wales, “Statement of Principles,” Wikipedia, October 27, 2001, <http://en.wikipedia.org/?oldid=89244123> (visited on March 20, 2007).
+
+[^7]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-328)Joseph Reagle, “Open Content Communities,” M/C: A Journal of Media and Culture 7, number 3 (July 2004), <http://journal.media-culture.org.au/0406/06_Reagle.rft.php> (visited on July 1, 2004).
+
+[^8]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-329)Robert Neelly Bellah et al., Habits of the Heart: Individualism and Commitment in American Life (Berkeley: University Of California Press, 1996), 333.
+
+[^9]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-330)Samuel Bowles and Herbert Gintis, “The Moral Economy of Communities: Structured Populations and the Evolution of Pro-Social Norms,” Evolution & Human Behavior 19, number 1 (1998): 3–25, <http://www.umass.edu/preferen/gintis/prosocial.pdf> (visited on December 11, 2006); Lee Sproull, Caryn A. Conley, and Jae Yun Moon, “Prosocial Behavior on the Net,” chapter 6 in The Social Net: the Social Psychology of the Internet, ed. Yair Amichahi-Hamburger (Oxford: Oxford University Press, 2004), 139–162, [http://pages.stern.nyu.edu/\~cconley/Prosocial.pdf](http://pages.stern.nyu.edu/%7Ecconley/Prosocial.pdf) (visited on April 24, 2003).
+
+[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-331)Reagle, [“Open Content Communities”](#cite.0:Reagle2004occ); Joseph Reagle, “Open Communities and Closed Law,” in In the Shade of the Commons -Towards a Culture of Open Networks, ed. Lipika Bansal, Paul Keller, and Geert Lovink (Waag Society Amsterdam, December 2006), 165–167, <http://reagle.org/joseph/2006/10/10-open-community-closed-law> (visited on January 23, 2007).
+
+[^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-332)Richard M. Stallman, “The Free Software Definition,” GNU, 2005, <http://www.gnu.org/philosophy/free-sw.html> (visited on April 5, 2006); OSI, “The Open Source Definition,” OSI, July 24, 2006, <http://www.opensource.org/docs/definition.php> (visited on November 7, 2007); Freedom Defined, “Definition of Free Cultural Works”, Freedom Defined, December 1, 2008, <http://freedomdefined.org/Definition> (accessed July 7, 2009).
+
+[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-333)See Chris Dibona, Sam Ockman, and Mark Stone, Open Sources: Voices from the Open Source Revolution (Sebastopol, CA: O’Reilly, 1999), <http://oreilly.com/catalog/opensources/book/toc.html> (visited on December 10, 2005); Sam Williams, Free as in Freedom: Richard Stallman’s Crusade for Free Software (Sebastopol, CA: O’Reilly, 2002), <http://oreilly.com/openbook/freedom/index.html> (visited on April 29, 2004); Weber, [The Success of Open Source](#cite.0:Weber2004sos); Samir Chopra and Scott Dexter, Decoding Liberation: the Promise of Free and Open Source Software (New York: Routledge, 2007), [http://www.sci.brooklyn.cuny.edu/\~bcfoss/DL/](http://www.sci.brooklyn.cuny.edu/%7Ebcfoss/DL/) (accessed November 30, 2007).
+
+[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-334)Williams, [Free as in Freedom](#cite.0:Williams2002faf).
+
+[^14]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-335)Richard M. Stallman, “The GNU Project,” GNU, June 16, 2005, <http://www.gnu.org/gnu/thegnuproject.html> (visited on April 5, 2006).
+
+[^15]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-336)OSI, “History of the OSI,” OSI, September 19, 2006, <http://www.opensource.org/history> (visited on November 7, 2007).
+
+[^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-337)Jimmy Wales quoted in Stacy Schiff, “Know It All: Can Wikipedia Conquer Expertise?,” The New Yorker (July 31, 2006): 3, <http://www.newyorker.com/archive/2006/07/31/060731fa_fact> (visited on August 16, 2006); referring to Eric Raymond, “The Cathedral and the Bazaar,” 1997, [http://www.catb.org/\~esr/writings/cathedral-bazaar/](http://www.catb.org/%7Eesr/writings/cathedral-bazaar/) (visited on April 29, 2004).
+
+[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-338)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp).
+
+[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-339)Eric Raymond, quoted in Schiff, [“Know It All”](#cite.0:Schiff2006kia), 8.
+
+[^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-340)dharma, “Agreed,” Kuro5hin, December 30, 2004, <http://www.kuro5hin.org/story/2004/12/30/142458/25> (visited on December 31, 2004).
+
+[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-341)Stalder, [“On the Differences between Open Source and Open Culture”](#cite.0:Stalder2006odb).
+
+[^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-342)Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock down Culture and Control Creativity (New York: Penguin Press, 2004), <http://download.nowis.com/index.cfm?phile=FreeCulture.html> (visited on April 17, 2006); a history of Creative Commons and the free culture movement is presented by David Bollier, Viral Spiral: How the Commoners Built a Digital Republic of Their Own (New York: New Press, 2009).
+
+[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-343)Meatball, [“MeatballBackgrounder”](#cite.0:Meatball2006mer); Meatball, “FairProcess,” Meatball Wiki, November 9, 2007, <http://www.usemod.com/cgi-bin/mb.pl?FairProcess> (accessed November 9, 2007).
+
+[^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-344)For computers eroding accountability, see Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006); on furthering accountability, see Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008).
+
+[^24]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-345)Jill Coffin, “Analysis of Open Source Principles and Diverse Collaborative Communities,” First Monday 11, number 6 (May 2006), <http://firstmonday.org/issues/issue11_6/coffin/index.html> (visited on October 2, 2007).
+
+[^25]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-346)Sean Hansen, Nicholas Berente, and Kalle Lyytinen, “Wikipedia, Critical Social Theory, and the Possibility of Rational Discourse,” The Information Society 25, number 1 (January 2009): 38–59, <http://portal.acm.org/citation.cfm?id=1483119> (visited on July 8, 2009).
+
+[^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-347)Wikimedia, “Steward Policies,” Wikimedia, October 25, 2007, <http://meta.wikimedia.org/?oldid=724037> (visited on November 2, 2007).
+
+[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-348)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275109391> (visited on March 6, 2009).
+
+[^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-349)Tony Sidaway, “Wikipedia and Autism,” wikien-l, October 11, 2005, <http://marc.info/?i=605709b90510110104w6bcdf9d6g7f1fe5945d0d05a6@mail.gmail.com> (visited on October 11, 2005).
+
+[^29]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-350)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp).
+
+[^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-351)Jimmy Wales, “Re: A Proposal for the New Software,” wikipedia-l, October 18, 2001, <http://marc.info/?l=wikipedia-l&m=104216623606384&w=2> (visited on March 7, 2007).
+
+[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-352)Jimmy Wales, “Why I Oppose a Cabal,” Nostalgia Wikipedia, October 26, 2001, <http://nostalgia.wikipedia.org/?oldid=24911> (visited on March 7, 2008).
+
+[^32]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-353)Ronline, “The Wikipedia Ombudsman,” wikien-l, January 7, 2006, <http://marc.info/?i=648f108b0601070134l616eb900u4f97b75522540e0f@mail.gmail.com> (visited on January 7, 2006); Kelly Martin, “An Example of Transparency,” Nonbovine Ruminations, June 19, 2007, <http://nonbovine-ruminations.blogspot.com/2007/06/example-of-transparency.html> (visited on June 19, 2007).
+
+[^33]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-354)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr).
+
+[^34]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-355)Meatball, “RightToFork,” Meatball Wiki, October 11, 2007, <http://www.usemod.com/cgi-bin/mb.pl?RightToFork> (visited on October 11, 2007).
+
+[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-356)Weber, [The Success of Open Source](#cite.0:Weber2004sos), 159, 92.
+
+[^36]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-357)David A. Wheeler, “Why Open Source Software/Free Software (OSS/FS)? Look at the Numbers!,” May 9, 2005, <http://www.dwheeler.com/oss_fs_why.html> (accessed October 1, 2004).
+
+[^37]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-358)Ascander Suarez and Juan Ruiz, “The Spanish Fork of Wikipedia,” in Proceedings of Wikimania (2005), <http://meta.wikimedia.org/wiki/Transwiki:Wikimania05/Paper-AS1> (accessed September 1, 2005).
+
+[^38]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-359)Larry Sanger, “Toward a New Compendium of Knowledge,” Citizendium, September 15, 2006, <http://citizendium.org/essay.html> (visited on December 20, 2007).
+
+[^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-360)Larry Sanger, “How’s the Unforking Going?,” Citizendium Forums, January 2007, <http://forum.citizendium.org/index.php?topic=459.30;wap2> (accessed November 9, 2007); Larry Sanger, “Our Gift to the World: CC-by-Sa,” Citizendium Blog, December 21, 2007, <http://blog.citizendium.org/2007/12/21/our-gift-to-the-world-cc-by-sa/> (accessed March 20, 2008). In November 2008 the GNU Foundation and Wikimedia Foundation did make it easier for content to flow between Wikimedia and Creative Commons projects, including Citizendium, by making the GFDL and CC licenses compatible/interoperable: see Mike Linksvayer, “Wikipedia/CC News: FSF Releases FDL 1.3,” Creative Commons Blog, November 3, 2008, <http://creativecommons.org/weblog/entry/10443> (accessed November 3, 2008).
+
+[^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-361)Jimmy Wales, “Bias and Open Content Licensing,” nupedia-l, May 8, 2000, <http://web.archive.org/web/20030822044803/http://www.nupedia.com/pipermail/nupedia-l/2000-May/000222.html> (visited on June 7, 2006).
+
+[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-362)Wikipedia, [“Wikipedia, the Free Encyclopedia (oldid=251850832)”](#cite.0:Wikipedia2008wfe).
+
+[^42]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-363)Wikipedia, “Wikipedia:What Wikipedia Is Not,” Wikipedia, May 28, 2009, <http://en.wikipedia.org/?oldid=292975573> (visited on May 29, 2009).
+
+[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-364)Because the term anonymous is persistently used by the community, despite my caveat that it really means “not logged in,” I will hereafter use it myself without further qualification unless required by the context.
+
+[^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-365)Evan Lehmann, “Rewriting History under the Dome,” Lowell Sun Online (January 27, 2006), <http://www.lowellsun.com/ci_3444567> (visited on January 30, 2006); Wikipedia, “Congressional Staffer Edits to Wikipedia,” Wikipedia, February 18, 2007, <http://en.wikipedia.org/?oldid=109060581> (visited on March 8, 2007).
+
+[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-366)Wikipedia, “Help:CheckUser,” Wikipedia, June 29, 2007, <http://en.wikipedia.org/?oldid=141475772> (visited on November 9, 2007).
+
+[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-367)Wikipedia, “Wikipedia:Banning Policy,” Wikipedia, March 16, 2007, <http://en.wikipedia.org/?oldid=115595742> (visited on March 16, 2007).
+
+[^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-368)Wikipedia, [“Wikipedia:What Wikipedia Is Not (oldid=292975573)”](#cite.0:Wikipedia2009wwi).
+
+[^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-369)John Seigenthaler, “A False Wikipedia ‘Biography’,” USA Today (November 29, 2005), <http://www.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm> (visited on December 1, 2005).
+
+[^49]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-370)Associated Press, “Author of False Wikipedia Entry Apologizes: Tennessee Man Says False Entry on Seigenthaler Part of Joke on Co-Worker,” MSNBC, December 12, 2005, <http://www.msnbc.msn.com/id/10439120/> (visited on December 12, 2005).
+
+[^50]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-371)Jimmy Wales, “Wikipedia and Defamation: Man Apologizes after Fake Wikipedia Post,” Air-l, December 13, 2005, <http://listserv.aoir.org/pipermail/air-l-aoir.org/2005-December/008894.html> (accessed December 14, 2005).
+
+[^51]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-372)Wikipedia, “Wikipedia:Blocking Policy Proposal,” Wikipedia, November 5, 2006, <http://en.wikipedia.org/?oldid=85910798> (visited on March 16, 2007).
+
+[^52]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-373)Katie Hafner, “Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy,” The New York Times (June 17, 2006), <http://www.nytimes.com/2006/06/17/technology/17wiki.html?pagewanted=print> (visited on May 25, 2007).
+
+[^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-374)Jimmy Wales, “Re: New York Times Article,” wikien-l, June 20, 2006, <http://marc.info/?i=44987D15.2070408@wikia.com> (visited on June 20, 2006).
+
+[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-375)Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](#cite.0:Hafner2006gwr).
+
+[^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-376)Wikipedia, “Wikipedia:Blocking Policy,” Wikipedia, November 26, 2008, <http://en.wikipedia.org/?oldid=254316018> (visited on November 27, 2008).
+
+[^56]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-377)Fl Celloguy, “Re: Blocking Proposal,” wikien-l, October 18, 2005, <http://marc.info/?i=BAY114-F237B1A8334738B323C83E4C7710@phx.gbl> (accessed October 18, 2005).
+
+[^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-378)Anthony DiPierro, “Re: Blocking Proposal,” wikien-l, October 19, 2005, <http://marc.info/?i=71cd4dd90510191024r4332fe14tbb075711698d60c0@mail.gmail.com> (visited on October 19, 2005).
+
+[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-379)Wikipedia, [“Wikipedia:Blocking Policy Proposal (oldid=85910798)”](#cite.0:Wikipedia2006bpp).
+
+[^59]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-380)Clay Shirky, Here Comes Everybody: the Power of Organizing without Organizations (New York: Penguin Press, 2007), 253 (visited on March 26, 2008).
+
+[^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-381)For a philosophical understanding of the types of values and how they are often in conflict, see Thomas Nagel, “The Fragmentation of Value,” in Mortal Questions (Cambridge, UK: Cambridge University Press, 1979), 128–141. For more recent work on identifying and balancing values in technical design, see Mary Flanagan, Daniel Howe, and Helen Nissenbaum, “Embodying Values in Technology: Theory and Practice”, chapter 16 in Information Technology and Moral Philosophy, ed. Jeroen van den Hoven and John Weckert (Cambridge, UK: Cambridge University Press, 2006), 9, <http://www.nyu.edu/projects/nissenbaum/papers/Nissenbaum-VID.4-25.pdf> (accessed March 25, 2006).
+
+[^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-382)Langdon Winner, “Do Artifacts Have Politics?,” in The Whale and the Reactor (Chicago: University of Chicago Press, 1986), 18–39, [http://web.archive.org/web/20051217085219/http://www-personal.si.umich.edu/\~rfrost/courses/Women+Tech/readings/Winner.html](http://web.archive.org/web/20051217085219/http://www-personal.si.umich.edu/%7Erfrost/courses/Women+Tech/readings/Winner.html) (visited on February 2, 2005).
+
+[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-383)Jimmy Wales, quoted in Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](#cite.0:Hafner2006gwr).
+
+[^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-384)Steve Woolgar, “The Turn to Technology in Social Studies of Science,” Science, Technology, & Human Values 16, number 1 (Winter 1991): 20–50; Batya Friedman and Helen Nissenbaum, “Bias in Computer Systems.,” ACM Transactions in Information Systems 14, number 2 (1996): 330–346; Helen Nissenbaum, “How Computer Systems Embody Values,” Computer 34, number 3 (March 2001): 120–118, <http://www.nyu.edu/projects/nissenbaum/papers/embodyvalues.pdf> (visited on March 1, 2004).
+
+[^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-385)Jake Wartenberg and Ragesoss, “Flagged Revisions,” Wikipedia Signpost, January 24, 2009, <http://en.wikipedia.org/?oldid=266468243> (visited on January 26, 2009); Noam Cohen, “Wikipedia May Restrict Public’s Ability to Change Entries,” NYTimes.com, January 23, 2009, <http://bits.blogs.nytimes.com/2009/01/23/wikipedia-may-restrict-publics-ability-to-change-entries/> (visited on January 26, 2009).
+
+[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-386)Wikipedia, [“Wikipedia:Five Pillars (oldid=308208396)”](#cite.0:Wikipedia2009fp).
+
+[^66]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-387)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp).
+
+[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-388)Seigenthaler, [“A False Wikipedia ‘Biography’”](#cite.0:Seigenthaler2005fwb).
+
+[^68]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-389)Jimmy Wales, “Re: ‘Should Not Be Written by an Interested Party’,” wikien-l, May 3, 2006, <http://marc.info/?i=4458EF10.9060705@wikia.com> (visited on May 3, 2006).
+
+[^69]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-390)Erik Moeller, “Indefinite Block and Desysopping by User:Danny,” wikien-l, April 19, 2006, <http://marc.info/?i=b80736c80604191156y3ba64470vab33c6fb0d513a1d@mail.gmail.com> (visited on April 19, 2006).
+
+[^70]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-391)Wikipedia, “Wikipedia:Oversight,” Wikipedia, July 12, 2009, <http://en.wikipedia.org/?oldid=301752049> (visited on July 16, 2009).
+
+[^71]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-392)Flcelloguy, “Brad Patrick,” Wikipedia Signpost, October 13, 2006, <http://en.wikipedia.org/?oldid=81267036> (visited on May 25, 2007).
+
+[^72]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-393)Larry Sanger, “Why Collaborative Free Works Should Be Protected by the Law”, Slashdot, December 7, 2005, [http://slashdot.org/\~LarrySanger/journal/123625](http://slashdot.org/%7ELarry%20Sanger/journal/123625) (accessed December 7, 2005).
+
+[^73]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-394)Jimmy Wales, quoted in Richard Pérez-Peña, “Keeping News of Kidnapping Off Wikipedia,” The New York Times (June 28, 2009), <http://www.nytimes.com/2009/06/29/technology/internet/29wiki.html> (visited on June 28, 2009).
+
+[^74]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-395)Anonymous, “David S. Rohde (Difference between Revisions),” Wikipedia, June 20, 2009, <http://en.wikipedia.org/?oldid=297562979&diff=297567037> (accessed July 16, 2009).
+
+[^75]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-396)Max Weber, Economy and Society: an Outline of Interpretive Sociology (1914), ed. Claus Wittich Guenther Roth, volume 1 (Berkeley: University of California Press, 1978), 212-302; Wolfgang J. Mommsen, The Political and Social Theory of Max Weber: Collected Essays (Chicago: University of Chicago Press, 1992), 42, <http://books.google.com/books?vid=ISBN0226534006>.
+
+[^76]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-397)Clay Shirky, “Wikis, Grafitti, and Process,” Many-to-Many, August 1, 2003, <http://many.corante.com/20030801.shtml#50187> (visited on August 22, 2006).
+
+[^77]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-398)Wikipedia, “Wikipedia:Practical Process,” Wikipedia, June 24, 2008, <http://en.wikipedia.org/?oldid=221497230> (visited on July 11, 2008).
+
+[^78]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-399)Wikipedia, “Wikipedia:Practical Process,” Wikipedia, September 20, 2006, <http://en.wikipedia.org/?oldid=76785518> (visited on September 20, 2006).
+
+[^79]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-400)Wikipedia, “Wikipedia:Avoid Instruction Creep,” Wikipedia, March 26, 2007, <http://en.wikipedia.org/?oldid=118096776> (visited on March 27, 2007); Ivan Beschastnikh, Travis Kriplean, and David W. Mcdonald, “Wikipedian Self-Governance in Action: Motivating the Policy Lens,” in ICWSM 2008: International Conference on Weblogs and Social Media (2008), 4, <http://www.cs.washington.edu/homes/travis/papers/icwsm08_final.pdf> (accessed April 8, 2008).
+
+[^80]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-401)Andrew Lih, “Unwanted: New Articles in Wikipedia,” August 23, 2007, <http://www.andrewlih.com/blog/2007/07/10/unwanted-new-articles-in-wikipedia/> (visited on August 27, 2007).
+
+[^81]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-402)Brian Butler, Elisabeth Joyce, and Jacqueline Pike, “Don’t Look Now, but We’ve Created a Bureaucracy: the Nature and Roles of Policies and Rules in Wikipedia,” in CHI ’08: Proceeding of the 26th Annual SIGCHI Conference on Human Factors in Computing Systems, ed. Eytan Adar et al. (Menlo Park, CA: The AAAI Press, 2008), 8, <http://www.katzis.org/wiki/images/7/76/Butleretal2008.pdf> (visited on May 20, 2009).
+
+[^82]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-403)Wikipedia, “Wikipedia:WikiLawyering,” Wikipedia, March 7, 2007, <http://en.wikipedia.org/?oldid=113216995> (visited on March 15, 2007); Ryan Mcgrady, “Gaming against the Greater Good,” First Monday 14, number 2 (February 2, 2009), <http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2215/2091> (visited on February 27, 2009).
+
+[^83]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-404)Phil Sandifer, “I’ve Kicked the Process Habit,” wikien-l, September 16, 2006, <http://marc.info/?i=A9F21CA7-852B-4684-AA83-0F759F8DDFBA@gmail.com> (visited on September 16, 2006).
+
+[^84]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-405)Gary A. Yukl, Leadership in Organizations, 1st edition (Englewood Cliffs, NJ: Prentice-Hall, 1981), 18.
+
+[^85]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-406)For discussion of cabals, see Bryan Pfaffenberger, “If I Want It, It’s Okay: Usenet and the (Outer) Limits of Free Speech,” The Information Society 12, number 4 (1996): 365–386, <http://pfaff.sts.virginia.edu/bphome/docs/pdf/usenet.pdf> (accessed November 5, 2005); for use of the \*dictator\* term, see Wikipedia, “Benevolent Dictator for Life,” Wikipedia, May 11, 2009, <http://en.wikipedia.org/?oldid=289287807> (visited on May 29, 2009).
+
+[^86]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-407)Walter van Kalken, “Re: Secret Admin List,” wikipedia-l, May 19, 2006, <http://marc.info/?i=446E5989.9070807@vankalken.net> (visited on May 19, 2006).
+
+[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-408)Sunstein, [Why Societies Need Dissent](#cite.0:Sunstein2003wsn), 158.
+
+[^88]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-409)For the announcement, see Angela, “Introducing a New Mailing List,” wikien-l, December 4, 2006, <http://marc.info/?i=8b722b800612032144j1711060by4a60db0e8a051460@mail.gmail.com> (visited on December 4, 2006); for the description, see WikiChix, WikiChix (WikiChix, January 12, 2007), <http://wikichix.org/?oldid=1651> (visited on January 12, 2007).
+
+[^89]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-410)Alphax, “Re: Fwd: Request to Mailing List Wikichix-l Rejected,” wikien-l, December 5, 2006, <http://marc.info/?i=45758194.7020503@gmail.com> (accessed December 5, 2006).
+
+[^90]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-411)Guettarda, “Re: Fwd: Request to Mailing List Wikichix-l Rejected,” wikien-l, December 5, 2006, <http://marc.info/?i=47683e960612050629t45577488xdf97707a966de6cb@mail.gmail.com> (visited on December 5, 2006).
+
+[^91]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-412)Yuwei Lin, “Gender Dimensions of FLOSS Development,” Mute Magazine, November 23, 2005, <http://www.metamute.org/en/Gender-Dimensions-of-Floss-Development> (accessed October 22, 2010).
+
+[^92]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-413)Fiona Wilson, “Can Compute, Won’t Compute: Women’s Participation in the Culture of Computing,” New Technology, Work and Employment 18, number 2 (2003): 127–142, <http://www3.interscience.wiley.com/journal/118880038/abstract> (accessed November 15, 2006).
+
+[^93]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-414)Bogdan Giusca, “Re: Fwd: Request to Mailing List Wikichix-l Rejected”, wikien-l, December 5, 2006, <http://marc.info/?i=281363007.20061205165218@dapyx.com> (visited on December 5, 2006).
+
+[^94]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-415)Robert Cawdrey, A Table Alphabetical of Hard Usual English Words, ed. Ian Lancashire (1604–1966; Web Development Group University of Toronto Library, 1997), <http://www.library.utoronto.ca/utel/ret/cawdrey/cawdrey0.html> (accessed December 4, 2007).
+
+[^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-416)Stockwell, [A History of Information Storage and Retrieval](#cite.0:Stockwell2001his), 111; Tom McArthur, Worlds of Reference: Lexicography, Learning, and Language from the Clay Tablet to the Computer (Cambridge, UK: Cambridge University Press, 1986), 107; a replication of these plates is provided in Herman Kogan, The Great EB: the Story of the Encyclopaedia Britannica (Chicago: University Of Chicago Press, 1958).
+
+[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-417)Wiegand, [A Biography of Melvil Dewey](#cite.0:Wiegand1996bmd).
+
+[^97]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-418)Gillian Thomas, A Position to Command Respect: Women and the Eleventh Britannica (Metuchen, New Jersey: The Scarecrow Press, 1992).
+
+[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-419)Oded Nov, “What Motivates Wikipedians?,” Communications of the ACM 50, number 11 (November 2007): 60–64, <http://portal.acm.org/citation.cfm?id=1297798> (visited on July 8, 2009); Glott, Schmidt, and Ghosh, [“Wikipedia Survey – First Results”](#cite.0:GlottSchmidtGhosh2009wsf).
+
+[^99]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-420)Guettarda, “Re: Fwd: Request to Mailing List Wikichix-l Rejected,” wikien-l, December 5, 2006, <http://marc.info/?i=47683e960612050657s6c91283cr8458565ce1a776b6@mail.gmail.com> (visited on December 5, 2006).
+
+[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-421)Coleman, [“Three Ethical Moments in Debian”](#cite.0:Coleman2005tem).
+
+[^101]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-422)Jimmy Wales, “Re: Nazi Userboxes,” wikien-l, December 1, 2006, <http://marc.info/?i=4570B0FF.6030209@wikia.com> (visited on December 1, 2006).
+
+[^102]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-423)Wikipedia, “User:The Cunctator,” Wikipedia, May 18, 2009, <http://en.wikipedia.org/?oldid=290621049> (visited on May 29, 2009).
+
+[^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-424)Wikipedia, [“Wikipedia:Do Not Disrupt Wikipedia to Illustrate a Point (oldid=275119939)”](#cite.0:Wikipedia2009dnd).
+
+[^104]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-425)Jennifer Vesperman and Deb Richardson, “Frequently Asked Questions”, January 4, 2002, <http://www.linuxchix.org/about-linuxchix.html> (visited on January 23, 2007).
+
+[^105]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-426)Erinn Clark, “Frequently Asked Questions,” Debian Women, 2005, <http://women.debian.org/faqs/> (visited on January 23, 2007).
+
+[^106]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-427)Ubuntu-Women Project, “Ubuntu Women,” Ubuntu-Women Project, 2006, <http://ubuntu-women.org/> (visited on January 23, 2007).
+
+[^107]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-428)Webmaster, “KDE Women Homepage - Contact,” KDE, January 23, 2007, <http://women.kde.org/contact/> (visited on January 23, 2007).
+
+[^108]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-429)Bryan Derksen, “Re: Fwd: Request to Mailing List Wikichix-l Rejected”, wikien-l, December 5, 2006, <http://marc.info/?i=4575ABC6.50801@shaw.ca> (accessed December 5, 2006).
+
+[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-430)Freeman, [“The Tyranny of Structurelessness”](#cite.0:Freeman1996tsw).
+
+[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-431)Sunstein, [Why Societies Need Dissent](#cite.0:Sunstein2003wsn), 158.
+
+[^111]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-432)Nancy Fraser, “Rethinking the Public Sphere: a Contribution to the Critique of Actually Existing Democracy,” chapter 5 in Habermas and the Public Sphere, ed. Craig Calhoun (Cambridge, MA: MIT Press, 1992), 123.
+
+[^112]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-433)Sunstein, [Why Societies Need Dissent](#cite.0:Sunstein2003wsn), 160-161.
+
+[^113]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-434)Clay Shirky, “News of Wikipedia’s Death Greatly Exaggerated,” Many-to-Many, May 25, 2006, <http://many.corante.com/archives/2006/05/25/news_of_wikipedias_death_greatly_exaggerated.php> (visited on May 25, 2006).
