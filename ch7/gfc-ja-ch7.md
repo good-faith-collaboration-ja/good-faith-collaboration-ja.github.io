@@ -226,7 +226,7 @@ title: 百科事典の不安
 
 ¶49Shirky similarly notes the “scholars-eye view is the key to Gorman’s complaint: so long as scholars are content with their culture, the inability of most people to enjoy similar access is not even a consideration.”81
 
-「学者の目からの眺望というのがゴーマンの苦情の鍵だ。学者が自分たちの文化に満足しているかぎり、同様のアクセスをほとんどの人が享受できないということは検討すらされない」とシャーキーは同様に指摘する。
+シャーキーは同様に、学者の目からの眺望というのがゴーマンの苦情の鍵であるとして「学者が自分たちの文化に満足しているかぎり、同様のアクセスをほとんどの人が享受できないということは検討すらされない」と指摘する。
 
 ¶50 This concern about access and authority is further manifested by way of argument about two labels: modernism and Maoism. Matthew Battles, continuing his response on authority, argues that genuine “digital Maoism” emerges when users are bullied to be kept silent:
 
@@ -238,7 +238,7 @@ title: 百科事典の不安
 
 ¶52 Interestingly, critics and supporter alike recognize threads of Enlightenment and modern values in contemporary knowledge work. In their own way, supporters and critics each lay claim. In June 2007 Encyclopædia Britannica hosted an extensive “Web 2.0 Forum” on its blog, upon which danah boyd, a researcher of online communities and a Ph.D. student at the time, declared:
 
-おもしろいことに、批判者と支持者はどちらもおなじように、現代の知識労に働啓蒙主義と近代性の価値観の系譜を認める。それぞれにやりかたで、支持者と批判者は主張する。2007年6月ブリタニカ百科事典は広範な「Web 2.0 Forum」をブログ上で主催した。当時博士課程学生でオンラインコミュニティ研究者の danah boyd はこう宣言した。
+おもしろいことに、批判者と支持者はどちらもおなじように、現代の知識労働に啓蒙主義と近代性の価値観の系譜を認める。それぞれにやりかたで、支持者と批判者は主張する。2007年6月ブリタニカ百科事典は広範な「Web 2.0 Forum」をブログ上で主催した。当時博士課程学生でオンラインコミュニティ研究者の danah boyd はこう宣言した。
 
 >    ¶53 I entered the academy because I believe in knowledge production and dissemination. I am a hopeless Marxist. I want to equal the playing field; I want to help people gain access to information in the hopes that they can create knowledge that is valuable for everyone. I have lost faith in traditional organizations leading the way to mass access and am thus always on the lookout for innovative models to produce and distribute knowledge.83
 

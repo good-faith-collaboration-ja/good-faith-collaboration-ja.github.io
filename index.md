@@ -8,16 +8,15 @@ Good Faith Collaboration: The Culture of Wikipedia (Joseph Reagle, 2010) はウ�
 本プロジェクトは訳稿の修正や未訳部分の翻訳を歓迎します。寄稿したい方は、「[日本語版について](about-ja.html)」をお読みください。
 
 ## 進捗状況
-* [第1章 ナチスと規範](ch1/gfc-ja-ch1.html)：100%、校正中 (2011-02) - 原題 *[Nazis and Norms](http://reagle.org/joseph/2010/gfc/chapter-1.html)*
-* [第2章 普遍的な百科事典の追求](ch2/gfc-ja-ch2.html)：100%、校正中 (2012-03) - 原題 *[The Pursuit of the Universal Encyclopedia](http://reagle.org/joseph/2010/gfc/chapter-2.html)*
-* [第3章 善意にもとづく共同作業](ch3/gfc-ja-ch3.html)：100%、校正中 (2014-06) - 原題 *[Good Faith Collaboration](http://reagle.org/joseph/2010/gfc/chapter-3.html)*
-* [第4章 開放性の謎](ch4/gfc-ja-ch4.html)：100%、校正中 (2012-08) - 原題 *[The Puzzle of Openness](http://reagle.org/joseph/2010/gfc/chapter-4.html)*
-* [第5章 合意という難題](ch5/gfc-ja-ch5.html)：100%、校正中 (2014-10) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
-* [第6章 優しい独裁者](ch6/gfc-ja-ch6.html)：100%、校正中 (2015-03) - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
-* [第7章 百科事典の不安](ch7/gfc-ja-ch7.html)：100%、校正中 (2016-02) - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
-* [第8章 結論：「調和する地球」](ch8/gfc-ja-ch8.html)：100%、校正中 (2016-02) - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
-* 脚注：0% - *[References](http://reagle.org/joseph/2010/gfc/references.html)*
-* 参考文献：0% - *[Biography](http://reagle.org/joseph/2010/gfc/references.html)*
+* [第1章 ナチスと規範](ch1/gfc-ja-ch1.html)：校正中 - 原題 *[Nazis and Norms](http://reagle.org/joseph/2010/gfc/chapter-1.html)*
+* [第2章 普遍的な百科事典の追求](ch2/gfc-ja-ch2.html)：校正中 - 原題 *[The Pursuit of the Universal Encyclopedia](http://reagle.org/joseph/2010/gfc/chapter-2.html)*
+* [第3章 善意にもとづく共同作業](ch3/gfc-ja-ch3.html)：校正中 - 原題 *[Good Faith Collaboration](http://reagle.org/joseph/2010/gfc/chapter-3.html)*
+* [第4章 開放性の謎](ch4/gfc-ja-ch4.html)：校正中 - 原題 *[The Puzzle of Openness](http://reagle.org/joseph/2010/gfc/chapter-4.html)*
+* [第5章 合意という難題](ch5/gfc-ja-ch5.html)：校正中 - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
+* [第6章 優しい独裁者](ch6/gfc-ja-ch6.html)：校正中 - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
+* [第7章 百科事典の不安](ch7/gfc-ja-ch7.html)：校正中 - 原題 *[Encyclopedic Anxiety](http://reagle.org/joseph/2010/gfc/chapter-7.html)*
+* [第8章 結論：「調和する地球」](ch8/gfc-ja-ch8.html)：校正中 - 原題 *[Conclusion: "A Globe in Accord"](http://reagle.org/joseph/2010/gfc/chapter-8.html)*
+* 脚注・参考文献：20% (2016-04) - *[References](http://reagle.org/joseph/2010/gfc/references.html)*
 
 ## ライセンス
 
