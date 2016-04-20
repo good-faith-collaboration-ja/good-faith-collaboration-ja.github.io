@@ -14,8 +14,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://good-faith-collaboration-ja.github.io" # the base hostname & protocol for your site
 repository: good-faith-collaboration-ja/good-faith-collaboration-ja.github.io
 github_username: good-faith-collaboration-ja
+exclude:
+  - bookindex.md
 
 # Build settings
 markdown: kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-feed
