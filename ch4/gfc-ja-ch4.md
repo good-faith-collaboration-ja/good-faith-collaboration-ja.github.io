@@ -357,37 +357,37 @@ Furthermore, few women prominently appear in the historical record of reference 
 
 さらに、レファレンス資料の歴史にはほとんど女性がおもだった活躍をしない。少数の例外は、スーザン・ブリエとその平和な読書室のような司書とドキュメンタリストだ。残念ながら、メルヴィル・デューイによる女性の司書職参加への呼びかけは、差別と個人的スキャンダルの疑惑によってくじかれた[^96]。偏向が継続するという文脈での限定的な進展のありようは、この問題を直接にあつかうものとして私が見つけた唯一の本である、ジリアン・トマスによる、ブリタニカへの女性寄稿者の歴史の主題でもある[^97]。こんにち、少なくとも女性はウィキペディアの細々とした作業と権威ある地位で女性のすがたは見ることができるが、依然として少数派（調査によるとおよそ10パーセント[^98]）であり、「構造的ジェンダー偏向」が存在する。
 
-¶79 Of course, given the value accorded to free speech, the community would have a difficult time restricting the speech of “men who behave like that.” How would such a determination be made? One of the few standards available for the discrimination of speech in online communities is that of trolling, a term describing contentious speech, probably not even genuinely held, that is expressed for the sole purpose of inflaming discussion. But how would one distinguish between misogyny and trolling?[^99] (Or, how does one distinguish between genuine racism and provocation? Offensive statements used to antagonize others in a heated moment need not be believed.) An irony is that falsely held misogynistic statements espoused for the purposes of trolling might be censured or censored, but a genuine misogynist could claim that any formal censure is a form of “thought crime,” which is generally anathema under free-speech principles.
+Of course, given the value accorded to free speech, the community would have a difficult time restricting the speech of “men who behave like that.” How would such a determination be made? One of the few standards available for the discrimination of speech in online communities is that of trolling, a term describing contentious speech, probably not even genuinely held, that is expressed for the sole purpose of inflaming discussion. But how would one distinguish between misogyny and trolling?[^99] (Or, how does one distinguish between genuine racism and provocation? Offensive statements used to antagonize others in a heated moment need not be believed.) An irony is that falsely held misogynistic statements espoused for the purposes of trolling might be censured or censored, but a genuine misogynist could claim that any formal censure is a form of “thought crime,” which is generally anathema under free-speech principles.
 
-もちろん、言論の自由にそった価値観がある以上、コミュニティが「そのようなふるまいをする男性」の言論を制約することは困難だ。そのような決定をどうすればできるだろうか？ オンラインコミュニティで言論を差別するものとしてあるごく少数の基準のひとつは、トロルの基準だ。これは、おそらくは本心からでさえない論争ある言論を指し、議論をまきおこすためだけになされた表現のことである。だが、ミソジニーとトロルをどうすれば区別できるだろう？  （あるいは、純粋な人種差別と provocation をどうすれば区別できるだろう？ 白熱した議論で、他者と対立してなされた攻撃的な発言は信じられるべきではない） 皮肉なことに、トロルすることを目的としてミソジニーに偽装された発言は、除去され検閲されることがあるのに対して、純粋なミソジニストは公式な除去を、言論の自由の原理のもとで禁じられた「思想犯罪」として主張することができる。
+もちろん、言論の自由にそった価値観がある以上、コミュニティが「そのようなふるまいをする男性」の言論を制約することは困難だ。そのような決定をどうすればできるだろうか？ オンラインコミュニティで言論を差別するものとしてあるごく少数の基準のひとつは、トロルの基準だ。これは、おそらくは本心からでさえない論争ある言論を指し、議論をまきおこすためだけになされた表現のことである。だが、ミソジニーとトロルをどうすれば区別できるだろう？[^99] （あるいは、純粋な人種差別と挑発行為とをどうすれば区別できるだろう？ 白熱した議論で、他者と対立してなされた攻撃的な発言は信じられるべきではない） 皮肉なことに、トロルすることを目的としてミソジニーに偽装された発言は、除去され検閲されることがあるのに対して、純粋なミソジニストは公式な除去を、言論の自由の原理のもとで禁じられた「思想犯罪」として主張することができる。
 
-¶80 This type of discussion that traverses the difficult questions of freedom and equality often prompts extensive debate. Although discussions about these values sometimes create a shared “productive ethical orientation” within the community,[^100] they can also be alienating and seemingly endless. This is why such topics are so suitable to trolling in the first place, and for which community leaders often step in, as Wales notes:
+This type of discussion that traverses the difficult questions of freedom and equality often prompts extensive debate. Although discussions about these values sometimes create a shared “productive ethical orientation” within the community,[^100] they can also be alienating and seemingly endless. This is why such topics are so suitable to trolling in the first place, and for which community leaders often step in, as Wales notes:
 
-自由と平等についての問題の数々をゆきわたるこの種の議論は長大な論争を引き起こすことが多い。これらの価値観についての議論はコミュニティに「生産的な倫理の方向」を生み出すことがあり、排除的で終わりがないように見えることもある。このようなトピックがそもそもトロルに向いているというのもこれが理由であり、こうした議論にコミュニティの指導者が立ち入ることが多い理由でもある。ウェールズは、次のように指摘する。
+自由と平等についての問題の数々をゆきわたるこの種の議論は長大な論争を引き起こすことが多い。これらの価値観についての議論はコミュニティに「生産的な倫理的傾向」を生み出すこともある[^100]が、排除的になり終わりがないように見えることもある。このようなトピックがそもそもトロルに向いているというのもこれが理由であり、こうした議論にコミュニティの指導者が立ち入ることが多い理由でもある。ウェールズは、次のように指摘する。
 
-> ¶81 The point is, if the broad philosophical question is “Do we ban people for merely holding unpleasant or unpopular beliefs?” then the answer is “no, we never have, and there seems to be very little support for doing so.” If the point is “Does asserting unpleasant or unpopular beliefs automatically get you a free pass to be any sort of jerk you like, because we are planning to bend over backwards to make sure we don’t ever ever ever discriminate against Nazis?” then the answer is, “no, being a disruptive troll is still being a disruptive troll.”[^101]
+> The point is, if the broad philosophical question is “Do we ban people for merely holding unpleasant or unpopular beliefs?” then the answer is “no, we never have, and there seems to be very little support for doing so.” If the point is “Does asserting unpleasant or unpopular beliefs automatically get you a free pass to be any sort of jerk you like, because we are planning to bend over backwards to make sure we don’t ever ever ever discriminate against Nazis?” then the answer is, “no, being a disruptive troll is still being a disruptive troll.”[^101]
 
-> 重要なのは、「不快または賛同者のない信念をもっているというだけで追放すべきか」というのが大きな哲学的疑問であれば、答えは「いいえ、そうしたことはありまません。そうするべきという支持もほとんどないようです」となります。「私たちがナチへの差別をぜったいにしないために後ろ向きに曲がる予定をしていて、そのために不快または賛同者のない信念を主張することが自動的にjerkになれる免罪符を意味するのか」というのが問題だったら、答えは「いいえ、破壊的なトロルはやはり破壊的なトロルです」となります。
+> 重要なのは、「不快または賛同者のない信念をもっているというだけで追放すべきか」というのが大きな哲学的疑問であれば、答えは「いいえ、そうしたことはありまません。そうするべきという支持もほとんどないようです」となります。「私たちがナチへの差別をぜったいにしないために後ろ向きに曲がる予定をしていて、そのために不快または賛同者のない信念を主張することが自動的にjerkになれる免罪符を意味するのか」というのが問題だったら、答えは「いいえ、破壊的なトロルはやはり破壊的なトロルです」となります。[^101]
 
-¶82 Not surprisingly, it did not take long for the WikiChix proposal to be challenged; a longtime male contributor, and self-described “overly combative” anarchist,[^102] tried to subscribe to the list and was rejected. (I suppose this action was a violation of the norm “Do Not Disrupt Wikipedia to Illustrate a Point,”[^103] which brings some measure of sanity to difficult issues.)
+Not surprisingly, it did not take long for the WikiChix proposal to be challenged; a longtime male contributor, and self-described “overly combative” anarchist,[^102] tried to subscribe to the list and was rejected. (I suppose this action was a violation of the norm “Do Not Disrupt Wikipedia to Illustrate a Point,”[^103] which brings some measure of sanity to difficult issues.)
 
-WikiChix の提案への異論が出されるのにながくはかからなかったことは驚くにはあたらない。「過剰に戦闘的」な無政府主義者を自称する古くからの男性投稿者が、そのメーリングリストを購読しようとして拒否された（「論点を支えるためにウィキペディアを破壊しないでください」という規範は困難な問題に一定の正常性をもたらすもだが、この行動はへこの規範への違反に当たると私は考える）。
+WikiChix の提案への異論が出されるのにながくはかからなかったことは驚くにはあたらない。「過剰に戦闘的」な無政府主義者を自称する古くからの男性投稿者[^102]が、そのメーリングリストを購読しようとして拒否された（「論点を支えるためにウィキペディアを破壊しないでください」[^103]という規範は困難な問題に一定の正常性をもたらすもだが、この行動はへこの規範への違反に当たると私は考える）。
 
-¶83 The final, parliamentary, objection to the WikiChix proposal was that this exclusive list was being hosted by the Wikimedia Foundation. The other free software-related women fora, while focused on being “women-friendly,” are more or less open and affiliated with the larger community. LinuxChix “is intended to be an inclusive group where everyone is and feels welcome…. LinuxChix is intended to be primarily for women. The name is an accurate reflection of that fact. Men are welcome because we do not want this group to be exclusive.”[^104] Debian Women states: “We’re not segregated. Debian Women is a subgroup of Debian that allows anyone to join and help.”[^105] On UbuntuWomen, “Membership is open to all.”[^106] The KDE Women Web site is run by women so “you have to be a woman,”[^107] but in addition to the six listed female members, there are also five male “supporters” and men are present on the IRC channel and mailing list. The gender exclusivity of WikiChix is atypical and it is not clear to what extent this decision was purposeful and what the consequences might be relative to the other female-friendly fora.
+The final, parliamentary, objection to the WikiChix proposal was that this exclusive list was being hosted by the Wikimedia Foundation. The other free software-related women fora, while focused on being “women-friendly,” are more or less open and affiliated with the larger community. LinuxChix “is intended to be an inclusive group where everyone is and feels welcome…. LinuxChix is intended to be primarily for women. The name is an accurate reflection of that fact. Men are welcome because we do not want this group to be exclusive.”[^104] Debian Women states: “We’re not segregated. Debian Women is a subgroup of Debian that allows anyone to join and help.”[^105] On UbuntuWomen, “Membership is open to all.”[^106] The KDE Women Web site is run by women so “you have to be a woman,”[^107] but in addition to the six listed female members, there are also five male “supporters” and men are present on the IRC channel and mailing list. The gender exclusivity of WikiChix is atypical and it is not clear to what extent this decision was purposeful and what the consequences might be relative to the other female-friendly fora.
 
-WikiChix の提案への最後の、parliamentary な反論は、この排他的なメーリングリストがウィキメディア財団によってホストされていたということだった。他の女性関連のフリーソフトウェアフォーラムは、「女性に友好的」であることに主眼をおきながら、だいたいのところ開放的で、より大きなコミュニティと行動をともにしていた。LinuxChix は「誰でも歓迎される包摂的なな集団をめざしています。LinuxChix はおもに女性のためになることをめざしています。名前がその事実を正確に反映しています。私たちはこの集団を排他的にしたくないため、男性も歓迎されます」。Debian Women は「私たちは分離していません。Debian Women は Debian の部分集団で、誰でも参加し運営に加わることができます」と宣言している。UbuntuWomen では「入会はすべての人にひらかれています」。KDE Women Web のウェブサイトは女性によって運営され、「あなたは女性でなければなりません」が、女性の会員6名にくわえ、男性の「支援者」5名がいて、IRCチャンネルとメーリングリストには男性もいる。WikiChix のジェンダー排他性は非典型的で、その決定がどこまで意図的なものだったか、他の女性に友好的なフォーラムと関係する点での結論はなんだったのかは明らかでない。
+WikiChix の提案への最後の、parliamentary （FUZZY 訳注：未訳）な反論は、この排他的なメーリングリストがウィキメディア財団によってホストされていたということだった。他の女性関連のフリーソフトウェアフォーラムは、「女性に友好的」であることに主眼をおきながら、だいたいのところ開放的で、より大きなコミュニティと行動をともにしていた。LinuxChix は「誰でも歓迎される包摂的なな集団をめざしています。LinuxChix はおもに女性のためになることをめざしています。名前がその事実を正確に反映しています。私たちはこの集団を排他的にしたくないため、男性も歓迎されます」[^104]。Debian Women は「私たちは分離していません。Debian Women は Debian の部分集団で、誰でも参加し運営に加わることができます」[^105]と宣言している。UbuntuWomen では「入会はすべての人にひらかれています」[^106]。KDE Women Web のウェブサイトは女性によって運営され、「あなたは女性でなければなりません」[^107]が、女性の会員6名にくわえ、男性の「支援者」5名がいて、IRCチャンネルとメーリングリストには男性もいる。WikiChix のジェンダー排他性は非典型的で、その決定がどこまで意図的なものだったか、他の女性に友好的なフォーラムと関係する点での結論はなんだったのかは明らかでない。
 
-¶84 In the end, the WikiChix list was moved from being hosted by Wikimedia, which might carry the presumption of endorsing exclusive discrimination, to a non-Wikimedia host. In response to this, a Wikipedian responded: “Excellent. I still think it’s a bad idea, but if it’s not being supported in any way by Wikimedia Foundation there’s no need to complain about it here any more.”[^108] As is often the case on difficult issues, the conclusion to this argument was facilitated as much by exhaustion as by reason. Endless argument about whether bias exists, rather than partaking in constructive dialogue on how to counter it, is a reason such spaces are often created. By severing any support and official affiliation with the Wikimedia Foundation the WikiChix list became moot to the larger community.
+In the end, the WikiChix list was moved from being hosted by Wikimedia, which might carry the presumption of endorsing exclusive discrimination, to a non-Wikimedia host. In response to this, a Wikipedian responded: “Excellent. I still think it’s a bad idea, but if it’s not being supported in any way by Wikimedia Foundation there’s no need to complain about it here any more.”[^108] As is often the case on difficult issues, the conclusion to this argument was facilitated as much by exhaustion as by reason. Endless argument about whether bias exists, rather than partaking in constructive dialogue on how to counter it, is a reason such spaces are often created. By severing any support and official affiliation with the Wikimedia Foundation the WikiChix list became moot to the larger community.
 
-最終的に、 WikiChix メーリングリストは、排他的差別を奨励しているという前提をもたらしかねないウィキメディアによるホストから、ウィキメディアでないホストへと移管された。あるウィキメディアンはこれに対して「すばらしい。よい考えではないと私はまだ思っていますが、ウィキメディア財団によって支援されることがなくなるのなら、ここで文句をいう必要はもはやありません。」と反応した。困難な問題においてよくあるように、この議論の結論は、理屈によるのと同じくらい疲弊によって助けられた。偏向に対抗する方法についての建設的な対話にくみするというよりは、偏向が存在するかどうかについての終わりない議論が起こるということが、そのような空間がしばしば作られることの理由のひとつである。ウィキメディア財団からの支援や公式な提携を断ることによって、WikiChix メーリングリストは、より大きなコミュニティにとって扱いが決定できないものになった。
+最終的に、 WikiChix メーリングリストは、排他的差別を奨励しているという前提をもたらしかねないウィキメディアによるホストから、ウィキメディアでないホストへと移管された。あるウィキメディアンはこれに対して「すばらしい。よい考えではないと私はまだ思っていますが、ウィキメディア財団によって支援されることがなくなるのなら、ここで文句をいう必要はもはやありません。」[^108]と反応した。困難な問題においてよくあるように、この議論の結論は、理屈によるのと同じくらい疲弊によって助けられた。偏向に対抗する方法についての建設的な対話にくみするというよりは、偏向が存在するかどうかについての終わりない議論が起こるということが、そのような空間がしばしば作られることの理由のひとつである。ウィキメディア財団からの支援や公式な提携を断ることによって、WikiChix メーリングリストは、より大きなコミュニティにとって扱いが決定できないものになった。
 
-¶85 While this particular case was resolved by simply moving the list, it still is illustrative of a challenge to openness. As Freeman notes informal — though no less exclusionary — boundaries may persist despite the absence of formal exclusions.[^109] Therefore “formal” enclaves can be a productive response to the “tyranny” of informal structures and biases of a larger community. Legal scholar Cass Sunstein recommends that in such circumstances, “it can be indispensable to allow spaces in which members of minority groups, or politically weak groups, can discuss issues on their own. Such spaces are crucial to democracy itself.”[^110] Critical theorist Nancy Fraser writes of a similar notion, “subaltern counterpublics,” wherein subordinated social groups can formulate and discuss interpretations of their identities, interests, and needs counter to the mainstream discourse.[^111]
+While this particular case was resolved by simply moving the list, it still is illustrative of a challenge to openness. As Freeman notes informal — though no less exclusionary — boundaries may persist despite the absence of formal exclusions.[^109] Therefore “formal” enclaves can be a productive response to the “tyranny” of informal structures and biases of a larger community. Legal scholar Cass Sunstein recommends that in such circumstances, “it can be indispensable to allow spaces in which members of minority groups, or politically weak groups, can discuss issues on their own. Such spaces are crucial to democracy itself.”[^110] Critical theorist Nancy Fraser writes of a similar notion, “subaltern counterpublics,” wherein subordinated social groups can formulate and discuss interpretations of their identities, interests, and needs counter to the mainstream discourse.[^111]
 
-この特定の事例はメーリングリストを移管するだけで解決されたが、それでも開放性への異論をみることができる事例である。フリーマンが非公式に — 排他性を低くしてではないが — 指摘したように、公式な排他が存在しなくても境界は存在することがある。したがって「公式」な居留地は、より大きなコミュニティによる非公式な構造と偏向に対する生産的な反応となりうる。法学者キャス・サンステインはそのような状況では「少数派集団や政治的に弱い集団の構成員が問題を自分たちで議論するための場所を許すことは不可欠ともなりうる。そのような空間は民主主義そのものにとって欠かせない。」と推奨する。批判理論派のナンシー・フレイザーは類似した概念「下位の対抗的公共圏 (subaltern counterpublics)」、すなわち副次的な社会集団が形成され、主流の論調に反する自分たちのアイデンティティ、利益、要求を論じる場について述べた。
+この特定の事例はメーリングリストを移管するだけで解決されたが、それでも開放性への異論をみることができる事例である。フリーマンが非公式に — 排他性を低くしてではないが — 指摘したように、公式な排除が存在しなくても境界は存在することがある[^109]。したがって「公式」な居留地は、より大きなコミュニティによる非公式な構造と偏向に対する生産的な反応となりうる。法学者キャス・サンステインはそのような状況では「少数派集団や政治的に弱い集団の構成員が問題を自分たちで議論するための場所を許すことは不可欠ともなりうる。そのような空間は民主主義そのものにとって欠かせない。」[^110]と推奨する。批判理論派のナンシー・フレイザーは類似した概念「下位の対抗的公共圏 (subaltern counterpublics)」、すなわち副次的な社会集団が形成され、主流の論調に反する自分たちのアイデンティティ、利益、要求を論じる場について述べた[^111]。
 
-¶86 Yet, WikiChix’s exclusion of males, rather than being open and pro-female, is obviously problematic with respect to transparency and nondiscrimination. Also, Sunstein recognizes that enclaves can further group polarization and marginalization and recommends that enclave members be brought back into contact with the larger community; otherwise, self insulation can yield extremism.[^112] In following this issue I haven’t perceived a decrease in female presence after the provision of a female-friendly space. A counter to the hypothesis that women are abandoning the common space is the hypothesis that having a more supportive space to fall back on will encourage comfort in speaking in common spaces. Yet, these other female-specific spaces are also open, whereas WikiChix is gender exclusive. In the end, time will tell, and I expect that because all constituencies still possess a common object (Wikipedia), marginalization and extremism will be minimal.
+Yet, WikiChix’s exclusion of males, rather than being open and pro-female, is obviously problematic with respect to transparency and nondiscrimination. Also, Sunstein recognizes that enclaves can further group polarization and marginalization and recommends that enclave members be brought back into contact with the larger community; otherwise, self insulation can yield extremism.[^112] In following this issue I haven’t perceived a decrease in female presence after the provision of a female-friendly space. A counter to the hypothesis that women are abandoning the common space is the hypothesis that having a more supportive space to fall back on will encourage comfort in speaking in common spaces. Yet, these other female-specific spaces are also open, whereas WikiChix is gender exclusive. In the end, time will tell, and I expect that because all constituencies still possess a common object (Wikipedia), marginalization and extremism will be minimal.
 
-とはいえ、 WikiChix がひらかれたままで女性を支持するかわりに男性を排除したことは、透明性と無差別に関して明らかに問題だ。さらに、サンステインは居留地は集団の分極化と周縁化をそだてることがあると認識し、居留地の構成員がより大きなコミュニティとの連絡をとりもどすよう推奨する。そうしなければ、孤立により過激主義をまねくことがある。この問題を追うなかで、女性に友好的な空間がつくられたあとで女性の参加が減ったと私は認識していない。女性が共通空間を捨てるという説への反論は、引き戻ることができるより支援的な空間があることで、共通空間での発言がしやすくなるという説だ。とはいえ、これらほかの女性特有の空間はひらかれているのに対して、WikiChix はジェンダー排他的だ。最終的には時間が答えを出すことであり、構成要素はすべて共通の目的（Wikipedia）を持っているのだから、周縁化と過激主義は最小にとどまるだろうと私は予期する。
+とはいえ、 WikiChix がひらかれたままで女性を支持するかわりに男性を排除したことは、透明性と無差別に関して明らかに問題だ。さらに、サンステインは居留地は集団の分極化と周縁化をそだてることがあると認識し、居留地の構成員がより大きなコミュニティとの連絡をとりもどすよう推奨する。そうしなければ、孤立により過激主義をまねくことがある[^112]。この問題を追うなかで、女性に友好的な空間がつくられたあとで女性の参加が減ったと私は認識していない。女性が共通空間を捨てるという説への反論は、引き戻ることができるより支援的な空間があることで、共通空間での発言がしやすくなるという説だ。とはいえ、これらほかの女性特有の空間はひらかれているのに対して、WikiChix はジェンダー排他的だ。最終的には時間が答えを出すことであり、構成要素はすべて共通の目的（Wikipedia）を持っているのだから、周縁化と過激主義は最小にとどまるだろうと私は予期する。
 
 ## Conclusion
 
@@ -421,13 +421,13 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^9]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-330)Samuel Bowles and Herbert Gintis, “The Moral Economy of Communities: Structured Populations and the Evolution of Pro-Social Norms,” Evolution & Human Behavior 19, number 1 (1998): 3–25, <http://www.umass.edu/preferen/gintis/prosocial.pdf> (visited on December 11, 2006); Lee Sproull, Caryn A. Conley, and Jae Yun Moon, “Prosocial Behavior on the Net,” chapter 6 in The Social Net: the Social Psychology of the Internet, ed. Yair Amichahi-Hamburger (Oxford: Oxford University Press, 2004), 139–162, [http://pages.stern.nyu.edu/\~cconley/Prosocial.pdf](http://pages.stern.nyu.edu/%7Ecconley/Prosocial.pdf) (visited on April 24, 2003).
 
-[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-331)Reagle, [“Open Content Communities”](#cite.0:Reagle2004occ); Joseph Reagle, “Open Communities and Closed Law,” in In the Shade of the Commons -Towards a Culture of Open Networks, ed. Lipika Bansal, Paul Keller, and Geert Lovink (Waag Society Amsterdam, December 2006), 165–167, <http://reagle.org/joseph/2006/10/10-open-community-closed-law> (visited on January 23, 2007).
+[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-331)Reagle, [“Open Content Communities”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Reagle2004occ); Joseph Reagle, “Open Communities and Closed Law,” in In the Shade of the Commons -Towards a Culture of Open Networks, ed. Lipika Bansal, Paul Keller, and Geert Lovink (Waag Society Amsterdam, December 2006), 165–167, <http://reagle.org/joseph/2006/10/10-open-community-closed-law> (visited on January 23, 2007).
 
 [^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-332)Richard M. Stallman, “The Free Software Definition,” GNU, 2005, <http://www.gnu.org/philosophy/free-sw.html> (visited on April 5, 2006); OSI, “The Open Source Definition,” OSI, July 24, 2006, <http://www.opensource.org/docs/definition.php> (visited on November 7, 2007); Freedom Defined, “Definition of Free Cultural Works”, Freedom Defined, December 1, 2008, <http://freedomdefined.org/Definition> (accessed July 7, 2009).
 
-[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-333)See Chris Dibona, Sam Ockman, and Mark Stone, Open Sources: Voices from the Open Source Revolution (Sebastopol, CA: O’Reilly, 1999), <http://oreilly.com/catalog/opensources/book/toc.html> (visited on December 10, 2005); Sam Williams, Free as in Freedom: Richard Stallman’s Crusade for Free Software (Sebastopol, CA: O’Reilly, 2002), <http://oreilly.com/openbook/freedom/index.html> (visited on April 29, 2004); Weber, [The Success of Open Source](#cite.0:Weber2004sos); Samir Chopra and Scott Dexter, Decoding Liberation: the Promise of Free and Open Source Software (New York: Routledge, 2007), [http://www.sci.brooklyn.cuny.edu/\~bcfoss/DL/](http://www.sci.brooklyn.cuny.edu/%7Ebcfoss/DL/) (accessed November 30, 2007).
+[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-333)See Chris Dibona, Sam Ockman, and Mark Stone, Open Sources: Voices from the Open Source Revolution (Sebastopol, CA: O’Reilly, 1999), <http://oreilly.com/catalog/opensources/book/toc.html> (visited on December 10, 2005); Sam Williams, Free as in Freedom: Richard Stallman’s Crusade for Free Software (Sebastopol, CA: O’Reilly, 2002), <http://oreilly.com/openbook/freedom/index.html> (visited on April 29, 2004); Weber, [The Success of Open Source](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber2004sos); Samir Chopra and Scott Dexter, Decoding Liberation: the Promise of Free and Open Source Software (New York: Routledge, 2007), [http://www.sci.brooklyn.cuny.edu/\~bcfoss/DL/](http://www.sci.brooklyn.cuny.edu/%7Ebcfoss/DL/) (accessed November 30, 2007).
 
-[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-334)Williams, [Free as in Freedom](#cite.0:Williams2002faf).
+[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-334)Williams, [Free as in Freedom](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Williams2002faf).
 
 [^14]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-335)Richard M. Stallman, “The GNU Project,” GNU, June 16, 2005, <http://www.gnu.org/gnu/thegnuproject.html> (visited on April 5, 2006).
 
@@ -435,17 +435,17 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-337)Jimmy Wales quoted in Stacy Schiff, “Know It All: Can Wikipedia Conquer Expertise?,” The New Yorker (July 31, 2006): 3, <http://www.newyorker.com/archive/2006/07/31/060731fa_fact> (visited on August 16, 2006); referring to Eric Raymond, “The Cathedral and the Bazaar,” 1997, [http://www.catb.org/\~esr/writings/cathedral-bazaar/](http://www.catb.org/%7Eesr/writings/cathedral-bazaar/) (visited on April 29, 2004).
 
-[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-338)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp).
+[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-338)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
-[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-339)Eric Raymond, quoted in Schiff, [“Know It All”](#cite.0:Schiff2006kia), 8.
+[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-339)Eric Raymond, quoted in Schiff, [“Know It All”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schiff2006kia), 8.
 
 [^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-340)dharma, “Agreed,” Kuro5hin, December 30, 2004, <http://www.kuro5hin.org/story/2004/12/30/142458/25> (visited on December 31, 2004).
 
-[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-341)Stalder, [“On the Differences between Open Source and Open Culture”](#cite.0:Stalder2006odb).
+[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-341)Stalder, [“On the Differences between Open Source and Open Culture”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stalder2006odb).
 
 [^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-342)Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock down Culture and Control Creativity (New York: Penguin Press, 2004), <http://download.nowis.com/index.cfm?phile=FreeCulture.html> (visited on April 17, 2006); a history of Creative Commons and the free culture movement is presented by David Bollier, Viral Spiral: How the Commoners Built a Digital Republic of Their Own (New York: New Press, 2009).
 
-[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-343)Meatball, [“MeatballBackgrounder”](#cite.0:Meatball2006mer); Meatball, “FairProcess,” Meatball Wiki, November 9, 2007, <http://www.usemod.com/cgi-bin/mb.pl?FairProcess> (accessed November 9, 2007).
+[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-343)Meatball, [“MeatballBackgrounder”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Meatball2006mer); Meatball, “FairProcess,” Meatball Wiki, November 9, 2007, <http://www.usemod.com/cgi-bin/mb.pl?FairProcess> (accessed November 9, 2007).
 
 [^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-344)For computers eroding accountability, see Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006); on furthering accountability, see Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008).
 
@@ -455,11 +455,11 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-347)Wikimedia, “Steward Policies,” Wikimedia, October 25, 2007, <http://meta.wikimedia.org/?oldid=724037> (visited on November 2, 2007).
 
-[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-348)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275109391> (visited on March 6, 2009).
+[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-348)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275109391> (visited on March 6, 2009).
 
 [^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-349)Tony Sidaway, “Wikipedia and Autism,” wikien-l, October 11, 2005, <http://marc.info/?i=605709b90510110104w6bcdf9d6g7f1fe5945d0d05a6@mail.gmail.com> (visited on October 11, 2005).
 
-[^29]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-350)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp).
+[^29]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-350)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
 [^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-351)Jimmy Wales, “Re: A Proposal for the New Software,” wikipedia-l, October 18, 2001, <http://marc.info/?l=wikipedia-l&m=104216623606384&w=2> (visited on March 7, 2007).
 
@@ -467,11 +467,11 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^32]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-353)Ronline, “The Wikipedia Ombudsman,” wikien-l, January 7, 2006, <http://marc.info/?i=648f108b0601070134l616eb900u4f97b75522540e0f@mail.gmail.com> (visited on January 7, 2006); Kelly Martin, “An Example of Transparency,” Nonbovine Ruminations, June 19, 2007, <http://nonbovine-ruminations.blogspot.com/2007/06/example-of-transparency.html> (visited on June 19, 2007).
 
-[^33]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-354)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr).
+[^33]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-354)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr).
 
 [^34]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-355)Meatball, “RightToFork,” Meatball Wiki, October 11, 2007, <http://www.usemod.com/cgi-bin/mb.pl?RightToFork> (visited on October 11, 2007).
 
-[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-356)Weber, [The Success of Open Source](#cite.0:Weber2004sos), 159, 92.
+[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-356)Weber, [The Success of Open Source](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber2004sos), 159, 92.
 
 [^36]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-357)David A. Wheeler, “Why Open Source Software/Free Software (OSS/FS)? Look at the Numbers!,” May 9, 2005, <http://www.dwheeler.com/oss_fs_why.html> (accessed October 1, 2004).
 
@@ -483,7 +483,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-361)Jimmy Wales, “Bias and Open Content Licensing,” nupedia-l, May 8, 2000, <http://web.archive.org/web/20030822044803/http://www.nupedia.com/pipermail/nupedia-l/2000-May/000222.html> (visited on June 7, 2006).
 
-[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-362)Wikipedia, [“Wikipedia, the Free Encyclopedia (oldid=251850832)”](#cite.0:Wikipedia2008wfe).
+[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-362)Wikipedia, [“Wikipedia, the Free Encyclopedia (oldid=251850832)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008wfe).
 
 [^42]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-363)Wikipedia, “Wikipedia:What Wikipedia Is Not,” Wikipedia, May 28, 2009, <http://en.wikipedia.org/?oldid=292975573> (visited on May 29, 2009).
 
@@ -495,7 +495,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-367)Wikipedia, “Wikipedia:Banning Policy,” Wikipedia, March 16, 2007, <http://en.wikipedia.org/?oldid=115595742> (visited on March 16, 2007).
 
-[^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-368)Wikipedia, [“Wikipedia:What Wikipedia Is Not (oldid=292975573)”](#cite.0:Wikipedia2009wwi).
+[^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-368)Wikipedia, [“Wikipedia:What Wikipedia Is Not (oldid=292975573)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009wwi).
 
 [^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-369)John Seigenthaler, “A False Wikipedia ‘Biography’,” USA Today (November 29, 2005), <http://www.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm> (visited on December 1, 2005).
 
@@ -509,7 +509,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-374)Jimmy Wales, “Re: New York Times Article,” wikien-l, June 20, 2006, <http://marc.info/?i=44987D15.2070408@wikia.com> (visited on June 20, 2006).
 
-[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-375)Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](#cite.0:Hafner2006gwr).
+[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-375)Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hafner2006gwr).
 
 [^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-376)Wikipedia, “Wikipedia:Blocking Policy,” Wikipedia, November 26, 2008, <http://en.wikipedia.org/?oldid=254316018> (visited on November 27, 2008).
 
@@ -517,7 +517,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-378)Anthony DiPierro, “Re: Blocking Proposal,” wikien-l, October 19, 2005, <http://marc.info/?i=71cd4dd90510191024r4332fe14tbb075711698d60c0@mail.gmail.com> (visited on October 19, 2005).
 
-[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-379)Wikipedia, [“Wikipedia:Blocking Policy Proposal (oldid=85910798)”](#cite.0:Wikipedia2006bpp).
+[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-379)Wikipedia, [“Wikipedia:Blocking Policy Proposal (oldid=85910798)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006bpp).
 
 [^59]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-380)Clay Shirky, Here Comes Everybody: the Power of Organizing without Organizations (New York: Penguin Press, 2007), 253 (visited on March 26, 2008).
 
@@ -525,17 +525,17 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-382)Langdon Winner, “Do Artifacts Have Politics?,” in The Whale and the Reactor (Chicago: University of Chicago Press, 1986), 18–39, [http://web.archive.org/web/20051217085219/http://www-personal.si.umich.edu/\~rfrost/courses/Women+Tech/readings/Winner.html](http://web.archive.org/web/20051217085219/http://www-personal.si.umich.edu/%7Erfrost/courses/Women+Tech/readings/Winner.html) (visited on February 2, 2005).
 
-[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-383)Jimmy Wales, quoted in Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](#cite.0:Hafner2006gwr).
+[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-383)Jimmy Wales, quoted in Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hafner2006gwr).
 
 [^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-384)Steve Woolgar, “The Turn to Technology in Social Studies of Science,” Science, Technology, & Human Values 16, number 1 (Winter 1991): 20–50; Batya Friedman and Helen Nissenbaum, “Bias in Computer Systems.,” ACM Transactions in Information Systems 14, number 2 (1996): 330–346; Helen Nissenbaum, “How Computer Systems Embody Values,” Computer 34, number 3 (March 2001): 120–118, <http://www.nyu.edu/projects/nissenbaum/papers/embodyvalues.pdf> (visited on March 1, 2004).
 
 [^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-385)Jake Wartenberg and Ragesoss, “Flagged Revisions,” Wikipedia Signpost, January 24, 2009, <http://en.wikipedia.org/?oldid=266468243> (visited on January 26, 2009); Noam Cohen, “Wikipedia May Restrict Public’s Ability to Change Entries,” NYTimes.com, January 23, 2009, <http://bits.blogs.nytimes.com/2009/01/23/wikipedia-may-restrict-publics-ability-to-change-entries/> (visited on January 26, 2009).
 
-[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-386)Wikipedia, [“Wikipedia:Five Pillars (oldid=308208396)”](#cite.0:Wikipedia2009fp).
+[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-386)Wikipedia, [“Wikipedia:Five Pillars (oldid=308208396)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009fp).
 
-[^66]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-387)Wales, [“Statement of Principles (oldid=89244123)”](#cite.0:Wales2001sp).
+[^66]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-387)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
-[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-388)Seigenthaler, [“A False Wikipedia ‘Biography’”](#cite.0:Seigenthaler2005fwb).
+[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-388)Seigenthaler, [“A False Wikipedia ‘Biography’”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Seigenthaler2005fwb).
 
 [^68]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-389)Jimmy Wales, “Re: ‘Should Not Be Written by an Interested Party’,” wikien-l, May 3, 2006, <http://marc.info/?i=4458EF10.9060705@wikia.com> (visited on May 3, 2006).
 
@@ -575,7 +575,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^86]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-407)Walter van Kalken, “Re: Secret Admin List,” wikipedia-l, May 19, 2006, <http://marc.info/?i=446E5989.9070807@vankalken.net> (visited on May 19, 2006).
 
-[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-408)Sunstein, [Why Societies Need Dissent](#cite.0:Sunstein2003wsn), 158.
+[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-408)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 158.
 
 [^88]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-409)For the announcement, see Angela, “Introducing a New Mailing List,” wikien-l, December 4, 2006, <http://marc.info/?i=8b722b800612032144j1711060by4a60db0e8a051460@mail.gmail.com> (visited on December 4, 2006); for the description, see WikiChix, WikiChix (WikiChix, January 12, 2007), <http://wikichix.org/?oldid=1651> (visited on January 12, 2007).
 
@@ -591,23 +591,23 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^94]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-415)Robert Cawdrey, A Table Alphabetical of Hard Usual English Words, ed. Ian Lancashire (1604–1966; Web Development Group University of Toronto Library, 1997), <http://www.library.utoronto.ca/utel/ret/cawdrey/cawdrey0.html> (accessed December 4, 2007).
 
-[^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-416)Stockwell, [A History of Information Storage and Retrieval](#cite.0:Stockwell2001his), 111; Tom McArthur, Worlds of Reference: Lexicography, Learning, and Language from the Clay Tablet to the Computer (Cambridge, UK: Cambridge University Press, 1986), 107; a replication of these plates is provided in Herman Kogan, The Great EB: the Story of the Encyclopaedia Britannica (Chicago: University Of Chicago Press, 1958).
+[^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-416)Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 111; Tom McArthur, Worlds of Reference: Lexicography, Learning, and Language from the Clay Tablet to the Computer (Cambridge, UK: Cambridge University Press, 1986), 107; a replication of these plates is provided in Herman Kogan, The Great EB: the Story of the Encyclopaedia Britannica (Chicago: University Of Chicago Press, 1958).
 
-[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-417)Wiegand, [A Biography of Melvil Dewey](#cite.0:Wiegand1996bmd).
+[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-417)Wiegand, [A Biography of Melvil Dewey](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wiegand1996bmd).
 
 [^97]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-418)Gillian Thomas, A Position to Command Respect: Women and the Eleventh Britannica (Metuchen, New Jersey: The Scarecrow Press, 1992).
 
-[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-419)Oded Nov, “What Motivates Wikipedians?,” Communications of the ACM 50, number 11 (November 2007): 60–64, <http://portal.acm.org/citation.cfm?id=1297798> (visited on July 8, 2009); Glott, Schmidt, and Ghosh, [“Wikipedia Survey – First Results”](#cite.0:GlottSchmidtGhosh2009wsf).
+[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-419)Oded Nov, “What Motivates Wikipedians?,” Communications of the ACM 50, number 11 (November 2007): 60–64, <http://portal.acm.org/citation.cfm?id=1297798> (visited on July 8, 2009); Glott, Schmidt, and Ghosh, [“Wikipedia Survey – First Results”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:GlottSchmidtGhosh2009wsf).
 
 [^99]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-420)Guettarda, “Re: Fwd: Request to Mailing List Wikichix-l Rejected,” wikien-l, December 5, 2006, <http://marc.info/?i=47683e960612050657s6c91283cr8458565ce1a776b6@mail.gmail.com> (visited on December 5, 2006).
 
-[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-421)Coleman, [“Three Ethical Moments in Debian”](#cite.0:Coleman2005tem).
+[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-421)Coleman, [“Three Ethical Moments in Debian”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Coleman2005tem).
 
 [^101]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-422)Jimmy Wales, “Re: Nazi Userboxes,” wikien-l, December 1, 2006, <http://marc.info/?i=4570B0FF.6030209@wikia.com> (visited on December 1, 2006).
 
 [^102]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-423)Wikipedia, “User:The Cunctator,” Wikipedia, May 18, 2009, <http://en.wikipedia.org/?oldid=290621049> (visited on May 29, 2009).
 
-[^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-424)Wikipedia, [“Wikipedia:Do Not Disrupt Wikipedia to Illustrate a Point (oldid=275119939)”](#cite.0:Wikipedia2009dnd).
+[^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-424)Wikipedia, [“Wikipedia:Do Not Disrupt Wikipedia to Illustrate a Point (oldid=275119939)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009dnd).
 
 [^104]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-425)Jennifer Vesperman and Deb Richardson, “Frequently Asked Questions”, January 4, 2002, <http://www.linuxchix.org/about-linuxchix.html> (visited on January 23, 2007).
 
@@ -619,12 +619,12 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^108]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-429)Bryan Derksen, “Re: Fwd: Request to Mailing List Wikichix-l Rejected”, wikien-l, December 5, 2006, <http://marc.info/?i=4575ABC6.50801@shaw.ca> (accessed December 5, 2006).
 
-[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-430)Freeman, [“The Tyranny of Structurelessness”](#cite.0:Freeman1996tsw).
+[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-430)Freeman, [“The Tyranny of Structurelessness”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Freeman1996tsw).
 
-[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-431)Sunstein, [Why Societies Need Dissent](#cite.0:Sunstein2003wsn), 158.
+[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-431)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 158.
 
 [^111]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-432)Nancy Fraser, “Rethinking the Public Sphere: a Contribution to the Critique of Actually Existing Democracy,” chapter 5 in Habermas and the Public Sphere, ed. Craig Calhoun (Cambridge, MA: MIT Press, 1992), 123.
 
-[^112]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-433)Sunstein, [Why Societies Need Dissent](#cite.0:Sunstein2003wsn), 160-161.
+[^112]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-433)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 160-161.
 
 [^113]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-434)Clay Shirky, “News of Wikipedia’s Death Greatly Exaggerated,” Many-to-Many, May 25, 2006, <http://many.corante.com/archives/2006/05/25/news_of_wikipedias_death_greatly_exaggerated.php> (visited on May 25, 2006).

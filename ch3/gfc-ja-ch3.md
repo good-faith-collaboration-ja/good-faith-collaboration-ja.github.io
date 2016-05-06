@@ -471,7 +471,7 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 ----
 
-[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-173)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr).
+[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-173)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr).
 
 [^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-174)Ulrike Pfeil, Panayiotis Zaphiris, and Chee Siang Ang, “Cultural Differences in Collaborative Authoring of Wikipedia,” Journal of Computer-Mediated Communication 12, number 1 (2006), <http://jcmc.indiana.edu/vol12/issue1/pfeil.html> (accessed March 13, 2006); Andrew Lih, The Wikipedia Revolution: How a Bunch of Nobodies Created the World’s Greatest Encyclopedia (New York: Hyperion, 2009), chapter 6.
 
@@ -493,7 +493,7 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-183)Michael Schrage, Shared Minds: the New Technologies of Collaboration (New York: Random House, 1990), 40.
 
-[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-184)Jenkins, [Textual Poachers](#cite.0:Jenkins1992tpt); Henry Jenkins, “Confronting the Challenges of Participatory Culture: Media Education for the 21st Century,” Confessions of an Aca/Fan, October 20, 2006, <http://www.henryjenkins.org/2006/10/confronting_the_challenges_of.html> (accessed October 10, 2007).
+[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-184)Jenkins, [Textual Poachers](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Jenkins1992tpt); Henry Jenkins, “Confronting the Challenges of Participatory Culture: Media Education for the 21st Century,” Confessions of an Aca/Fan, October 20, 2006, <http://www.henryjenkins.org/2006/10/confronting_the_challenges_of.html> (accessed October 10, 2007).
 
 [^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-185)Douglas C. Engelbart, Augmenting Human Intellect: a Conceptual Framework (Menlo Park, Ca.: SRI Project 3578 for Air Force Office of Scientific Research, Stanford Research Institute, October 1962), 4D, <http://dougengelbart.org/pubs/augment-3906.html> (visited on May 21, 2007).
 
@@ -503,7 +503,7 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-188)Christian Reinhardt, “Collaborative Knowledge Creation in Virtual Communities of Practice” (Master’s thesis, Department of Value-Prcoess Management, Marketing University of Innsbruck, 2003), <http://web.archive.org/web/20031005154931/http://kde.klevahhehd.com/>.
 
-[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-189)Wenger, [Communities of Practice](#cite.0:Wenger1998cpl), 66-68.
+[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-189)Wenger, [Communities of Practice](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wenger1998cpl), 66-68.
 
 [^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-190)Ward Cunningham, quoted in Scott Rosenberg, Dreaming in Code: Two Dozen Programmers, Three Years, 4732 Bugs, and One Quest for Transcendent Software (New York: Crown Publishers, 2007), 138.
 
@@ -519,11 +519,11 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^24]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-196)Natalia Levina and Emmanuelle Vaast, “The Emergence of Boundary Spanning Competence in Practice: Implications for Implementation and Use of Information Systems,” MIS Quarterly 29, number 1 (June 1, 2005), <http://archive.nyu.edu/bitstream/2451/14121/1/CeDER-04-07.pdf> (visited on January 15, 2007).
 
-[^25]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-197)These quotes correspond to minutes 21-23 in Cunningham, [“Keynote”](#cite.0:Cunningham2005kwt).
+[^25]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-197)These quotes correspond to minutes 21-23 in Cunningham, [“Keynote”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Cunningham2005kwt).
 
 [^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-198)Nicholason Baker, “The Charms of Wikipedia,” The New York Review of Books 55, number 4 (March 20, 2008), <http://www.nybooks.com/articles/21131> (accessed March 19, 2008).
 
-[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-199)Wikipedia, [“Wikipedia:Project Namespace (oldid=174790757)”](#cite.0:Wikipedia2007pn); Wikipedia, “Wikipedia:Meta,” Wikipedia, March 28, 2007, <http://en.wikipedia.org/?oldid=118648488> (visited on April 5, 2007).
+[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-199)Wikipedia, [“Wikipedia:Project Namespace (oldid=174790757)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007pn); Wikipedia, “Wikipedia:Meta,” Wikipedia, March 28, 2007, <http://en.wikipedia.org/?oldid=118648488> (visited on April 5, 2007).
 
 [^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-200)Meatball, “MeatballBackgrounder,” Meatball Wiki, April 12, 2006, <http://www.usemod.com/cgi-bin/mb.pl?MeatballBackgrounder> (visited on April 12, 2006).
 
@@ -531,7 +531,7 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-202)Susan L. Bryant, Andrea Forte, and Amy Bruckman, “Becoming Wikipedian: Transformation of Participation in a Collaborative Online Encyclopedia,” in Proceedings of the 2005 International ACM SIGGROUP Conference on Supporting Group Work (New York: ACM, 2005), [http://www.cc.gatech.edu/\~aforte/BryantForteBruckBecomingWikipedian.pdf](http://www.cc.gatech.edu/%7Eaforte/BryantForteBruckBecomingWikipedian.pdf) (accessed February 8, 2007).
 
-[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-203)Benkler, [“Coase’s Penguin, or, Linux and the Nature of the Firm”](#cite.0:Benkler2002cpo); Sproull, [“Online Communities”](#cite.0:Sproull2003oc).
+[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-203)Benkler, [“Coase’s Penguin, or, Linux and the Nature of the Firm”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Benkler2002cpo); Sproull, [“Online Communities”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sproull2003oc).
 
 [^32]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-204)Wikipedia, “Wikipedia:Be Bold,” Wikipedia, August 12, 2007, <http://en.wikipedia.org/?oldid=150720434> (visited on August 13, 2007).
 
@@ -549,7 +549,7 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-211)Wikipedia, “Wikipedia Talk:Assume Good Faith,” Wikipedia, March 31, 2007, <http://en.wikipedia.org/?oldid=119194758> (visited on April 10, 2007).
 
-[^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-212)Wikipedia, [“Wikipedia:Policies and Guidelines (oldid=121662697)”](#cite.0:Wikipedia2007pg).
+[^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-212)Wikipedia, [“Wikipedia:Policies and Guidelines (oldid=121662697)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007pg).
 
 [^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-213)Wikipedia, “Wikipedia:Trifecta,” Wikipedia, November 22, 2008, <http://en.wikipedia.org/?oldid=253357789> (visited on May 29, 2009).
 
@@ -561,11 +561,13 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-217)Jimmy Wales, “Re: Sanger’s Memoirs,” Wikipedia, April 20, 2005, <http://marc.theaimsgroup.com/?i=4265F203.3080905@wikia.com> (accessed November 15, 2005); Jimmy Wales, Fuzheado, and Liam Wyatt, “Interview W/Jimmy Wales,” Wikipedia Weekly, May 8, 2008, <http://wikipediaweekly.org/2008/05/08/episode-48-interview-wjimmy-wales/> (accessed June 25, 2008), minute 33.
 
-[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-218)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr).
+[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-218)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr).
 
 [^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-219)Wikipedia, “Troll (Internet),” Wikipedia, June 29, 2008, <http://en.wikipedia.org/?oldid=222394236> (visited on July 2, 2008).
 
-[^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-220)Wikipedia, “Wikipedia:Content Forking,” Wikipedia, July 16, 2007, <http://en.wikipedia.org/?oldid=144910303> (visited on August 13, 2007).  This strategy of indirection and encapsulation is reminiscent of Diderot’s approach to using cross-references in the Encyclopédie, the technique of “renvois,” so as to confuse and elude censors as described in Stockwell, [A History of Information Storage and Retrieval](#cite.0:Stockwell2001his), 91. This approach is further discussed in the contemporary context by Michael Zimmer, “Renvois of the past, Present and Future: Hyperlinks and the Structuring of Knowledge from the Encyclopédie to Web 2.0,” New Media Society 11, number 95 (2009), <http://nms.sagepub.com/cgi/content/abstract/11/1-2/95> (visited on April 17, 2009).
+[^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-220)Wikipedia, “Wikipedia:Content Forking,” Wikipedia, July 16, 2007, <http://en.wikipedia.org/?oldid=144910303> (visited on August 13, 2007).  This strategy of indirection and encapsulation is reminiscent of Diderot’s approach to using cross-references in the Encyclopédie, the technique of “renvois,” so as to confuse and elude censors as described in Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 91. This approach is further discussed in the contemporary context by Michael Zimmer, “Renvois of the past, Present and Future: Hyperlinks and the Structuring of Knowledge from the Encyclopédie to Web 2.0,” New Media Society 11, number 95 (2009), <http://nms.sagepub.com/cgi/content/abstract/11/1-2/95> (visited on April 17, 2009).
+
+      Wikipedia, “Wikipedia:Content Forking,” Wikipedia, July 16, 2007, <http://en.wikipedia.org/?oldid=144910303> (visited on August 13, 2007).  この間接的な閉じ込めの戦略は『百科全書』におけるディドロの相互参照、すなわち「renvois」の技法をおもわせる。この技法は検閲をけむにまいて避けるためのものであったことが Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 91 にかかれている。さらに、現代の文脈での議論が Michael Zimmer, “Renvois of the past, Present and Future: Hyperlinks and the Structuring of Knowledge from the Encyclopédie to Web 2.0,” New Media Society 11, number 95 (2009), <http://nms.sagepub.com/cgi/content/abstract/11/1-2/95> (visited on April 17, 2009) にある。
 
 [^49]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-221)Wikipedia, “User:Salva31,” Wikipedia, March 28, 2007, <http://en.wikipedia.org/?oldid=118549019> (visited on April 6, 2007).
 
@@ -573,17 +575,21 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^51]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-223)Wikipedia, “User:Graft,” Wikipedia, March 23, 2007, <http://en.wikipedia.org/?oldid=117319977> (visited on April 6, 2007).
 
-[^52]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-224)Wikipedia, “Wikipedia:Neutral Point of View,” Wikipedia, September 16, 2004, <http://en.wikipedia.org/?oldid=6042007> (visited on March 5, 2004); Wikipedia, [“Wikipedia:Neutral Point of View (oldid=249390830)”](#cite.0:Wikipedia2008npv).
+[^52]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-224)Wikipedia, “Wikipedia:Neutral Point of View,” Wikipedia, September 16, 2004, <http://en.wikipedia.org/?oldid=6042007> (visited on March 5, 2004); Wikipedia, [“Wikipedia:Neutral Point of View (oldid=249390830)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008npv).
 
 [^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-225)Much like my earlier comments on the ambiguity – and richness – of the concepts of culture and collaboration, "neutral" is also a provocative notion; for 23 different senses of the word, see Roland Barthes, The Neutral, trans. Rosalind E. Krauss and Denis Hollier (New York: Columbia University Press, 2005).
+
+       文化と共同作業の概念の多義性、また豊かさについての先の私のコメントとよくにているが、「中立」も挑戦的な概念だ。その23の異なる語義については The Neutral, trans. Rosalind E. Krauss and Denis Hollier (New York: Columbia University Press, 2005) をみよ。
 
 [^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-226)Joseph Reagle, “Is the Wikipedia Neutral?,” Wikimedia, 2006, <http://wikimania2006.wikimedia.org/wiki/Presenters/Joseph_Reagle> (visited on August 1, 2006).
 
 [^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-227)Wikipedia, “Wikipedia:Neutral Point of View,” Wikipedia, April 6, 2006, <http://en.wikipedia.org/?oldid=47268215> (visited on April 6, 2006).
 
-[^56]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-228)Nupedia, [“Nupedia.Com Editorial Policy Guidelines”](#cite.0:Nupedia2000nce).
+[^56]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-228)Nupedia, [“Nupedia.Com Editorial Policy Guidelines”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Nupedia2000nce).
 
-[^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-229)Jacobs, [The-Know-It-All](#cite.0:Jacobs2004kia). A similar effort of reading the whole OED is documented by Ammon Shea, Reading the OED: One Man, One Year, 21,730 Pages (New York: Penguin Group, 2008).
+[^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-229)Jacobs, [The-Know-It-All](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Jacobs2004kia). A similar effort of reading the whole OED is documented by Ammon Shea, Reading the OED: One Man, One Year, 21,730 Pages (New York: Penguin Group, 2008).
+
+       Jacobs, [The-Know-It-All](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Jacobs2004kia). 同様にOED全体を読もうとする試みが Ammon Shea, Reading the OED: One Man, One Year, 21,730 Pages (New York: Penguin Group, 2008) に記録されている。
 
 [^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-230)Andrew Gray, “Re: Librarians, Professors, and Pundits,” Wikipedia-l, July 22, 2005, <http://marc.info/?i=f3fedb0d0507221318227f43c8@mail.gmail.com> (accessed July 22, 2005).
 
@@ -591,11 +597,11 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-232)Objectivism WWW Service, “Objectivism-Related E-Mail Lists,” December 29, 1995, <http://web.archive.org/web/20071116084043/http://rous.redbarn.org/objectivism/mail-lists.html> (visited on November 9, 2005).
 
-[^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-233)Sanger, [“The Early History of Nupedia and Wikipedia”](#cite.0:Sanger2005ehn).
+[^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-233)Sanger, [“The Early History of Nupedia and Wikipedia”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sanger2005ehn).
 
-[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-234)Wikipedia, [“Wikipedia:Neutral Point of View (oldid=249390830)”](#cite.0:Wikipedia2008npv).
+[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-234)Wikipedia, [“Wikipedia:Neutral Point of View (oldid=249390830)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008npv).
 
-[^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-235)Sanger, [“The Early History of Nupedia and Wikipedia”](#cite.0:Sanger2005ehn).
+[^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-235)Sanger, [“The Early History of Nupedia and Wikipedia”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sanger2005ehn).
 
 [^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-236)Citizendium, “CZ:Neutrality Policy,” Citizendium, November 25, 2007, <http://en.citizendium.org/?oldid=100222609> (visited on November 8, 2008).
 
@@ -609,31 +615,35 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^69]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-241)Meatball, “AssumeGoodFaith,” Meatball Wiki, September 16, 2006, <http://www.usemod.com/cgi-bin/mb.pl?AssumeGoodFaith> (visited on February 8, 2007).
 
-[^70]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-242)Wikipedia, [“Wikipedia:Writing for the Enemy (oldid=49041942)”](#cite.0:Wikipedia2006we).
+[^70]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-242)Wikipedia, [“Wikipedia:Writing for the Enemy (oldid=49041942)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006we).
 
 [^71]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-243)Yochai Benkler and Helen Nissenbaum, “Commons-Based Peer-Production and Virtue,” The Journal of Political Philosophy 14, number 4 (2006): 13, <http://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf> (visited on October 16, 2006).
 
-[^72]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-244)Leuf and Cunningham, [The Wiki Way](#cite.0:LeufCunningham2001wwq), 323.
+[^72]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-244)Leuf and Cunningham, [The Wiki Way](http://reagle.org/joseph/2010/gfc/references.html#cite.0:LeufCunningham2001wwq), 323.
 
 [^73]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-245)Gabriella Coleman, “Three Ethical Moments in Debian: the Making of an (Ethical) Hacker, Part III,” chapter 6 in The Social Construction of Freedom in Free and Open Source Software: Actors, Ethics, and the Liberal Tradition (2005), 26, <http://healthhacker.org/biella/coleman-chapter-six.pdf> (visited on September 9, 2005).
 
 [^74]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-246)Larry Wall, “Diligence, Patience, and Humility,” in Open Sources: Voices from the Open Source Revolution, 1st edition (Sebastopol, CA: O’Reilly, January 1999), <http://oreilly.com/catalog/opensources/book/larry.html> (visited on February 23, 2007).
 
-[^75]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-247)Leuf and Cunningham, [The Wiki Way](#cite.0:LeufCunningham2001wwq), 328-329.
+[^75]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-247)Leuf and Cunningham, [The Wiki Way](http://reagle.org/joseph/2010/gfc/references.html#cite.0:LeufCunningham2001wwq), 328-329.
 
 [^76]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-248)Georg von Krogh, “Care in Knowledge Creation,” California Management Review 40, number 3 (Spring 1998): 137, <http://www.alexandria.unisg.ch/export/DL/30618.pdf> (visited on May 4, 2006).
 
-[^77]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-249)Benkler and Nissenbaum, [“Commons-Based Peer-Production and Virtue”](#cite.0:BenklerNissenbaum2006cbp).
+[^77]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-249)Benkler and Nissenbaum, [“Commons-Based Peer-Production and Virtue”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:BenklerNissenbaum2006cbp).
 
 [^78]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-250)For possible media effects on conflict, see J. B. Walther, “Computer-Mediated Communication: Impersonal, Interpersonal, and Hyperpersonal Interaction,” Communication Research 23 (1996): 1–43; Jay Briggs et al., “Lessons from a Dozen Years of Group Support Systems Research: a Discussion of Lab and Field Findings,” Journal of MIS 13 (1997): 163–207; Raymond A. Friedman and Stephen C. Currall, “Conflict Escalation: Dispute Exacerbating Elements of E-Mail Communication,” Human Relations 56 (2003): 1325–1347, <http://hum.sagepub.com/cgi/reprint/56/11/1325.pdf> (visited on November 30, 2007). For conflict at the (virtual) community level, see Anna Duval Smith, “Problems of Conflict Management in Virtual Communities,” chapter 6 in Communities in Cyberspace, ed. Marc Smith and Peter Kollock (London: Routledge Press, 1999), <http://www.advs.net/cinc.htm> (visited on November 18, 2004). The author of Godwin’s Law is also famous for his seminal principles of how to meet the challenges of online community, see Mike Godwin, “Nine Principles for Making Virtual Communities Work,” Wired 2, number 6 (June 1994), <http://www.wired.com/wired/archive/2.06/vc.principles.html> (visited on September 27, 2007).
 
+       衝突についてのメディア効果の可能性については次をみよ。J. B. Walther, “Computer-Mediated Communication: Impersonal, Interpersonal, and Hyperpersonal Interaction,” Communication Research 23 (1996): 1–43; Jay Briggs et al., “Lessons from a Dozen Years of Group Support Systems Research: a Discussion of Lab and Field Findings,” Journal of MIS 13 (1997): 163–207; Raymond A. Friedman and Stephen C. Currall, “Conflict Escalation: Dispute Exacerbating Elements of E-Mail Communication,” Human Relations 56 (2003): 1325–1347, <http://hum.sagepub.com/cgi/reprint/56/11/1325.pdf> (visited on November 30, 2007). （仮想的な）コミュニティのレベルでの衝突については次をみよ。 Anna Duval Smith, “Problems of Conflict Management in Virtual Communities,” chapter 6 in Communities in Cyberspace, ed. Marc Smith and Peter Kollock (London: Routledge Press, 1999), <http://www.advs.net/cinc.htm> (visited on November 18, 2004). Godwin の法則の著者はオンライン・コミュニティの課題への対処に関する画期的な原理でも知られる。 Mike Godwin, “Nine Principles for Making Virtual Communities Work,” Wired 2, number 6 (June 1994), <http://www.wired.com/wired/archive/2.06/vc.principles.html> (visited on September 27, 2007) をみよ。
+
 [^79]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-251)Wikipedia, “Good Faith,” Wikipedia, May 7, 2007, <http://en.wikipedia.org/?oldid=128890878> (visited on May 17, 2007).
 
-[^80]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-252)Meatball, [“AssumeGoodFaith”](#cite.0:Meatball2006ath).
+[^80]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-252)Meatball, [“AssumeGoodFaith”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Meatball2006ath).
 
 [^81]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-253)Wikipedia, “Wikipedia:Assume Good Faith,” Wikipedia, April 3, 2006, <http://en.wikipedia.org/?oldid=46719908> (visited on April 11, 2006).
 
 [^82]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-254)For the first instance of the AGF page, see Wikipedia, “Wikipedia:Assume Good Faith,” Wikipedia, March 3, 2004, <http://en.wikipedia.org/?oldid=2617791> (accessed May 30, 2007); for the first comment on the talk page, see Wikipedia, “Wikipedia Talk:Assume Good Faith,” Wikipedia, February 13, 2005, <http://en.wikipedia.org/?oldid=10213525> (visited on May 30, 2007).
+
+       AGF ページの初版については Wikipedia, “Wikipedia:Assume Good Faith,” Wikipedia, March 3, 2004, <http://en.wikipedia.org/?oldid=2617791> (accessed May 30, 2007) をみよ。トークページの最初のコメントについては Wikipedia, “Wikipedia Talk:Assume Good Faith,” Wikipedia, February 13, 2005, <http://en.wikipedia.org/?oldid=10213525> (visited on May 30, 2007) をみよ。
 
 [^83]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-255)Wikipedia, “Wikipedia:Staying Cool When the Editing Gets Hot,” Wikipedia, October 25, 2002, <http://en.wikipedia.org/?oldid=383300> (visited on May 30, 2007).
 
@@ -647,17 +657,17 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^88]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-260)Wikipedia, “Wikipedia:Assume Stupidity,” Wikipedia, January 20, 2007, <http://en.wikipedia.org/?oldid=102052925> (visited on May 18, 2007).
 
-[^89]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-261)Meatball, [“AssumeGoodFaith”](#cite.0:Meatball2006ath).
+[^89]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-261)Meatball, [“AssumeGoodFaith”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Meatball2006ath).
 
-[^90]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-262)Wikipedia, [“Wikipedia:Assume Good Faith (oldid=46719908)”](#cite.0:Wikipedia2006agf).
+[^90]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-262)Wikipedia, [“Wikipedia:Assume Good Faith (oldid=46719908)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006agf).
 
 [^91]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-263)Wikipedia, “Wikipedia:Assume the Assumption of Good Faith,” Wikipedia, February 23, 2009, <http://en.wikipedia.org/?oldid=272707551> (visited on March 11, 2009).
 
-[^92]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-264)Wikipedia, [“Wikipedia:Assume Good Faith (oldid=46719908)”](#cite.0:Wikipedia2006agf).
+[^92]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-264)Wikipedia, [“Wikipedia:Assume Good Faith (oldid=46719908)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006agf).
 
 [^93]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-265)Wikipedia, “Wikipedia:WikiLove,” Wikipedia, January 30, 2009, <http://en.wikipedia.org/?oldid=267504430> (visited on March 6, 2009).
 
-[^94]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-266)Wales, [“Founder Letter Sept 2004”](#cite.0:Wales2004fls).
+[^94]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-266)Wales, [“Founder Letter Sept 2004”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2004fls).
 
 [^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-267)Erik Moeller, “Re: Good Authors,” wikien-l, June 25, 2006, <http://marc.info/?i=b80736c80606251525oe0ffccdyc32f7fd9e52d6d45@mail.gmail.com> (visited on June 25, 2006).
 
@@ -665,11 +675,11 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^97]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-269)A.  Galinsky and T. Mussweiler, “First Offers as Anchors: The Role of Perspective Taking and Negotiator Focus,” Journal of Personality and Social Psychology 81 (2001): 659, <http://content.apa.org/journals/psp/81/4/657.pdf> (visited on October 18, 2004).
 
-[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-270)David Bohm, On Dialog, ed. Lee Nichol (New York: Routledge, 1996); Daniel Yankelovich, “The Magic of Dialogue,” The Nonprofit Quarterly 8, number 3 (Fall 2001), <http://www.nonprofitquarterly.org/content/view/120/28/> (visited on November 24, 2004); Jennifer Preece and Kambiz Ghozati, “Experiencing Empathy Online,” in The Internet and Health Communication: Experience and Expectations, ed. R. R. Rice and J. E. Katz (Thousand Oaks: Sage Publications, 2001), 233; Krogh, [“Care in Knowledge Creation”](#cite.0:vonKrogh1998ckc), 137.
+[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-270)David Bohm, On Dialog, ed. Lee Nichol (New York: Routledge, 1996); Daniel Yankelovich, “The Magic of Dialogue,” The Nonprofit Quarterly 8, number 3 (Fall 2001), <http://www.nonprofitquarterly.org/content/view/120/28/> (visited on November 24, 2004); Jennifer Preece and Kambiz Ghozati, “Experiencing Empathy Online,” in The Internet and Health Communication: Experience and Expectations, ed. R. R. Rice and J. E. Katz (Thousand Oaks: Sage Publications, 2001), 233; Krogh, [“Care in Knowledge Creation”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:vonKrogh1998ckc), 137.
 
 [^99]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-271)Elinor Ostrom, “Collective Action and the Evolution of Social Norms,” The Journal of Economic Perspectives 14, number 3 (Summer 2000): 137–158, <http://www.santafe.edu/events/workshops/images/b/b3/Ostrom2000.pdf> (accessed November 22, 2008).
 
-[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-272)Jennifer Preece, “Etiquette, Empathy and Trust in Communities of Practice: Stepping-Stones to Social Capital,” Journal of Universal Computer Science 10, number 3 (2004): 2, <http://www.jucs.org/jucs_10_3/etiquette_empathy_and_trust/Preece_J.html> (visited on May 16, 2005); Krogh, [“Care in Knowledge Creation”](#cite.0:vonKrogh1998ckc), 136; Cormac Lawler, “Wikipedia as a Learning Community: Content, Conflict and the ‘Common Good’”, Wikimedia, 2005, <http://meta.wikimedia.org/wiki/Transwiki:Wikimania05/Paper-CL1> (visited on September 1, 2005).
+[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-272)Jennifer Preece, “Etiquette, Empathy and Trust in Communities of Practice: Stepping-Stones to Social Capital,” Journal of Universal Computer Science 10, number 3 (2004): 2, <http://www.jucs.org/jucs_10_3/etiquette_empathy_and_trust/Preece_J.html> (visited on May 16, 2005); Krogh, [“Care in Knowledge Creation”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:vonKrogh1998ckc), 136; Cormac Lawler, “Wikipedia as a Learning Community: Content, Conflict and the ‘Common Good’”, Wikimedia, 2005, <http://meta.wikimedia.org/wiki/Transwiki:Wikimania05/Paper-CL1> (visited on September 1, 2005).
 
 [^101]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-273)Sirkka Jarvenpaa and Dorothy Leidner, “Communication and Trust in Global Virtual Teams,” Organization Science 10, number 6 (November 1999): 792, <http://hyperion.math.upatras.gr/commorg/jarvenpaa/> (visited on March 13, 2004).
 
@@ -677,17 +687,17 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-275)Michael Sheeran, Beyond Majority Rule: Voteless Decisions in the Religious Society of Friends (Philadelphia, PA: Philadelphia Yearly Meeting, 1996), 66.
 
-[^104]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-276)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr).
+[^104]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-276)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr).
 
 [^105]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-277)For a seminal treatment of altruism, see Robert L. Trivers, “The Evolution of Reciprocal Altruism,” The Quarterly Review of Biology 46, number 1 (March 1971): 35–57, <http://www.jstor.org/stable/info/2822435> (visited on June 5, 2006). In a small survey of Wikipedians, there were many more “pure” or “pragmatic” altruists than “selfish” individualists, see Christian Wagner and Pattarawan Prasarnphanich, “Innovating Collaborative Content Creation: the Role of Altruism and Wiki Technology,” in Proceedings of the 40th Hawaii International Conference on System Sciences (Washington, DC: IEEE, 2007), <http://www2.computer.org/portal/web/csdl/doi/10.1109/HICSS.2007.277> (accessed July 23, 2009).
 
-[^106]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-278)Wikipedia, [“Wikipedia:WikiLove (oldid=267504430)”](#cite.0:Wikipedia2009wve).
+[^106]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-278)Wikipedia, [“Wikipedia:WikiLove (oldid=267504430)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009wve).
 
 [^107]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-279)Wikipedia, “Wikipedia:The World Will Not End Tomorrow,” Wikipedia, March 6, 2009, <http://en.wikipedia.org/?oldid=275454332> (visited on March 11, 2009).
 
 [^108]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-280)Wikipedia, “Wikipedia:Office Actions,” Wikipedia, June 23, 2008, <http://en.wikipedia.org/?oldid=221153805> (visited on July 1, 2008).
 
-[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-281)Jimmy Wales, “WikiEN-l] 2 Questions for Jimbo about WP:OFFICE and Things That Aren’t Labeled WP:OFFICE.,” wikien-l, April 24, 2006, <http://marc.info/?i=444CF750.7000300@wikia.com> (visited on April 24, 2006).
+[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-281)Jimmy Wales, “[WikiEN-l] 2 Questions for Jimbo about WP:OFFICE and Things That Aren’t Labeled WP:OFFICE.,” wikien-l, April 24, 2006, <http://marc.info/?i=444CF750.7000300@wikia.com> (visited on April 24, 2006).
 
 [^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-282)Wikimedia, “Conflicting Wikipedia Philosophies,” Wikimedia, 2007, <http://meta.wikimedia.org/w/index.php?title=Conflicting_Wikipedia_philosophies&amp> (visited on May 15, 2007).
 
@@ -701,7 +711,7 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^115]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-287)Bryan Derksen, “Re: Article Deletion (Proposed 1 Month Hiatus),” wikien-l, September 13, 2005, <http://marc.info/?i=432663FA.20806@shaw.ca> (accessed September 13, 2005).
 
-[^116]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-288)Wikipedia, [“Wikipedia:Please Do Not Bite the Newcomers (oldid=245559838)”](#cite.0:Wikipedia2008pdn).
+[^116]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-288)Wikipedia, [“Wikipedia:Please Do Not Bite the Newcomers (oldid=245559838)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008pdn).
 
 [^117]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-289)Wikipedia, “Wikipedia:Do Not Disrupt Wikipedia to Illustrate a Point”, Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275119939> (accessed March 6, 2009).
 
@@ -711,9 +721,9 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^120]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-292)Jimmy Wales, “Re: To: Jimmy Wales - Admin-Driven Death of Wikipedia”, wikien-l, June 4, 2006, <http://marc.info/?i=44833A94.3080606@wikia.com> (accessed June 4, 2006).
 
-[^121]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-293)Sanger, [“The Early History of Nupedia and Wikipedia”](#cite.0:Sanger2005ehn).
+[^121]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-293)Sanger, [“The Early History of Nupedia and Wikipedia”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sanger2005ehn).
 
-[^122]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-294)Wikipedia, [“Wikipedia:Policies and Guidelines (oldid=121662697)”](#cite.0:Wikipedia2007pg); wikis are said to be based on the concept that "people really can be polite and well mannered" in Leuf and Cunningham, [The Wiki Way](#cite.0:LeufCunningham2001wwq), 323.
+[^122]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-294)Wikipedia, [“Wikipedia:Policies and Guidelines (oldid=121662697)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007pg); wikis are said to be based on the concept that "people really can be polite and well mannered" in Leuf and Cunningham, [The Wiki Way](http://reagle.org/joseph/2010/gfc/references.html#cite.0:LeufCunningham2001wwq), 323.
 
 [^123]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-295)Wikipedia, “Wikipedia:Civility,” Wikipedia, May 28, 2006, <http://en.wikipedia.org/?oldid=55584755> (visited on May 28, 2006).
 
@@ -721,11 +731,11 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^125]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-297)Wikipedia, “Wikipedia:Civility,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275263680> (visited on March 6, 2009).
 
-[^126]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-298)Kingwell, [A Civil Tongue](#cite.0:Kingwell1995ctj), 249.
+[^126]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-298)Kingwell, [A Civil Tongue](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Kingwell1995ctj), 249.
 
-[^127]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-299)Wikipedia, [“Wikipedia:Civility (oldid=55584755)”](#cite.0:Wikipedia2006cty).
+[^127]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-299)Wikipedia, [“Wikipedia:Civility (oldid=55584755)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006cty).
 
-[^128]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-300)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr), Law 250.
+[^128]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-300)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr), Law 250.
 
 [^129]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-301)Steven Shapin, A Social History of Truth: Civility and the Science in Seventeenth-Century England (Chicago: University Of Chicago Press, 1994).
 
@@ -747,15 +757,15 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^138]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-310)Wikipedia, “Wikipedia:Assume Bad Faith,” Wikipedia, April 30, 2007, <http://en.wikipedia.org/?oldid=127274333> (visited on May 18, 2007).
 
-[^139]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-311)Wikipedia, [“Wikipedia:Neutral Point of View (oldid=6042007)”](#cite.0:Wikipedia2004npv).
+[^139]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-311)Wikipedia, [“Wikipedia:Neutral Point of View (oldid=6042007)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2004npv).
 
 [^140]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-312)Wikimedia, “Don’t Be Dense,” Wikimedia, March 27, 2006, <http://meta.wikimedia.org/?oldid=314371> (visited on April 12, 2006).
 
 [^141]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-313)Wikimedia, “AWWDMBJAWGCAWAIFDSPBATDMTD,” March 4, 2008, <http://meta.wikimedia.org/?oldid=903231> (visited on May 6, 2008).
 
-[^142]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-314)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](#cite.0:Wikipedia2009urr).
+[^142]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-314)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr).
 
-[^143]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-315)Schrage, [Shared Minds](#cite.0:Schrage1990smn), 164.
+[^143]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-315)Schrage, [Shared Minds](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schrage1990smn), 164.
 
 [^144]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-316)Wikipedia, “Wikipedia:Sarcasm Is Really Helpful,” Wikipedia, February 20, 2009, <http://en.wikipedia.org/?oldid=272003931> (visited on March 11, 2009).
 
@@ -763,8 +773,8 @@ In the case of the English Wikipedia, there is a collaborative culture that asks
 
 [^146]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-318)Christopher Thieme, “Incivility, re: Psychosis,” wikien-l, January 15, 2007, <http://marc.info/?i=b9bebe7a0701151206n42ebdbccse91c90af62c6ea98@mail.gmail.com> (visited on January 15, 2007).
 
-[^147]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-319)Wikipedia, [“Wikipedia:WikiLove (oldid=267504430)”](#cite.0:Wikipedia2009wve).
+[^147]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-319)Wikipedia, [“Wikipedia:WikiLove (oldid=267504430)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009wve).
 
-[^148]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-320)Leuf and Cunningham, [The Wiki Way](#cite.0:LeufCunningham2001wwq), 323.
+[^148]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-320)Leuf and Cunningham, [The Wiki Way](http://reagle.org/joseph/2010/gfc/references.html#cite.0:LeufCunningham2001wwq), 323.
 
 [^149]: [\*](http://reagle.org/joseph/2010/gfc/chapter-3.html#enmark-321)Wikipedia, “Wikipedia:Collaboration First,” Wikipedia, February 5, 2009, <http://en.wikipedia.org/?oldid=268796710> (visited on March 6, 2009).

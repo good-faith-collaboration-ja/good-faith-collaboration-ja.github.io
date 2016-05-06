@@ -434,7 +434,7 @@ GNE プロジェクトが告知。
 
 [^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-52)The full name is Encyclopédie, ou Dictionnaire Raisonné des Sciences, des Arts et des Métiers (Encyclopedia: Or, a Systematic Dictionary of the Sciences, Arts, and Crafts). Richard N. Schwab, “Introduction,” in Preliminary Discourse to the Encyclopedia of Diderot, ed. Richard N.  Schwab and Walter E. Rex (Indianapolis: ITT Bobbs-Merrill, 1963), xii
 
-[^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-53)Diderot, [“The Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:39), 283, 277.
+[^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-53)Diderot, [“The Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:39)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Diderot2001e), 283, 277.
 
 [^4]:
      [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-54)Richard R Yeo, Encyclopedic Visions: Scientific Dictionaries and Enlightenment Culture (Cambridge, UK: Cambridge University Press, 2001), 57, 244. The recurrence of the idea of the social need for information “across generations” is also a theme of W. Boyd Rayward, “The Origins of Information Science and the International Institute of Bibliography/International Federation of Information and Documentation (FID),” Journal of the American Society for Information Science 48 (April 1997): 290, [http://people.lis.uiuc.edu/\~wrayward/OriginsofInfoScience.pdf](http://people.lis.uiuc.edu/%7Ewrayward/OriginsofInfoScience.pdf) (visited on September 29, 2006).
@@ -467,34 +467,34 @@ GNE プロジェクトが告知。
 
 [^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-66)Robert B. Goldschmidt and Paul Otlet, “On a New Form of the Book: the Microphotographic Book,” in International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet, ed. W. Boyd Rayward (1906; Amsterdam: Elsevier, 1990), 93, 89.
 
-[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-67)Henri La Fontaine and Paul Otlet, “Creation of a Universal Bibliographic Repertory: a Preliminary Note,” in International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet, ed. W. Boyd Rayward (Amsterdam: Elsevier, 1990); Otlet, “Transformations in the Bibliographical Apparatus of the Sciences”[^15], 150.
+[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-67)Henri La Fontaine and Paul Otlet, “Creation of a Universal Bibliographic Repertory: a Preliminary Note,” in International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet, ed. W. Boyd Rayward (Amsterdam: Elsevier, 1990); Otlet, [“Transformations in the Bibliographical Apparatus of the Sciences”](/ch2/gfc-ja-ch2.html#fn:15)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Otlet1990tba)[^15], 150.
 
-[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-68)Rayward, “The Origins of Information Science”[^4], 290; W.  Boyd Rayward, “The Case of Paul Otlet, Pioneer of Information Science, Internationalist, Visionary: Reflections on Biography”, Journal of Librarianship and Information Science 23 (September 1991): 4, [http://people.lis.uiuc.edu/\~wrayward/otlet/PAUL\_OTLET\_REFLECTIONS\_ON\_BIOG.HTM](http://people.lis.uiuc.edu/%7Ewrayward/otlet/PAUL_OTLET_REFLECTIONS_ON_BIOG.HTM) (visited on September 20, 2006).
+[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-68)Rayward, [“The Origins of Information Science”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1997ois)[^4], 290; W.  Boyd Rayward, “The Case of Paul Otlet, Pioneer of Information Science, Internationalist, Visionary: Reflections on Biography”, Journal of Librarianship and Information Science 23 (September 1991): 4, [http://people.lis.uiuc.edu/\~wrayward/otlet/PAUL\_OTLET\_REFLECTIONS\_ON\_BIOG.HTM](http://people.lis.uiuc.edu/%7Ewrayward/otlet/PAUL_OTLET_REFLECTIONS_ON_BIOG.HTM) (visited on September 20, 2006).
 
-[^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-69)“Inventions a faire” is a phrase used to describe potential technological innovations by Paul Otlet, Traité De Documentation. Le Livre Sur Le Livre: Théorie Et Pratique, reprint (1934; Liège: Centre de Lecture publique de la Communauté française, 1989), 389-391, <http://hdl.handle.net/1854/5612> (visited on October 19, 2006). It is further discussed as “inventions to be discovered” by Rayward, “The Origins of Information Science”[^4], 18.
+[^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-69)“Inventions a faire” is a phrase used to describe potential technological innovations by Paul Otlet, Traité De Documentation. Le Livre Sur Le Livre: Théorie Et Pratique, reprint (1934; Liège: Centre de Lecture publique de la Communauté française, 1989), 389-391, <http://hdl.handle.net/1854/5612> (visited on October 19, 2006). It is further discussed as “inventions to be discovered” by Rayward, [“The Origins of Information Science”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1997ois), 18.
 
-    「Inventions a faire」は技術的革新の可能性を表現するのに Paul Otlet, Traité De Documentation. Le Livre Sur Le Livre: Théorie Et Pratique, reprint (1934; Liège: Centre de Lecture publique de la Communauté française, 1989), 389-391, <http://hdl.handle.net/1854/5612> (visited on October 19, 2006). で用いられたフレーズである。「見い出されるべき発明」として Rayward, “The Origins of Information Science”[^4], 18. でさらに議論されている。
+    「Inventions a faire」は技術的革新の可能性を表現するのに Paul Otlet, Traité De Documentation. Le Livre Sur Le Livre: Théorie Et Pratique, reprint (1934; Liège: Centre de Lecture publique de la Communauté française, 1989), 389-391, <http://hdl.handle.net/1854/5612> (visited on October 19, 2006). で用いられたフレーズである。「見い出されるべき発明」として Rayward, [“The Origins of Information Science”](/ch2/gfc-ja-ch2.html#fn:4)[^4], 18. でさらに議論されている。
 
 [^20]:
     [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-70)While Otlet’s occasional use of superlatives and the many interrelated projects, which underwent various merges and name changes, can make it difficult, if not foolish, to speak of any single project or institution, I will limit myself to speaking of the IIB.
     
     オトレがときに強調表現を使うこと、相互に関連するプロジェクトが多数あることにより、どの単一のプロジェクトや制度について語ることも馬鹿馬鹿しいとはいえないまでも困難になりうるが、ここではIIBについて述べるにとどめる。
 
-[^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-71)Ibidem[^4], 7.
+[^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-71)[Ibidem](/ch2/gfc-ja-ch2.html#fn:4)[\*](/ch2/gfc-ja-ch2.html#fn:4)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1997ois)[^4], 7.
 
-[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-72)Rayward, [“Visions of Xanadu”](/ch1/gfc-ja-ch1.html#fn:48), 7, 14; Rayward, “The Origins of Information Science”[^4], 293.
+[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-72)Rayward, [“Visions of Xanadu”](/ch1/gfc-ja-ch1.html#fn:48), 7, 14; Rayward, [“The Origins of Information Science”](/ch2/gfc-ja-ch2.html#fn:4)[\*](/ch2/gfc-ja-ch2.html#fn:4)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1997ois)[^4], 293.
 
 [^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-73)I.C.  McIlwaine, Notes & Queries (The Hague: UDC Consortium, February 4, 2006), <http://www.udcc.org/notes.htm> (visited on October 19, 2006).
 
-[^24]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-74)Rayward, “The Origins of Information Science”[^4], 294.
+[^24]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-74)Rayward, [“The Origins of Information Science”](/ch2/gfc-ja-ch2.html#fn:4)[\*](/ch2/gfc-ja-ch2.html#fn:4)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1997ois)[^4], 294.
 
 [^25]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-75)David Weinberger, Everything Is Miscellaneous: the Power of the New Digital Disorder (New York: Times Books, 2007), 92; also see Alex Wright, *Glut: Mastering Information through the Ages* (Washington, DC: John Henry Press, 2008), <http://books.google.com/books?id=nHWxPtId3RUC> (visited on January 6, 2009).
 
-[^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-76)Otlet’s "monographic principle" is similar to Ostwald’s "principle of the independent use of the individual piece"; for discussion of the possible origins and relations of these notions, see Hapke, “Wilhelm Ostwald, the ‘Brücke’ (Bridge), and Connections to Other Bibliographic Activities at the Beginning of the 20th Century”[^12], 143.
+[^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-76)Otlet’s "monographic principle" is similar to Ostwald’s "principle of the independent use of the individual piece"; for discussion of the possible origins and relations of these notions, see Hapke, [“Wilhelm Ostwald, the ‘Brücke’ (Bridge), and Connections to Other Bibliographic Activities at the Beginning of the 20th Century”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hapke1999wob)[^12], 143.
 
-    オトレの「モノグラフ原理」は Ostwald の「個々の断片を独立に使用するという原理」と似ている。こうした考えの原点や関係に関する議論については次を見よ。Hapke, “Wilhelm Ostwald, the ‘Brücke’ (Bridge), and Connections to Other Bibliographic Activities at the Beginning of the 20th Century”[^12], 143.
+    オトレの「モノグラフ原理」は Ostwald の「個々の断片を独立に使用するという原理」と似ている。こうした考えの原点や関係に関する議論については次を見よ。Hapke, [“Wilhelm Ostwald, the ‘Brücke’ (Bridge), and Connections to Other Bibliographic Activities at the Beginning of the 20th Century”](/ch2/gfc-ja-ch2.html#fn:12)[^12], 143.
 
-[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-77)Otlet, “Transformations in the Bibliographical Apparatus of the Sciences”[^15], 149.
+[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-77)Otlet, [“Transformations in the Bibliographical Apparatus of the Sciences”](/ch2/gfc-ja-ch2.html#fn:15)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Otlet1990tba)[^15], 149.
 
 [^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-78)Paul Otlet, “Something about Bibliography,” in International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet, ed. W. Boyd Rayward (Amsterdam: Elsevier, 1990), 17.
 
@@ -502,9 +502,9 @@ GNE プロジェクトが告知。
 
 [^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-80)Paul Otlet, “The Science of Bibliography and Documentation,” in International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet, ed. W. Boyd Rayward (1903; Amsterdam: Elsevier, 1990), 83.
 
-[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-81)Ibidem[^30], 83-84.
+[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-81)[Ibidem](/ch2/gfc-ja-ch2.html#fn:30)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Otlet1990sbd)[^30], 83-84.
 
-[^32]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-82)Rayward, [“Visions of Xanadu”](/ch1/gfc-ja-ch1.html#fn:48).
+[^32]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-82)Rayward, [“Visions of Xanadu”](/ch1/gfc-ja-ch1.html#fn:48)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1994vxp).
 
 [^33]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-83)Alex Wright, “The Web Time Forgot,” The New York Times (June 17, 2008), <http://www.nytimes.com/2008/06/17/science/17mund.html?pagewanted=print> (accessed June 17, 2008).
 
@@ -518,23 +518,23 @@ GNE プロジェクトが告知。
 
 [^38]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-88)The dystopian character of such technology use by the state is noted by Rayward, “H.G. Wells’s Idea of a World Brain”[^34] and Muddiman, “The Universal Library as Modern Utopia”[^37]
 
-    国家により使われる技術のディストピア的性質は Rayward, “H.G. Wells’s Idea of a World Brain”[^34] と Muddiman, “The Universal Library as Modern Utopia”[^37] で指摘されている。
+    国家により使われる技術のディストピア的性質は Rayward, [“H.G. Wells’s Idea of a World Brain”](/ch2/gfc-ja-ch2.html#fn:34)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1999hgw)[^34] と Muddiman, [“The Universal Library as Modern Utopia”](/ch2/gfc-ja-ch2.html#fn:37)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Muddiman1998ula)[^37] で指摘されている。
 
 [^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-89)H. G.  Wells, Julian S. Huxley, and G. P. Wells, The Science of Life: A Summary of Contemporary Knowledge about Life and Its Possibilities I,II,III (Garden City, NY: Doubleday, Doran, 1931), 1451.
 
-[^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-90)Otlet, “Something about Bibliography”[^28], 17; Hapke, “Wilhelm Ostwald, the ‘Brücke’ (Bridge), and Connections to Other Bibliographic Activities at the Beginning of the 20th Century”[^12], 141.
+[^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-90)Otlet, [“Something about Bibliography”](/ch2/gfc-ja-ch2.html#fn:28)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Otlet1990sab)[^28], 17; Hapke, [“Wilhelm Ostwald, the ‘Brücke’ (Bridge), and Connections to Other Bibliographic Activities at the Beginning of the 20th Century”](/ch2/gfc-ja-ch2.html#fn:12)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hapke1999wob)[^12], 141.
 
-[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-91)Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8), 919-921; Wells, Huxley, and Wells, The Science of Life[^39], 1471; Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8), 924.
+[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-91)Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells1936iwe), 919-921; Wells, Huxley, and Wells, [The Science of Life](/ch2/gfc-ja-ch2.html#fn:39)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:WellsHuxleyWells1931sls)[^39], 1471; Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells1936iwe), 924.
 
 [^42]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-92)H.G.  Wells, World Brain (London: Methuen, 1938), 54, 49.
 
-[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-93)Wells, A Modern Utopia[^35], §5.
+[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-93)Wells, [A Modern Utopia](/ch2/gfc-ja-ch2.html#fn:35)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells2004mu)[^35], §5.
 
-[^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-94)Wells, World Brain[^42], 55.
+[^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-94)Wells, [World Brain](/ch2/gfc-ja-ch2.html#fn:42)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells1938wb)[^42], 55.
 
-[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-95)Wikipedia, [“Wikipedia:Neutral Point of View (oldid=249390830)”](/ch1/gfc-ja-ch1.html#fn:38).
+[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-95)Wikipedia, [“Wikipedia:Neutral Point of View (oldid=249390830)”](/ch1/gfc-ja-ch1.html#fn:38)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008npv).
 
-[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-96)Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8), 921.
+[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-96)Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells1936iwe), 921.
 
 [^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-97)Wells habit of working with others’ work at hand is mentioned in H.G. Wells, Experiment in Autobiography: Discoveries and Conclusions of a Very Ordinary Brain (since 1866) (New York: The Macmillan Company, 1934), 614-618. Accusations of plagiari sm are recounted in A. B. McKillop, The Spinster and the Prophet (New York: 4 Walls 8 Windows, 2002).
 
@@ -548,15 +548,15 @@ GNE プロジェクトが告知。
 
 [^52]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-102)Theodor Holm Nelson, Literary Machines: The Report on, and of, Project Xanadu concerning Word Processing, Electronic Publishing, Hypertext, Thinkertoys, Tomorrow’s Intellectual Revolution, and Certain Other Topics Including Knowledge, Education and Freedom, 91.1 (Sausalito, CA: Mindful Press, 1992), dedications, and chap. 0.
 
-[^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-103)Rayward, [“Visions of Xanadu”](/ch1/gfc-ja-ch1.html#fn:48).
+[^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-103)Rayward, [“Visions of Xanadu”](/ch1/gfc-ja-ch1.html#fn:48)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Rayward1994vxp).
 
 [^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-104)Project Xanadu, “Project Xanadu History,” May 23, 2001, <http://www.xanadu.com/HISTORY/> (visited on November 7, 2008).
 
-[^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-105)Nelson, Literary Machines[^52].
+[^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-105)Nelson, [Literary Machines](/ch2/gfc-ja-ch2.html#fn:52)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Nelson1992lmr)[^52].
 
 [^56]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-106)Kevin Kelly, “We Are the Web,” Wired 13, number 08 (August 2005), <http://www.wired.com/wired/archive/13.08/tech_pr.html> (visited on September 13, 2007).
 
-[^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-107)Nelson, Literary Machines[^52], 0/13.
+[^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-107)Nelson, [Literary Machines](/ch2/gfc-ja-ch2.html#fn:52)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Nelson1992lmr)[^52], 0/13.
 
 [^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-108)H.G.  Wells, “H. G. Wells,” in I Believe; The Personal Philosophies of Certain Eminent Men and Women of Our Time, Edited, with an Introduction and Biographical Notes, by Clifton Fadiman, ed. Clifton Fadiman (New York: Simon & Schuster, 1939), 422-423.
 
@@ -568,23 +568,23 @@ GNE プロジェクトが告知。
 
 [^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-111)Project Xanadu, “Project Xanadu,” June 16, 2007, <http://xanadu.com/> (accessed November 7, 2008); also see Theodor Holm Nelson, “I Don’t Buy in,” January 8, 2003, <http://ted.hyperland.com/buyin.txt> (visited on November 7, 2008).
 
-[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-112)A concise history of hypertext can be found in chapter 11 of Wright, *Glut*[^25].
+[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-112)A concise history of hypertext can be found in chapter 11 of Wright, [*Glut*](/ch2/gfc-ja-ch2.html#fn:25)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wright2008gmi)[^25].
 
 [^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-113)Michael Hart, “History and Philosophy of Project Gutenberg,” Project Gutenberg, August 1992, <http://www.gutenberg.org/about/history> (visited on October 29, 2005).
 
 [^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-114)Michael Hart, “Historical Draft on Digital Encyclopedias,” email message to author, January 3, 2006, doi:[](http://dx.doi.org/Pine.LNX.4.60.0601031407550.5063@pglaf.org)[Pine.LNX.4.60.06010314 07550.5063@pglaf.org](http://reagle.org/joseph/2010/gfc/Pine.LNX.4.60.0601031407550.5063@pglaf.org); Robert Hobbes Zakon, “Hobbes’ Internet Timeline V8.1,” 2005, <http://www.zakon.org/robert/internet/timeline/> (visited on January 6, 2006).
 
-[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-115)Hart, “History and Philosophy of Project Gutenberg”[^63].
+[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-115)Hart, [“History and Philosophy of Project Gutenberg”](/ch2/gfc-ja-ch2.html#fn:63)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hart1992hpp)[^63].
 
 [^66]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-116)Marie Lebert, “Michael Hart: Changing the World through E-Books,” Project Gutenberg, June 21, 2004, <http://pge.rastko.net/about/marie_lebert> (accessed October 29, 2005).
 
-[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-117)Hart, “Historical Draft on Digital Encyclopedias”[^64].
+[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-117)Hart, [“Historical Draft on Digital Encyclopedias”](/ch2/gfc-ja-ch2.html#fn:64)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hart2006hdo)[^64].
 
 [^68]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-118)Distributed Proofreaders, “Beginning Proofreaders’ Frequently Asked Questions”, Project Gutenberg’s Distributed Proofreaders, May 27, 2004, <http://www.pgdp.net/c/faq/ProoferFAQ.php> (visited on October 29, 2005).
 
 [^69]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-119)Yochai Benkler, “Coase’s Penguin, or, Linux and the Nature of the Firm,” The Yale Law Journal 112, number 3 (2002): 369–446, <http://www.jstor.org/stable/1562247> (visited on January 15, 2003); Lee Sproull, “Online Communities,” in The Internet Encyclopedia, ed. Hossein Bidgoli (New York: John Wiley, 2003), 733–744.
 
-[^70]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-120)Nelson, Literary Machines[^52], 0/7.
+[^70]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-120)Nelson, [Literary Machines](/ch2/gfc-ja-ch2.html#fn:52)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Nelson1992lmr)[^52], 0/7.
 
 [^71]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-121)For discussion of these issues see the thread following Holden McGroin, “Encyclopaedia Britannica,” December 14, 2002, <http://osdir.com/ml/culture.literature.e-books.gutenberg.volunteers/2002-12/msg00016.html> (visited on June 17, 2008).
 
@@ -599,7 +599,7 @@ GNE プロジェクトが告知。
 
     EB11の内容のとりこみおよびウィキペディアの解説に欠けている話題の特定のためにそれを使うことについての議論は次で確認できる。Wikipedia, “Wikipedia:1911 Encyclopedia Topics,” Wikipedia, January 20, 2008, <http://en.wikipedia.org/?oldid=185703554> (visited on June 28, 2008); Wikipedia, “Wikipedia:1911 Encyclopaedia Britannica,” Wikipedia, June 24, 2008, <http://en.wikipedia.org/?oldid=221369034> (visited on June 28, 2008); Wikipedia, “Wikipedia Talk:1911 Encyclopaedia Britannica,” Wikipedia, June 22, 2008, <http://en.wikipedia.org/?oldid=221064825> (visited on June 28, 2008).
 
-[^75]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-125)Hart, “Historical Draft on Digital Encyclopedias”[^64].
+[^75]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-125)Hart, [“Historical Draft on Digital Encyclopedias”](/ch2/gfc-ja-ch2.html#fn:64)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hart2006hdo)[^64].
 
 [^76]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-126)bowerbird, “The Heart and Soul of Project Gutenberg,” January 30, 2004, <http://osdir.com/ml/culture.literature.e-books.gutenberg.volunteers/2004-01/msg00332.html> (visited on June 17, 2008).
 
@@ -609,13 +609,13 @@ GNE プロジェクトが告知。
 
 [^79]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-129)WAIS was developed by Brewster Kahle, Internet entrepreneur and founder of the Internet Archive – a resource I often use to find sources that are no longer available on the Web. Throughout his career he has been an advocate for "universal access to all of human knowledge," see Joseph Menn, “Net Archive Turns Back 10 Billion Pages of Time”, dvd-discuss, October 25, 2001, <http://cyber.law.harvard.edu/archive/dvd-discuss/msg15687.html> (visited on March 3, 2008); Roy Rosenzweig, “Scarcity or Abundance?  Preserving the past and the Digital Era,” American Historical Review 108, number 3 (June 2003): 735–762, <http://www.historycooperative.org/journals/ahr/108.3/rosenzweig.html> (accessed March 3, 2008).
 
-[^80]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-130)Wilson and Reynard, “Interpedia Frequently Asked Questions and Answers”[^77], Q2.6.
+[^80]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-130)Wilson and Reynard, [“Interpedia Frequently Asked Questions and Answers”](/ch2/gfc-ja-ch2.html#fn:77)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:WilsonReynard1994ifa)[^77], Q2.6.
 
-[^81]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-131)Ibidem[^77], Q1.2, Q1.1, Q4.5.
+[^81]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-131)[Ibidem](/ch2/gfc-ja-ch2.html#fn:77)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:WilsonReynard1994ifa)[^77], Q1.2, Q1.1, Q4.5.
 
-[^82]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-132)Ibidem[^77], Q4.2.
+[^82]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-132)[Ibidem](/ch2/gfc-ja-ch2.html#fn:77)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:WilsonReynard1994ifa)[^77], Q4.2.
 
-[^83]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-133)Ibidem[^77], Q3.5.2.
+[^83]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-133)[Ibidem](/ch2/gfc-ja-ch2.html#fn:77)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:WilsonReynard1994ifa)[^77], Q3.5.2.
 
 [^84]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-134)Foster Stockwell, A History of Information Storage and Retrieval (Jefferson, NC: Macfarlane, 2001), <http://books.google.com/books?id=bYGrRynxtMUC> (accessed February 23, 2005).
 
@@ -631,17 +631,17 @@ GNE プロジェクトが告知。
 
 [^90]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-140)Larry Sanger, “The Early History of Nupedia and Wikipedia: a Memoir”, Slashdot, April 18, 2005, <http://features.slashdot.org/article.pl?sid=05/04/18/164213> (visited on April 19, 2005).
 
-[^91]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-141)Gouthro, “Building the World’s Biggest Encyclopedia”[^9].
+[^91]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-141)Gouthro, [“Building the World’s Biggest Encyclopedia”](/ch2/gfc-ja-ch2.html#fn:9)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Gouthro2000bwb)[^9].
 
 [^92]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-142)Larry Sanger, “I Am a Clueless Newbie,” nupedia-l, March 9, 2000, <http://web.archive.org/web/20030822044803/http://www.nupedia.com/pipermail/nupedia-l/2000-March/000003.html> (visited on June 7, 2006).
 
-[^93]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-143)Wales, “Hi...”[^1]
+[^93]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-143)Wales, [“Hi...”](/ch2/gfc-ja-ch2.html#fn:1)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2000h)[^1]
 
 [^94]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-144)Larry Sanger, “602 Members,” nupedia-l, March 15, 2000, <http://web.archive.org/web/20030822044803/http://www.nupedia.com/pipermail/nupedia-l/2000-March/000022.html> (visited on June 7, 2006).
 
 [^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-145)Nupedia, “Nupedia.Com Editorial Policy Guidelines,” November 16, 2000, <http://web.archive.org/web/20010410002647/www.nupedia.com/policy.shtml> (accessed October 24, 2005).
 
-[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-146)Sanger, “The Early History of Nupedia and Wikipedia”[^90].
+[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-146)Sanger, [“The Early History of Nupedia and Wikipedia”](/ch2/gfc-ja-ch2.html#fn:90)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sanger2005ehn)[^90].
 
 [^97]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-147)The steps of the Nupedia process are excerpted within a case study of Wikipedia: Karim R. Lakhani and Andrew P. Mcafee, Case Study: Wikipedia (Harvard Business School, January 30, 2007), <http://courseware.hbs.edu/public/cases/wikipedia/> (accessed February 23, 2007).
 
@@ -653,7 +653,7 @@ GNE プロジェクトが告知。
 
 [^101]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-151)Erik Moeller, “Quality.Wikimedia.Org and Wikiquality-l Launched,” Wikimedia, September 17, 2007, <http://marc.info/?i=b80736c80709171358g6fd70693wadd14047e739a69f@mail.gmail.com> (visited on September 18, 2007); Wikimedia, “Wikiquality/Portal,” Wikimedia, April 14, 2009, <http://meta.wikimedia.org/?oldid=1459225> (visited on June 3, 2009).
 
-[^102]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-152)Stallman, “The Free Universal Encyclopedia and Learning Resource”[^100].
+[^102]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-152)Stallman, [“The Free Universal Encyclopedia and Learning Resource”](/ch2/gfc-ja-ch2.html#fn:100)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stallman1999fue)[^100].
 
 [^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-153)Richard Stallman, “Wale’s Explaination of the Stallman Incident,” wikipedia-l, October 27, 2005, <http://marc.theaimsgroup.com/?l=wikipedia-l&m=113042306304247> (visited on October 27, 2005).
 
@@ -661,15 +661,15 @@ GNE プロジェクトが告知。
 
 [^105]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-155)Tim Berners-Lee, James Hendler, and Ora Lassila, “The Semantic Web”, Scientific American Magazine (May 17, 2001), <http://www.sciam.com/article.cfm?id=the-semantic-web&print=true> (accessed March 26, 2008).
 
-[^106]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-156)Berners-Lee, Weaving the Web[^104], 67.
+[^106]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-156)Berners-Lee, [Weaving the Web](/ch2/gfc-ja-ch2.html#fn:67)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo)[^104], 67.
 
-[^107]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-157)Ibidem[^105], 70.
+[^107]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-157)[Ibidem](/ch2/gfc-ja-ch2.html#fn:67)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo)[^104], 70.
 
 [^108]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-158)Ben Kovitz, “User:BenKovitz,” Wikipedia, February 23, 2009, <http://en.wikipedia.org/?oldid=272830137> (visited on February 24, 2009).
 
 [^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-159)Larry Sanger, “Let’s Make a Wiki,” Nupedia, January 10, 2001, <http://web.archive.org/web/20030414014355/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html> (visited on November 15, 2005).
 
-[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-160)Wikipedia, “History of Wikipedia (oldid=262685944)”[^16].
+[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-160)Wikipedia, [“History of Wikipedia (oldid=262685944)”](/ch2/gfc-ja-ch2.html#fn:16)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009hw)[^16].
 
 [^111]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-161)Larry Sanger, “Wikipedia Is Now Useful!,” Wikipedia, June 26, 2001, <http://en.wikipedia.org/wiki/Wikipedia:Announcements_2001#June_26.2C_2001> (visited on November 15, 2005).
 
@@ -679,7 +679,7 @@ GNE プロジェクトが告知。
 
 [^114]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-164)Keith Hopper, “Odd Wiki CollectiveProblemSolving: Homepage,” March 20, 2008, <http://www.communitywiki.org/odd/CollectiveProblemSolving/HomePage> (visited on March 20, 2008).
 
-[^115]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-165)Sanger, “The Early History of Nupedia and Wikipedia”[^90].
+[^115]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-165)Sanger, [“The Early History of Nupedia and Wikipedia”](/ch2/gfc-ja-ch2.html#fn:90)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sanger2005ehn)[^90].
 
 [^116]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-166)Larry Sanger, “Re: Admins (I Suspect LMS) Permanently Deleting Things”, wikipedia-l, November 4, 2001, <http://marc.info/?l=wikipedia-l&m=104216623606507&w=2> (visited on November 4, 2001).
 
@@ -687,10 +687,10 @@ GNE プロジェクトが告知。
 
 [^118]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-168)Citizendium, “Citizendium,” Citizendium, June 17, 2008, <http://en.citizendium.org/?oldid=100354482> (visited on June 30, 2008).
 
-[^119]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-169)The latest “co-founding” controversy was prompted by an interview with Jimmy Wales when he agreed with an interviewer’s question that Sanger’s claims were shaky because “he basically just put himself down as co-founder” on early press releases, in Ian Johns and Jimmy Wales, “Interview with Wikipedia Founder Jimmy Wales,” Big Oak SEO Blog, April 2, 2009, <http://www.bigoakinc.com/blog/interview-with-wikipedia-founder-jimmy-wales/> (accessed April 9, 2009). This prompted an “open letter” from Larry Sanger, “An Open Letter to Jimmy Wales,” wikien-l, April 9, 2009, <http://marc.info/?i=CDBFF612F0E04950A50B6F751478E1E9@D7WRQ591> (visited on April 9, 2009). Interestingly, the most credible and detailed account of the birth of the Wikipedia idea differs from both Wales’ and Sanger’s recollections, see Kovitz, “User:BenKovitz (oldid=272830137)”[^108].
+[^119]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-169)The latest “co-founding” controversy was prompted by an interview with Jimmy Wales when he agreed with an interviewer’s question that Sanger’s claims were shaky because “he basically just put himself down as co-founder” on early press releases, in Ian Johns and Jimmy Wales, “Interview with Wikipedia Founder Jimmy Wales,” Big Oak SEO Blog, April 2, 2009, <http://www.bigoakinc.com/blog/interview-with-wikipedia-founder-jimmy-wales/> (accessed April 9, 2009). This prompted an “open letter” from Larry Sanger, “An Open Letter to Jimmy Wales,” wikien-l, April 9, 2009, <http://marc.info/?i=CDBFF612F0E04950A50B6F751478E1E9@D7WRQ591> (visited on April 9, 2009). Interestingly, the most credible and detailed account of the birth of the Wikipedia idea differs from both Wales’ and Sanger’s recollections, see Kovitz, [“User:BenKovitz (oldid=272830137)”](/ch2/gfc-ja-ch2.html#fn:108)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Kovitz2009ub)[^108].
 
 [^120]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-170)Herb Brody, “Great Expectations: Why Technology Predictions Go Awry”, chapter 9 in Technology and the Future, 7th edition, ed. Albert H. Teich (New York: St. Martin’s Press, 1997); Paul Ceruzzi, “An Unforseen Revolution: Computers and Expectations, 1935-1985,” chapter 10 in Technology and the Future, 7th edition, ed. Albert H. Teich (New York: St. Martin’s Press, 1997).
 
-[^121]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-171)Sanger, “The Early History of Nupedia and Wikipedia”[^90].  An example of early uncertainty about the character of Wikipedia, and the origins of the talk/discussion page, is seen in an early experience with Wikipedia: “If Wikipedia is to be an encyclopedia, then it probably is not appropriate to have threaded discussions on a subject page,” by Timothy Shell, “A Few Comments about Wikipedia,” wikipedia-l, January 27, 2001, <http://markmail.org/message/lviwxgwjlpvrqph5> (visited on April 1, 2009).
+[^121]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-171)Sanger, [“The Early History of Nupedia and Wikipedia”](/ch2/gfc-ja-ch2.html#fn:90)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sanger2005ehn)[^90].  An example of early uncertainty about the character of Wikipedia, and the origins of the talk/discussion page, is seen in an early experience with Wikipedia: “If Wikipedia is to be an encyclopedia, then it probably is not appropriate to have threaded discussions on a subject page,” by Timothy Shell, “A Few Comments about Wikipedia,” wikipedia-l, January 27, 2001, <http://markmail.org/message/lviwxgwjlpvrqph5> (visited on April 1, 2009).
 
 [^122]: [\*](http://reagle.org/joseph/2010/gfc/chapter-2.html#enmark-172)Ted Pappas citing G. Donald Hudson, Walter Yust, eds., \*Encyclopædia Britannica World Atlas\* (Chicago: Britannica, 1956), as confirmed and identified to me by Tom Panelas, director of Britannica corporate communications, from A. J. Jacobs, The-Know-It-All: One Man’s Humble Quest to Become the Smartest Person in the World (New York: Simon & Schuster, 2004), 341, <http://books.google.com/books?id=VQ3kPyFWfxYC> (visited on April 3, 2006).
