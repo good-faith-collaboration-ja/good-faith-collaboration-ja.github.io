@@ -181,7 +181,7 @@ Wales once described his approach to me as “I like to think I’m not stupid, 
 {:.srclang}
 >a willingness to apologize: when Wales recommended some text be added to a page when it was already present he wrote, “Ok, my mistake, I’m very very sorry. I didn’t see that. I apologize for any confusion.”[^33]
 
-> 謝罪する意思：あるページにすでにある文章をそこに追加するようすすめたとき、「ああ、私のミスです。本当にすみません。そこを見ていませんでした。混乱させてしまったらすみません。」と書いた。[^32]
+> 謝罪する意思：あるページにすでにある文章をそこに追加するようすすめたとき、「ああ、私のミスです。本当にすみません。そこを見ていませんでした。混乱させてしまったらすみません。」と書いた。[^33]
 
 {:.srclang}
 Additionally, humor serves to further camaraderie and diffuse anxiety about leadership. In response to a message about an April Fool’s Day joke about Wales as dictator, someone responded that many prominent Wikipedians make jokes:
