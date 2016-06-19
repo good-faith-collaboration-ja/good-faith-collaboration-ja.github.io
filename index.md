@@ -19,8 +19,8 @@ title: "Good Faith Collaboration: The Culture of Wikipedia （『善意にもと
     * 脚注・参考文献リストの翻訳：100% (2016-06)
     * 脚注・参考文献の相互リンク：100% (2016-06)
 * [第4章 開放性のパズル](ch4/gfc-ja-ch4.html) - 原題 *[The Puzzle of Openness](http://reagle.org/joseph/2010/gfc/chapter-4.html)*
-    * 脚注・参考文献リストの翻訳：0%
-    * 脚注・参考文献の相互リンク：0%
+    * 脚注・参考文献リストの翻訳：50%
+    * 脚注・参考文献の相互リンク：60%
 * [第5章 合意という難題](ch5/gfc-ja-ch5.html) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
     * 脚注・参考文献リストの翻訳：0%
     * 脚注・参考文献の相互リンク：0%

@@ -346,7 +346,7 @@ However, this balance can lead to ambiguities that prompt discussion, such as th
 {:.srclang}
 > Perhaps you could clarify that this was not done in your role as trustee. I don’t believe it was, as you did not consult with Angela and Anthere [two other trustees], so I consider it just like an edit by any other Wikipedia editor, only that, of course, you hope that people will take it more seriously because of the reputation that comes with your role in the project, past and present. That’s completely reasonable, if done rarely and in cases you consider important.
 
-> 理事としての立場でこれをしたのではないと明確化しておいてはどうでしょうか。アンジェラとも Anthere とも（両者は理事である）相談していなかったことから、そうではなかったのだと私は思います。ですから、私はこれを、ほかのどのウィキペディア編集者の編集とも同じようにとらえます。ただ、もちろん、あなたの過去と現在のプロジェクト内の立場からくる名声のために、他の人にもっと真剣にうけとられると期待できるでしょうが。あなたが重要だと思う場合に、まれにしか行われないかぎりは、それはまったく妥当なことです。
+> 理事としての立場でこれをしたのではないと明確化しておいてはどうでしょうか。アンジェラとも Anthere とも（両者は理事である）相談していなかったことから、そうではなかったのだと私は思います。ですから、私はこれを、ほかのどのウィキペディア編集者の編集とも同じようにとらえます。ただ、もちろん、あなたの過去と現在のプロジェクト内の立場からくる名声のために、他の人にもっと真剣にうけとられると期待できるでしょうが。あなたが重要だと思う場合に、まれにしか行われないかぎりは、それはまったく理にかなったことです。
 
 {:.srclang}
 > The page is currently being edit warred over, and one editor uses the comment “rv [revert] to Jimbo’s approved version.” It would be helpful if you could state here that you are not in the business of approving articles. I believe your edit summary “This image is completely unacceptable for Wikipedia” could be misconstrued to be an official statement, when it is your personal opinion. Some people still see Wikimedia as being governed by a benevolent dictator, and any explanation would help to eliminate that misconception.
@@ -401,7 +401,7 @@ Wales’ conception of his role was further developed and articulated on the “
 {:.srclang}
 > But it is also a role of “constitutional” importance, in the sense that everyone who is party to the discussion can feel comfortable that whatever agreements are reached will be *binding*, that there is a higher enforcement mechanism. It’s not up to me to *impose* a solution, nor is it up to me directly to *enforce* a solution chosen by the community, but I do play a role in guaranteeing with my personal promise that valid solutions decided by the community in a reasonable fashion will be enforced by someone….
 
-> ただしそれは、議論に参加する人がみな合意事項には*拘束力*があり、上位の執行機関があると納得できるという意味で、「立憲的」に重要な役割でもあります。私は解決策を*強制*したり、コミュニティが選んだ解決策を直接*執行*したりする立場にはありませんが、合理的なやりかたでコミュニティが決定した正当な解決策が誰かによって執行されるというわたし の個人的約束を維持するのに私は寄与します。
+> ただしそれは、議論に参加する人がみな合意事項には*拘束力*があり、上位の執行機関があると納得できるという意味で、「立憲的」に重要な役割でもあります。私は解決策を*強制*したり、コミュニティが選んだ解決策を直接*執行*したりする立場にはありませんが、合理的なやりかたでコミュニティが決定した正当な解決策が誰かによって執行されるというわたしの個人的約束を維持するのに私は寄与します。
 
 {:.srclang}
 > And notice, too, that I believe such authority should be replaced as time goes along by institutions within the community, such as for example the ArbCom in en.wikipedia.org, or by community votes in de.wikipedia.org, etc.

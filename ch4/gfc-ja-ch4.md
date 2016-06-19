@@ -519,13 +519,13 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^9]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-330)Samuel Bowles and Herbert Gintis, “The Moral Economy of Communities: Structured Populations and the Evolution of Pro-Social Norms,” Evolution & Human Behavior 19, number 1 (1998): 3–25, <http://www.umass.edu/preferen/gintis/prosocial.pdf> (visited on December 11, 2006); Lee Sproull, Caryn A. Conley, and Jae Yun Moon, “Prosocial Behavior on the Net,” chapter 6 in The Social Net: the Social Psychology of the Internet, ed. Yair Amichahi-Hamburger (Oxford: Oxford University Press, 2004), 139–162, [http://pages.stern.nyu.edu/\~cconley/Prosocial.pdf](http://pages.stern.nyu.edu/%7Ecconley/Prosocial.pdf) (visited on April 24, 2003).
 
-[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-331)Reagle, [“Open Content Communities”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Reagle2004occ); Joseph Reagle, “Open Communities and Closed Law,” in In the Shade of the Commons -Towards a Culture of Open Networks, ed. Lipika Bansal, Paul Keller, and Geert Lovink (Waag Society Amsterdam, December 2006), 165–167, <http://reagle.org/joseph/2006/10/10-open-community-closed-law> (visited on January 23, 2007).
+[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-331)Reagle, [“Open Content Communities”](/ch4/gfc-ja-ch4.html#fn:7)[^7][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Reagle2004occ); Joseph Reagle, “Open Communities and Closed Law,” in In the Shade of the Commons -Towards a Culture of Open Networks, ed. Lipika Bansal, Paul Keller, and Geert Lovink (Waag Society Amsterdam, December 2006), 165–167, <http://reagle.org/joseph/2006/10/10-open-community-closed-law> (visited on January 23, 2007).
 
 [^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-332)Richard M. Stallman, “The Free Software Definition,” GNU, 2005, <http://www.gnu.org/philosophy/free-sw.html> (visited on April 5, 2006); OSI, “The Open Source Definition,” OSI, July 24, 2006, <http://www.opensource.org/docs/definition.php> (visited on November 7, 2007); Freedom Defined, “Definition of Free Cultural Works”, Freedom Defined, December 1, 2008, <http://freedomdefined.org/Definition> (accessed July 7, 2009).
 
-[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-333)See Chris Dibona, Sam Ockman, and Mark Stone, Open Sources: Voices from the Open Source Revolution (Sebastopol, CA: O’Reilly, 1999), <http://oreilly.com/catalog/opensources/book/toc.html> (visited on December 10, 2005); Sam Williams, Free as in Freedom: Richard Stallman’s Crusade for Free Software (Sebastopol, CA: O’Reilly, 2002), <http://oreilly.com/openbook/freedom/index.html> (visited on April 29, 2004); Weber, [The Success of Open Source](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber2004sos); Samir Chopra and Scott Dexter, Decoding Liberation: the Promise of Free and Open Source Software (New York: Routledge, 2007), [http://www.sci.brooklyn.cuny.edu/\~bcfoss/DL/](http://www.sci.brooklyn.cuny.edu/%7Ebcfoss/DL/) (accessed November 30, 2007).
+[^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-333)See Chris Dibona, Sam Ockman, and Mark Stone, Open Sources: Voices from the Open Source Revolution (Sebastopol, CA: O’Reilly, 1999), <http://oreilly.com/catalog/opensources/book/toc.html> (visited on December 10, 2005); Sam Williams, Free as in Freedom: Richard Stallman’s Crusade for Free Software (Sebastopol, CA: O’Reilly, 2002), <http://oreilly.com/openbook/freedom/index.html> (visited on April 29, 2004); Weber, [The Success of Open Source](/ch3/gfc-ja-ch3.html#fn:9)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber2004sos); Samir Chopra and Scott Dexter, Decoding Liberation: the Promise of Free and Open Source Software (New York: Routledge, 2007), [http://www.sci.brooklyn.cuny.edu/\~bcfoss/DL/](http://www.sci.brooklyn.cuny.edu/%7Ebcfoss/DL/) (accessed November 30, 2007).
 
-[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-334)Williams, [Free as in Freedom](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Williams2002faf).
+[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-334)Williams, [Free as in Freedom](/ch4/gfc-ja-ch4.html#fn:12)[^12](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Williams2002faf).
 
 [^14]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-335)Richard M. Stallman, “The GNU Project,” GNU, June 16, 2005, <http://www.gnu.org/gnu/thegnuproject.html> (visited on April 5, 2006).
 
@@ -533,19 +533,23 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-337)Jimmy Wales quoted in Stacy Schiff, “Know It All: Can Wikipedia Conquer Expertise?,” The New Yorker (July 31, 2006): 3, <http://www.newyorker.com/archive/2006/07/31/060731fa_fact> (visited on August 16, 2006); referring to Eric Raymond, “The Cathedral and the Bazaar,” 1997, [http://www.catb.org/\~esr/writings/cathedral-bazaar/](http://www.catb.org/%7Eesr/writings/cathedral-bazaar/) (visited on April 29, 2004).
 
-[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-338)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
+[^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-338)Wales, [“Statement of Principles (oldid=89244123)”](/ch4/gfc-ja-ch4.html#fn:6)[^6](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
-[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-339)Eric Raymond, quoted in Schiff, [“Know It All”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schiff2006kia), 8.
+[^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-339)Eric Raymond, quoted in Schiff, [“Know It All”](/ch4/gfc-ja-ch4.html#fn:16)[^16][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schiff2006kia), 8.
 
 [^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-340)dharma, “Agreed,” Kuro5hin, December 30, 2004, <http://www.kuro5hin.org/story/2004/12/30/142458/25> (visited on December 31, 2004).
 
-[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-341)Stalder, [“On the Differences between Open Source and Open Culture”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stalder2006odb).
+[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-341)Stalder, [“On the Differences between Open Source and Open Culture”](/ch3/gfc-ja-ch3.html#fn:36)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stalder2006odb).
 
 [^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-342)Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock down Culture and Control Creativity (New York: Penguin Press, 2004), <http://download.nowis.com/index.cfm?phile=FreeCulture.html> (visited on April 17, 2006); a history of Creative Commons and the free culture movement is presented by David Bollier, Viral Spiral: How the Commoners Built a Digital Republic of Their Own (New York: New Press, 2009).
 
-[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-343)Meatball, [“MeatballBackgrounder”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Meatball2006mer); Meatball, “FairProcess,” Meatball Wiki, November 9, 2007, <http://www.usemod.com/cgi-bin/mb.pl?FairProcess> (accessed November 9, 2007).
+[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-343)Meatball, [“MeatballBackgrounder”](/ch3/gfc-ja-ch3.html#fn:28)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Meatball2006mer); Meatball, “FairProcess,” Meatball Wiki, November 9, 2007, <http://www.usemod.com/cgi-bin/mb.pl?FairProcess> (accessed November 9, 2007).
 
-[^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-344)For computers eroding accountability, see Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006); on furthering accountability, see Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008).
+[^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-344)
+
+    For computers eroding accountability, see Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006); on furthering accountability, see Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008).
+
+    コンピュータによる説明責任の浸食については、Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006) を見よ。説明責任の促進については Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008) を見よ。
 
 [^24]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-345)Jill Coffin, “Analysis of Open Source Principles and Diverse Collaborative Communities,” First Monday 11, number 6 (May 2006), <http://firstmonday.org/issues/issue11_6/coffin/index.html> (visited on October 2, 2007).
 
@@ -553,11 +557,11 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-347)Wikimedia, “Steward Policies,” Wikimedia, October 25, 2007, <http://meta.wikimedia.org/?oldid=724037> (visited on November 2, 2007).
 
-[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-348)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275109391> (visited on March 6, 2009).
+[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-348)Wales, [“Statement of Principles (oldid=89244123)”](/ch4/gfc-ja-ch4.html#fn:6)[^6][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp); Wikipedia, “Wikipedia:Please Do Not Bite the Newcomers,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275109391> (visited on March 6, 2009).
 
 [^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-349)Tony Sidaway, “Wikipedia and Autism,” wikien-l, October 11, 2005, <http://marc.info/?i=605709b90510110104w6bcdf9d6g7f1fe5945d0d05a6@mail.gmail.com> (visited on October 11, 2005).
 
-[^29]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-350)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
+[^29]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-350)Wales, [“Statement of Principles (oldid=89244123)”](/ch4/gfc-ja-ch4.html#fn:6)[^6][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
 [^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-351)Jimmy Wales, “Re: A Proposal for the New Software,” wikipedia-l, October 18, 2001, <http://marc.info/?l=wikipedia-l&m=104216623606384&w=2> (visited on March 7, 2007).
 
@@ -569,7 +573,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^34]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-355)Meatball, “RightToFork,” Meatball Wiki, October 11, 2007, <http://www.usemod.com/cgi-bin/mb.pl?RightToFork> (visited on October 11, 2007).
 
-[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-356)Weber, [The Success of Open Source](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber2004sos), 159, 92.
+[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-356)Weber, [The Success of Open Source](/ch3/gfc-ja-ch3.html#fn:9)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber2004sos), 159, 92.
 
 [^36]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-357)David A. Wheeler, “Why Open Source Software/Free Software (OSS/FS)? Look at the Numbers!,” May 9, 2005, <http://www.dwheeler.com/oss_fs_why.html> (accessed October 1, 2004).
 
@@ -577,15 +581,23 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^38]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-359)Larry Sanger, “Toward a New Compendium of Knowledge,” Citizendium, September 15, 2006, <http://citizendium.org/essay.html> (visited on December 20, 2007).
 
-[^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-360)Larry Sanger, “How’s the Unforking Going?,” Citizendium Forums, January 2007, <http://forum.citizendium.org/index.php?topic=459.30;wap2> (accessed November 9, 2007); Larry Sanger, “Our Gift to the World: CC-by-Sa,” Citizendium Blog, December 21, 2007, <http://blog.citizendium.org/2007/12/21/our-gift-to-the-world-cc-by-sa/> (accessed March 20, 2008). In November 2008 the GNU Foundation and Wikimedia Foundation did make it easier for content to flow between Wikimedia and Creative Commons projects, including Citizendium, by making the GFDL and CC licenses compatible/interoperable: see Mike Linksvayer, “Wikipedia/CC News: FSF Releases FDL 1.3,” Creative Commons Blog, November 3, 2008, <http://creativecommons.org/weblog/entry/10443> (accessed November 3, 2008).
+[^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-360)
+
+    Larry Sanger, “How’s the Unforking Going?,” Citizendium Forums, January 2007, <http://forum.citizendium.org/index.php?topic=459.30;wap2> (accessed November 9, 2007); Larry Sanger, “Our Gift to the World: CC-by-Sa,” Citizendium Blog, December 21, 2007, <http://blog.citizendium.org/2007/12/21/our-gift-to-the-world-cc-by-sa/> (accessed March 20, 2008). In November 2008 the GNU Foundation and Wikimedia Foundation did make it easier for content to flow between Wikimedia and Creative Commons projects, including Citizendium, by making the GFDL and CC licenses compatible/interoperable: see Mike Linksvayer, “Wikipedia/CC News: FSF Releases FDL 1.3,” Creative Commons Blog, November 3, 2008, <http://creativecommons.org/weblog/entry/10443> (accessed November 3, 2008).
+
+    Larry Sanger, “How’s the Unforking Going?,” Citizendium Forums, January 2007, <http://forum.citizendium.org/index.php?topic=459.30;wap2> (accessed November 9, 2007); Larry Sanger, “Our Gift to the World: CC-by-Sa,” Citizendium Blog, December 21, 2007, <http://blog.citizendium.org/2007/12/21/our-gift-to-the-world-cc-by-sa/> (accessed March 20, 2008). 2008年11月にGNU財団とウィキメディア財団は実際、ウィキメディアとクリエイティブ・コモンズのプロジェクトのあいだでのコンテンツの流通を容易にするために GFDL ライセンスと CC ライセンスを互換・相互利用可能にした。Mike Linksvayer, “Wikipedia/CC News: FSF Releases FDL 1.3,” Creative Commons Blog, November 3, 2008, <http://creativecommons.org/weblog/entry/10443> (accessed November 3, 2008) を見よ。
 
 [^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-361)Jimmy Wales, “Bias and Open Content Licensing,” nupedia-l, May 8, 2000, <http://web.archive.org/web/20030822044803/http://www.nupedia.com/pipermail/nupedia-l/2000-May/000222.html> (visited on June 7, 2006).
 
-[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-362)Wikipedia, [“Wikipedia, the Free Encyclopedia (oldid=251850832)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008wfe).
+[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-362)Wikipedia, [“Wikipedia, the Free Encyclopedia (oldid=251850832)”](/ch4/gfc-ja-ch4.html#fn:1)[^1](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008wfe).
 
 [^42]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-363)Wikipedia, “Wikipedia:What Wikipedia Is Not,” Wikipedia, May 28, 2009, <http://en.wikipedia.org/?oldid=292975573> (visited on May 29, 2009).
 
-[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-364)Because the term anonymous is persistently used by the community, despite my caveat that it really means “not logged in,” I will hereafter use it myself without further qualification unless required by the context.
+[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-364)
+
+    Because the term anonymous is persistently used by the community, despite my caveat that it really means “not logged in,” I will hereafter use it myself without further qualification unless required by the context.
+
+    コミュニティでは匿名という用語が根強く使われている。このため、実は「ログインしていない」という意味だと警告しながらも、私自身も以降では、文脈上必要な場合をのぞき、ただしがきをつけずにこれを使う。
 
 [^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-365)Evan Lehmann, “Rewriting History under the Dome,” Lowell Sun Online (January 27, 2006), <http://www.lowellsun.com/ci_3444567> (visited on January 30, 2006); Wikipedia, “Congressional Staffer Edits to Wikipedia,” Wikipedia, February 18, 2007, <http://en.wikipedia.org/?oldid=109060581> (visited on March 8, 2007).
 
@@ -593,7 +605,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-367)Wikipedia, “Wikipedia:Banning Policy,” Wikipedia, March 16, 2007, <http://en.wikipedia.org/?oldid=115595742> (visited on March 16, 2007).
 
-[^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-368)Wikipedia, [“Wikipedia:What Wikipedia Is Not (oldid=292975573)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009wwi).
+[^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-368)Wikipedia, [“Wikipedia:What Wikipedia Is Not (oldid=292975573)”](/ch4/gfc-ja-ch4.html#fn:42)[^42][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009wwi).
 
 [^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-369)John Seigenthaler, “A False Wikipedia ‘Biography’,” USA Today (November 29, 2005), <http://www.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm> (visited on December 1, 2005).
 
@@ -607,7 +619,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-374)Jimmy Wales, “Re: New York Times Article,” wikien-l, June 20, 2006, <http://marc.info/?i=44987D15.2070408@wikia.com> (visited on June 20, 2006).
 
-[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-375)Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hafner2006gwr).
+[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-375)Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](/ch4/gfc-ja-ch4.html#fn:52)[^52][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hafner2006gwr).
 
 [^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-376)Wikipedia, “Wikipedia:Blocking Policy,” Wikipedia, November 26, 2008, <http://en.wikipedia.org/?oldid=254316018> (visited on November 27, 2008).
 
@@ -615,25 +627,29 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-378)Anthony DiPierro, “Re: Blocking Proposal,” wikien-l, October 19, 2005, <http://marc.info/?i=71cd4dd90510191024r4332fe14tbb075711698d60c0@mail.gmail.com> (visited on October 19, 2005).
 
-[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-379)Wikipedia, [“Wikipedia:Blocking Policy Proposal (oldid=85910798)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006bpp).
+[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-379)Wikipedia, [“Wikipedia:Blocking Policy Proposal (oldid=85910798)”](/ch4/gfc-ja-ch4.html#fn:51)[^51](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2006bpp).
 
 [^59]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-380)Clay Shirky, Here Comes Everybody: the Power of Organizing without Organizations (New York: Penguin Press, 2007), 253 (visited on March 26, 2008).
 
-[^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-381)For a philosophical understanding of the types of values and how they are often in conflict, see Thomas Nagel, “The Fragmentation of Value,” in Mortal Questions (Cambridge, UK: Cambridge University Press, 1979), 128–141. For more recent work on identifying and balancing values in technical design, see Mary Flanagan, Daniel Howe, and Helen Nissenbaum, “Embodying Values in Technology: Theory and Practice”, chapter 16 in Information Technology and Moral Philosophy, ed. Jeroen van den Hoven and John Weckert (Cambridge, UK: Cambridge University Press, 2006), 9, <http://www.nyu.edu/projects/nissenbaum/papers/Nissenbaum-VID.4-25.pdf> (accessed March 25, 2006).
+[^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-381)
+
+    For a philosophical understanding of the types of values and how they are often in conflict, see Thomas Nagel, “The Fragmentation of Value,” in Mortal Questions (Cambridge, UK: Cambridge University Press, 1979), 128–141. For more recent work on identifying and balancing values in technical design, see Mary Flanagan, Daniel Howe, and Helen Nissenbaum, “Embodying Values in Technology: Theory and Practice”, chapter 16 in Information Technology and Moral Philosophy, ed. Jeroen van den Hoven and John Weckert (Cambridge, UK: Cambridge University Press, 2006), 9, <http://www.nyu.edu/projects/nissenbaum/papers/Nissenbaum-VID.4-25.pdf> (accessed March 25, 2006).
+
+    価値観の種類およびそれらがいかにしばしば衝突するかの哲学的理解については、Thomas Nagel, “The Fragmentation of Value,” in Mortal Questions (Cambridge, UK: Cambridge University Press, 1979), 128–141 を見よ。技術的設計において複数の価値観を同定しバランスをとることについてのより最近の研究については、 Mary Flanagan, Daniel Howe, and Helen Nissenbaum, “Embodying Values in Technology: Theory and Practice”, chapter 16 in Information Technology and Moral Philosophy, ed. Jeroen van den Hoven and John Weckert (Cambridge, UK: Cambridge University Press, 2006), 9, <http://www.nyu.edu/projects/nissenbaum/papers/Nissenbaum-VID.4-25.pdf> (accessed March 25, 2006) を見よ。
 
 [^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-382)Langdon Winner, “Do Artifacts Have Politics?,” in The Whale and the Reactor (Chicago: University of Chicago Press, 1986), 18–39, [http://web.archive.org/web/20051217085219/http://www-personal.si.umich.edu/\~rfrost/courses/Women+Tech/readings/Winner.html](http://web.archive.org/web/20051217085219/http://www-personal.si.umich.edu/%7Erfrost/courses/Women+Tech/readings/Winner.html) (visited on February 2, 2005).
 
-[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-383)Jimmy Wales, quoted in Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hafner2006gwr).
+[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-383)Jimmy Wales, quoted in Hafner, [“Growing Wikipedia Refines Its ‘Anyone Can Edit’ Policy”](/ch4/gfc-ja-ch4.html#fn:52)[^52][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hafner2006gwr).
 
 [^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-384)Steve Woolgar, “The Turn to Technology in Social Studies of Science,” Science, Technology, & Human Values 16, number 1 (Winter 1991): 20–50; Batya Friedman and Helen Nissenbaum, “Bias in Computer Systems.,” ACM Transactions in Information Systems 14, number 2 (1996): 330–346; Helen Nissenbaum, “How Computer Systems Embody Values,” Computer 34, number 3 (March 2001): 120–118, <http://www.nyu.edu/projects/nissenbaum/papers/embodyvalues.pdf> (visited on March 1, 2004).
 
 [^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-385)Jake Wartenberg and Ragesoss, “Flagged Revisions,” Wikipedia Signpost, January 24, 2009, <http://en.wikipedia.org/?oldid=266468243> (visited on January 26, 2009); Noam Cohen, “Wikipedia May Restrict Public’s Ability to Change Entries,” NYTimes.com, January 23, 2009, <http://bits.blogs.nytimes.com/2009/01/23/wikipedia-may-restrict-publics-ability-to-change-entries/> (visited on January 26, 2009).
 
-[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-386)Wikipedia, [“Wikipedia:Five Pillars (oldid=308208396)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009fp).
+[^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-386)Wikipedia, [“Wikipedia:Five Pillars (oldid=308208396)”](/ch3/gfc-ja-ch3.html#fn:42)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009fp).
 
-[^66]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-387)Wales, [“Statement of Principles (oldid=89244123)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
+[^66]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-387)Wales, [“Statement of Principles (oldid=89244123)”](/ch4/gfc-ja-ch4.html#fn:6)[^6][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
-[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-388)Seigenthaler, [“A False Wikipedia ‘Biography’”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Seigenthaler2005fwb).
+[^67]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-388)Seigenthaler, [“A False Wikipedia ‘Biography’”](/ch4/gfc-ja-ch4.html#fn:48)[^48][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Seigenthaler2005fwb).
 
 [^68]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-389)Jimmy Wales, “Re: ‘Should Not Be Written by an Interested Party’,” wikien-l, May 3, 2006, <http://marc.info/?i=4458EF10.9060705@wikia.com> (visited on May 3, 2006).
 
