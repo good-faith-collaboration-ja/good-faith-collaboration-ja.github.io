@@ -215,4 +215,15 @@ pre {
     h2.srclang {
         font-size: 140%;
     }
+    .tn:before {
+        content: "　訳注： ";
+    }
+    .tn:after {
+        content: "　";
+    }
+    .tn {
+        text-decoration: none;
+        background-color: #EEE !important;
+        font-size: 80%;
+    }
 }
