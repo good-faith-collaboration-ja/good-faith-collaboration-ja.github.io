@@ -503,7 +503,12 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-322)Wikipedia, “Wikipedia, the Free Encyclopedia,” Wikipedia, November 14, 2008, <http://en.wikipedia.org/?oldid=251850832> (visited on December 2, 2008).
 
-[^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-323)Douglas Rushkoff, Open Source Democracy: How Online Communication Is Changing Offline Politics (London: Demos, 2003), <http://www.demos.co.uk/publications/opensourcedemocracy2> (visited on April 17, 2006); Eric Krangel, “Two Attempts at Opening up Religion Online,” NewAssignment.Net, January 9, 2007, <http://www.newassignment.net/blog/eric_krangel/jan2007/01/religion_gets_op> (accessed January 11, 2007); I review much of this usage in Joseph Reagle, “Notions of Openness”, in FM10 Openness: Code, Science, and Content: Selected Papers from the First Monday Conference (First Monday, May 15, 2006), <http://reagle.org/joseph/2006/02/fm10-openness> (visited on December 20, 2007).
+[^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-323)
+
+    {:.srclang}
+    Douglas Rushkoff, Open Source Democracy: How Online Communication Is Changing Offline Politics (London: Demos, 2003), <http://www.demos.co.uk/publications/opensourcedemocracy2> (visited on April 17, 2006); Eric Krangel, “Two Attempts at Opening up Religion Online,” NewAssignment.Net, January 9, 2007, <http://www.newassignment.net/blog/eric_krangel/jan2007/01/religion_gets_op> (accessed January 11, 2007); I review much of this usage in Joseph Reagle, “Notions of Openness”, in FM10 Openness: Code, Science, and Content: Selected Papers from the First Monday Conference (First Monday, May 15, 2006), <http://reagle.org/joseph/2006/02/fm10-openness> (visited on December 20, 2007).
+
+    Douglas Rushkoff, Open Source Democracy: How Online Communication Is Changing Offline Politics (London: Demos, 2003), <http://www.demos.co.uk/publications/opensourcedemocracy2> (visited on April 17, 2006); Eric Krangel, “Two Attempts at Opening up Religion Online,” NewAssignment.Net, January 9, 2007, <http://www.newassignment.net/blog/eric_krangel/jan2007/01/religion_gets_op> (accessed January 11, 2007); この用法については Joseph Reagle, “Notions of Openness”, in FM10 Openness: Code, Science, and Content: Selected Papers from the First Monday Conference (First Monday, May 15, 2006), <http://reagle.org/joseph/2006/02/fm10-openness> (visited on December 20, 2007) で詳しくまとめた。
 
 [^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-324)Robert Michels, Political Parties (1911), trans. Eden Paul and Cedar Paul (Ontario: Batoche Books, 2001), §6.2, <http://socserv.mcmaster.ca/econ/ugcm/3ll3/michels/polipart.pdf> (visited on December 4, 2007); Jo Freeman, “The Tyranny of Structurelessness: Why Organisations Need Some Structure to Ensure They Are Democratic,” Spunk Library, 1996, <http://www.spunk.org/texts/consensu/sp000760.html> (visited on December 16, 2003), 1; Mitch Kapor, quoted in Joseph Reagle, Internet Quotation Appendix (Berkman Center for Internet and Society, Harvard Law School, March 1999), <http://cyber.law.harvard.edu/archived_content/people/reagle/inet-quotations-19990709.html> (visited on December 20, 2007).
 
@@ -531,7 +536,12 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^15]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-336)OSI, “History of the OSI,” OSI, September 19, 2006, <http://www.opensource.org/history> (visited on November 7, 2007).
 
-[^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-337)Jimmy Wales quoted in Stacy Schiff, “Know It All: Can Wikipedia Conquer Expertise?,” The New Yorker (July 31, 2006): 3, <http://www.newyorker.com/archive/2006/07/31/060731fa_fact> (visited on August 16, 2006); referring to Eric Raymond, “The Cathedral and the Bazaar,” 1997, [http://www.catb.org/\~esr/writings/cathedral-bazaar/](http://www.catb.org/%7Eesr/writings/cathedral-bazaar/) (visited on April 29, 2004).
+[^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-337)
+
+    {:.srclang}
+    Jimmy Wales quoted in Stacy Schiff, “Know It All: Can Wikipedia Conquer Expertise?,” The New Yorker (July 31, 2006): 3, <http://www.newyorker.com/archive/2006/07/31/060731fa_fact> (visited on August 16, 2006); referring to Eric Raymond, “The Cathedral and the Bazaar,” 1997, [http://www.catb.org/\~esr/writings/cathedral-bazaar/](http://www.catb.org/%7Eesr/writings/cathedral-bazaar/) (visited on April 29, 2004).
+
+    ジミー・ウェールズが引用されたのは Stacy Schiff, “Know It All: Can Wikipedia Conquer Expertise?,” The New Yorker (July 31, 2006): 3, <http://www.newyorker.com/archive/2006/07/31/060731fa_fact> (visited on August 16, 2006); 参照しているのは Eric Raymond, “The Cathedral and the Bazaar,” 1997, [http://www.catb.org/\~esr/writings/cathedral-bazaar/](http://www.catb.org/%7Eesr/writings/cathedral-bazaar/) (visited on April 29, 2004) である。
 
 [^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-338)Wales, [“Statement of Principles (oldid=89244123)”](/ch4/gfc-ja-ch4.html#fn:6)[^6](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wales2001sp).
 
@@ -541,12 +551,18 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-341)Stalder, [“On the Differences between Open Source and Open Culture”](/ch3/gfc-ja-ch3.html#fn:36)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stalder2006odb).
 
-[^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-342)Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock down Culture and Control Creativity (New York: Penguin Press, 2004), <http://download.nowis.com/index.cfm?phile=FreeCulture.html> (visited on April 17, 2006); a history of Creative Commons and the free culture movement is presented by David Bollier, Viral Spiral: How the Commoners Built a Digital Republic of Their Own (New York: New Press, 2009).
+[^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-342)
+
+    {:.srclang}
+    Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock down Culture and Control Creativity (New York: Penguin Press, 2004), <http://download.nowis.com/index.cfm?phile=FreeCulture.html> (visited on April 17, 2006); a history of Creative Commons and the free culture movement is presented by David Bollier, Viral Spiral: How the Commoners Built a Digital Republic of Their Own (New York: New Press, 2009).
+
+    Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock down Culture and Control Creativity (New York: Penguin Press, 2004), <http://download.nowis.com/index.cfm?phile=FreeCulture.html> (visited on April 17, 2006); クリエイティブ・コモンズとフリーカルチャー運動の歴史は David Bollier, Viral Spiral: How the Commoners Built a Digital Republic of Their Own (New York: New Press, 2009) に描かれている。
 
 [^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-343)Meatball, [“MeatballBackgrounder”](/ch3/gfc-ja-ch3.html#fn:28)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Meatball2006mer); Meatball, “FairProcess,” Meatball Wiki, November 9, 2007, <http://www.usemod.com/cgi-bin/mb.pl?FairProcess> (accessed November 9, 2007).
 
 [^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-344)
 
+    {:.srclang}
     For computers eroding accountability, see Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006); on furthering accountability, see Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008).
 
     コンピュータによる説明責任の浸食については、Helen Nissenbaum, “Accountability in a Computerized Society,” Science and Engineering Ethics 2, number 2 (1996): 25–42, <http://www.nyu.edu/projects/nissenbaum/papers/accountability.pdf> (accessed November 4, 2006) を見よ。説明責任の促進については Shay David, “Opening the Source of Accountability,” First Monday 9, number 11 (November 2004), <http://firstmonday.org/issues/issue9_11/david/index.html> (visited on November 11, 2005); Beth Simone Noveck, “Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic,” Democracy: A Journal of Ideas, number 7 (Winter 2007), <http://www.democracyjournal.org/article.php?ID=6570> (visited on February 14, 2008) を見よ。
@@ -583,6 +599,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-360)
 
+    {:.srclang}
     Larry Sanger, “How’s the Unforking Going?,” Citizendium Forums, January 2007, <http://forum.citizendium.org/index.php?topic=459.30;wap2> (accessed November 9, 2007); Larry Sanger, “Our Gift to the World: CC-by-Sa,” Citizendium Blog, December 21, 2007, <http://blog.citizendium.org/2007/12/21/our-gift-to-the-world-cc-by-sa/> (accessed March 20, 2008). In November 2008 the GNU Foundation and Wikimedia Foundation did make it easier for content to flow between Wikimedia and Creative Commons projects, including Citizendium, by making the GFDL and CC licenses compatible/interoperable: see Mike Linksvayer, “Wikipedia/CC News: FSF Releases FDL 1.3,” Creative Commons Blog, November 3, 2008, <http://creativecommons.org/weblog/entry/10443> (accessed November 3, 2008).
 
     Larry Sanger, “How’s the Unforking Going?,” Citizendium Forums, January 2007, <http://forum.citizendium.org/index.php?topic=459.30;wap2> (accessed November 9, 2007); Larry Sanger, “Our Gift to the World: CC-by-Sa,” Citizendium Blog, December 21, 2007, <http://blog.citizendium.org/2007/12/21/our-gift-to-the-world-cc-by-sa/> (accessed March 20, 2008). 2008年11月にGNU財団とウィキメディア財団は実際、ウィキメディアとクリエイティブ・コモンズのプロジェクトのあいだでのコンテンツの流通を容易にするために GFDL ライセンスと CC ライセンスを互換・相互利用可能にした。Mike Linksvayer, “Wikipedia/CC News: FSF Releases FDL 1.3,” Creative Commons Blog, November 3, 2008, <http://creativecommons.org/weblog/entry/10443> (accessed November 3, 2008) を見よ。
@@ -595,6 +612,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-364)
 
+    {:.srclang}
     Because the term anonymous is persistently used by the community, despite my caveat that it really means “not logged in,” I will hereafter use it myself without further qualification unless required by the context.
 
     コミュニティでは匿名という用語が根強く使われている。このため、実は「ログインしていない」という意味だと警告しながらも、私自身も以降では、文脈上必要な場合をのぞき、ただしがきをつけずにこれを使う。
@@ -633,6 +651,7 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-381)
 
+    {:.srclang}
     For a philosophical understanding of the types of values and how they are often in conflict, see Thomas Nagel, “The Fragmentation of Value,” in Mortal Questions (Cambridge, UK: Cambridge University Press, 1979), 128–141. For more recent work on identifying and balancing values in technical design, see Mary Flanagan, Daniel Howe, and Helen Nissenbaum, “Embodying Values in Technology: Theory and Practice”, chapter 16 in Information Technology and Moral Philosophy, ed. Jeroen van den Hoven and John Weckert (Cambridge, UK: Cambridge University Press, 2006), 9, <http://www.nyu.edu/projects/nissenbaum/papers/Nissenbaum-VID.4-25.pdf> (accessed March 25, 2006).
 
     価値観の種類およびそれらがいかにしばしば衝突するかの哲学的理解については、Thomas Nagel, “The Fragmentation of Value,” in Mortal Questions (Cambridge, UK: Cambridge University Press, 1979), 128–141 を見よ。技術的設計において複数の価値観を同定しバランスをとることについてのより最近の研究については、 Mary Flanagan, Daniel Howe, and Helen Nissenbaum, “Embodying Values in Technology: Theory and Practice”, chapter 16 in Information Technology and Moral Philosophy, ed. Jeroen van den Hoven and John Weckert (Cambridge, UK: Cambridge University Press, 2006), 9, <http://www.nyu.edu/projects/nissenbaum/papers/Nissenbaum-VID.4-25.pdf> (accessed March 25, 2006) を見よ。
@@ -685,11 +704,16 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^84]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-405)Gary A. Yukl, Leadership in Organizations, 1st edition (Englewood Cliffs, NJ: Prentice-Hall, 1981), 18.
 
-[^85]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-406)For discussion of cabals, see Bryan Pfaffenberger, “If I Want It, It’s Okay: Usenet and the (Outer) Limits of Free Speech,” The Information Society 12, number 4 (1996): 365–386, <http://pfaff.sts.virginia.edu/bphome/docs/pdf/usenet.pdf> (accessed November 5, 2005); for use of the \*dictator\* term, see Wikipedia, “Benevolent Dictator for Life,” Wikipedia, May 11, 2009, <http://en.wikipedia.org/?oldid=289287807> (visited on May 29, 2009).
+[^85]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-406)
+
+    {:.srclang}
+    For discussion of cabals, see Bryan Pfaffenberger, “If I Want It, It’s Okay: Usenet and the (Outer) Limits of Free Speech,” The Information Society 12, number 4 (1996): 365–386, <http://pfaff.sts.virginia.edu/bphome/docs/pdf/usenet.pdf> (accessed November 5, 2005); for use of the \*dictator\* term, see Wikipedia, “Benevolent Dictator for Life,” Wikipedia, May 11, 2009, <http://en.wikipedia.org/?oldid=289287807> (visited on May 29, 2009).
+
+    カバルの議論については次を見よ。 Bryan Pfaffenberger, “If I Want It, It’s Okay: Usenet and the (Outer) Limits of Free Speech,” The Information Society 12, number 4 (1996): 365–386, <http://pfaff.sts.virginia.edu/bphome/docs/pdf/usenet.pdf> (accessed November 5, 2005); *dictator* （独裁者）という用語については Wikipedia, “Benevolent Dictator for Life,” Wikipedia, May 11, 2009, <http://en.wikipedia.org/?oldid=289287807> (visited on May 29, 2009) を見よ。
 
 [^86]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-407)Walter van Kalken, “Re: Secret Admin List,” wikipedia-l, May 19, 2006, <http://marc.info/?i=446E5989.9070807@vankalken.net> (visited on May 19, 2006).
 
-[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-408)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 158.
+[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-408)Sunstein, [Why Societies Need Dissent](/ch3/gfc-ja-ch3.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 158.
 
 [^88]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-409)For the announcement, see Angela, “Introducing a New Mailing List,” wikien-l, December 4, 2006, <http://marc.info/?i=8b722b800612032144j1711060by4a60db0e8a051460@mail.gmail.com> (visited on December 4, 2006); for the description, see WikiChix, WikiChix (WikiChix, January 12, 2007), <http://wikichix.org/?oldid=1651> (visited on January 12, 2007).
 
@@ -705,23 +729,23 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^94]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-415)Robert Cawdrey, A Table Alphabetical of Hard Usual English Words, ed. Ian Lancashire (1604–1966; Web Development Group University of Toronto Library, 1997), <http://www.library.utoronto.ca/utel/ret/cawdrey/cawdrey0.html> (accessed December 4, 2007).
 
-[^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-416)Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 111; Tom McArthur, Worlds of Reference: Lexicography, Learning, and Language from the Clay Tablet to the Computer (Cambridge, UK: Cambridge University Press, 1986), 107; a replication of these plates is provided in Herman Kogan, The Great EB: the Story of the Encyclopaedia Britannica (Chicago: University Of Chicago Press, 1958).
+[^95]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-416)Stockwell, [A History of Information Storage and Retrieval](/ch2/gfc-ja-ch2.html#fn:84)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 111; Tom McArthur, Worlds of Reference: Lexicography, Learning, and Language from the Clay Tablet to the Computer (Cambridge, UK: Cambridge University Press, 1986), 107; a replication of these plates is provided in Herman Kogan, The Great EB: the Story of the Encyclopaedia Britannica (Chicago: University Of Chicago Press, 1958).
 
-[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-417)Wiegand, [A Biography of Melvil Dewey](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wiegand1996bmd).
+[^96]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-417)Wiegand, [A Biography of Melvil Dewey](/ch2/gfc-ja-ch2.html#fn:12)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wiegand1996bmd).
 
 [^97]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-418)Gillian Thomas, A Position to Command Respect: Women and the Eleventh Britannica (Metuchen, New Jersey: The Scarecrow Press, 1992).
 
-[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-419)Oded Nov, “What Motivates Wikipedians?,” Communications of the ACM 50, number 11 (November 2007): 60–64, <http://portal.acm.org/citation.cfm?id=1297798> (visited on July 8, 2009); Glott, Schmidt, and Ghosh, [“Wikipedia Survey – First Results”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:GlottSchmidtGhosh2009wsf).
+[^98]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-419)Oded Nov, “What Motivates Wikipedians?,” Communications of the ACM 50, number 11 (November 2007): 60–64, <http://portal.acm.org/citation.cfm?id=1297798> (visited on July 8, 2009); Glott, Schmidt, and Ghosh, [“Wikipedia Survey – First Results”](/ch1/gfc-ja-ch1.html#fn:30)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:GlottSchmidtGhosh2009wsf).
 
 [^99]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-420)Guettarda, “Re: Fwd: Request to Mailing List Wikichix-l Rejected,” wikien-l, December 5, 2006, <http://marc.info/?i=47683e960612050657s6c91283cr8458565ce1a776b6@mail.gmail.com> (visited on December 5, 2006).
 
-[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-421)Coleman, [“Three Ethical Moments in Debian”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Coleman2005tem).
+[^100]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-421)Coleman, [“Three Ethical Moments in Debian”](/ch3/gfc-ja-ch3.html#fn:73)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Coleman2005tem).
 
 [^101]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-422)Jimmy Wales, “Re: Nazi Userboxes,” wikien-l, December 1, 2006, <http://marc.info/?i=4570B0FF.6030209@wikia.com> (visited on December 1, 2006).
 
 [^102]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-423)Wikipedia, “User:The Cunctator,” Wikipedia, May 18, 2009, <http://en.wikipedia.org/?oldid=290621049> (visited on May 29, 2009).
 
-[^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-424)Wikipedia, [“Wikipedia:Do Not Disrupt Wikipedia to Illustrate a Point (oldid=275119939)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009dnd).
+[^103]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-424)Wikipedia, [“Wikipedia:Do Not Disrupt Wikipedia to Illustrate a Point (oldid=275119939)”](/ch3/gfc-ja-ch3.html#fn:117)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009dnd).
 
 [^104]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-425)Jennifer Vesperman and Deb Richardson, “Frequently Asked Questions”, January 4, 2002, <http://www.linuxchix.org/about-linuxchix.html> (visited on January 23, 2007).
 
@@ -733,12 +757,12 @@ This is the sort of insight not present in H. G. Wells’s predictions of a Mode
 
 [^108]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-429)Bryan Derksen, “Re: Fwd: Request to Mailing List Wikichix-l Rejected”, wikien-l, December 5, 2006, <http://marc.info/?i=4575ABC6.50801@shaw.ca> (accessed December 5, 2006).
 
-[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-430)Freeman, [“The Tyranny of Structurelessness”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Freeman1996tsw).
+[^109]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-430)Freeman, [“The Tyranny of Structurelessness”](/ch4/gfc-ja-ch4.html#fn:3)[^3][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Freeman1996tsw).
 
-[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-431)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 158.
+[^110]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-431)Sunstein, [Why Societies Need Dissent](/ch3/gfc-ja-ch3.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 158.
 
 [^111]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-432)Nancy Fraser, “Rethinking the Public Sphere: a Contribution to the Critique of Actually Existing Democracy,” chapter 5 in Habermas and the Public Sphere, ed. Craig Calhoun (Cambridge, MA: MIT Press, 1992), 123.
 
-[^112]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-433)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 160-161.
+[^112]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-433)Sunstein, [Why Societies Need Dissent](/ch3/gfc-ja-ch3.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 160-161.
 
 [^113]: [\*](http://reagle.org/joseph/2010/gfc/chapter-4.html#enmark-434)Clay Shirky, “News of Wikipedia’s Death Greatly Exaggerated,” Many-to-Many, May 25, 2006, <http://many.corante.com/archives/2006/05/25/news_of_wikipedias_death_greatly_exaggerated.php> (visited on May 25, 2006).
