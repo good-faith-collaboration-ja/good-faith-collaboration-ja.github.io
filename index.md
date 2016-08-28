@@ -16,7 +16,7 @@ title: "Good Faith Collaboration: The Culture of Wikipedia （『善意にもと
     * 脚注・参考文献リストの翻訳：100% (2016-07)
     * 脚注・参考文献の相互リンク：100% (2016-07)
 * [第5章 合意という難題](ch5/gfc-ja-ch5.html) - 原題 *[The Challenges of Consensus](http://reagle.org/joseph/2010/gfc/chapter-5.html)*
-    * 脚注・参考文献リストの翻訳：0%
+    * 脚注・参考文献リストの翻訳：30% (2016-08)
     * 脚注・参考文献の相互リンク：100% (2016-07)
 * [第6章 優しい独裁者](ch6/gfc-ja-ch6.html) - 原題 *[The Benevolent Dictator](http://reagle.org/joseph/2010/gfc/chapter-6.html)*
     * 脚注・参考文献リストの翻訳：0%

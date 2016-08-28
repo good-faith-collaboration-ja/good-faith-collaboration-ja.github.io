@@ -374,12 +374,16 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 [^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-438)
 
     {:.srclang}
-    On the organization of knowledge, and alphabetization in particular, see Peter Burke, A Social History of Knowledge: from Gutenberg to Diderot (Cambridge, MA: Polity Press, 2000), 109-115; Daniel Headrick, When Information Came of Age (Oxford: Oxford University Press, 2000), 154, 162-63, <http://books.google.com/books?id=XRBPvOAiQmUC> (visited on February 4, 2005); Stockwell, [A History of Information Storage and Retrieval](/ch2/gfc-ja-ch2.html#fn:84)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), chap. 11.
+    On the organization of knowledge, and alphabetization in particular, see Peter Burke, A Social History of Knowledge: from Gutenberg to Diderot (Cambridge, MA: Polity Press, 2000), 109-115; Daniel Headrick, When Information Came of Age (Oxford: Oxford University Press, 2000), 154, 162-63, <http://books.google.com/books?id=XRBPvOAiQmUC> (visited on February 4, 2005); Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), chap. 11.
+
+    知識の組織化、とくにアルファベット順の整列に関しては Peter Burke, A Social History of Knowledge: from Gutenberg to Diderot (Cambridge, MA: Polity Press, 2000), 109-115; Daniel Headrick, When Information Came of Age (Oxford: Oxford University Press, 2000), 154, 162-63, <http://books.google.com/books?id=XRBPvOAiQmUC> (visited on February 4, 2005); Stockwell, [A History of Information Storage and Retrieval](/ch2/gfc-ja-ch2.html#fn:84), chap. 11 を見よ。
 
 [^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-439)
 
     {:.srclang}
     The new mode of dealing with information is described by Weinberger, [Everything Is Miscellaneous](/ch2/gfc-ja-ch2.html#fn:25)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weinberger2007eim).
+
+    情報のとりあつかいの新しい様式については Weinberger, [Everything Is Miscellaneous](/ch2/gfc-ja-ch2.html#fn:25)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weinberger2007eim) で記述されている。
 
 [^6]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-440)Wikipedia, “Wikipedia:Disambiguation,” Wikipedia, July 17, 2008, <http://en.wikipedia.org/?oldid=226312626> (visited on July 18, 2008).
 
@@ -394,10 +398,14 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
     {:.srclang}
     For discussion of the extent to which the ArbCom interprets or makes policy see John Lee, “Re: BADSITES ArbCom Case about to Close,” wikien-l, October 17, 2007, <http://marc.info/?i=6fb0c9b00710170801p7e54742csd2dd12ebb6c71930@mail.gmail.com> (visited on October 17, 2007); Risker, “Re: ArbCom Legislation,” wikien-l, June 18, 2008, <http://marc.info/?i=eb45e7c0806180917v5b217175pc469da2ab683a699@mail.gmail.com> (visited on June 18, 2008).
 
+    ArbCom がどの程度方針を解釈し策定するかに関する議論については次をみよ。  John Lee, “Re: BADSITES ArbCom Case about to Close,” wikien-l, October 17, 2007, <http://marc.info/?i=6fb0c9b00710170801p7e54742csd2dd12ebb6c71930@mail.gmail.com> (visited on October 17, 2007); Risker, “Re: ArbCom Legislation,” wikien-l, June 18, 2008, <http://marc.info/?i=eb45e7c0806180917v5b217175pc469da2ab683a699@mail.gmail.com> (visited on June 18, 2008).
+
 [^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-445)
 
     {:.srclang}
     “Evidence” is often densely sourced hyperlinks to various discussions and specific Wikipedia edits; I remove such references (e.g., “[32]”) from excerpts as they serve no purpose here.
+
+    「証拠」はさまざまな議論や特定のウィキペディア編集などへのハイパーリンクを出典とすることが多くある。「[32]」など、こうした参照はここでは必要ないため、削除して抜粋した。
 
 [^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-446)Wikipedia, “Wikipedia:Requests for Arbitration/Naming Conventions”, Wikipedia, January 20, 2007, <http://en.wikipedia.org/?oldid=101952465> (accessed July 16, 2008).
 
@@ -410,7 +418,9 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 [^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-450)
 
     {:.srclang}
-    Sheeran is affirming nine characteristics first articulated by Stuart Chase, Roads to Agreement: How to Get along Better with Other People. (New York: Harper & Brothers, 1951), 51-52; Sheeran, [Beyond Majority Rule](/ch3/gfc-ja-ch3.html#fn:103)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sheeran1996bmr), 51.
+    Sheeran is affirming nine characteristics first articulated by Stuart Chase, Roads to Agreement: How to Get along Better with Other People. (New York: Harper & Brothers, 1951), 51-52; Sheeran, [Beyond Majority Rule](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sheeran1996bmr), 51.
+
+    Sheeran が支持する9つの特徴はもともと Stuart Chase, Roads to Agreement: How to Get along Better with Other People. (New York: Harper & Brothers, 1951), 51-52; Sheeran, [Beyond Majority Rule](/ch3/gfc-ja-ch3.html#fn:103), 51 で言明された。
 
 [^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-451)Andrea Forte and Amy Bruckman, “Scaling Consensus: Increasing Decentralization in Wikipedia Governance,” in Proceedings of the 41st Annual Hawaii International Conference on System Sciences (Washington, DC: IEEE Computer Society, January 7–10, 2008), 1–10, <http://www.cc.gatech.edu/elc/papers/forte/ForteBruckmanScalingConsensus.pdf> (visited on August 28, 2008).
 
@@ -421,7 +431,9 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 [^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-454)
 
     {:.srclang}
-    A history of the IETF, including its own sometimes troubled relationship with the traditional International Organization for Standardization (ISO) can be found in Andrew L. Russell, “’Rough Consensus and Running Code’ and the Internet-OSI Standards War”, IEEE Annals of the History of Computing (Washington, DC) 28, number 3 (July 2006): 48–61, <http://ieeexplore.ieee.org/iel5/85/35276/01677461.pdf> (visited on October 11, 2006); a history of the Web and W3C can be found in Berners-Lee, [Weaving the Web](/ch2/gfc-ja-ch2.html#fn:104)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo).
+    A history of the IETF, including its own sometimes troubled relationship with the traditional International Organization for Standardization (ISO) can be found in Andrew L. Russell, “’Rough Consensus and Running Code’ and the Internet-OSI Standards War”, IEEE Annals of the History of Computing (Washington, DC) 28, number 3 (July 2006): 48–61, <http://ieeexplore.ieee.org/iel5/85/35276/01677461.pdf> (visited on October 11, 2006); a history of the Web and W3C can be found in Berners-Lee, [Weaving the Web](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo).
+
+    伝統ある国際標準化機構 (ISO) とのしばしば軋轢のあった関係を含む IETF の歴史は次の文献でみられる。Andrew L. Russell, “’Rough Consensus and Running Code’ and the Internet-OSI Standards War”, IEEE Annals of the History of Computing (Washington, DC) 28, number 3 (July 2006): 48–61, <http://ieeexplore.ieee.org/iel5/85/35276/01677461.pdf> (visited on October 11, 2006); ウェブと W3C の▼歴史については  Berners-Lee, [Weaving the Web](/ch2/gfc-ja-ch2.html#fn:104) でみられる。
 
 [^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-455)Ian Jacobs, “World Wide Web Consortium Process Document,” W3C, October 14, 2005, <http://www.w3.org/2005/10/Process-20051014/policies.html#Consensus> (accessed October 14, 2005).
 
@@ -429,6 +441,8 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
     {:.srclang}
     The W3C’s — and Berners-Lee’s — influence is questioned in Simson Garfinkel, “The Web’s Unelected Government,” Technology Review (November 1998), <http://www.technologyreview.com/printer_friendly_article.aspx?id=11776> (accessed September 2, 2007). Also, Berners-Lee’s role was challenged when those interested in developing and “monetizing” Web services objected to his “controversial push to develop a type of artificial intelligence called the Semantic Web,” Paul Festa, “Critics Clamor for Web Services Standards,” CNET News.com, July 10, 2002, <http://news.cnet.com/2102-1023_3-834990.html> (visited on September 2, 2007).
+
+    W3Cの、そしてバーナーズ・リーの影響力は Simson Garfinkel, “The Web’s Unelected Government,” Technology Review (November 1998), <http://www.technologyreview.com/printer_friendly_article.aspx?id=11776> (accessed September 2, 2007) で疑問視されている。バーナーズ・リーが「セマンティック・ウェブとよばれる、一種の人工知能の開発を推奨して物議をかもした」際にウェブサービスを開発し「マネタイズ」することに興味のあるひとびとがその姿勢に反対し、バーナーズ・リーの役割について異論が唱えられた。 Paul Festa, “Critics Clamor for Web Services Standards,” CNET News.com, July 10, 2002, <http://news.cnet.com/2102-1023_3-834990.html> (visited on September 2, 2007).
 
 [^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-457)David D. Clark, “A Cloudy Crystal Ball: Visions of the Future,” IETF, July 1992, <http://xys.ccert.edu.cn/reference/future_ietf_92.pdf> (visited on March 26, 1999), 19.
 
