@@ -75,9 +75,15 @@ In fact, I considered those who have left Wikipedia to begin anew at another wik
 
 ----
 
-[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-8.html#enmark-757)Conversely, although Wells would have been fascinated with the “technological paraphernalia of our networked age,” “he would equally have cared little for its individualism, cultural relativism and a lack of respect for professionals and experts,” as argued by Muddiman, [“The Universal Library as Modern Utopia”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Muddiman1998ula), 98.
+[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-8.html#enmark-757)
 
-[^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-8.html#enmark-758)Coincidentally, Mike Godwin, author of Godwin’s Law and the seminal “Nine Principles for Making Virtual Communities Work,” joined the Wikimedia Foundation as its General Counsel and Legal Coordinator in July 2007, as announced by Florence Devouard, “Welcome Mike !,” Foundation-l, July 3, 2007, <http://lists.wikimedia.org/pipermail/foundation-l/2007-July/031128.html> (accessed July 24, 2007). Wikipedian expressed hope that his insight and experience with online community would help Wikipedia address some of its challenges.
+    {:.srclang}
+    Conversely, although Wells would have been fascinated with the “technological paraphernalia of our networked age,” “he would equally have cared little for its individualism, cultural relativism and a lack of respect for professionals and experts,” as argued by Muddiman, [“The Universal Library as Modern Utopia”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Muddiman1998ula), 98.
+
+[^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-8.html#enmark-758)
+
+    {:.srclang}
+    Coincidentally, Mike Godwin, author of Godwin’s Law and the seminal “Nine Principles for Making Virtual Communities Work,” joined the Wikimedia Foundation as its General Counsel and Legal Coordinator in July 2007, as announced by Florence Devouard, “Welcome Mike !,” Foundation-l, July 3, 2007, <http://lists.wikimedia.org/pipermail/foundation-l/2007-July/031128.html> (accessed July 24, 2007). Wikipedian expressed hope that his insight and experience with online community would help Wikipedia address some of its challenges.
 
 [^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-8.html#enmark-759)Carol Tavris and Elliot Aronson, Mistakes Were Made but Not by Me: Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts (New York: Harcourt, 2007).
 

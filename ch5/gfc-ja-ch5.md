@@ -365,15 +365,21 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 ----
 
-[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-435)Wells, [“The Idea of a World Encyclopedia”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells1936iwe), 921.
+[^1]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-435)Wells, [“The Idea of a World Encyclopedia”](/ch1/gfc-ja-ch1.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wells1936iwe), 921.
 
 [^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-436)Wikipedia, “Creation-Evolution Controversy,” Wikipedia, July 27, 2008, <http://en.wikipedia.org/?oldid=228137973> (visited on August 7, 2008).
 
 [^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-437)Wikipedia, “Wikipedia:Working Group on Ethnic and Cultural Edit Wars”, Wikipedia, January 23, 2008, <http://en.wikipedia.org/?oldid=186309462> (accessed January 23, 2008).
 
-[^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-438)On the organization of knowledge, and alphabetization in particular, see Peter Burke, A Social History of Knowledge: from Gutenberg to Diderot (Cambridge, MA: Polity Press, 2000), 109-115; Daniel Headrick, When Information Came of Age (Oxford: Oxford University Press, 2000), 154, 162-63, <http://books.google.com/books?id=XRBPvOAiQmUC> (visited on February 4, 2005); Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), chap. 11.
+[^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-438)
 
-[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-439)The new mode of dealing with information is described by Weinberger, [Everything Is Miscellaneous](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weinberger2007eim).
+    {:.srclang}
+    On the organization of knowledge, and alphabetization in particular, see Peter Burke, A Social History of Knowledge: from Gutenberg to Diderot (Cambridge, MA: Polity Press, 2000), 109-115; Daniel Headrick, When Information Came of Age (Oxford: Oxford University Press, 2000), 154, 162-63, <http://books.google.com/books?id=XRBPvOAiQmUC> (visited on February 4, 2005); Stockwell, [A History of Information Storage and Retrieval](/ch2/gfc-ja-ch2.html#fn:84)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), chap. 11.
+
+[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-439)
+
+    {:.srclang}
+    The new mode of dealing with information is described by Weinberger, [Everything Is Miscellaneous](/ch2/gfc-ja-ch2.html#fn:25)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weinberger2007eim).
 
 [^6]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-440)Wikipedia, “Wikipedia:Disambiguation,” Wikipedia, July 17, 2008, <http://en.wikipedia.org/?oldid=226312626> (visited on July 18, 2008).
 
@@ -383,31 +389,46 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 [^9]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-443)Wikipedia, “Wikipedia:Arbitration Committee,” Wikipedia, July 16, 2008, <http://en.wikipedia.org/?oldid=225940072> (visited on July 21, 2008).
 
-[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-444)For discussion of the extent to which the ArbCom interprets or makes policy see John Lee, “Re: BADSITES ArbCom Case about to Close,” wikien-l, October 17, 2007, <http://marc.info/?i=6fb0c9b00710170801p7e54742csd2dd12ebb6c71930@mail.gmail.com> (visited on October 17, 2007); Risker, “Re: ArbCom Legislation,” wikien-l, June 18, 2008, <http://marc.info/?i=eb45e7c0806180917v5b217175pc469da2ab683a699@mail.gmail.com> (visited on June 18, 2008).
+[^10]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-444)
 
-[^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-445)“Evidence” is often densely sourced hyperlinks to various discussions and specific Wikipedia edits; I remove such references (e.g., “[32]”) from excerpts as they serve no purpose here.
+    {:.srclang}
+    For discussion of the extent to which the ArbCom interprets or makes policy see John Lee, “Re: BADSITES ArbCom Case about to Close,” wikien-l, October 17, 2007, <http://marc.info/?i=6fb0c9b00710170801p7e54742csd2dd12ebb6c71930@mail.gmail.com> (visited on October 17, 2007); Risker, “Re: ArbCom Legislation,” wikien-l, June 18, 2008, <http://marc.info/?i=eb45e7c0806180917v5b217175pc469da2ab683a699@mail.gmail.com> (visited on June 18, 2008).
+
+[^11]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-445)
+
+    {:.srclang}
+    “Evidence” is often densely sourced hyperlinks to various discussions and specific Wikipedia edits; I remove such references (e.g., “[32]”) from excerpts as they serve no purpose here.
 
 [^12]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-446)Wikipedia, “Wikipedia:Requests for Arbitration/Naming Conventions”, Wikipedia, January 20, 2007, <http://en.wikipedia.org/?oldid=101952465> (accessed July 16, 2008).
 
-[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-447)[Ibidem](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
+[^13]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-447)[Ibidem](/ch5/gfc-ja-ch5.html#fn:12)[^12][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
 
 [^14]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-448)Wiktionary, “Consensus,” July 11, 2008, <http://en.wiktionary.org/?oldid=4617397> (visited on July 11, 2008); Lawrence E. Susskind, “A Short Guide to Consensus Building,” chapter 1 in Consensus Building Handbook, ed.  Lawrence E. Susskind, Sarah McKearnen, and Jennifer Thomas-Lamar (Thousand Oaks, CA: Sage, 1999), 600, <http://web.mit.edu/publicdisputes/practice/cbh_ch1.html>.
 
 [^15]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-449)Wikipedia, “Consensus Decision-Making,” Wikipedia, July 10, 2008, <http://en.wikipedia.org/?oldid=224735826> (visited on July 11, 2008).
 
-[^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-450)Sheeran is affirming nine characteristics first articulated by Stuart Chase, Roads to Agreement: How to Get along Better with Other People. (New York: Harper & Brothers, 1951), 51-52; Sheeran, [Beyond Majority Rule](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sheeran1996bmr), 51.
+[^16]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-450)
+
+    {:.srclang}
+    Sheeran is affirming nine characteristics first articulated by Stuart Chase, Roads to Agreement: How to Get along Better with Other People. (New York: Harper & Brothers, 1951), 51-52; Sheeran, [Beyond Majority Rule](/ch3/gfc-ja-ch3.html#fn:103)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sheeran1996bmr), 51.
 
 [^17]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-451)Andrea Forte and Amy Bruckman, “Scaling Consensus: Increasing Decentralization in Wikipedia Governance,” in Proceedings of the 41st Annual Hawaii International Conference on System Sciences (Washington, DC: IEEE Computer Society, January 7–10, 2008), 1–10, <http://www.cc.gatech.edu/elc/papers/forte/ForteBruckmanScalingConsensus.pdf> (visited on August 28, 2008).
 
 [^18]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-452)Lawrence E. Susskind, Sarah McKearnen, and Jennifer Thomas-Lamar, Consensus Building Handbook (Thousand Oaks, CA: Sage, 1999).
 
-[^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-453)Berners-Lee, [Weaving the Web](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo), 62-63.
+[^19]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-453)Berners-Lee, [Weaving the Web](/ch2/gfc-ja-ch2.html#fn:104)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo), 62-63.
 
-[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-454)A history of the IETF, including its own sometimes troubled relationship with the traditional International Organization for Standardization (ISO) can be found in Andrew L. Russell, “’Rough Consensus and Running Code’ and the Internet-OSI Standards War”, IEEE Annals of the History of Computing (Washington, DC) 28, number 3 (July 2006): 48–61, <http://ieeexplore.ieee.org/iel5/85/35276/01677461.pdf> (visited on October 11, 2006); a history of the Web and W3C can be found in Berners-Lee, [Weaving the Web](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo).
+[^20]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-454)
+
+    {:.srclang}
+    A history of the IETF, including its own sometimes troubled relationship with the traditional International Organization for Standardization (ISO) can be found in Andrew L. Russell, “’Rough Consensus and Running Code’ and the Internet-OSI Standards War”, IEEE Annals of the History of Computing (Washington, DC) 28, number 3 (July 2006): 48–61, <http://ieeexplore.ieee.org/iel5/85/35276/01677461.pdf> (visited on October 11, 2006); a history of the Web and W3C can be found in Berners-Lee, [Weaving the Web](/ch2/gfc-ja-ch2.html#fn:104)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Berners-Lee1999wwo).
 
 [^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-455)Ian Jacobs, “World Wide Web Consortium Process Document,” W3C, October 14, 2005, <http://www.w3.org/2005/10/Process-20051014/policies.html#Consensus> (accessed October 14, 2005).
 
-[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-456)The W3C’s — and Berners-Lee’s — influence is questioned in Simson Garfinkel, “The Web’s Unelected Government,” Technology Review (November 1998), <http://www.technologyreview.com/printer_friendly_article.aspx?id=11776> (accessed September 2, 2007). Also, Berners-Lee’s role was challenged when those interested in developing and “monetizing” Web services objected to his “controversial push to develop a type of artificial intelligence called the Semantic Web,” Paul Festa, “Critics Clamor for Web Services Standards,” CNET News.com, July 10, 2002, <http://news.cnet.com/2102-1023_3-834990.html> (visited on September 2, 2007).
+[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-456)
+
+    {:.srclang}
+    The W3C’s — and Berners-Lee’s — influence is questioned in Simson Garfinkel, “The Web’s Unelected Government,” Technology Review (November 1998), <http://www.technologyreview.com/printer_friendly_article.aspx?id=11776> (accessed September 2, 2007). Also, Berners-Lee’s role was challenged when those interested in developing and “monetizing” Web services objected to his “controversial push to develop a type of artificial intelligence called the Semantic Web,” Paul Festa, “Critics Clamor for Web Services Standards,” CNET News.com, July 10, 2002, <http://news.cnet.com/2102-1023_3-834990.html> (visited on September 2, 2007).
 
 [^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-457)David D. Clark, “A Cloudy Crystal Ball: Visions of the Future,” IETF, July 1992, <http://xys.ccert.edu.cn/reference/future_ietf_92.pdf> (visited on March 26, 1999), 19.
 
@@ -415,17 +436,22 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 [^25]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-459)Wikipedia, “Wikipedia:Consensus,” Wikipedia, July 5, 2008, <http://en.wikipedia.org/?oldid=223708449> (visited on July 11, 2008).
 
-[^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-460)Bradner, [“RFC 2418”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i), section 3.3.
+[^26]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-460)Bradner, [“RFC 2418”](/ch5/gfc-ja-ch5.html#fn:24)[^24][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i), section 3.3.
 
-[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-461)Jacobs, [“World Wide Web Consortium Process Document”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Jacobs2005www), section 3.3.
+[^27]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-461)Jacobs, [“World Wide Web Consortium Process Document”](/ch5/gfc-ja-ch5.html#fn:21)[^21][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Jacobs2005www), section 3.3.
 
-[^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-462)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
+[^28]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-462)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](/ch5/gfc-ja-ch5.html#fn:25)[^25][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
 
 [^29]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-463)Delirium, “Re: Writing Style (Was: a Valid Criticism),” wikien-l, October 7, 2005, <http://marc.info/?i=4346DE10.8030902@hackish.org> (visited on October 7, 2005).
 
-[^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-464)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
+[^30]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-464)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](/ch5/gfc-ja-ch5.html#fn:25)[^25](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
 
-[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-465)Wikimedia, “Foundation Issues,” Wikimedia, March 26, 2006, <http://meta.wikimedia.org/?oldid=312949> (visited on April 6, 2006); Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus); for mutability of consensus, see Travis Kriplean et al., “Community, Consensus, Coercion, Control: CS\*W or How Policy Mediates Mass Participation,” in GROUP’07: International Conference on Supporting Group Work 2007 (New York: ACM, November 4–7, 2007), 173, <http://portal.acm.org/citation.cfm?id=1316648> (visited on December 13, 2007).
+[^31]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-465)
+
+    {:.srclang}
+    Wikimedia, “Foundation Issues,” Wikimedia, March 26, 2006, <http://meta.wikimedia.org/?oldid=312949> (visited on April 6, 2006); Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus); for mutability of consensus, see Travis Kriplean et al., “Community, Consensus, Coercion, Control: CS\*W or How Policy Mediates Mass Participation,” in GROUP’07: International Conference on Supporting Group Work 2007 (New York: ACM, November 4–7, 2007), 173, <http://portal.acm.org/citation.cfm?id=1316648> (visited on December 13, 2007).
+
+    Wikimedia, “Foundation Issues,” Wikimedia, March 26, 2006, <http://meta.wikimedia.org/?oldid=312949> (visited on April 6, 2006); Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](/ch5/gfc-ja-ch5.html#fn:25)[^25]; 合意の可変性については Travis Kriplean et al., “Community, Consensus, Coercion, Control: CS\*W or How Policy Mediates Mass Participation,” in GROUP’07: International Conference on Supporting Group Work 2007 (New York: ACM, November 4–7, 2007), 173, <http://portal.acm.org/citation.cfm?id=1316648> (visited on December 13, 2007) をみよ。
 
 [^32]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-466)Tim Berners-Lee, “Hypertext Style: Cool URIs Don’t Change.,” W3C, 1998, <http://www.w3.org/Provider/Style/URI> (visited on July 31, 2008).
 
@@ -435,35 +461,41 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 [^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-469)Philip Sandifer, “Reflections on the End of the Spoiler Wars,” wikien-l, November 14, 2007, <http://marc.info/?i=9D7A631E-A3E7-4083-A91C-E3BB9C848704@gmail.com> (visited on November 14, 2007).
 
-[^36]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-470)Bradner, [“RFC 2418”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i), section 3.3.
+[^36]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-470)Bradner, [“RFC 2418”](/ch5/gfc-ja-ch5.html#fn:24)[^24][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i), section 3.3.
 
-[^37]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-471)[Ibidem](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i).
+[^37]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-471)[Ibidem](/ch5/gfc-ja-ch5.html#fn:24)[^24][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i).
 
-[^38]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-472)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
+[^38]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-472)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](/ch5/gfc-ja-ch5.html#fn:25)[^25](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
 
 [^39]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-473)Gerard Meijssen, “Re: New Request for Cantonese Wikipedia: Vote at 29-6”, Wikipedia-l, September 25, 2005, <http://marc.info/?i=43370ACD.3030301@gmail.com> (visited on September 25, 2005).
 
 [^40]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-474)Jane J. Mansbridge, Beyond Adversary Democracy (New York: Basic Books, 1980), 32, <http://books.google.com/books?id=g-AmoP-nW1gC> (visited on October 25, 2005).
 
-[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-475)Bradner, [“RFC 2418”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i), section 3.3.
+[^41]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-475)Bradner, [“RFC 2418”](/ch5/gfc-ja-ch5.html#fn:24)[^24][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Bradner1998r2i), section 3.3.
 
 [^42]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-476)Wikipedia, [“User:Raul654/Raul’s Laws (oldid=301373968)”](/ch1/gfc-ja-ch1.html#fn:4)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2009urr).
 
-[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-477)Sheeran, [Beyond Majority Rule](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sheeran1996bmr), 92-98.
+[^43]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-477)Sheeran, [Beyond Majority Rule](/ch3/gfc-ja-ch3.html#fn:103)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sheeran1996bmr), 92-98.
 
-[^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-478)Wikipedia, [“Wikipedia:Requests for Arbitration/Naming Conventions (oldid=101952465)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
+[^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-478)Wikipedia, [“Wikipedia:Requests for Arbitration/Naming Conventions (oldid=101952465)”](/ch5/gfc-ja-ch5.html#fn:12)[^12][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
 
-[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-479)[Ibidem](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
+[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-479)[Ibidem](/ch5/gfc-ja-ch5.html#fn:12)[^12][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
 
-[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-480)My selective portrayal of this case should not be construed as representative of the case or the participants.
+[^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-480)
+
+    {:.srclang}
+    My selective portrayal of this case should not be construed as representative of the case or the participants.
 
 [^47]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-481)Wikipedia, “Wikipedia Talk:Requests for Arbitration/Naming Conventions”, Wikipedia, February 12, 2007, <http://en.wikipedia.org/?oldid=107562939> (accessed July 16, 2008).
 
-[^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-482)Wikipedia, [“Wikipedia:Requests for Arbitration/Naming Conventions (oldid=101952465)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
+[^48]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-482)Wikipedia, [“Wikipedia:Requests for Arbitration/Naming Conventions (oldid=101952465)”](/ch5/gfc-ja-ch5.html#fn:12)[^12][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ran).
 
-[^49]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-483)Wikipedia, [“Wikipedia Talk:Requests for Arbitration/Naming Conventions (oldid=107562939)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007wtr).
+[^49]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-483)Wikipedia, [“Wikipedia Talk:Requests for Arbitration/Naming Conventions (oldid=107562939)”](/ch5/gfc-ja-ch5.html#fn:47)[^47][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007wtr).
 
-[^50]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-484)Wikipedia, “Wikipedia:Voting Is Evil,” Wikipedia, August 6, 2007, <http://en.wikipedia.org/?oldid=149531708> (visited on November 1, 2007). Voting is supposed to be exceptional enough that Wikipedians keep a tally of the number of times a hundred people or more — now two hundred — have voted on something, as seen in Wikipedia, “Wikipedia:Times That 100 Wikipedians Supported Something,” Wikipedia, May 29, 2009, <http://en.wikipedia.org/?oldid=292998287> (visited on May 29, 2009).
+[^50]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-484)
+
+    {:.srclang}
+    Wikipedia, “Wikipedia:Voting Is Evil,” Wikipedia, August 6, 2007, <http://en.wikipedia.org/?oldid=149531708> (visited on November 1, 2007). Voting is supposed to be exceptional enough that Wikipedians keep a tally of the number of times a hundred people or more — now two hundred — have voted on something, as seen in Wikipedia, “Wikipedia:Times That 100 Wikipedians Supported Something,” Wikipedia, May 29, 2009, <http://en.wikipedia.org/?oldid=292998287> (visited on May 29, 2009).
 
 [^51]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-485)Wikipedia, “Wikipedia:Straw Polls,” Wikipedia, May 23, 2008, <http://en.wikipedia.org/?oldid=214504581> (visited on October 3, 2008).
 
@@ -471,27 +503,30 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 [^53]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-487)Wikimedia, “Polls Are Evil,” Wikimedia, 2007, <http://meta.wikimedia.org/?oldid=656194> (visited on November 1, 2007); Wikipedia, “Wikipedia:Polling Is Not a Substitute for Discussion,” Wikipedia, September 10, 2008, <http://en.wikipedia.org/?oldid=237594693> (visited on October 3, 2008).
 
-[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-488)Mansbridge, [Beyond Adversary Democracy](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Mansbridge1980bad), 175.
+[^54]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-488)Mansbridge, [Beyond Adversary Democracy](/ch5/gfc-ja-ch5.html#fn:40)[^40][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Mansbridge1980bad), 175.
 
-[^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-489)Meatball, “VotingIsGood,” January 27, 2005, <http://www.usemod.com/cgi-bin/mb.pl?VotingIsGood> (visited on July 11, 2008). Meatball still uses the historic “CamelCase” wiki method of linking to other pages by concatenating the capitalized words of the article name.
+[^55]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-489)
+
+    {:.srclang}
+    Meatball, “VotingIsGood,” January 27, 2005, <http://www.usemod.com/cgi-bin/mb.pl?VotingIsGood> (visited on July 11, 2008). Meatball still uses the historic “CamelCase” wiki method of linking to other pages by concatenating the capitalized words of the article name.
 
 [^56]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-490)Clay Shirky, “A Group Is Its Own Worst Enemy,” Keynote at O’Reilly Emerging Technology Conference, shirky.com, April 24, 2003, <http://www.shirky.com/writings/group_enemy.html> (visited on June 27, 2007), 14.
 
 [^57]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-491)Malcolm Gladwell, The Tipping Point: How Little Things Can Make a Big Difference (Boston, MA: Little Brown, 2000), 181.
 
-[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-492)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
+[^58]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-492)Wikipedia, [“Wikipedia:Consensus (oldid=223708449)”](/ch5/gfc-ja-ch5.html#fn:25)[^25](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008cus).
 
-[^59]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-493)Sunstein, [Why Societies Need Dissent](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 59.
+[^59]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-493)Sunstein, [Why Societies Need Dissent](/ch3/gfc-ja-ch3.html#fn:8)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Sunstein2003wsn), 59.
 
 [^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-494)Meatball, “VotingIsEvil,” November 16, 2007, <http://www.usemod.com/cgi-bin/mb.pl?VotingIsEvil> (visited on July 11, 2008).
 
 [^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-495)Wikipedia, “Wikipedia:Sock Puppetry,” Wikipedia, March 5, 2009, <http://en.wikipedia.org/?oldid=275114814> (visited on March 6, 2009).
 
-[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-496)Ben McIlwain, “We Need a Policy against Vote-Stacking,” wikien-l, May 4, 2006, <http://marc.info/?i=44594B8C.1030001@gmail.com> (visited on May 4, 2006); Wikipedia, [“Wikipedia:Articles for Deletion (oldid=128043238)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ad); Wikipedia, “Wikipedia:Requests for Adminship,” Wikipedia, August 6, 2008, <http://en.wikipedia.org/?oldid=230207377> (visited on August 6, 2008).
+[^62]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-496)Ben McIlwain, “We Need a Policy against Vote-Stacking,” wikien-l, May 4, 2006, <http://marc.info/?i=44594B8C.1030001@gmail.com> (visited on May 4, 2006); Wikipedia, [“Wikipedia:Articles for Deletion (oldid=128043238)”](/ch3/gfc-ja-ch3.html#fn:114)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2007ad); Wikipedia, “Wikipedia:Requests for Adminship,” Wikipedia, August 6, 2008, <http://en.wikipedia.org/?oldid=230207377> (visited on August 6, 2008).
 
 [^63]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-497)Danny Wool, “[Foundation-l] Breaking Promises (Was Re: Where We Are Headed),” Foundation-l, June 5, 2006, <http://lists.wikimedia.org/pipermail/foundation-l/2006-June/020815.html> (accessed August 8, 2006).
 
-[^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-498)Mansbridge, [Beyond Adversary Democracy](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Mansbridge1980bad), 10.
+[^64]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-498)Mansbridge, [Beyond Adversary Democracy](/ch5/gfc-ja-ch5.html#fn:40)[^40][\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Mansbridge1980bad), 10.
 
 [^65]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-499)Ryan Paul, “XML Spec Editor: OOXML ISO Process Is ‘Unadulterated BS’,” March 2, 2008, <http://arstechnica.com/news.ars/post/20080302-xml-spec-editor-ooxml-iso-process-is-unadulterated-bs.html> (visited on August 6, 2008).
 
@@ -501,7 +536,10 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 [^68]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-502)Martin Bryan, “Report on WG1 Activity for December 2007 Meeting of ISO/IEC JTC1/SC34/WG1 in Kyoto,” November 29, 2007, <http://www.jtc1sc34.org/repository/0940.htm> (visited on August 5, 2008).
 
-[^69]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-503)I discuss similar arguments over trading votes and advocacy that took place in the KDE development community when their bug tracking system adopted a feature allowing users to vote for their most pressing bugs in Joseph Reagle, “Bug Tracking Systems as Public Spheres,” Techné: Research in Philosophy and Technology 11, number 1 (Fall 2007), <http://scholar.lib.vt.edu/ejournals/SPT/v11n1/pdf/reagle.pdf>.
+[^69]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-503)
+
+    {:.srclang}
+    I discuss similar arguments over trading votes and advocacy that took place in the KDE development community when their bug tracking system adopted a feature allowing users to vote for their most pressing bugs in Joseph Reagle, “Bug Tracking Systems as Public Spheres,” Techné: Research in Philosophy and Technology 11, number 1 (Fall 2007), <http://scholar.lib.vt.edu/ejournals/SPT/v11n1/pdf/reagle.pdf>.
 
 [^70]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-504)John Tex, “We Need to Recognize That Advocating Is a Basic Right,” wikien-l, May 4, 2006, <http://marc.info/?i=eeec757b0605040857m212c5258l8165c43f970228ab@mail.gmail.com> (visited on May 4, 2006).
 
@@ -519,4 +557,4 @@ In another “WikiSpeak” entry consensus is defined as “one of the three sta
 
 [^77]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-511)Bibliomaniac15, “How Many Wikipedians Does It Take to Screw in a Lightbulb?,” Wikipedia, July 11, 2009, <http://en.wikipedia.org/?oldid=301565313> (visited on August 20, 2009); Lise Broer, “How Many Wikipedians Does It Take to Change a Light Bulb?,” Durova, August 24, 2008, <http://durova.blogspot.com/2008/08/how-many-wikipedians-does-it-take-to.html> (visited on August 20, 2009).
 
-[^78]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-512)Wikipedia, [“User:Malleus Fatuorum/WikiSpeak (oldid=224745874)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008umf).
+[^78]: [\*](http://reagle.org/joseph/2010/gfc/chapter-5.html#enmark-512)Wikipedia, [“User:Malleus Fatuorum/WikiSpeak (oldid=224745874)”](/ch1/gfc-ja-ch1.html#fn:35)[\*](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikipedia2008umf).

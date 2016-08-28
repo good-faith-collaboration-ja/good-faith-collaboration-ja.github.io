@@ -459,15 +459,27 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^2]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-514)Jimmy Wales, “Re: Neo-Nazis to Attack Wikipedia,” wikien-l, February 7, 2005, <http://marc.info/?i=20050207162911.GO29080@wikia.com> (visited on February 7, 2005).
 
-[^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-515)Joseph Reagle, “Do as I Do: Authorial Leadership in Wikipedia,” in WikiSym ’07: Proceedings of the 2007 International Symposium on Wikis (New York: ACM Press, 2007), <http://reagle.org/joseph/2007/10/Wikipedia-Authorial-Leadership.pdf> (accessed December 20, 2007); a similar model to the “authorial” model of leadership is offered by Mathieu O’Neil, Cyberchiefs: Autonomy and Authority in Online Tribes (New York: Pluto Press, 2009).
+[^3]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-515)
 
-[^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-516)For emergent leadership, see Bernard M. Bass, Bass & Stogdill’s Handbook of Leadership: Theory, Research, and Managerial Applications, 3rd edition (New York: Free Press, 1990), 126-127. For characteristics of emergent leadership in the online context, see Gianluca Bosco, “Implicit Theories of ‘Good Leadership’ in the Open-Source Community” (Master’s thesis, Technical University of Denmark, 2004), <http://opensource.mit.edu/papers/bosco.pdf> (visited on January 13, 2006); Youngjin Yoo and Maryam Alavi, “Emergent Leadership in Virtual Teams: What Do Emergent Leaders Do?,” Information and Organization 14, number 1 (January 2004): 27–58, <http://www.springerlink.com/content/d6851r0817386065/> (visited on June 28, 2007). The role of technical contributions in such communities is discussed by David Waguespack and Lee Fleming, “Penguins, Camels, and Other Birds of a Feather: Brokerage, Boundary Spanning, and Leadership in Open Innovation Communities,” April 8, 2005, <http://opensource.mit.edu/papers/flemingwaguespack.pdf> (visited on January 13, 2006).
+    {:.srclang}
+    Joseph Reagle, “Do as I Do: Authorial Leadership in Wikipedia,” in WikiSym ’07: Proceedings of the 2007 International Symposium on Wikis (New York: ACM Press, 2007), <http://reagle.org/joseph/2007/10/Wikipedia-Authorial-Leadership.pdf> (accessed December 20, 2007); a similar model to the “authorial” model of leadership is offered by Mathieu O’Neil, Cyberchiefs: Autonomy and Authority in Online Tribes (New York: Pluto Press, 2009).
 
-[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-517)For the mixing of governance models in software development, see O’Neil, [Cyberchiefs](http://reagle.org/joseph/2010/gfc/references.html#cite.0:ONeil2009caa); Coleman, [“Three Ethical Moments in Debian”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Coleman2005tem); Siobhan O’Mahony and Fabrizio Ferraro, “Governance in Production Communities,” April 2007, <http://www.business.ualberta.ca/tcc/documents/TII_3_OMahoney_Ferraro_final.pdf> (visited on June 15, 2007). Similarly, the larger Internet culture, a “set of values and beliefs informing behavior,” is argued by to be constituted by techno-meritocratic, hacker, virtual communitarian, and entrepreneurial values by Manuel Castells, The Internet Galaxy: Reflections on the Internet, Business, and Society (Oxford: Oxford University Press, 2001), 36-37. Theories of governance are compared in the Wikipedia context in Christopher Goldspink, “Social Self-Regulation in Computer Mediated Communities: the Case of Wikipedia,” International Journal of Agent Technologies and Systems 1, number 1 (2009): 19–33, <http://lifeandmind.files.wordpress.com/2008/07/5.pdf> (visited on April 24, 2009).
+[^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-516)
+
+    {:.srclang}
+    For emergent leadership, see Bernard M. Bass, Bass & Stogdill’s Handbook of Leadership: Theory, Research, and Managerial Applications, 3rd edition (New York: Free Press, 1990), 126-127. For characteristics of emergent leadership in the online context, see Gianluca Bosco, “Implicit Theories of ‘Good Leadership’ in the Open-Source Community” (Master’s thesis, Technical University of Denmark, 2004), <http://opensource.mit.edu/papers/bosco.pdf> (visited on January 13, 2006); Youngjin Yoo and Maryam Alavi, “Emergent Leadership in Virtual Teams: What Do Emergent Leaders Do?,” Information and Organization 14, number 1 (January 2004): 27–58, <http://www.springerlink.com/content/d6851r0817386065/> (visited on June 28, 2007). The role of technical contributions in such communities is discussed by David Waguespack and Lee Fleming, “Penguins, Camels, and Other Birds of a Feather: Brokerage, Boundary Spanning, and Leadership in Open Innovation Communities,” April 8, 2005, <http://opensource.mit.edu/papers/flemingwaguespack.pdf> (visited on January 13, 2006).
+
+[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-517)
+
+    {:.srclang}
+    For the mixing of governance models in software development, see O’Neil, [Cyberchiefs](http://reagle.org/joseph/2010/gfc/references.html#cite.0:ONeil2009caa); Coleman, [“Three Ethical Moments in Debian”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Coleman2005tem); Siobhan O’Mahony and Fabrizio Ferraro, “Governance in Production Communities,” April 2007, <http://www.business.ualberta.ca/tcc/documents/TII_3_OMahoney_Ferraro_final.pdf> (visited on June 15, 2007). Similarly, the larger Internet culture, a “set of values and beliefs informing behavior,” is argued by to be constituted by techno-meritocratic, hacker, virtual communitarian, and entrepreneurial values by Manuel Castells, The Internet Galaxy: Reflections on the Internet, Business, and Society (Oxford: Oxford University Press, 2001), 36-37. Theories of governance are compared in the Wikipedia context in Christopher Goldspink, “Social Self-Regulation in Computer Mediated Communities: the Case of Wikipedia,” International Journal of Agent Technologies and Systems 1, number 1 (2009): 19–33, <http://lifeandmind.files.wordpress.com/2008/07/5.pdf> (visited on April 24, 2009).
 
 [^6]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-518)Jimmy Wales, "From Jimbo Wales’ user talk page," quoted in Wikimedia, “Meta:Talk:Benevolent Dictator,” Wikimedia, March 16, 2007, <http://meta.wikimedia.org/?oldid=544462> (visited on May 21, 2008).
 
-[^7]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-519)"Charismatic authority" is seminally discussed by Weber, [Economy and Society](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber1978eso), 215; in the online context, see Giampaolo Garzarelli and Roberto Galoppini, “Capability Coordination in Modular Organization: Voluntary FS/OSS Production and the Case of Debian GNU/Linux,” in Economics Working Paper Archive at WUST, 0312005 (Industrial Organization, 2003), 18, <http://opensource.mit.edu/papers/garzarelligaloppini.pdf> (visited on September 3, 2004); O’Neil, [Cyberchiefs](http://reagle.org/joseph/2010/gfc/references.html#cite.0:ONeil2009caa), 18.
+[^7]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-519)
+
+    {:.srclang}
+    "Charismatic authority" is seminally discussed by Weber, [Economy and Society](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Weber1978eso), 215; in the online context, see Giampaolo Garzarelli and Roberto Galoppini, “Capability Coordination in Modular Organization: Voluntary FS/OSS Production and the Case of Debian GNU/Linux,” in Economics Working Paper Archive at WUST, 0312005 (Industrial Organization, 2003), 18, <http://opensource.mit.edu/papers/garzarelligaloppini.pdf> (visited on September 3, 2004); O’Neil, [Cyberchiefs](http://reagle.org/joseph/2010/gfc/references.html#cite.0:ONeil2009caa), 18.
 
 [^8]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-520)Eric Raymond, “Homesteading the Noosphere,” First Monday 3, number 10 (1998): 15, <http://firstmonday.org/issues/issue3_10/raymond/index.html> (accessed December 13, 2004).
 
@@ -497,7 +509,10 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^21]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-533)Steve Bennett, “[OT] Jimbo Wales’ Edit Count (Was: Re: Here’s an,” wikien-l, February 1, 2006, <http://marc.info/?i=f1c3529e0602011213peed6b47idd8aa61c56053fd2@mail.gmail.com> (visited on February 1, 2006).
 
-[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-534)For example, between June and September 2008 Wales did not post to wikiEN-l MARC, “Viewing Messages Posted by ‘Jimmy Wales’,” MARC, May 23, 2008, <http://marc.info/?a=111340136500001&r=1&w=2> (visited on October 3, 2008); his edits can be seen at Wikipedia, “Jimbo Wales User Contributions,” Wikipedia, May 23, 2008, <http://en.wikipedia.org/wiki/Special:Contributions/Jimbo_Wales> (visited on October 3, 2008).
+[^22]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-534)
+
+    {:.srclang}
+    For example, between June and September 2008 Wales did not post to wikiEN-l MARC, “Viewing Messages Posted by ‘Jimmy Wales’,” MARC, May 23, 2008, <http://marc.info/?a=111340136500001&r=1&w=2> (visited on October 3, 2008); his edits can be seen at Wikipedia, “Jimbo Wales User Contributions,” Wikipedia, May 23, 2008, <http://en.wikipedia.org/wiki/Special:Contributions/Jimbo_Wales> (visited on October 3, 2008).
 
 [^23]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-535)Schein, [Organizational Culture and Leadership](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schein1992ocl), 231.
 
@@ -523,7 +538,10 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^34]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-546)Mark Williamson, “Re: Wikimedia Foundation Internal Radio System”, wikipedia-l, April 12, 2005, <http://marc.info/?i=849f98ed050412011473cf4b91@mail.gmail.com> (visited on April 12, 2005).
 
-[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-547)Some of the more extreme message boards have come to popular attention through media coverage of "cyberbullying," see Mattathias Schwartz, “Malwebolence - The World of Web Trolling,” NYTimes.com, August 3, 2008, <http://www.nytimes.com/2008/08/03/magazine/03trolls-t.html> (visited on August 14, 2008).
+[^35]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-547)
+
+    {:.srclang}
+    Some of the more extreme message boards have come to popular attention through media coverage of "cyberbullying," see Mattathias Schwartz, “Malwebolence - The World of Web Trolling,” NYTimes.com, August 3, 2008, <http://www.nytimes.com/2008/08/03/magazine/03trolls-t.html> (visited on August 14, 2008).
 
 [^36]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-548)Jimmy Wales, “Wikimedia Board Elections,” wikipedia-l, September 16, 2006, <http://marc.info/?l=wikipedia-l&m=115839007632183&w=2> (visited on September 16, 2006); Wikimedia Foundation, “Wikimedia Foundation Announces Board Elections”, Wikimedia, June 27, 2007, <http://wikimediafoundation.org/wiki/Board_Elections_2007> (visited on June 27, 2007).
 
@@ -543,7 +561,10 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^44]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-556)Wikimedia, “Stewards,” Wikimedia, July 9, 2009, <http://meta.wikimedia.org/?oldid=1547805> (visited on July 17, 2009).
 
-[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-557)The structure and character of Wikipedia governance is further explored by Forte and Bruckman, [“Scaling Consensus”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:ForteBruckman2008sci).
+[^45]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-557)
+
+    {:.srclang}
+    The structure and character of Wikipedia governance is further explored by Forte and Bruckman, [“Scaling Consensus”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:ForteBruckman2008sci).
 
 [^46]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-558)Wikipedia, “Wikimedia Foundation,” Wikipedia, July 14, 2009, <http://en.wikipedia.org/?oldid=302106222> (visited on July 17, 2009).
 
@@ -573,7 +594,10 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^59]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-571)Raymond, [“Homesteading the Noosphere”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Raymond1998hn), 11.
 
-[^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-572)For the earliest instance I could find in computer communities see Steve Dyer, “Re on the Direction of Net.Motss,” net.motss, October 2, 1984, <http://groups.google.com/group/net.motss/msg/216bcdcffc0aadfe> (visited on May 2, 2007); for application to Torvalds, see Russell Nelson, “Patchlevel 6,” comp.os.linux, September 22, 1992, <http://groups.google.com/group/comp.os.linux/msg/1a0a82ff3c662036> (visited on May 2, 2007); Charles Hedrick, “386Bsd Vs Linux,” comp.os.linux, October 3, 1992, <http://groups.google.com/group/comp.os.linux/msg/cebaafdf43eebec7> (visited on May 2, 2007).
+[^60]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-572)
+
+    {:.srclang}
+    For the earliest instance I could find in computer communities see Steve Dyer, “Re on the Direction of Net.Motss,” net.motss, October 2, 1984, <http://groups.google.com/group/net.motss/msg/216bcdcffc0aadfe> (visited on May 2, 2007); for application to Torvalds, see Russell Nelson, “Patchlevel 6,” comp.os.linux, September 22, 1992, <http://groups.google.com/group/comp.os.linux/msg/1a0a82ff3c662036> (visited on May 2, 2007); Charles Hedrick, “386Bsd Vs Linux,” comp.os.linux, October 3, 1992, <http://groups.google.com/group/comp.os.linux/msg/cebaafdf43eebec7> (visited on May 2, 2007).
 
 [^61]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-573)NSK, “Re: Flags,” wikipedia-l, January 10, 2005, <http://marc.info/?i=200501101748.06696.nsk2@wikinerds.org> (visited on January 10, 2005).
 
@@ -599,7 +623,10 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^72]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-584)Jimmy Wales as quoted in Wikimedia, [“Meta:Talk:Benevolent Dictator (oldid=544462)”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Wikimedia2007mtb).
 
-[^73]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-585)As such, Wales’s hybrid leadership style might fit within the "situational school" which advocates different leadership performances as merited by the particular context, see Victor H. Vroom and Philip W. Yetton, Leadership and Decision-Making (Pittsburgh: University Of Pittsburgh Press, 1973).
+[^73]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-585)
+
+    {:.srclang}
+    As such, Wales’s hybrid leadership style might fit within the "situational school" which advocates different leadership performances as merited by the particular context, see Victor H. Vroom and Philip W. Yetton, Leadership and Decision-Making (Pittsburgh: University Of Pittsburgh Press, 1973).
 
 [^74]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-586)Garzarelli and Galoppini, [“Capability Coordination in Modular Organization”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:GarzarelliGaloppini2003ccm), 36; also see Ostrom, [“Collective Action and the Evolution of Social Norms”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Ostrom2000cae), 149.
 
@@ -607,7 +634,10 @@ To whatever extent Wikipedia has been successful in the pursuit of a universal e
 
 [^76]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-588)Ray Saintonge, “Re: Wikimedia Foundation Internal Radio,” wikipedia-l, April 12, 2005, <http://marc.info/?i=425C3FB4.2070401@telus.net> (visited on April 12, 2005).
 
-[^77]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-589)Jimmy Wales, “Re: Harassment Sites,” wikien-l, October 24, 2007, <http://marc.info/?i=471F6053.4040806@wikia.com> (visited on October 24, 2007); Another instance in which Wales is forced to disclaim authority in a message is Jimmy Wales, “Re: Fancruft,” wikien-l, July 22, 2006, <http://marc.info/?i=44C17378.9030902@wikia.com> (visited on July 22, 2006).
+[^77]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-589)
+
+    {:.srclang}
+    Jimmy Wales, “Re: Harassment Sites,” wikien-l, October 24, 2007, <http://marc.info/?i=471F6053.4040806@wikia.com> (visited on October 24, 2007); Another instance in which Wales is forced to disclaim authority in a message is Jimmy Wales, “Re: Fancruft,” wikien-l, July 22, 2006, <http://marc.info/?i=44C17378.9030902@wikia.com> (visited on July 22, 2006).
 
 [^78]: [\*](http://reagle.org/joseph/2010/gfc/chapter-6.html#enmark-590)Jimmy Wales, “Re: Process Wonkery,” wikien-l, September 28, 2006, <http://marc.info/?i=451BC6B8.8040201@wikia.com> (visited on September 28, 2006).
 

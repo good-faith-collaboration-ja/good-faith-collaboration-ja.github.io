@@ -573,7 +573,10 @@ On this point, the conversation about Wikipedia can be understood with respect t
 
 [^4]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-596)Henry Hitchens, Defining the World: the Extraordinary Story of Dr. Johnson’s Dictionary (New York: Farrar, Straus, / Giroux, 2005), 73.
 
-[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-597)For Johnson’s original pretense of “fixing” English, see Samuel Johnson, “The Plan of an English Dictionary,” in Oxford Works, ed. Jack Lynch (1747–1825, February 2, 2007), [http://andromeda.rutgers.edu/\~jlynch/Texts/plan.html](http://andromeda.rutgers.edu/%7Ejlynch/Texts/plan.html) (visited on December 4, 2007). Johnson’s subsequent apology can be seen in Samuel Johnson, “Preface,” in A Dictionary of the English Language, ed. Jack Lynch (1755; London, September 2006), Line 84, [http://andromeda.rutgers.edu/\~jlynch/Texts/preface.html](http://andromeda.rutgers.edu/%7Ejlynch/Texts/preface.html) (accessed December 4, 2007). To review the claims of other lexicographers (i.e., Richard Trench, Ephraim Chambers, and Noah Webster) that their task as was to be descriptive historians rather than judgmental critics, see Morton, [The Story of Webster’s Third](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Morton1994swt), 7; Hitchens, [Defining the World](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hitchens2005dwe), 151; Noah Webster, “To John Pickering, December, 1816,” in Letters of Noah Webster, ed. Harry R. Warfel (New York: Library Publishers, 1953), 357.
+[^5]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-597)
+
+    {:.srclang}
+    For Johnson’s original pretense of “fixing” English, see Samuel Johnson, “The Plan of an English Dictionary,” in Oxford Works, ed. Jack Lynch (1747–1825, February 2, 2007), [http://andromeda.rutgers.edu/\~jlynch/Texts/plan.html](http://andromeda.rutgers.edu/%7Ejlynch/Texts/plan.html) (visited on December 4, 2007). Johnson’s subsequent apology can be seen in Samuel Johnson, “Preface,” in A Dictionary of the English Language, ed. Jack Lynch (1755; London, September 2006), Line 84, [http://andromeda.rutgers.edu/\~jlynch/Texts/preface.html](http://andromeda.rutgers.edu/%7Ejlynch/Texts/preface.html) (accessed December 4, 2007). To review the claims of other lexicographers (i.e., Richard Trench, Ephraim Chambers, and Noah Webster) that their task as was to be descriptive historians rather than judgmental critics, see Morton, [The Story of Webster’s Third](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Morton1994swt), 7; Hitchens, [Defining the World](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Hitchens2005dwe), 151; Noah Webster, “To John Pickering, December, 1816,” in Letters of Noah Webster, ed. Harry R. Warfel (New York: Library Publishers, 1953), 357.
 
 [^6]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-598)David Foster Wallace, “Tense Present: Democracy, English, and the Wars over Usage,” Harper’s Magazine (April 2001), <http://instruct.westvalley.edu/lafave/DFW_present_tense.html> (visited on March 4, 2008).
 
@@ -735,19 +738,31 @@ On this point, the conversation about Wikipedia can be understood with respect t
 
 [^85]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-677)Burke, [A Social History of Knowledge](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Burke2000shk).
 
-[^86]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-678)On communism, see Andrew Keen, “Web 2.0: The Second Generation of the Internet Has Arrived. It’s Worse Than You Think.,” The Weekly Standard (February 15, 2006), <http://www.weeklystandard.com/Utilities/printer_preview.asp?idArticle=6714&R=1150324B1D> (visited on September 15, 2007); on socialism, see Richard Stallman, “Bill Gates and Other Communists,” CNET News.com, February 15, 2005, <http://news.cnet.com/Bill-Gates-and-other-communists/2010-1071_3-5576230.html> (visited on September 15, 2007); Richard Stallman, “Pigdog Interviews Richard Stallman”, GNUisance, February 15, 2005, <http://www.pigdog.org/interviews/stallman/interview_with_stallman3.html> (visited on September 15, 2007); Larry Lessig, “Et Tu, KK? (Aka, No, Kevin, This Is Not ‘Socialism’),” Lessig Blog, May 28, 2009, <http://www.lessig.org/blog/2009/05/et_tu_kk_aka_no_kevin_this_is.html> (visited on May 29, 2009); on Maoism, see Lanier, [“Digital Maoism”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Lanier2006dmh).
+[^86]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-678)
 
-[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-679)Hayek is also the central theorist in Cass Sunstein, Infotopia: How Many Minds Produce Knowledge (Oxford: Oxford University Press, 2006), <http://books.google.com/books?id=2LW1-5E7jsQC> (visited on September 27, 2007).
+    {:.srclang}
+    On communism, see Andrew Keen, “Web 2.0: The Second Generation of the Internet Has Arrived. It’s Worse Than You Think.,” The Weekly Standard (February 15, 2006), <http://www.weeklystandard.com/Utilities/printer_preview.asp?idArticle=6714&R=1150324B1D> (visited on September 15, 2007); on socialism, see Richard Stallman, “Bill Gates and Other Communists,” CNET News.com, February 15, 2005, <http://news.cnet.com/Bill-Gates-and-other-communists/2010-1071_3-5576230.html> (visited on September 15, 2007); Richard Stallman, “Pigdog Interviews Richard Stallman”, GNUisance, February 15, 2005, <http://www.pigdog.org/interviews/stallman/interview_with_stallman3.html> (visited on September 15, 2007); Larry Lessig, “Et Tu, KK? (Aka, No, Kevin, This Is Not ‘Socialism’),” Lessig Blog, May 28, 2009, <http://www.lessig.org/blog/2009/05/et_tu_kk_aka_no_kevin_this_is.html> (visited on May 29, 2009); on Maoism, see Lanier, [“Digital Maoism”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Lanier2006dmh).
+
+[^87]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-679)
+
+    {:.srclang}
+    Hayek is also the central theorist in Cass Sunstein, Infotopia: How Many Minds Produce Knowledge (Oxford: Oxford University Press, 2006), <http://books.google.com/books?id=2LW1-5E7jsQC> (visited on September 27, 2007).
 
 [^88]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-680)Mann, [“Brave New (Digital) World, Part II”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Mann2007bnd), 4.
 
 [^89]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-681)Michael Gorman, “Revenge of the Blog People!,” Library Journal (February 15, 2005), <http://www.libraryjournal.com/article/CA502009.html> (visited on August 22, 2007).
 
-[^90]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-682)Wales is described as an "Enlightenment kind of guy" in Schiff, [“Know It All”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schiff2006kia), 3; he is described as a "counter-enlightenment guy" in Keen, [The Cult of the Amateur](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Keen2007cah), 41.
+[^90]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-682)
+
+    {:.srclang}
+    Wales is described as an "Enlightenment kind of guy" in Schiff, [“Know It All”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Schiff2006kia), 3; he is described as a "counter-enlightenment guy" in Keen, [The Cult of the Amateur](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Keen2007cah), 41.
 
 [^91]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-683)Suzanne Briet, “What Is Documentation? (Qu’Est-Ce Que La Documentation?)”, in What is Documentation: English Translation of the Classic French Text, ed. Ronald E. Day, Laurent Martinet, and Hermina G. B. Anghelescu (trans.) (1951; Lanham, MD: Scarecrow Press, 2006), 42, [http://ella.slis.indiana.edu/\~roday/briet.htm](http://ella.slis.indiana.edu/%7Eroday/briet.htm) (accessed December 14, 2006).
 
-[^92]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-684)Pantisocracy was never realized and after \*Metropolitana\*’s initial publication, with editorial changes not to his liking, Coleridge withdrew from the project and it subsequently failed. However, his introduction expounding upon its "method" of organizing knowledge according to a progression of intellectual disciplines, rather than alphabetically, would influence other encyclopedists. For more on Coleridge’s projects see McArthur, [Worlds of Reference](http://reagle.org/joseph/2010/gfc/references.html#cite.0:McArthur1986wrl), 157; Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 109.
+[^92]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-684)
+
+    {:.srclang}
+    Pantisocracy was never realized and after \*Metropolitana\*’s initial publication, with editorial changes not to his liking, Coleridge withdrew from the project and it subsequently failed. However, his introduction expounding upon its "method" of organizing knowledge according to a progression of intellectual disciplines, rather than alphabetically, would influence other encyclopedists. For more on Coleridge’s projects see McArthur, [Worlds of Reference](http://reagle.org/joseph/2010/gfc/references.html#cite.0:McArthur1986wrl), 157; Stockwell, [A History of Information Storage and Retrieval](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Stockwell2001his), 109.
 
 [^93]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-685)Simon Winchester, The Professor and the Madman (New York: HarperCollins, 1998), 38.
 
@@ -815,7 +830,10 @@ On this point, the conversation about Wikipedia can be understood with respect t
 
 [^125]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-717)Hugh Of St. Victor, “The Seven Liberal Arts: on Study and Teaching (Twelfth Century),” in The Portable Medieval Reader, ed. James Bruce Ross and Mary Martin McLaughlin, Viking Portable Library (Penguin, 1977), 584-585.
 
-[^126]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-718)Gorman, [“Revenge of the Blog People!”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Gorman2005rbp) Much as Godwin’s Law predicts an unfavorable Nazi analogy in a long discussion, arguments about technology inevitably prompt a comparison with the Luddites, see Michael Gorman, “The Siren Song of the Internet: Part I,” Britannica Blog, June 18, 2007, <http://www.britannica.com/blogs/2007/06/the-siren-song-of-the-internet-part-i/> (visited on June 29, 2007); Clay Shirky, “Gorman, Redux: the Siren Song of the Internet”, June 20, 2007, <http://many.corante.com/archives/2007/06/20/gorman_redux_the_siren_song_of_the_internet.php> (visited on June 29, 2007).
+[^126]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-718)
+
+    {:.srclang}
+    Gorman, [“Revenge of the Blog People!”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Gorman2005rbp) Much as Godwin’s Law predicts an unfavorable Nazi analogy in a long discussion, arguments about technology inevitably prompt a comparison with the Luddites, see Michael Gorman, “The Siren Song of the Internet: Part I,” Britannica Blog, June 18, 2007, <http://www.britannica.com/blogs/2007/06/the-siren-song-of-the-internet-part-i/> (visited on June 29, 2007); Clay Shirky, “Gorman, Redux: the Siren Song of the Internet”, June 20, 2007, <http://many.corante.com/archives/2007/06/20/gorman_redux_the_siren_song_of_the_internet.php> (visited on June 29, 2007).
 
 [^127]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-719)Andrew Orlowski, “There’s No Wikipedia Entry for ‘Moral Responsibility’,” The Register, December 13, 2005, <http://www.theregister.co.uk/2005/12/12/wikipedia_no_responsibility/> (accessed December 13, 2005).
 
@@ -877,7 +895,10 @@ On this point, the conversation about Wikipedia can be understood with respect t
 
 [^156]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-748)Wikipedia, “Every Time You Masturbate... God Kills a Kitten,” Wikipedia, September 11, 2007, <http://en.wikipedia.org/?oldid=157104187> (accessed September 13, 2007); Keen, [The Cult of the Amateur](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Keen2007cah), 29.
 
-[^157]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-749)Nick Carr, “Is Google Making Us Stupid?,” Atlantic Monthly (July 2008), <http://www.theatlantic.com/doc/200807/google> (visited on June 27, 2008); a well researched and persuasive argument of detrimental media effects can be found in Mark Bauerlein, The Dumbest Generation: How the Digital Age Is Stupefied as Young Americans and Jeopardizes Our Future: or, Don’t Trust Anyone under 30 (New York: Tarcher/Penguin, 2008).
+[^157]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-749)
+
+    {:.srclang}
+    Nick Carr, “Is Google Making Us Stupid?,” Atlantic Monthly (July 2008), <http://www.theatlantic.com/doc/200807/google> (visited on June 27, 2008); a well researched and persuasive argument of detrimental media effects can be found in Mark Bauerlein, The Dumbest Generation: How the Digital Age Is Stupefied as Young Americans and Jeopardizes Our Future: or, Don’t Trust Anyone under 30 (New York: Tarcher/Penguin, 2008).
 
 [^158]: [\*](http://reagle.org/joseph/2010/gfc/chapter-7.html#enmark-750)Gorman, [“Web 2.0”](http://reagle.org/joseph/2010/gfc/references.html#cite.0:Gorman2007w2s1).
 
